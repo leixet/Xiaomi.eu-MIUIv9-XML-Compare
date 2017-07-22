@@ -1,0 +1,8 @@
+files:
+  - 
+    source: /sagit/**/values/*.xml
+    ignore:
+      - extras
+      - /sagit_stable/
+    translation: /sagit/**/values-%two_letters_code%/%original_file_name%
+    update_option: update_as_unapproved
