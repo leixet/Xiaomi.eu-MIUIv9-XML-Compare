@@ -1,6 +1,5 @@
 files:
-  - 
-    source: /sagit/**/values/*.xml
+  - source: /sagit/**/values/*.xml
     ignore:
       - extras
       - /sagit_stable/
