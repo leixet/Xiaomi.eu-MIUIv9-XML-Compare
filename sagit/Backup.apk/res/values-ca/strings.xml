@@ -62,6 +62,8 @@
   <string name="cloud_backup_hint">Inicieu la sessió per accedir a les còpies de seguretat</string>
   <string name="cloud_backup_login">Inicieu la sessió al compte Mi</string>
   <string name="cloud_backup_window_title">Còpia de seguretat del Mi Cloud</string>
+  <string name="cloud_home_title">Mi Cloud</string>
+  <string name="cloud_item_info_summary">" (Local: %1$s | Mi Cloud: %2$s)"</string>
   <string name="cloud_last_backup">"Darrera còpia de seguretat feta el "</string>
   <string name="cloud_no_backup">No hi ha còpies de seguretat</string>
   <string name="cloud_restore_guide">Per restaurar les dades d\'usuari per %s, toqueu Restaura</string>
@@ -109,6 +111,7 @@
   <string name="feature_title_account">Compte Mi</string>
   <string name="feature_title_antispam">AntiSpam</string>
   <string name="feature_title_call_log">Registre de trucades</string>
+  <string name="feature_title_mms">MMS</string>
   <string name="file_uploading">S\'està pujant&#8230;</string>
   <string name="files_backup_info">Tots els fitxers de la targeta SD (incloent fotos, cançons, vídeos, dades d\'aplicacions, etc.)</string>
   <string name="findlost_contact">Restaura els contactes</string>
@@ -129,6 +132,7 @@
   <string name="local_restore_window_title">Restauració local</string>
   <string name="local_select_account_contact">Comptes i contactes</string>
   <string name="local_select_audio">Fitxers d\'àudio</string>
+  <string name="local_select_doc">Documents</string>
   <string name="local_select_files">Targeta SD</string>
   <string name="local_select_image">Imatges</string>
   <string name="local_select_sysdata">Sistema</string>
@@ -145,6 +149,7 @@
   <string name="new_backup">Còpia de seguretat</string>
   <string name="no_encrypt_password">Sense contrasenya</string>
   <string name="no_network">"No s'ha pogut connectar a la xarxa"</string>
+  <string name="note_title">Notes</string>
   <string name="nothing_searched">Cap resultat.</string>
   <string name="notif_backup_complete_title">S\'ha copiat correctament</string>
   <string name="notif_backup_content">Còpia de seguretat de les dades d\'usuari</string>
