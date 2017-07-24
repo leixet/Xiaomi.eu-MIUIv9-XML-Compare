@@ -15,6 +15,7 @@
   <string name="activity_title_main">Netejador</string>
   <string name="activity_title_news">Notícies</string>
   <string name="activity_title_privacy_cache">Memòria cau privada</string>
+  <string name="activity_title_residual">Residuals</string>
   <string name="activity_title_scanfinish">S\'ha completat l\'anàlisi</string>
   <string name="activity_title_screenshot">Captures de pantalla</string>
   <string name="activity_title_settings">Configuració</string>
@@ -229,6 +230,7 @@
   <string name="hints_quick_deep_uninstall">Elimina ara</string>
   <string name="hints_quick_prepare">S\'està preparant&#8230;</string>
   <string name="hints_quick_scanning">S\'està escanejant&#8230;</string>
+  <string name="hints_residual_header_left">Residuals</string>
   <string name="hints_scan_has_finish">Neteja completada</string>
   <string name="hints_scanfinish">No hi ha brossa</string>
   <string name="hints_storage_clean_size">Alliberats %s d\'emmagatzematge intern</string>
@@ -238,6 +240,7 @@
   <string name="hints_title_garbage">brossa</string>
   <string name="hints_video_camera">Vídeos enregistrats</string>
   <string name="hints_video_download">Vídeos baixats</string>
+  <string name="hot">Popular</string>
   <string name="hot_today">Popular avui</string>
   <string name="information_setting">Configuració del canal d\'informació</string>
   <string name="install_sucess">%s s\'ha instal·lat amb èxit</string>
@@ -343,6 +346,13 @@
   <string name="privacy_search_desc">Historial de cerques</string>
   <string name="privacy_search_type">Cerca de Google</string>
   <string name="promotion">Anunci</string>
+  <string name="qq_clean_exit_confirm_msg">Voleu aturar l\'anàlisi i sortir?</string>
+  <string name="qq_data_type_cache_desc">"Podreu restaurar aquests fitxers després de connectar-vos a Internet."</string>
+  <string name="qq_data_type_chat">Historial de xat</string>
+  <string name="qq_data_type_chat_desc">"No podreu restaurar l'historial de xat."</string>
+  <string name="qq_data_type_normal">Paperera</string>
+  <string name="qq_data_type_other">Altres</string>
+  <string name="qq_data_type_other_desc">Aneu amb compte, potser no podreu restaurar aquests fitxers després que els elimineu.</string>
   <string name="recommend_news">Fonts recomanades</string>
   <string name="recommend_the_following">Prengueu les següents accions per obtenir el màxim profit del seu dispositiu</string>
   <string name="recommended">Recomanat</string>
@@ -448,10 +458,13 @@
   <string name="wechat_copying_video_dialog_title">Exporta-ho a la galeria</string>
   <string name="wechat_copying_video_empty">No hi ha vídeos per exportar</string>
   <string name="wechat_copying_video_success">S\'ha exportat amb èxit</string>
+  <string name="wechat_qq_chat_files">Historial de xat</string>
+  <string name="wechat_qq_normal_files">Paperera</string>
   <string name="white_list_ad_header">Fitxers de publicitat: %d</string>
   <string name="white_list_apk_header">Instal·la paquets: %d</string>
   <string name="white_list_cache_header">Fitxers en memòria cau: %d</string>
   <string name="white_list_large_file_header">Fitxers grans i vídeos: %d</string>
+  <string name="white_list_residual_header">Residuals: %d</string>
   <string name="white_list_title">Excepcions</string>
   <string name="year_month_day_format">dd MMM, yyyy</string>
   <string name="yesterday">Ahir</string>
