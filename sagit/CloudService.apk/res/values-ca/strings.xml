@@ -101,6 +101,9 @@ Si canvies de targeta SIM s\'enviarà un altre SMS automàticament per reactivar
   <string name="find_device_operation_failure_rpc">"No s'ha pogut realitzar l'operació a causa de l'error RPC."</string>
   <string name="find_device_pref_alert_content">"Troba el dispositiu està associat amb el vostre Compte Mi. Heu d'establir una contrasenya o introduir la contrasenya que heu establert. Assegureu-vos de recordar sempre el seu ID de Compte Mi i la contrasenya. Es pot requerir un SMS sortint per activar aquest servei. El vostre operador li cobrarà per aquest missatge. En canviar de targeta SIM, s'enviarà automàticament un missatge per reactivar aquesta funció."</string>
   <string name="find_device_pref_alert_negtive">No, gràcies</string>
+  <string name="find_device_pref_alert_positive">D\'acord</string>
+  <string name="find_device_pref_alert_title">Recorda el meu ID de compte Mi i la contrasenya</string>
+  <string name="find_device_pref_initializing">S\'està inicialitzant…</string>
   <string name="find_device_reading_status">Carregant status&#8230;</string>
   <string name="find_device_reading_status_failure">"No s'ha pogut carregar el status."</string>
   <string name="find_device_send_sms_alert">Si canvieu la targeta SIM s\'enviarà un altre SMS automàticament per reactivar el servei.</string>
@@ -203,6 +206,8 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_dialog_sync_now_title">Sincronitza dades utilitzant el flux de transferència de dades</string>
   <string name="micloud_dspt">Utilitza Mi Cloud per sincronitzar dades, localitzar el teu dispositiu,</string>
   <string name="micloud_dspt_provision">Utilitza Mi Cloud per sincronitzar dades, localitzar el teu dispositiu i compartir coses amb amics.</string>
+  <string name="micloud_find_device_close_alert_content">"Si desactiveu aquesta funció, no podreu localitzar el dispositiu en cas que es perdi."</string>
+  <string name="micloud_find_device_close_alert_negtive">Desactiva-ho de totes maneres</string>
   <string name="micloud_find_device_finish">Fet</string>
   <string name="micloud_find_device_guide_button">Activar Trobar dispositiu</string>
   <string name="micloud_find_device_guide_content">\"Quan canviïs la targeta SIM, se\'t enviarà un missatge automàticament 
