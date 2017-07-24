@@ -17,7 +17,7 @@
     <item>Diàriament</item>
     <item>Cada 3 dies</item>
     <item>Cada 7 dies</item>
-    <item>Every 15 days</item>
+    <item>Cada 15 dies</item>
   </string-array>
   <string-array name="auto_clean_size">
     <item>100 MB</item>
