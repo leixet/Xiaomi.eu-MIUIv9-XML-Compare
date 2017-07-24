@@ -278,10 +278,25 @@
   <string name="trans_intro_desc_old">"Premeu \"Sóc un remitent\\. Escanegeu el codi QR en el nou telèfon, espereu fins que Mi Mover esbrini quins fitxers voleu enviar i premeu «Envia»."</string>
   <string name="trans_intro_desc_private">"El Mi Mover no pot accedir a les fotos de l'àlbum ocult perquè estan xifrades. Podeu restaurar aquestes fotos de Mi Cloud en un dispositiu nou."</string>
   <string name="trans_intro_question_1">1. Com s\'utilitza Mi Mover?</string>
+  <string name="trans_intro_question_2">2. Què he de fer si Mi Mover s\'ha quedat encallat en un cert pas?</string>
+  <string name="trans_intro_question_3">"3. Per què no puc utilitzar la Wi-Fi durant les transferències?"</string>
+  <string name="trans_intro_question_4">"4. Per què Mi Mover em diu que no hi ha prou espai d'emmagatzematge en el meu antic telèfon?"</string>
+  <string name="trans_intro_question_5">"5. Per què no s'han transferit algunes aplicacions amb èxit?"</string>
+  <string name="trans_intro_question_6">"6. Per què no s'inicien algunes aplicacions en un dispositiu nou?"</string>
+  <string name="trans_intro_question_7">"7. Per què no s'ha transferit totalment l'historial de WeChat?"</string>
+  <string name="trans_intro_question_8">"8. Quins elements no es poden transferir?"</string>
+  <string name="trans_intro_title">PMF</string>
+  <string name="trans_intro_title_account">Comptes i contrasenyes:</string>
+  <string name="trans_intro_title_multiapp">Dades d\'aplicacions duals</string>
+  <string name="trans_intro_title_multiuser">Dades del segon espai:</string>
+  <string name="trans_intro_title_new">En un telèfon nou:</string>
+  <string name="trans_intro_title_old">En un telèfon antic:</string>
+  <string name="trans_intro_title_private">Àlbum ocult:</string>
   <string name="trans_main_tutor">Desplaça els contactes, el registre de trucades, els missatges, la disposició de la pantalla d\'inici, les aplicacions, les configuracions, etc. a un nou dispositiu</string>
   <string name="trans_my_device">El meu dispositiu</string>
   <string name="trans_native_no_space">"No hi ha prou espai al dispositiu.
 Esborreu almenys %s."</string>
+  <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_operate_func_one">Mètode A</string>
   <string name="trans_operate_func_two">Mètode B</string>
   <string name="trans_operate_new_phone_tips">"Des de Configuració &gt; Configuració addicional &gt; Mi Mover
@@ -348,6 +363,8 @@ i s\'ha activat Mi Mover"</string>
   <string name="wifi_title">Configuració de Wi-Fi</string>
   <string name="xiaomi_connect_download_manager_fail">"No s'ha pogut iniciar la baixada. Comproveu que el gestor de baixades funcioni correctament."</string>
   <string name="xiaomi_external_storage_unavailable">"Emmagatzematge no disponible, comproveu la targeta SD."</string>
+  <string name="xiaomi_router">Mi Router</string>
+  <string name="xiaomi_router_location">Mi Router %s</string>
   <string name="xiaomi_update_dialog_message">"Presentació de la versió %1$s
 Mida: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Presentació de la versió %1$s
