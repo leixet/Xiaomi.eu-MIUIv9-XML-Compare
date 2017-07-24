@@ -8,6 +8,7 @@
   <string name="SD_SDCard_mounted">Detecta la targeta SD</string>
   <string name="SD_SDCard_total_size">Espai total</string>
   <string name="SD_SDCard_unmounted">La targeta SD no està disponible</string>
+  <string name="abc_action_mode_done">Fet</string>
   <string name="button_ok">D\'acord</string>
   <string name="camerainfo">Informació de la càmera</string>
   <string name="cit_OTG_plugin_check_summary">Quan es connecta el dispositiu OTG, ha de mostrar el text \"Dispositiu USB OTG detectat\" més avall.</string>
