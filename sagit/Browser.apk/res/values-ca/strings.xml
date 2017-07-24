@@ -652,6 +652,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="pull_to_refresh_pull_label">Llisqueu per actualitzar</string>
   <string name="pull_to_refresh_release_label">Allibereu per recomanar i actualitzar</string>
   <string name="qr_code_title">Codi QR</string>
+  <string name="qr_description">Escaneja el codi QR</string>
   <string name="quicklink_bookmark_save">UBICACIÓ DEL MARCADOR</string>
   <string name="quicklink_cannot_save_url">"Aquest URL no es pot afegir."</string>
   <string name="quicklink_folder_text">Aplicacions més importants</string>
@@ -804,6 +805,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="url_hint_from_search">Introduïu la paraula clau</string>
   <string name="url_opened_in_background">Obre en una pestanya del darrera</string>
   <string name="url_suggest_indicator_bookmark">Marcadors/historial</string>
+  <string name="url_suggest_indicator_hoturl">Popular</string>
   <string name="url_suggest_indicator_mostvisited">Més visitats</string>
   <string name="use_cellular_network_alert_message">"La Wi-Fi no està disponible. Voleu utilitzar la xarxa de dades mòbils en el seu lloc?"</string>
   <string name="use_cellular_network_alert_title">Ús de dades</string>
@@ -834,6 +836,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="video_collect_success">S\'ha agregat als favorits</string>
   <string name="video_download_complete">Baixada completa.</string>
   <string name="video_download_empty">No hi ha vídeos</string>
+  <string name="video_download_error">Error</string>
   <string name="video_download_error_http_gone">"No s'ha trobat el fitxer"</string>
   <string name="video_download_exists">La baixada ja existeix.</string>
   <string name="video_download_fail">"S'ha produït un error"</string>
@@ -851,6 +854,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="video_edit">Edita</string>
   <string name="video_float_window">PopUp</string>
   <string name="video_float_window_playing">Reproduint vídeo</string>
+  <string name="video_float_window_text">Emergent</string>
   <string name="video_fragment_name_collections">Favorits</string>
   <string name="video_fragment_name_download">Vídeo offline</string>
   <string name="video_fragment_name_historys">Historial</string>
@@ -875,6 +879,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="view_document_downloaded_files">Mostra els fitxers baixats a Baixades</string>
   <string name="voice_check_network">Comproveu la connexió i torneu-ho a provar</string>
   <string name="voice_connect_network">"No es pot connectar a la xarxa"</string>
+  <string name="voice_description">Cerca per veu</string>
   <string name="voice_network_connection">L\'ús de la cerca per veu necessita d\'accés a la xarxa, autoritzeu la connexió de xarxa</string>
   <string name="voice_search_permission">La cerca per veu requereix privilegis de veu, aneu a la configuració del navegador per obrir els permisos de veu</string>
   <string name="voice_semantic_analysis">Anàlisi semàntica després de la creació de xarxes</string>
