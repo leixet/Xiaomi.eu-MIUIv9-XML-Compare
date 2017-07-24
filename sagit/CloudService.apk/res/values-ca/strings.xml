@@ -15,6 +15,7 @@
   <string name="all_sync_item_open">Tots els elements estan activats</string>
   <string name="antispam_sync">Configuració de \"No molestar\"</string>
   <string name="apple_cloud">Servei en el Núvol d\'Apple</string>
+  <string name="apple_cloud_eng">iCloud</string>
   <string name="apple_cloud_price">Aprox. 9 EUR a l\'any</string>
   <string name="bad_authentication">Contrasenya o nom d\'usuari no vàlids</string>
   <string name="btn_return">Enrere</string>
@@ -45,6 +46,8 @@ Per obtenir més espai d\'emmagatzematge, visiteu mi.com/micloud."</string>
   <string name="cloud_back_up_title">Còpia del dispositiu</string>
   <string name="cloud_backup_dialog_title">Còpia de seguretat amb Mi Cloud</string>
   <string name="cloud_find_device">Trobar dispositiu</string>
+  <string name="cloud_find_device_off">Desactivat</string>
+  <string name="cloud_find_device_on">Activat</string>
   <string name="cloud_restore_title">Restaurar des de còpia</string>
   <string name="cloud_space_upgrade_message">Premeu per obtenir %s GB d\'espai gratuït aquest mes</string>
   <string name="cloud_space_upgrade_no_quota_info">"Data errònia, si us plau inentar de nou"</string>
@@ -95,6 +98,9 @@ Per obtenir més espai d\'emmagatzematge, visiteu mi.com/micloud."</string>
   <string name="find_device_notice_p1">Anar a</string>
   <string name="find_device_notice_p3">"per localitzar, bloquejar, o restaurar el teu telèfon.
 Si canvies de targeta SIM s\'enviarà un altre SMS automàticament per reactivar aquesta funció."</string>
+  <string name="find_device_operation_failure_rpc">"No s'ha pogut realitzar l'operació a causa de l'error RPC."</string>
+  <string name="find_device_pref_alert_content">"Troba el dispositiu està associat amb el vostre Compte Mi. Heu d'establir una contrasenya o introduir la contrasenya que heu establert. Assegureu-vos de recordar sempre el seu ID de Compte Mi i la contrasenya. Es pot requerir un SMS sortint per activar aquest servei. El vostre operador li cobrarà per aquest missatge. En canviar de targeta SIM, s'enviarà automàticament un missatge per reactivar aquesta funció."</string>
+  <string name="find_device_pref_alert_negtive">No, gràcies</string>
   <string name="find_device_reading_status">Carregant status&#8230;</string>
   <string name="find_device_reading_status_failure">"No s'ha pogut carregar el status."</string>
   <string name="find_device_send_sms_alert">Si canvieu la targeta SIM s\'enviarà un altre SMS automàticament per reactivar el servei.</string>
