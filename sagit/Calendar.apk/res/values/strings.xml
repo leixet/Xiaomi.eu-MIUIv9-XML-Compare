@@ -160,7 +160,6 @@
   <string name="edit_event_birthday_import_from_contact">Import birthday from contacts</string>
   <string name="edit_event_birthday_name_empty_hint">Enter a name</string>
   <string name="edit_event_birthday_name_hint">Name</string>
-  <string name="edit_event_birthday_reminder_3_days_before">Remind 3 days in advance as well</string>
   <string name="edit_event_birthday_reminder_time">Reminder time</string>
   <string name="edit_event_calendar_label">Calendar</string>
   <string name="edit_event_choose_date">Choose date</string>
@@ -171,7 +170,7 @@
   <string name="edit_event_input_year">Enter year</string>
   <string name="edit_event_label">Details</string>
   <string name="edit_event_no_reminder_value">"Don't remind"</string>
-  <string name="edit_event_reminder_3_days_before">And remind 3 days before</string>
+  <string name="edit_event_reminder_3_days_before">Remind 3 days in advance as well</string>
   <string name="edit_event_reminder_summary">On that day at %1$s</string>
   <string name="edit_event_reminder_summary_3_days_before">3 days in advance and on that day at %1$s</string>
   <string name="edit_event_reminder_text">On %1$s at %2$s</string>
@@ -188,7 +187,6 @@
   <string name="email_picker_label">Email with</string>
   <string name="email_subject_prefix">"Re: "</string>
   <string name="empty_event">Empty event not created</string>
-  <string name="english_premium_league">English Premium League</string>
   <string name="event_account">Account</string>
   <string name="event_action_delete">Delete</string>
   <string name="event_action_edit">Edit</string>
@@ -237,8 +235,6 @@
   <string name="gas_bill_event_title">燃气缴费：</string>
   <string name="global_action_text_card_manager">More categories</string>
   <string name="global_cricket_no_match">No cricket matches are scheduled for today. Check out other days.</string>
-  <string name="global_football_final">FINAL</string>
-  <string name="global_football_no_match">No football matches are scheduled for today.</string>
   <string name="global_onthisday_com">OnThisDay.com</string>
   <string name="guide_card_hint_text">Import birthdays from contacts</string>
   <string name="hint_attendees">Guests</string>
@@ -524,6 +520,7 @@ Check network settings and try again."</string>
   <string name="subscribe_card_success">Subscribed successfully! Check the details on the home page.</string>
   <string name="subscribe_card_success_for_homepage">Subscribed to “%1$s” successfully</string>
   <string name="subscribe_channel_bottom_hint">—— Mi Calendar ——</string>
+  <string name="subscribe_channel_click_hint">Subscription required</string>
   <string name="subscribe_channel_footer_button">Manage subscriptions</string>
   <string name="subscribe_channel_footer_desc">Check your subscriptions or unsubscribe</string>
   <string name="subscribe_channel_footer_title">Subscribed</string>
