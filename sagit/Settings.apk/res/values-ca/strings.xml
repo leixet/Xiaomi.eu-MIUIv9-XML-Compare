@@ -495,7 +495,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="block_list_no_device">No hi ha dispositius connectats a la llista de bloqueig</string>
   <string name="block_list_remove_dialog_content">Aquest dispositiu «%s» serà capaç de connectar-se a aquest punt d\'accés</string>
   <string name="block_list_remove_dialog_title">Elimina a «%s» de la llista de bloqueig</string>
-  <string name="block_list_summary">"Visualitza els dispositius que no estan autoritzats a connectar-se a aquest punt d'accés"</string>
+  <string name="block_list_summary">Visualitza els dispositius que no estan autoritzats a connectar-se a aquest punt d\'accés</string>
   <string name="block_list_title">Llista de bloqueig</string>
   <string name="bluetooth_a2dp_profile_summary_connected">S\'ha connectat a un dispositiu d\'àudio</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Per a dispositius d\'àudio</string>
@@ -1874,7 +1874,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="local_backup_password_title">Contrasenya de la còpia de seguretat de l\'ordinador</string>
   <string name="local_backup_password_toast_confirmation_mismatch">La nova contrasenya i la confirmació no coincideixen</string>
   <string name="local_backup_password_toast_success">S\'ha definit una contrasenya de seguretat nova</string>
-  <string name="local_backup_password_toast_validation_failure">"S'ha produit un error en definir la contrasenya de la còpia de seguretat"</string>
+  <string name="local_backup_password_toast_validation_failure">S\'ha produit un error en definir la contrasenya de la còpia de seguretat</string>
   <string name="local_backup_section_summary">Còpia de seguretat de la configuració del sistema, comptes i aplicacions</string>
   <string name="local_backup_section_title">Còpies de seguretat locals</string>
   <string name="locale_default">Predeterminada</string>
@@ -3959,7 +3959,7 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="tts_settings">Configuració de text-a-veu</string>
   <string name="tts_settings_title">Sortida de text-a-veu</string>
   <string name="tts_status_checking">S\'està comprovant...</string>
-  <string name="tts_status_not_supported">"%1$s no és compatible"</string>
+  <string name="tts_status_not_supported">%1$s no és compatible</string>
   <string name="tts_status_ok">%1$s és compatible</string>
   <string name="tts_status_requires_network">Cal connexió de xarxa per a %1$s</string>
   <string name="tts_status_title">Estat de l\'idioma predeterminat</string>
