@@ -242,6 +242,9 @@ o esborrar el vostre dispositiu.\""</string>
   <string name="micloud_find_device_opened">Trobar dispositiu a</string>
   <string name="micloud_find_device_opened_content">Troba el teu dispositiu a %s</string>
   <string name="micloud_find_device_verify_button">Reactiva troba el dispositiu</string>
+  <string name="micloud_find_device_verify_close">Desactiva troba el dispositiu</string>
+  <string name="micloud_find_device_verify_fail">"No es pot reactivar troba el dispositiu"</string>
+  <string name="micloud_find_device_verify_progress">S\'està reactivant troba el dispositiu…</string>
   <string name="micloud_full_influence_dspt">"Totes les fotos, vídeos, notes i aplicacions tindran la seva còpia de seguretat al núvol.
 
 D\'aquesta manera, si perdeu el dispositiu o es fa malbé, les vostres dades restaran segures.
@@ -277,6 +280,7 @@ Per solucionar això, podeu netejar alguns fitxers antics per deixar espai als n
   <string name="micloud_main_query_error_message">"No es pot garantir si la sincronització està acabada"</string>
   <string name="micloud_main_query_error_title">"No es pot obtenir l'estat de sincronització"</string>
   <string name="micloud_main_resume_sync_soon">Reprèn la sincronització aviat</string>
+  <string name="micloud_main_save_battery_on">El mode d\'estalvi d\'energia està activat. Això podria provocar l\'aturada de la sincronització.</string>
   <string name="micloud_main_set_internet">Xarxa</string>
   <string name="micloud_main_space_full">Emmagatzematge en el núvol complet</string>
   <string name="micloud_main_space_full_message">En subscriure-us, obtindreu més espai d\'emmagatzematge</string>
