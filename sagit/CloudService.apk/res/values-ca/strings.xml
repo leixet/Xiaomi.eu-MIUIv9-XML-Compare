@@ -5,6 +5,7 @@
   <string name="account">Compte</string>
   <string name="account_related">El dispositiu està associat a un compte existent de Mi (%s). Connectar-se a la xarxa per verificar el dispositiu.</string>
   <string name="activate">Activar</string>
+  <string name="activate_find_device_success">S\'ha activat troba el dispositiu.</string>
   <string name="activate_finddevice">Connectar-se a la xarxa per activar el dispositiu</string>
   <string name="activate_number_change_dialog_message">Trieu el número que serà visible als altres dispositius quan truqueu amb VoIP.</string>
   <string name="activating">Activant&#8230;</string>
@@ -208,7 +209,16 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_dspt_provision">Utilitza Mi Cloud per sincronitzar dades, localitzar el teu dispositiu i compartir coses amb amics.</string>
   <string name="micloud_find_device_close_alert_content">"Si desactiveu aquesta funció, no podreu localitzar el dispositiu en cas que es perdi."</string>
   <string name="micloud_find_device_close_alert_negtive">Desactiva-ho de totes maneres</string>
+  <string name="micloud_find_device_close_alert_positive">Mantén</string>
+  <string name="micloud_find_device_close_alert_title">Voleu desactivar troba el dispositiu?</string>
+  <string name="micloud_find_device_close_fail">"No s'ha pogut desactivar troba el dispositiu"</string>
+  <string name="micloud_find_device_close_progress">S\'està desactivant troba el dispositiu…</string>
   <string name="micloud_find_device_finish">Fet</string>
+  <string name="micloud_find_device_guide_alert_content">"Troba el dispositiu està associat al Compte Mi. Heu d'establir una contrasenya o introduir la contrasenya que heu establert. Assegureu-vos que sempre recordeu la vostra ID de Compte Mi i contrasenya."</string>
+  <string name="micloud_find_device_guide_alert_negtive">No, gràcies</string>
+  <string name="micloud_find_device_guide_alert_negtive_activate">No, gràcies</string>
+  <string name="micloud_find_device_guide_alert_positive">D\'acord</string>
+  <string name="micloud_find_device_guide_alert_title">Recorda el meu ID de Compte Mi i la contrasenya</string>
   <string name="micloud_find_device_guide_button">Activar Trobar dispositiu</string>
   <string name="micloud_find_device_guide_content">\"Quan canviïs la targeta SIM, se\'t enviarà un missatge automàticament 
 per reactivar aquesta funcionalitat.\"</string>
@@ -231,6 +241,7 @@ o esborrar el vostre dispositiu.\""</string>
   <string name="micloud_find_device_open_fail">"No s'ha pogut engegar Troba dispositiu"</string>
   <string name="micloud_find_device_opened">Trobar dispositiu a</string>
   <string name="micloud_find_device_opened_content">Troba el teu dispositiu a %s</string>
+  <string name="micloud_find_device_verify_button">Reactiva troba el dispositiu</string>
   <string name="micloud_full_influence_dspt">"Totes les fotos, vídeos, notes i aplicacions tindran la seva còpia de seguretat al núvol.
 
 D\'aquesta manera, si perdeu el dispositiu o es fa malbé, les vostres dades restaran segures.
