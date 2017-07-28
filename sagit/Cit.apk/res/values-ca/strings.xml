@@ -8,6 +8,8 @@
   <string name="SD_SDCard_mounted">Detecta la targeta SD</string>
   <string name="SD_SDCard_total_size">Espai total</string>
   <string name="SD_SDCard_unmounted">La targeta SD no està disponible</string>
+  <string name="abc_action_bar_home_description">Vés a la pàgina d\'inici</string>
+  <string name="abc_action_bar_up_description">Mou cap a dalt</string>
   <string name="abc_action_menu_overflow_description">Més opcions</string>
   <string name="abc_action_mode_done">Fet</string>
   <string name="abc_activity_chooser_view_see_all">Mostra-ho tot</string>
@@ -22,11 +24,17 @@
   <string name="abc_searchview_description_voice">Cerca per veu</string>
   <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
   <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
+  <string name="abc_toolbar_collapse_description">Contrau</string>
   <string name="action_example">Acció d\'exemple</string>
+  <string name="action_nothing">esperant el resultat de la prova</string>
+  <string name="baterry_temperature">"Temperatura de la Bateria: "</string>
+  <string name="begin_to_save_finger_data">Comença a registrar les empremtes dels dits</string>
   <string name="button_ok">D\'acord</string>
   <string name="camera_capture">Captura</string>
   <string name="camera_done">Fet</string>
+  <string name="camera_zoom">Ampliar</string>
   <string name="camerainfo">Informació de la càmera</string>
+  <string name="cancel_test">PROVA ANUL·LADA</string>
   <string name="cit_OTG_plugin_check_summary">Quan es connecta el dispositiu OTG, ha de mostrar el text \"Dispositiu USB OTG detectat\" més avall.</string>
   <string name="cit_OTG_plugin_check_title">OTG (detecció)</string>
   <string name="cit_OTG_plugout_check_summary">En treure el dispositiu OTG, ha de mostrar-se el text «Dispositiu USB OTG eliminat» més avall.</string>
