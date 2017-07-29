@@ -296,6 +296,7 @@ Comproveu el número de seguiment."</string>
   <string name="miuishare_account_login_ok">Registra\'m</string>
   <string name="miuishare_account_need_activate">El vostre compte Weibo s\'hauria de vincular amb el vostre compte MI per poder compartir. Activeu primer el vostre compte Mi.</string>
   <string name="miuishare_account_need_login">El vostre compte Weibo s\'hauria de vincular amb el vostre compte MI per poder compartir. Inicieu primer el vostre compte Mi.</string>
+  <string name="miuishare_app_name">MIUI Share</string>
   <string name="miuishare_no_network">"No s'ha pogut connectar a la xarxa"</string>
   <string name="miuishare_publish">Envia</string>
   <string name="miuishare_share_done">S\'ha enviat correctament</string>
@@ -307,6 +308,7 @@ Comproveu el número de seguiment."</string>
   <string name="navigation_search_all_cities">Totes les ciutats</string>
   <string name="navigation_search_automatically_positioned_city">Ciutat actual</string>
   <string name="navigation_search_default_hint">Cerca ubicacions</string>
+  <string name="navigation_search_hot_cities">Popular</string>
   <string name="navigation_search_no_city_list">"No s'ha trobat res"</string>
   <string name="navigation_search_positioning">S\'està ubicant&#8230;</string>
   <string name="navigation_search_positioning_failed">Seleccioneu una ciutat</string>
