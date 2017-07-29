@@ -447,6 +447,10 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="screenshot_failed_text">"No s'ha pogut desar la captura de pantalla, a causa de problemes d'emmagatzematge o que no està permès per l'aplicació o la teva organització."</string>
   <string name="screenshot_long_screenshot">Desplaça</string>
   <string name="screenshot_saved_text">Premeu per veure la captura.</string>
+  <string name="screenshot_saved_title">Captura de pantalla efectuada</string>
+  <string name="screenshot_saving_text">La captura de pantalla s\'està desant</string>
+  <string name="screenshot_saving_ticker">S\'està desant la captura de pantalla…</string>
+  <string name="screenshot_saving_title">S\'està desant la captura de pantalla…</string>
   <string name="screenshot_send">Envia</string>
   <string name="select_application">Seleccioneu l\'aplicació</string>
   <string name="select_logd_size_dialog_title">Selecciona la mida Logger de la memòria intermèdia</string>
@@ -475,6 +479,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="show_touches">Mostra els tocs</string>
   <string name="show_touches_summary">Mostra la ubicació visual dels tocs</string>
   <string name="simulate_color_space">Simula l\'espai de color</string>
+  <string name="status_bar_accessibility_dismiss_recents">Descarta les aplicacions recents</string>
   <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
   <string name="status_bar_date_format">"EEEE
 d MMMM"</string>
@@ -491,7 +496,9 @@ d MMMM"</string>
  Lliscar avall per bloquejar"</string>
   <string name="status_bar_recent_guide_bottom">Feu lliscar avall per bloquejar</string>
   <string name="status_bar_recent_guide_top">Feu lliscar amunt per tancar</string>
+  <string name="status_bar_recent_inspect_item_title">Informació de l\'aplicació</string>
   <string name="status_bar_recent_memory_info1">%1$sB de %2$sB disponibles</string>
+  <string name="status_bar_recent_remove_item_title">Elimina de la llista</string>
   <string name="status_bar_recording_back">Tornar a la Gravadora</string>
   <string name="status_bar_recording_pause">Gravadora en pausa</string>
   <string name="status_bar_safepay_risk">S\'han trobat riscos de pagament</string>
@@ -531,6 +538,7 @@ d MMMM"</string>
   <string name="tts_engine_security_warning">Pot ser que aquesta base de síntesi de la parla pugui aplegar tot el text que es digui en veu alta, incloses les dades personals, com ara les contrasenyes i els números de les targetes de crèdit. Ve de la base %s. Voleu activar l\'ús d\'aquest motor de síntesi de la parla?</string>
   <string name="tts_engine_settings_button">Obre la configuració del motor</string>
   <string name="tts_engine_settings_title">Configuració de %s</string>
+  <string name="tts_general_section_title">General</string>
   <string name="tts_install_data_summary">Instal·la les dades de veu que calguin per a la síntesi de veu</string>
   <string name="tts_install_data_title">Instal·lació de les dades de veu</string>
   <string name="tts_lang_not_selected">No s\'ha seleccionat cap idioma</string>
@@ -546,6 +554,9 @@ d MMMM"</string>
   <string name="tts_status_ok">%1$s és compatible</string>
   <string name="tts_status_requires_network">Cal connexió de xarxa per a %1$s</string>
   <string name="tts_status_title">Estat de l\'idioma predeterminat</string>
+  <string name="un_important_notifications">Notificacions no importants</string>
+  <string name="unimportant_desc">Totes les notificacions no importants apareixeran en una carpeta separada.</string>
+  <string name="unimportant_title">No important</string>
   <string name="unknown">Desconeguda</string>
   <string name="usb_accessory_confirm_prompt">Obrir %1$s quan es connecti aquest dispositiu USB?</string>
   <string name="usb_accessory_permission_prompt">Permetre accés a l\'aplicacio %1$s a aquest dispositiu USB?</string>
