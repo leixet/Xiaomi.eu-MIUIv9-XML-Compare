@@ -466,6 +466,8 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="group_delete_success_toast">Grup eliminat</string>
   <string name="group_detail_label_placeholder">&#160;</string>
   <string name="group_edit_field_hint_text">Nom del grup</string>
+  <string name="group_member_remove_fail_toast">No s\'ha eliminat del grup</string>
+  <string name="group_member_remove_success_toast">Eliminat del grup</string>
   <string name="group_name">Els meus grups</string>
   <string name="group_name_hint">"Nom del grup"</string>
   <string name="group_read_only">No es pot modificar en aquest dispositiu.</string>
@@ -484,6 +486,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="hybrid_network_unavaliable">"No s'ha pogut accedir a la xarxa"</string>
   <string name="hybrid_service_unavailiable">Sense servei</string>
   <string name="hybrid_try_again">Intenta-ho de nou</string>
+  <string name="hybrid_webpage_not_available">Pàgina web no està disponible</string>
   <string name="ic_menu_back">Enrere</string>
   <string name="ic_menu_done">Fet</string>
   <string name="imLabelsGroup">MI</string>
@@ -525,6 +528,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="keep_local_btn">"Utilitzeu l'emmagatzematge intern del telèfon"</string>
   <string name="label_custom_type">Personalitzat</string>
   <string name="label_no_duplicate_contacts">No s\'han trobat duplicats</string>
+  <string name="label_notes">Notes</string>
   <string name="label_sip_address">Trucada internet</string>
   <string name="launcherDialer">Telèfon</string>
   <string name="listCustomView">Contactes a vista personalitzada</string>
@@ -953,6 +957,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="recentCalls_removeFromRecentList">Elimina del registre de trucades</string>
   <string name="recentCalls_shareVoicemail">Compartir correu de veu</string>
   <string name="recentCalls_trashVoicemail">Elimina correu de veu</string>
+  <string name="recent_contacts_label">Recents</string>
   <string name="recent_number">Recents</string>
   <string name="recent_updates">Actualitzacions recents</string>
   <string name="redirect_calls_to_vm_confirm_message"> Abans de configurar la teva bústia de correu, revisi els termes i condicions del seu contracte amb el proveïdor de xarxa mòbil.</string>
@@ -982,8 +987,15 @@ Per afegir un contacte a la llista de favorits:
   <string name="scanning_sdcard_failed_message">Motiu: \"%s\".</string>
   <string name="scanning_sdcard_failed_title">"L'emmagatzematge no va poder ser escanejat"</string>
   <string name="searchHint">Cercar contactes</string>
+  <string name="search_batch_delete">Organitza;Contactes</string>
+  <string name="search_contacts_display">Contactes;Pantalla</string>
+  <string name="search_contacts_more">Organitza;Contactes</string>
   <string name="search_contacts_recovery">Contactes</string>
   <string name="search_contacts_setting">Contact settings;Display photos and info;Assign contact photos;Import and export;Share; Import from SD card;Import from SIM card;Import from other phone;Export from SD card;Export from SIM card;Share contacts; Display preferences;Hide incomplete numbers;Show SIM contacts;Configure contact lists;Smart groups;Organize contacts; Merge duplicate contacts;Delete batch;Clear data;Rebuild index data;t9;SIM cards;SIM card storage;Contacts recovery introduction</string>
+  <string name="search_display_only_phones">Contactes;Pantalla</string>
+  <string name="search_display_sim_contacts">Contactes;Pantalla</string>
+  <string name="search_export_to_sdcard">Contactes;Exporta;emmagatzematge</string>
+  <string name="search_export_to_sim">Contactes;Exporta;Targeta SIM</string>
   <string name="search_input_hint">Podeu cercar números de telèfon o serveis</string>
   <string name="search_results_searching">Cercant&#8230;</string>
   <string name="search_settings_description">Noms dels teus contactes</string>
