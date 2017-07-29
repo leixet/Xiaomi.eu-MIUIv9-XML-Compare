@@ -6,6 +6,8 @@
   <string name="ab_negative">A B negatiu</string>
   <string name="ab_positive">A B positiu</string>
   <string name="abc_action_bar_home_description">Vés a l\'inici</string>
+  <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="abc_action_bar_up_description">Vés amunt</string>
   <string name="abc_action_menu_overflow_description">Més opcions</string>
   <string name="abc_action_mode_done">Fet</string>
@@ -113,7 +115,9 @@
   <string name="bugreport_in_power_summary">Mostra un botó al menú d\'encesa per crear un informe d\'errors</string>
   <string name="button_convert_fbe">Esborra i converteix&#8230;</string>
   <string name="cancel">Cancel·la</string>
+  <string name="category_personal">Personal</string>
   <string name="category_work">Laboral</string>
+  <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="charge_length_format">Fa %1$s</string>
   <string name="choose_profile">Seleccioneu un perfil</string>
   <string name="clear">Neteja</string>
@@ -124,6 +128,7 @@
   <string name="confirm_enable_oem_unlock_title">Voleu permetre poder desbloquejar l\'OEM?</string>
   <string name="connected_via_passpoint">Connectat via %1$s</string>
   <string name="connected_via_wfa">S\'ha connectat mitjançant l\'assistent Wi‑Fi</string>
+  <string name="content_description_menu_button">Menú</string>
   <string name="convert_to_fbe_warning">"Converteix la partició de dades en una criptografia basada en fitxers.
 Compte! S\'esborraran totes les dades.
 Aquesta funció és alfa i és possible que no funcioni correctament.
@@ -154,6 +159,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="debug_monitoring_category">Monitoratge</string>
   <string name="debug_networking_category">Xarxes</string>
   <string name="debug_view_attributes">Habilita l\'inspecció d\'atributs de visualització</string>
+  <string name="dev_logpersist_clear_warning_message">Quan ja no estem monitoritzant amb el registrador persistent, hem d\'esborrar les dades dels registradors residents al vostre dispositiu.</string>
   <string name="dev_settings_warning_message">Aquesta configuració només està prevista per a desenvolupament. Pot fer que el dispositiu i les aplicacions s\'interrompin o no funcionin correctament.</string>
   <string name="dev_settings_warning_title">Voleu permetre la configuració de desenvolupament?</string>
   <string name="development_settings_enable">Activa les opcions per a desenvolupadors</string>
