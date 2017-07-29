@@ -49,6 +49,11 @@
   <string name="keyguard_charging_info_tip_text4">"No utilitzeu el dispositiu activament mentre s'està carregant per evitar el sobreescalfament."</string>
   <string name="keyguard_charging_info_tip_text5">Les bateries triguen més temps en carregar-se quan quan s\'escalfen més del que és habitual.</string>
   <string name="keyguard_charging_info_tip_text6">Apagueu la pantalla i deixeu el dispositiu lluny per refrescar-lo.</string>
+  <string name="keyguard_left_buscard">Targeta de transport</string>
+  <string name="keyguard_left_remotecentral">Control Mi</string>
+  <string name="keyguard_left_smarthome">Mi Home</string>
+  <string name="keyguard_quick_charging_info_click_to_detail">Càrrega ràpida. Premeu per visualitzar els detalls.</string>
+  <string name="keyguard_quickly_charging_info_charging_text">Càrrega ràpida…</string>
   <string name="keyguard_torch_cover_text">Per mantenir la llanterna encesa, mantingueu premut el botó d\'engegada</string>
   <string name="lock_screen_date">EEEE, d MMMM</string>
   <string name="lock_screen_date_12">EEEE, d MMMM</string>
@@ -68,6 +73,10 @@ Torneu a provar-ho d\'aquí %d segons."</string>
   <string name="open_camera_hint_text">Feu lliscar cap a l\'esquerra per obrir %s</string>
   <string name="open_remote_center_hint_text">Feu lliscar cap a la dreta per obrir %s</string>
   <string name="phone_locked_foget_password">Heu oblidat la contrasenya?</string>
+  <string name="phone_locked_foget_password_mehod_back">Enrere</string>
+  <string name="phone_locked_foget_password_method">Heu oblidat la contrasenya?</string>
+  <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Heu d\' &amp;lt;font color=#a5220e&amp;gt;esborrar totes les dades &amp;lt;/font&amp;gt; al dispositiu, incloent fotos i contactes, i després establiu una nova contrasenya de bloqueig de pantalla.&lt;/Data&gt;</string>
+  <string name="phone_locked_foget_password_method_next">Següent</string>
   <string name="phone_locked_foget_password_ok">D\'acord</string>
   <string name="phone_locked_string">El telèfon ha estat bloquejat</string>
   <string name="unlock_string">Desbloqueja</string>
