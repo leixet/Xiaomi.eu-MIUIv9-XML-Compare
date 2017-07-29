@@ -26,6 +26,8 @@
   <string name="com_taobao_tae_sdk_login_progress_message">Aterratge</string>
   <string name="com_taobao_tae_sdk_logout_fail_message">El tancament de la sessió ha fallat</string>
   <string name="com_taobao_tae_sdk_network_not_available_message">La xarxa no pot connectar-se</string>
+  <string name="com_taobao_tae_sdk_qr_login_title_bar_text">Inicia sessió al compte Taobao</string>
+  <string name="com_taobao_tae_sdk_system_exception">Excepció del sistema</string>
   <string name="com_taobao_tae_sdk_trade_confirm_progress_message">Confirmació de la compra</string>
   <string name="com_taobao_tae_sdk_trade_title">Confirma la comanda</string>
   <string name="common_retake_picture">Repeteix</string>
@@ -55,6 +57,7 @@
   <string name="document_ocr_result_title">Foto del document</string>
   <string name="document_ocr_tip_msg">S\'està llegint&#8230;</string>
   <string name="document_recognize_fail_tip">"No s'ha pogut llegir el document"</string>
+  <string name="document_recognize_null_tip">El resultat del document està buit</string>
   <string name="document_rectify">Ajusta</string>
   <string name="document_rectify_tip_msg">S\'està ajustant&#8230;</string>
   <string name="document_save_succeed_tip">Document desat a %1$s</string>
