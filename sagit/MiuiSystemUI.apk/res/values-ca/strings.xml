@@ -12,6 +12,7 @@
   <string name="accessibility_action_divider_top_70">Superior 70%</string>
   <string name="accessibility_action_divider_top_full">Pantalla superior completa</string>
   <string name="accessibility_airplane_mode">Mode avió.</string>
+  <string name="accessibility_assistant">Menú de dreceres</string>
   <string name="accessibility_back">Enrere</string>
   <string name="accessibility_battery_level">Percentatge de bateria %d.</string>
   <string name="accessibility_bluetooth_connected">Bluetooth connectat.</string>
@@ -24,6 +25,7 @@
   <string name="accessibility_data_signal_full">Senyal de dades màxima.</string>
   <string name="accessibility_data_three_bars">Dades 3 barres.</string>
   <string name="accessibility_data_two_bars">Dades 2 barres.</string>
+  <string name="accessibility_desc_recent_apps">Visió general.</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Aquesta característica és experimental i podria afectar el rendiment.</string>
   <string name="accessibility_display_daltonizer_preference_title">Correcció del color</string>
   <string name="accessibility_divider">Divisor de pantalles</string>
@@ -45,6 +47,11 @@
   <string name="accessibility_recent_task_locked">Bloquejada, feu lliscar cap avall per desbloquejar-la.</string>
   <string name="accessibility_recent_task_memory_info">RAM total: %2$s | RAM disponible: %1$s. Toqueu dues vegades per netejar-la.</string>
   <string name="accessibility_recent_task_unlocked">Desbloquejada</string>
+  <string name="accessibility_recents_all_items_dismissed">S\'han descartat totes les aplicacions recents.</string>
+  <string name="accessibility_recents_item_dismissed">%s descartat.</string>
+  <string name="accessibility_recents_item_launched">S\'està iniciant %s.</string>
+  <string name="accessibility_recents_item_open_app_info">Obre la informació de l\'aplicació %s.</string>
+  <string name="accessibility_recents_item_will_be_dismissed">Descarta %s.</string>
   <string name="accessibility_remove_notification">Esborra notificació.</string>
   <string name="accessibility_ringer_silent">Timbre en silenci.</string>
   <string name="accessibility_ringer_vibrate">Vibració.</string>
@@ -73,6 +80,8 @@
   <string name="apn_settings_not_available">La configuració del nom del punt d\'accés no està disponible per a aquest usuari</string>
   <string name="app_label">Interfície de sistema</string>
   <string name="app_process_limit_title">Límit de processos en segon pla</string>
+  <string name="as_important">Important</string>
+  <string name="as_unimportant">No important</string>
   <string name="audio_effect_custom">Configura</string>
   <string name="audio_effect_info">Optimitzar àudio</string>
   <string name="audio_effect_settings">Seleccioneu el tipus d\'auriculars</string>
@@ -162,11 +171,14 @@
   <string name="camera_key_action_shortcut_title">Accés directe</string>
   <string name="camera_key_action_shortcut_wake">Bloquejar/reactivar dispositiu</string>
   <string name="camera_key_action_toggle_title">Accionar commutador</string>
+  <string name="cancel">Cancel·la</string>
+  <string name="category_personal">Personal</string>
   <string name="category_work">Feina</string>
   <string name="charge_length_format">Fa %1$s</string>
   <string name="chooseUsbActivity">Seleccioneu una aplicació per al dispositiu USB</string>
   <string name="choose_profile">Seleccioneu perfil</string>
   <string name="clear_adb_keys">Revoca autoritzacions de depuració USB</string>
+  <string name="click_to_return_multi_window">Feu clic per tornar al mode multifinestra</string>
   <string name="confirm_enable_oem_unlock_text">ADVERTIMENT: les funcions de protecció del dispositiu no funcionaran mentre aquesta opció estigui activada.</string>
   <string name="confirm_enable_oem_unlock_title">Voleu permetre poder desbloquejar l\'OEM?</string>
   <string name="connected_via_passpoint">Connectat a través de %1$s</string>
@@ -281,6 +293,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="home">Pàgina d\'inici de configuració</string>
   <string name="immediately_destroy_activities">No mantinguis les activitats</string>
   <string name="immediately_destroy_activities_summary">Destrueix activitats quan l\'usuari deixi d\'utilitzar-les</string>
+  <string name="important_desc">Totes les notificacions importants apareixeran directament al panell de notificacions.</string>
   <string name="inactive_app_active_summary">Aplicació activa. Premeu per desactivar-la.</string>
   <string name="inactive_app_inactive_summary">Aplicació inactiva. Premeu per activar-la.</string>
   <string name="inactive_apps_title">Aplicacions inactives</string>
@@ -288,6 +301,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
 Utilitza únicament el carregador subministrat."</string>
   <string name="keep_screen_on">Mantén-te actiu</string>
   <string name="keep_screen_on_summary">La pantalla no entra mai en mode d\'espera si el dispositiu s\'està carregant</string>
+  <string name="keyboard_shortcut_group_system_recents">Recents</string>
   <string name="kilobyte_per_second">kB/s</string>
   <string name="label_view">Veure</string>
   <string name="launch_defaults_none">No s\'ha definit cap valor predeterminat</string>
@@ -387,10 +401,22 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="quick_settings_wifi_detail_empty_text">No hi ha xarxes Wifi disponibles</string>
   <string name="quick_settings_wifi_label">Wifi</string>
   <string name="quick_settings_wifi_nearby">Seleccioneu una xarxa propera</string>
+  <string name="recent_dock_tip">Feu clic per triar l\'aplicació</string>
+  <string name="recent_task_app_info_text">Informació</string>
   <string name="recent_task_cleaning">S\'està netejant, espereu una mica</string>
   <string name="recent_task_lock_text">Bloquejar</string>
   <string name="recent_task_unlock_text">Desbloquejar</string>
+  <string name="recents_app_info_button_label">Informació de l\'aplicació</string>
+  <string name="recents_caption_resize">Selecciona el disseny de la tasca nova</string>
+  <string name="recents_drag_hint_message">Arrossegueu-ho aquí per utilitzar la pantalla dividida</string>
+  <string name="recents_empty_message">No hi ha cap element recent</string>
+  <string name="recents_empty_message_dismissed_all">"Ho heu esborrat tot"</string>
+  <string name="recents_empty_message_multi_window">Aneu a l\'inici per obrir una aplicació</string>
+  <string name="recents_exit_multi_window_mode">Surt del mode de pantalla dividida</string>
+  <string name="recents_incompatible_app_message">"L'aplicació no admet la pantalla dividida"</string>
+  <string name="recents_launch_disabled_message">%s està desactivat en el mode segur.</string>
   <string name="recents_launch_error_message">%s no s\'ha pogut iniciar.</string>
+  <string name="recents_stack_action_button_label">Esborra-ho tot</string>
   <string name="reject_call">Rebutjar trucada</string>
   <string name="remaining_length_format">Falten %1$s</string>
   <string name="return_to_incall_screen">Tornar a la trucada</string>
@@ -420,6 +446,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="screenshot_edit">Edita</string>
   <string name="screenshot_failed_text">"No s'ha pogut desar la captura de pantalla, a causa de problemes d'emmagatzematge o que no està permès per l'aplicació o la teva organització."</string>
   <string name="screenshot_long_screenshot">Desplaça</string>
+  <string name="screenshot_saved_text">Premeu per veure la captura.</string>
   <string name="screenshot_send">Envia</string>
   <string name="select_application">Seleccioneu l\'aplicació</string>
   <string name="select_logd_size_dialog_title">Selecciona la mida Logger de la memòria intermèdia</string>
