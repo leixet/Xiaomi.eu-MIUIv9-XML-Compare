@@ -73,4 +73,8 @@
     <item quantity="other">Voleu eliminar %1$d carpetes?</item>
     <item quantity="one">Voleu eliminar aquesta carpeta?</item>
   </plurals>
+  <plurals name="delete_files">
+    <item quantity="other">Voleu eliminar %1$d fitxers?</item>
+    <item quantity="one">Voleu eliminar aquest fitxer?</item>
+  </plurals>
 </resources>
