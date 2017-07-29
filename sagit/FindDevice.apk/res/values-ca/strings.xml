@@ -19,6 +19,7 @@ Contacteu amb el seu agent de vendes per a més detalls."</string>
   <string name="enable_find_device_success">Trobar dispositiu està activat</string>
   <string name="find_device">Trobar dispositiu</string>
   <string name="find_device_crash">Trobar dispositiu s\'ha tancat inesperadament.</string>
+  <string name="find_device_error_access_denied">Accés denegat.</string>
   <string name="find_device_error_account_sys_timeout">"No s'ha pogut connectar al Compte Mi"</string>
   <string name="find_device_error_account_unknown_error">Error del Compte Mi (%s).</string>
   <string name="find_device_error_network">S\'ha produït un error de xarxa.</string>
@@ -50,6 +51,7 @@ Si canvieu de targeta SIM, se us enviarà automàticament un altre SMS per react
   <string name="phone_locked_account_phone">, número de telèfon associat: %s</string>
   <string name="stop_on_empty_captcha">"El captcha no pot estar buit"</string>
   <string name="stop_on_empty_password">"La contrasenya no pot estar buida"</string>
+  <string name="sys_notification_async_open_failed_content">Premeu per tornar-ho a provar o cancel·lar-lo.</string>
   <string name="time_correction_failure">"No es va poder corregir l'hora. %s"</string>
   <string name="time_correction_success">Hora corregida</string>
   <string name="unlock">Activat</string>
