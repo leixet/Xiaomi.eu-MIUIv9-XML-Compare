@@ -9,6 +9,7 @@
   <string name="accessibility_hdr">Botó activar HDR</string>
   <string name="accessibility_mode_dismiss_button">Botó de tancament del mode de selecció</string>
   <string name="accessibility_peak">Botó de pic d\'enfocament</string>
+  <string name="accessibility_portrait_button">Mode retrat</string>
   <string name="accessibility_review_thumbnail">Foto més recent</string>
   <string name="accessibility_seek_bar_line">Botó lliscant</string>
   <string name="accessibility_setting_button">Botó d\'ajustaments addicionals</string>
@@ -17,6 +18,7 @@
   <string name="accessibility_stereo_button">Mode de càmera dual</string>
   <string name="accessibility_video_capture_button">Botó de captura de vídeo</string>
   <string name="accessibility_video_pause_button">Botó de pausar vídeo</string>
+  <string name="accessibility_zoom_button">Mode zoom</string>
   <string name="audio_focus_exit_button_text">Tancar enfocament d\'àudio</string>
   <string name="burst_shoot_exit_button_text">Tanca el mode ràfega</string>
   <string name="button_fisheye_camera_title">Ull de peix</string>
@@ -34,6 +36,8 @@
   <string name="cannot_connect_camera_twice">"Encara no es pot accedir a la càmera. Proveu de reiniciar el telèfon."</string>
   <string name="cannot_connect_camera_volte_call">Trucada de vídeo en curs, si us plau intenteu-ho més tard.</string>
   <string name="cannot_move_warning_message">Fotografia en procés, no mogui el dispositiu</string>
+  <string name="confirm_install_scanner_message">"L'escàner us permet escanejar codis QR, codis de barres i molt més. No cal connectar-se a Internet per instal·lar-lo."</string>
+  <string name="confirm_install_scanner_title">Instal·la l\'escànner</string>
   <string name="confirm_location_alert">Recorda la ubicació de les fotos</string>
   <string name="confirm_location_message">Etiquetar les teves fotos i vídeos amb les localitzacions on van ser presos? Altres aplicacions podran accedir a aquesta informació juntament amb les imatges desades.</string>
   <string name="confirm_location_title">Voleu que es desi la ubicació de les fotos?</string>
@@ -51,6 +55,7 @@
   <string name="face_analyze_info">Edat: %2$s (%1$s)</string>
   <string name="face_analyze_info_female">Dona</string>
   <string name="face_analyze_info_male">Home</string>
+  <string name="face_beauty_advanced">Avançat</string>
   <string name="face_beauty_age_alias_60_m">Més de 60 anys</string>
   <string name="face_beauty_age_alias_female_0_7">Dona 0-7</string>
   <string name="face_beauty_age_alias_female_18_30">Dona 18-30</string>
@@ -71,6 +76,8 @@
   <string name="face_beauty_intelligent_level_3">Alt</string>
   <string name="face_beauty_smart">Auto</string>
   <string name="groupshot_mode_use_hint">Es prendran diverses fotos per seleccionar la millor expressió facial per sintetitzar-la en una foto</string>
+  <string name="hibernate_hint">Premeu la pantalla per despertar la càmera</string>
+  <string name="install_confirmed">Instal·la</string>
   <string name="message_snap_double_confirm">Si es manté premut el botó de volum actualment s\'activa l\'NFC. Voleu canviar-ho?</string>
   <string name="no_storage">Inseriu la targeta SD abans d\'usar la càmera</string>
   <string name="not_enough_space">L\'emmagatzematge intern és ple</string>
@@ -80,6 +87,13 @@
   <string name="pano_how_to_use_prompt_slow_down">No aneu tant ràpid</string>
   <string name="pano_how_to_use_prompt_to_move">Comenceu lentament la panoràmica</string>
   <string name="path_settings">Aplicacions del sistema/Càmera/Configuració</string>
+  <string name="portrait_mode_depth_effect_success_hint">Efecte de profunditat</string>
+  <string name="portrait_mode_lowlight_hint">"Ara és massa fosc"</string>
+  <string name="portrait_mode_too_close_hint">Allunyeu-vos de l\'objecte</string>
+  <string name="portrait_mode_too_far_hint">Col·loqueu el subjecte dins de 2,5 metres</string>
+  <string name="portrait_mode_use_hint">"El mode retrat us ajuda a desenfocar el fons
+amb un cos més clar i un retrat més bonic"</string>
+  <string name="portrait_with_facebeauty_hint">L\'embellidor ja està disponible en mode retrat</string>
   <string name="pref_advance_settings">Configuració addicional</string>
   <string name="pref_audio_focus_entry_front">Davant</string>
   <string name="pref_audio_focus_entry_rear">Darrere</string>
@@ -106,17 +120,23 @@
   <string name="pref_camera_coloreffect_entry_big_face">Dispersa</string>
   <string name="pref_camera_coloreffect_entry_blackwhite">Blanc i negre</string>
   <string name="pref_camera_coloreffect_entry_fisheye">Ull de peix</string>
+  <string name="pref_camera_coloreffect_entry_instagram_clarendon">Color pop</string>
   <string name="pref_camera_coloreffect_entry_instagram_crema">Rústic</string>
   <string name="pref_camera_coloreffect_entry_instagram_hudson">Gelat</string>
+  <string name="pref_camera_coloreffect_entry_instagram_rise">Lomo</string>
   <string name="pref_camera_coloreffect_entry_light_tunnel">Túnel</string>
   <string name="pref_camera_coloreffect_entry_long_face">Estira</string>
   <string name="pref_camera_coloreffect_entry_mirror">Mirall</string>
+  <string name="pref_camera_coloreffect_entry_mono">Mono</string>
+  <string name="pref_camera_coloreffect_entry_mosaic">Mosaic</string>
+  <string name="pref_camera_coloreffect_entry_none">Normal</string>
   <string name="pref_camera_coloreffect_entry_sketch">Dibuix</string>
   <string name="pref_camera_coloreffect_entry_small_face">Aixafa</string>
   <string name="pref_camera_coloreffect_entry_vivid">Vívid</string>
   <string name="pref_camera_coloreffect_entry_vsco_a4">Analògic</string>
   <string name="pref_camera_coloreffect_entry_vsco_f2">Mat</string>
   <string name="pref_camera_coloreffect_title">Filtres</string>
+  <string name="pref_camera_contrast_title">Contrast</string>
   <string name="pref_camera_delay_capture_entry_audio">Àudio</string>
   <string name="pref_camera_delay_capture_title">Compte enrere</string>
   <string name="pref_camera_exposuretime_entry_auto">Automàtic</string>
@@ -189,6 +209,10 @@
   <string name="pref_camera_picturesize_entry_fullscreen">Pantalla completa 16:9</string>
   <string name="pref_camera_picturesize_entry_standard">Estàndard 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Format de càmera</string>
+  <string name="pref_camera_portrait_mode_entry_off">El mode retrat està desactivat</string>
+  <string name="pref_camera_portrait_mode_entry_on">El mode retrat està activat</string>
+  <string name="pref_camera_portrait_mode_title">Mode retrat</string>
+  <string name="pref_camera_portrait_with_facebeauty_title">Embellidor en mode retrat</string>
   <string name="pref_camera_proximity_lock_summary">Bloqueja el telèfon automàticament al ficar-lo a la butxaca</string>
   <string name="pref_camera_proximity_lock_title">Mode butxaca</string>
   <string name="pref_camera_recordlocation_entry_off">Apagat</string>
@@ -227,6 +251,7 @@
   <string name="pref_camera_snap_label_take_movie">Vídeo</string>
   <string name="pref_camera_snap_label_take_picture">Foto</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"No es pot utilitzar el mode disparar ràpid mentre \"Activa amb els botons de volum\" estigui actiu."</string>
+  <string name="pref_camera_snap_value_off">Desactivat</string>
   <string name="pref_camera_snap_value_take_movie">Pel·lícula</string>
   <string name="pref_camera_snap_value_take_picture">Foto</string>
   <string name="pref_camera_sound_title">Sons de càmera</string>
@@ -253,8 +278,14 @@
   <string name="pref_camera_whitebalance_entry_auto">Automàtic</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Ennuvolat</string>
   <string name="pref_camera_whitebalance_entry_daylight">Llum del dia</string>
+  <string name="pref_camera_whitebalance_entry_fluorescent">Fluorescent</string>
+  <string name="pref_camera_whitebalance_entry_incandescent">Incandescent</string>
+  <string name="pref_camera_whitebalance_entry_manual">Manual</string>
   <string name="pref_camera_whitebalance_entry_measure">Mesura</string>
   <string name="pref_camera_whitebalance_title">Balanç de blancs</string>
+  <string name="pref_camera_zoom_mode_entry_tele">Tele</string>
+  <string name="pref_camera_zoom_mode_entry_wide">Panoràmica</string>
+  <string name="pref_camera_zoom_mode_title">Lents</string>
   <string name="pref_camera_zsl_entry_off">Apagat</string>
   <string name="pref_camera_zsl_entry_on">Activat</string>
   <string name="pref_capture_settings">Càmera</string>
