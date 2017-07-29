@@ -196,6 +196,7 @@
   <string name="contact_delete_toast">Contacte eliminat</string>
   <string name="contact_detail_action_item_calllog">Historial de trucades</string>
   <string name="contact_detail_action_item_nocalllog">No hi ha historial</string>
+  <string name="contact_detail_calllog_call_note_tips">Notes</string>
   <string name="contact_detail_calllog_call_record_tips">Gravar trucada</string>
   <string name="contact_detail_calllog_empty">No hi ha historial</string>
   <string name="contact_detail_menu_delete_miprofile">Esborra la targeta</string>
@@ -353,6 +354,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="device_version_header_no_bluetooth">Importa contactes utilitzant la targeta SIM</string>
   <string name="dial">Marcar</string>
   <string name="dialerDialpadHintText">Marca per afegir una trucada</string>
+  <string name="dialerIconLabel">Recents</string>
   <string name="dialerKeyboardHintText">Utilitza teclat per marcar</string>
   <string name="dialer_addAnotherCall">Afegeix trucada</string>
   <string name="dialer_copy_view_delete_description">Esborra el número copiat</string>
