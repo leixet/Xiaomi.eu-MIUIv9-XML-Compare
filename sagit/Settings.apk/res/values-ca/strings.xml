@@ -3025,7 +3025,7 @@ Aquesta configuració afecta tots els usuaris del telèfon.»</string>
   <string name="screen_paper_mode_set_apps_title">Aplicacions en mode lectura</string>
   <string name="screen_paper_mode_summary">"Redueix l'enlluernament del fons de la pantalla"</string>
   <string name="screen_paper_mode_time_summary">mode de lectura programada amb el vostre temps establert</string>
-  <string name="screen_paper_mode_time_title">Programat</string>
+  <string name="screen_paper_mode_time_title">Programació</string>
   <string name="screen_paper_mode_title">Mode lectura</string>
   <string name="screen_paper_mode_turn_off">Apagat</string>
   <string name="screen_paper_mode_turn_on">Activat</string>
