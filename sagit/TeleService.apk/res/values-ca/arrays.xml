@@ -160,6 +160,8 @@
     <item>Només a casa</item>
     <item>Automàtic</item>
   </string-array>
+  <string-array name="tty_mode_entries">
+    </string-array>
   <string-array name="uplmn_prefer_network_mode_td_choices">
     <item>GSM</item>
     <item>TD-SCDMA</item>
