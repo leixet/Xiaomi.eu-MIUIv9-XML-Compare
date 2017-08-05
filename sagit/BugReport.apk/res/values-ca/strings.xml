@@ -238,7 +238,7 @@
   <string name="section_screenshot">Captura de pantalla</string>
   <string name="submit_dialog_cancel">Cancel·la</string>
   <string name="submit_dialog_confirm">Envia</string>
-  <string name="submit_dialog_content">L\'informe, amb els arxius adjunts i els registres, s\'enviarà als servidors de MIUI. Pot contenir informació personal.</string>
+  <string name="submit_dialog_content">"L'informe, amb els arxius adjunts i els registres, s'enviarà als servidors de MIUI. Pot contenir informació personal."</string>
   <string name="submit_dialog_title">Envia l\'informe</string>
   <string name="submit_feedback_info_failed">"No s'ha pogut enviar l'informe"</string>
   <string name="suggestion_description">Escriviu aquí la descripció</string>
