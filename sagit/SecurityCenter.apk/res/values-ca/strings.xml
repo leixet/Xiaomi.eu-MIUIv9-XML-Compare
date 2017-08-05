@@ -18,16 +18,12 @@
   <string name="ac_summaryOn">Activat, es requereix una clau per obrir aplicacions</string>
   <string name="access_control_need_password">"%sBloqueig afegit amb èxit
   "</string>
-  <string name="access_control_need_to_unlock">"Desbloquegeu amb empremta 
-o introdueixi la seva contrasenya"</string>
   <string name="access_control_need_to_unlock_nofingerprint">Introduïu la contrasenya de desbloqueig</string>
   <string name="action_button_text_100">Optimitza-ho</string>
   <string name="action_button_text_60">Corregeix-ho</string>
   <string name="action_button_text_60_80">Corregeix-ho</string>
   <string name="action_button_text_80_100">Optimitza-ho</string>
   <string name="action_source_sms_title">SMS bloquejats</string>
-  <string name="activate_fingerprint_dialog_message">"Aquesta empremta no està activa. Introduïu la vostra contrasenya per activar aquesta empremta."</string>
-  <string name="activate_fingerprint_dialog_title">Introduïu la contrasenya</string>
   <string name="activity_title_antispam">Llista de bloqueig</string>
   <string name="activity_title_antivirus">Anàlisi de virus</string>
   <string name="activity_title_apps_manager">Aplicacions</string>
@@ -71,7 +67,7 @@ o introdueixi la seva contrasenya"</string>
   <string name="adjust_traffic_carrier_summary_two_day_before">Actualitzat fa 2 dies</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Actualitzat ahir a la(s) %s</string>
   <string name="adjust_traffic_data">Establir ús de dades</string>
-  <string name="after_the_lock_screen">"L'aplicació serà bloquejada juntament amb la pantalla, pot canviar això a la configuració del bloquejador d'aplicacions."</string>
+  <string name="after_the_lock_screen">L\'aplicació serà bloquejada juntament amb la pantalla, pot canviar això a la configuració del bloquejador d\'aplicacions.</string>
   <string name="all_address_choose_hint">Tots els números d\'aquesta província</string>
   <string name="anim_gamebooster_text">Un segon&#8230;</string>
   <string name="anti_disturb_msg_detail">Desactiva les notificacions excepte per a les trucades entrants</string>
@@ -685,7 +681,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="lockpattern_confirm_button_text">D\'acord</string>
   <string name="lockpattern_continue_button_text">Següent</string>
   <string name="lockpattern_need_to_confirm">Dibuixeu el patró novament per confirmar</string>
-  <string name="lockpattern_need_to_unlock_wrong">Tornar a provar</string>
+  <string name="lockpattern_need_to_unlock_wrong">"Tornar a provar"</string>
   <string name="lockpattern_pattern_confirmed_header">El seu nou patró de desbloqueig</string>
   <string name="lockpattern_pattern_entered_header">Patró afegit</string>
   <string name="lockpattern_recording_incorrect_too_short">Connecteu almenys %d punts</string>
@@ -953,7 +949,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="packages_subtitle">Paquets inclosos</string>
   <string name="passwordIncorrect">Usuari o contrasenya incorrecta</string>
   <string name="password_forget_pattern_confirm">Còpia de seguretat de les dades</string>
-  <string name="password_forget_pattern_message">"Feu una còpia de seguretat de les dades localment i després realitzeu un restabliment de dades de fàbrica. Després d'això, podreu canviar la contrasenya."</string>
+  <string name="password_forget_pattern_message">Feu una còpia de seguretat de les dades localment i després realitzeu un restabliment de dades de fàbrica. Després d\'això, podreu canviar la contrasenya.</string>
   <string name="password_forget_pattern_title">Còpia de seguretat de les dades</string>
   <string name="password_promotion_not_login_xiaomi_account_message">El bloquejador d\'aplicacions està actualitzant la contrasenya de protecció de privacitat. Pot utilitzar el seu compte Mi per restablir-la. Afegeix el seu compte Mi per a poder fer-ho.</string>
   <string name="password_promotion_postbutton_text">Vés a la Configuració</string>
