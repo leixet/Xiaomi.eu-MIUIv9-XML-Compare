@@ -1295,6 +1295,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="st_antispam_des_permit_nokeyword">Permet</string>
   <string name="st_antispam_des_smart_anti">Filtre</string>
   <string name="st_antispam_des_uesless">Desactivat</string>
+  <string name="st_antispam_mode_smart_sum">"Bloca els números que heu afegit manualment i els que s'han reportat per altres usuaris"</string>
   <string name="st_antispam_title_anoy_sms">Missatges de desconeguts</string>
   <string name="st_antispam_title_service_sms">Servei de notificacions</string>
   <string name="st_filter_keywords_setting_summary1">Es bloquejaran els missatges de números desconeguts que continguin les paraules d\'aquesta llista.</string>
