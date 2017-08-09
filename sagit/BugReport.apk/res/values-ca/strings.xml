@@ -181,8 +181,8 @@
   <string name="mobile_data_note_dialog_content">L\'ús de dades mòbils per pujar registres pot generar càrrecs addicionals.</string>
   <string name="mobile_data_note_dialog_content_with_file_size">La pujada de registres utilitzant la connexió de dades mòbils requerirà %s Mb de dades.</string>
   <string name="mobile_data_note_dialog_title">Avís d\'ús de dades</string>
-  <string name="modem_tool_log">Captura els registres del mòdem</string>
-  <string name="modem_tool_log_start">Inici</string>
+  <string name="modem_tool_log">Recupera els registres del mòdem</string>
+  <string name="modem_tool_log_start">Inicia</string>
   <string name="modem_tool_log_start_toast">Desant el registre del mòdem a %s</string>
   <string name="modem_tool_log_stop">Atura</string>
   <string name="modem_tool_log_stop_toast">Atura el bolcat dels registres del mòdem de %s</string>
