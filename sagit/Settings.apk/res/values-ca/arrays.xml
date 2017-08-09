@@ -92,7 +92,7 @@
     <item>Cap</item>
     <item>Logcat</item>
     <item>Systrace (Gràfics)</item>
-    <item>Trucades en glGetError</item>
+    <item>Pila de crides a glGetError</item>
   </string-array>
   <string-array name="show_non_rect_clip_entries">
     <item>Apagat</item>
