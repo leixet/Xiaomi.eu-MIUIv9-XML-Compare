@@ -857,6 +857,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="clear_user_data_text">Suprimeix les dades</string>
   <string name="close_miui_optimization_title">Atura la optimització de MIUI</string>
   <string name="close_miui_optimization_warning_message">El dispositiu arrencarà de nou per aplicar els canvis.</string>
+  <string name="close_sdcard_optimization_title">tanca la simulació de l\'optimització de la targeta SD</string>
   <string name="cloud_backup_section_title">Còpia de seguretat del Mi Cloud</string>
   <string name="cloud_backup_settings_section_title">Còpia de seguretat de la configuració</string>
   <string name="cloud_restore_section_summary">Restaura les aplicacions, la pantalla d\'inici i la configuració predeterminada</string>
@@ -867,6 +868,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="color_black">Negre</string>
   <string name="color_blue">Blau</string>
   <string name="color_calibration_none">Nadiu</string>
+  <string name="color_calibration_srgb">sRGB</string>
   <string name="color_cyan">Turquesa</string>
   <string name="color_gray">Gris</string>
   <string name="color_green">Verd</string>
@@ -877,6 +879,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="color_temperature">Temperatura del color fred</string>
   <string name="color_temperature_desc">Utilitza colors de pantalla més freds</string>
   <string name="color_temperature_toast">Desactiva la pantalla per aplicar el canvi de color</string>
+  <string name="color_title">Color</string>
   <string name="color_unspecified">Predeterminat</string>
   <string name="color_white">Blanc</string>
   <string name="color_yellow">Groc</string>
@@ -929,6 +932,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="connected_wifi">Xarxa connectada</string>
   <string name="connecting_to_vpn">S\'està connectant amb la VPN</string>
   <string name="contributors_title">Col·laboradors</string>
+  <string name="controls_label">Controls</string>
   <string name="controls_subtitle">Ajusta l\'ús d\'energia</string>
   <string name="convenience_key_category_title">Dreceres</string>
   <string name="convert_to_fbe_warning">"Converteix la partició de dades en una criptografia basada en fitxers.
