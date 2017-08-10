@@ -1004,4 +1004,12 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Fitxers</item>
     <item>Notes</item>
   </string-array>
+  <string-array name="standard_configuration_version_description_primary">
+    <item>CPU</item>
+    <item>Capacitat de la bateria</item>
+    <item>Rear camera</item>
+    <item>Screen size</item>
+    <item>Resolution</item>
+    <item>Android version</item>
+  </string-array>
 </resources>
