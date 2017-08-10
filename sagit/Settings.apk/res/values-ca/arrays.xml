@@ -39,6 +39,12 @@
     <item>Utilitza la comprovació HDCP només per a contingut DRM</item>
     <item>Utilitza sempre la comprovació HDCP</item>
   </string-array>
+  <string-array name="select_logd_size_lowram_titles">
+    <item>Apagat</item>
+    <item>64K</item>
+    <item>256K</item>
+    <item>1M</item>
+  </string-array>
   <string-array name="select_logd_size_summaries">
     <item>Desactivat</item>
     <item>64K per registre de memòria</item>
@@ -77,13 +83,13 @@
   <string-array name="overlay_display_devices_entries">
     <item>Cap</item>
     <item>480p</item>
-    <item>480p (secure)</item>
+    <item>480p (segur)</item>
     <item>720p</item>
-    <item>720p (secure)</item>
+    <item>720p (segur)</item>
     <item>1080p</item>
-    <item>1080p (secure)</item>
+    <item>1080p (segur)</item>
     <item>4K</item>
-    <item>4K (secure)</item>
+    <item>4K (segur)</item>
     <item>4K (upscaled)</item>
     <item>4K (upscaled, secure)</item>
     <item>720p, 1080p (dual screen)</item>
