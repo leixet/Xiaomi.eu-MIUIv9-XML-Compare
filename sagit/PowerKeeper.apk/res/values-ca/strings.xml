@@ -141,7 +141,7 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="power_dialog_lcd_mode_title">Mode de pantalla</string>
   <string name="power_dialog_new_event_fail">"No s'ha pogut afegir nous esdeveniments"</string>
   <string name="power_dialog_ok">D\'acord</string>
-  <string name="power_dialog_power_keeper_disable">Apagar l\'estalvi de bateria?</string>
+  <string name="power_dialog_power_keeper_disable">Apaga l\'estalvi de bateria?</string>
   <string name="power_dialog_power_keeper_enable">Voleu activar l\'estalvi de bateria?</string>
   <string name="power_dialog_screen_brightness_title">Brillantor</string>
   <string name="power_event_user_define_title">Nous esdeveniments</string>
