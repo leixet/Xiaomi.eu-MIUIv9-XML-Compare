@@ -3015,7 +3015,7 @@ Aquesta configuració afecta tots els usuaris del telèfon.»</string>
   <string name="screen_monochrome_mode_summary">Canvia al mode monocroma per estendre la vida de la bateria</string>
   <string name="screen_monochrome_mode_title">Mode monocroma</string>
   <string name="screen_never_timeout_title">Sempre actiu</string>
-  <string name="screen_on_proximity_sensor_summary">Bloqueja el telèfon automàticament al ficar-lo a la butxaca</string>
+  <string name="screen_on_proximity_sensor_summary">Bloqueja el telèfon automàticament en ficar-lo a la butxaca</string>
   <string name="screen_on_proximity_sensor_title">Evita trucades accidentals</string>
   <string name="screen_paper_mode_adjust_level">Intensitat</string>
   <string name="screen_paper_mode_apps_loading">Un moment&#8230;</string>
@@ -3547,8 +3547,8 @@ Per fer-ho:
   <string name="slot_status_title">informació d\'IMEI</string>
   <string name="small_font">Petita</string>
   <string name="smallwindow_smartcover_title">Tapa frontal transparent</string>
-  <string name="smartcover_lock_or_unlock_screen_tittle">tapa intel·ligent de bloqueig o pantalla de desbloqueig</string>
-  <string name="smartcover_sensitive_summary">bloqueja o desbloqueja el telèfon fàcilment amb la tapa intel·ligent</string>
+  <string name="smartcover_lock_or_unlock_screen_tittle">Tapa intel·ligent de bloqueig o pantalla de desbloqueig</string>
+  <string name="smartcover_sensitive_summary">Bloqueja o desbloqueja el telèfon fàcilment amb la tapa intel·ligent</string>
   <string name="smartcover_sensitive_title">Mode Smartcover</string>
   <string name="sms_application_title">Aplicació de SMS</string>
   <string name="sms_change_default_dialog_text">Voleu utilitzar %1$s en comptes de %2$s com aplicació SMS predeterminada?</string>
