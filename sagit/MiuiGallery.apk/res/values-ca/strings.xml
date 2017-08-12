@@ -594,6 +594,8 @@ Feu més fotos als vostres amics!"</string>
   <string name="owner_album_subtitle">Compartit amb %1$s persones</string>
   <string name="people_album_empty_title">Les fotos es poden ordenar segons la gent que hi surt</string>
   <string name="people_jump_failed">Espereu fins que las fotos amb persones se sincronitzin amb Mi Cloud i torneu-ho a provar</string>
+  <string name="people_mark_mode_title">Selecciona \"%s\"</string>
+  <string name="people_mark_mode_title_no_mark_name">Selecciona una persona</string>
   <string name="people_page_label">Persones</string>
   <string name="people_page_unname">Sense nom</string>
   <string name="pet_album_display_name">Fotos de mascotes</string>
@@ -618,6 +620,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="picker_title_format">Podeu seleccionar %d fotos</string>
   <string name="picker_title_selection_format">Fotos seleccionades: %d</string>
   <string name="picker_title_unlimit">Seleccioneu fotos</string>
+  <string name="places_album_empty_title">Les fotos es poden ordenar segons la localització</string>
   <string name="preparing_data">Un moment&#8230;</string>
   <string name="projection_checkbox_text">Recorda aquesta pantalla</string>
   <string name="projection_device_connection_failed">"No es pot connectar el projector"</string>
@@ -698,7 +701,13 @@ Feu més fotos als vostres amics!"</string>
   <string name="search_request_open">Uniu-vos a l\'equip de test</string>
   <string name="search_result_empty">"No hi ha resultats"</string>
   <string name="search_retry">Torna-ho a provar</string>
+  <string name="search_select_network">Seleccioneu una xarxa</string>
   <string name="search_set_network_connection">Configuració de xarxa</string>
+  <string name="search_setting_sub_title">Cerca d\'imatges millorada</string>
+  <string name="search_setting_sub_title_open">S\'ha aprovat. Espereu un temps abans de començar.</string>
+  <string name="search_setting_title">Troba fotos a la galeria</string>
+  <string name="search_syncing">S\'estan sincronitzant les dades, retornarà en una estona</string>
+  <string name="search_title_album">Àlbum</string>
   <string name="search_title_history">Historial de cerca</string>
   <string name="search_title_location">Ubicacions</string>
   <string name="search_title_others">Tots els resultats</string>
@@ -784,6 +793,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="syncing_metadata_title">Sincronització de dades del Mi Cloud</string>
   <string name="syncing_normal_title">Còpia de seguretat de fotos i vídeos</string>
   <string name="system_album">Àlbum de sistema</string>
+  <string name="text_append">Text</string>
   <string name="text_append_hint">Introduïu el text</string>
   <string name="text_append_style">Bafarada</string>
   <string name="text_append_transparent">Opacitat</string>
