@@ -92,7 +92,7 @@
     <item>4K (segur)</item>
     <item>4K (upscaled)</item>
     <item>4K (upscaled, secure)</item>
-    <item>720p, 1080p (dual screen)</item>
+    <item>720p, 1080p (pantalla dual)</item>
   </string-array>
   <string-array name="enable_opengl_traces_entries">
     <item>Cap</item>
@@ -990,7 +990,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
   </string-array>
   <string-array name="silent_mode_duration_text">
     <item>Sempre</item>
-    <item>30 minutes</item>
+    <item>30 minuts</item>
     <item>1 hora</item>
     <item>2 hores</item>
     <item>8 hores</item>
