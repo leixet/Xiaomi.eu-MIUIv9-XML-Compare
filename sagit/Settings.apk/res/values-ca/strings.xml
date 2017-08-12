@@ -356,6 +356,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="auto_restore_summary">Quan es reinstal·la una aplicació, restaura la còpia de seguretat de la configuració i dades</string>
   <string name="auto_restore_title">Restauració automàtica</string>
   <string name="auto_rule">regla prevista</string>
+  <string name="auto_silent">Temps silenciat</string>
   <string name="auto_startup_application_manage">Auto-inici</string>
   <string name="auto_startup_count">%d aplicacions tenen autorització d\'auto-inici</string>
   <string name="automatic_brightness">Brillantor automàtica</string>
@@ -580,6 +581,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="bluetooth_enter_passkey_other_device">També heu de teclejar el codi a l\'altre dispositiu.</string>
   <string name="bluetooth_enter_pin_other_device">També heu de teclejar el PIN a l\'altre dispositiu.</string>
   <string name="bluetooth_filter_device_display">Mostra-ho tot</string>
+  <string name="bluetooth_filter_device_filter">Només normal</string>
   <string name="bluetooth_headset_profile_summary_connected">S\'ha connectat a l\'àudio del telèfon</string>
   <string name="bluetooth_headset_profile_summary_use_for">Utilizeu-lo per l\'àudio del telèfon</string>
   <string name="bluetooth_hid_profile_summary_connected">S\'ha connectat a un dispositiu</string>
@@ -2119,6 +2121,7 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="lockscreen_glogin_checking_password">S\'està comprovant&#8230;</string>
   <string name="lockscreen_glogin_password_hint">Contrasenya</string>
   <string name="lockscreen_glogin_submit_button">Inici de sessió</string>
+  <string name="lockscreen_magazine_title">Tipus de fons de pantalla</string>
   <string name="lockscreen_remote_input">Si el dispositiu està bloquejat, impedeix que s\'escriguin respostes o altres textos a les notificacions</string>
   <string name="login_account_dialog_message">Inicia la sessió amb el compte de Mi i activa la sincronització amb Mi Cloud.</string>
   <string name="login_account_dialog_title">Inicia la sessió amb el compte Mi</string>
@@ -2279,7 +2282,9 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_lab_feature_applied">S\'ha aplicat</string>
   <string name="miui_lab_feature_off">Desactivat</string>
   <string name="miui_lab_feature_on">Activat</string>
+  <string name="miui_lab_features">Funcions del laboratori MIUI</string>
   <string name="miui_lab_gallery_search_title">Troba fotos a la galeria</string>
+  <string name="miui_lab_settings">Laboratori MIUI</string>
   <string name="miui_lab_slogan">Aprèn. Explora. Descobreix.</string>
   <string name="miui_lab_taplus_desc">Premeu i mantingueu premut per activar les dreceres</string>
   <string name="miui_screen_config_title">Configuració de la pantalla inicial</string>
@@ -2343,6 +2348,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="music_dirac_mode_general_earbuds">General</string>
   <string name="music_dirac_mode_general_inear">In-ear normals</string>
   <string name="music_dirac_mode_headset">Mi Auriculars</string>
+  <string name="music_dirac_mode_headset_comfort">Mi Comfort</string>
   <string name="music_dirac_mode_in_ear">Mi in-ear</string>
   <string name="music_dirac_mode_in_ear_2013">Mi In-Ear(2013)</string>
   <string name="music_dirac_mode_off">Dirac apagat</string>
@@ -2377,6 +2383,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="music_hifi_title">Àudio Hi-Fi</string>
   <string name="music_mi_effect_summary">Utilitza el potenciador de so Mi en utilitzar auriculars</string>
   <string name="music_mi_effect_title">Potenciador de so Mi</string>
+  <string name="music_title_dolby_control">Dolby Digital Plus</string>
   <string name="music_unsupport_effect_summary">"Els auriculars USB no són compatibles"</string>
   <string name="musicfx_title">Efectes musicals</string>
   <string name="mvno_match_data">Valor de MVNO</string>
@@ -2452,6 +2459,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="no_updates_warning2">"No us amoïneu, ja us avisarem si hi ha alguna actualització :)"</string>
   <string name="no_vr_listeners">Cap aplicació instal·lada no ha sol·licitat que s\'executi com un servei d\'ajuda per a la realitat virtual.</string>
   <string name="noise_suppression">Supressió de soroll ambiental</string>
+  <string name="normal">Normal</string>
   <string name="normal_smartcover_title">Coberta frontal opaca</string>
   <string name="not_battery_optimizing">No s\'està fent servir l\'optimització de la bateria</string>
   <string name="not_installed">No s\'ha instal·lat per a aquest usuari</string>
@@ -2542,6 +2550,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="one_cacrt">un certificat CA</string>
   <string name="one_usercrt">un certificat d\'usuari</string>
   <string name="one_userkey">una clau d\'usuari</string>
+  <string name="onehour">30 minuts</string>
+  <string name="onekey_migrate">Mi Mover</string>
   <string name="online_resource_entry">Recursos en línia</string>
   <string name="only_one_home_message">La configuració d\'inici s\'amagarà fins que no instal·leu una altra aplicació d\'inici.</string>
   <string name="onscreen_keyboard_settings_summary">Configuració del teclat de pantalla</string>
@@ -2617,7 +2627,9 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="paper_mode_customize_time_summary">planifica de mode de lectura com a temps personalitzat</string>
   <string name="paper_mode_customize_time_title">personalitza el temps</string>
   <string name="paper_mode_end_time_title">Hora de finalització</string>
+  <string name="paper_mode_get_location_dlg_negative_btn_text">Cancel·la</string>
   <string name="paper_mode_get_location_dlg_positive_btn_text">Vés a la configuració</string>
+  <string name="paper_mode_get_location_dlg_title">Estableix la ubicació</string>
   <string name="paper_mode_start_time_title">Hora d\'inici</string>
   <string name="passpoint_content">%1$s certificats</string>
   <string name="passpoint_label">S\'ha desat mitjançant</string>
@@ -2779,6 +2791,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="privacy_password_add_account">Afegeix</string>
   <string name="privacy_password_add_account_info">Fes que el Compte Mi pugui restablir la contrasenya en cas d\'oblit</string>
   <string name="privacy_password_add_account_setting">Compte i privadesa</string>
+  <string name="privacy_password_bind_account">Afegeix al Compte Mi</string>
   <string name="privacy_password_bind_account_immediate">Afegeix</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Confirmeu la contrasenya del segon espai</string>
   <string name="privacy_password_confirm_use_finger">Desbloqueig amb empremta</string>
@@ -2945,6 +2958,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="remove_from_frequently_fragment">Voleu esborrar %s de la configuració ràpida?</string>
   <string name="remove_managed_profile_label">Suprimeix el perfil professional</string>
   <string name="repeat">Repeteix</string>
+  <string name="repeat_call">Recordatori de trucades repetides</string>
   <string name="repeat_title">Repeteix</string>
   <string name="reset_aaid">Reinicia l\'identificador de publicitat</string>
   <string name="reset_app_preferences">Reinicia les preferències de les aplicacions</string>
@@ -3163,6 +3177,8 @@ Per fer-ho:
   <string name="sd_mount">Munta l\'emmagatzematge USB</string>
   <string name="sdcard_changes_instructions">Els canvis s\'aplicaran quan es torni a connectar el cable USB.</string>
   <string name="sdcard_format">Esborra l\'emmagatzematge USB</string>
+  <string name="sdcard_optimization_cancel">Cancel·la</string>
+  <string name="sdcard_optimization_open">Engega</string>
   <string name="sdcard_setting">Emmagatzematge USB</string>
   <string name="sdcard_settings_available_bytes_label">Bytes disponibles:</string>
   <string name="sdcard_settings_bad_removal_status">S\'ha extret l\'emmagatzematge USB quan encara s\'estava utilitzant!</string>
@@ -3648,6 +3664,7 @@ Per fer-ho:
 Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possible.»</string>
   <string name="stable_build">" | Estable"</string>
   <string name="standard">Silenci</string>
+  <string name="standard_info">No es permeten les trucades i les notificacions, només l\'alarma i la música</string>
   <string name="start_silent_mode">Activa el Mode Silenciòs</string>
   <string name="start_vip_mode">habilita el mode VIP</string>
   <string name="starting_android">S\'està iniciant Android</string>
