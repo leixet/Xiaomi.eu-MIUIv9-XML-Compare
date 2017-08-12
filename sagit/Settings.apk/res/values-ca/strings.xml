@@ -1171,6 +1171,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="default_input_method">Trieu el teclat predeterminat</string>
   <string name="default_keyboard_layout">Predeterminat</string>
   <string name="default_phone_title">Aplicació de telèfon</string>
+  <string name="default_rule_name">1a regla prevista</string>
   <string name="default_sound">So predeterminat</string>
   <string name="default_spell_checker">Corrector ortogràfic predeterminat</string>
   <string name="default_usb_mode">Connexió USB</string>
@@ -1179,6 +1180,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="delete_fingerprint_text">Suprimeix les empremtes</string>
   <string name="delete_legacy_fingerprint">Elimina</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Voleu suprimir aquesta empremta?</string>
+  <string name="delete_rule">suprimeix les regles</string>
   <string name="delete_saved_network">Esborra les xarxes desades</string>
   <string name="demo_mode">Mode de demostració</string>
   <string name="deny">Denega</string>
@@ -1380,6 +1382,8 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="edge_mode_screenshot">Captura de pantalla</string>
   <string name="edge_mode_screenshot_summary">Toca dues vegades ambdues vores per fer una captura de pantalla</string>
   <string name="edge_touch_volume">Configuració del volum des de la vora</string>
+  <string name="edit_rule">edita les regles</string>
+  <string name="edit_rules">edita</string>
   <string name="emergency_info_title">Informació d\'emergència</string>
   <string name="emergency_tone_alert">Avís</string>
   <string name="emergency_tone_silent">Silenciosa</string>
