@@ -989,7 +989,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Feu clic en ajusta - Clic perllongat en el disparador</item>
   </string-array>
   <string-array name="silent_mode_duration_text">
-    <item>Always</item>
+    <item>Sempre</item>
     <item>30 minutes</item>
     <item>1 hora</item>
     <item>2 hores</item>
