@@ -3,10 +3,10 @@
 <resources>
   <string-array name="wifi_status">
     <item></item>
-    <item>S\'està escanejant&#8230;</item>
-    <item>S\'està connectant&#8230;</item>
-    <item>S\'està autenticant&#8230;</item>
-    <item>S\'està obtenint l\'adreça IP&#8230;</item>
+    <item>S\'està escanejant…</item>
+    <item>S\'està connectant…</item>
+    <item>S\'està autenticant…</item>
+    <item>S\'està obtenint l\'adreça IP…</item>
     <item>Connectat</item>
     <item>Suspès</item>
     <item>S\'està desconnectant&#8230;</item>
