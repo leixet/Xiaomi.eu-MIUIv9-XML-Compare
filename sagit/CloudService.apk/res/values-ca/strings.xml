@@ -302,8 +302,10 @@ Toca el botó de configuració de sincronització per veure més opcions\"</stri
   <string name="micloud_main_sync_pending">Esperant per sincronitzar</string>
   <string name="micloud_main_sync_setting">Configuració de sincronització</string>
   <string name="micloud_main_sync_stop">Sincronització parada</string>
+  <string name="micloud_main_synced_data_count">%d elements sincronitzats</string>
   <string name="micloud_main_syncing">Sincronitzant &#8230;</string>
   <string name="micloud_main_title_master_sync_off">Autosincronització apagada</string>
+  <string name="micloud_main_title_not_synced">No sincronitzat</string>
   <string name="micloud_main_title_sync_fail">"No es pot sincronitzar"</string>
   <string name="micloud_main_title_sync_off">Sincronització parada</string>
   <string name="micloud_main_title_sync_on_wifi">Utilitzar Wi-Fi</string>
@@ -313,6 +315,7 @@ Toca el botó de configuració de sincronització per veure més opcions\"</stri
   <string name="micloud_main_wait_wlan">S\'està esperant una connexió Wi-Fi</string>
   <string name="micloud_main_wait_wlan_charge">S\'està esperant una connexió Wi-Fi, s\'està connectant el carregador</string>
   <string name="micloud_main_wait_wlan_charge_sleep">S\'està esperant una connexió Wi-Fi, s\'està connectant el carregador i apagar la pantalla</string>
+  <string name="micloud_main_wlan_sync_data_count">Elements esperant la sincronització: %d</string>
   <string name="micloud_member">Membre Mi Cloud</string>
   <string name="micloud_member_advantage">Obtenir més espai d\'emmagatzematge.</string>
   <string name="micloud_member_buy_content" formatted="false">"Vàlid fins al %s-%s-%s
@@ -478,6 +481,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="start_micloud">Inicia</string>
   <string name="storage">Emmagatzematge</string>
   <string name="sub_alert_notif_content">Activar Micloud</string>
+  <string name="sub_alert_notif_dspt_add">Elements esperant la sincronització: %s</string>
   <string name="sub_alert_notif_dspt_no">S\'ha sincronitzat</string>
   <string name="sub_alert_notif_title">Sense sincronitzar</string>
   <string name="sub_sync_item_sms_summary">"Sincronitzar missatges que continguin fotos, àudio o bé el contingut multimèdia únicament quan estiguis connectat a una xarxa Wi-Fi"</string>
