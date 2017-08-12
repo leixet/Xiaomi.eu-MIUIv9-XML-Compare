@@ -3516,14 +3516,19 @@ Per fer-ho:
   <string name="shut_down_find_device_network_failure_content">"No s'ha pogut apagar Localitza el dispositiu. Assegureu-vos que el dispositiu és connectat a Internet."</string>
   <string name="shut_down_find_device_network_failure_title">"No s'ha pogut connectar a la xarxa"</string>
   <string name="shuting_down_find_device">S\'està apagant Localitza el dispositiu&#8230;</string>
+  <string name="silent_duration">Durada</string>
   <string name="silent_mode">Mode silenci</string>
   <string name="silent_mode_title">Mode silenci</string>
   <string name="silent_off">Apagar</string>
+  <string name="silent_settings">Silenciós/DND</string>
+  <string name="silent_standard">Silenciós</string>
+  <string name="silent_time">Durada en silenci</string>
   <string name="silent_total">DND</string>
   <string name="sim_bad_pin">El PIN ha de tenir de 4 a 8 números</string>
   <string name="sim_call_back_title">Torna la trucada des de la SIM predeterminada</string>
   <string name="sim_calls_always_use">Utilitza sempre per a les trucades</string>
   <string name="sim_calls_ask_first_prefs_title">Demana-m\'ho cada vegada</string>
+  <string name="sim_card_number_title">SIM %1$d</string>
   <string name="sim_card_select_title">Selecció de la targeta SIM</string>
   <string name="sim_cards_changed_message">Les targetes SIM han canviat</string>
   <string name="sim_cards_changed_message_summary">Toca per definir les activitats</string>
@@ -3578,6 +3583,7 @@ Per fer-ho:
   <string name="sim_selection_required_pref">Cal seleccionar una preferència</string>
   <string name="sim_settings_title">Targetes SIM</string>
   <string name="sim_setup_wizard_title">Targetes SIM</string>
+  <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
   <string name="sim_slot_empty">Targeta SIM buida</string>
   <string name="sim_status_title">Estat de la targeta SIM</string>
   <string name="simulate_color_space">Simula l\'espai de color</string>
@@ -3587,6 +3593,7 @@ Per fer-ho:
   <string name="skip_label">Omet</string>
   <string name="skip_lock_screen_confirm_msg">Es desactivaran les següents funcions a la pantalla de bloqueig: notificacions, controls del reproductor de música, càmera i accés a Mi Home.</string>
   <string name="skip_step">Omet</string>
+  <string name="slot_number">(Slot%1$d)</string>
   <string name="slot_status_title">informació d\'IMEI</string>
   <string name="small_font">Petita</string>
   <string name="smallwindow_smartcover_title">Tapa frontal transparent</string>
@@ -3628,6 +3635,8 @@ Per fer-ho:
 Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possible.»</string>
   <string name="stable_build">" | Estable"</string>
   <string name="standard">Silenci</string>
+  <string name="start_silent_mode">Activa el Mode Silenciòs</string>
+  <string name="start_vip_mode">habilita el mode VIP</string>
   <string name="starting_android">S\'està iniciant Android</string>
   <string name="status_awaiting_tap">Toca una etiqueta per escriure...</string>
   <string name="status_awake_time">Temps d\'activació</string>
@@ -3637,6 +3646,7 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="status_bar_app_enable_keyguard">Pantalla de bloqueig</string>
   <string name="status_bar_app_enable_message">Insígnies</string>
   <string name="status_bar_key_position_custom">Posició de tecla personalitzada</string>
+  <string name="status_bar_screen_button_desc">Llisca avall per amagar el botons de la pantalla</string>
   <string name="status_bar_screen_button_key">Tecles virtuals en pantalla</string>
   <string name="status_bar_screen_key_back">Tecla Enrere</string>
   <string name="status_bar_screen_key_home">Tecla Pàgina d\'inici</string>
@@ -3955,8 +3965,10 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="title_system_resource">Recursos del sistema</string>
   <string name="toast_lockscreen_glogin_empty_password">Introduïu la contrasenya</string>
   <string name="toast_need_login">Inicieu la sessió al compte Mi</string>
+  <string name="total">DND</string>
   <string name="total_memory">Memòria total</string>
   <string name="total_size">%s en total</string>
+  <string name="total_size_label">Total</string>
   <string name="touch_assistant">Menú de dreceres</string>
   <string name="touch_filtered_warning">Com que hi ha una aplicació que amaga una sol·licitud de permís, des de la configuració no es pot verificar la resposta.</string>
   <string name="touch_sensitive_summary">Fes que la pantalla sigui més sensible a la pressió</string>
@@ -3996,6 +4008,7 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="tts_engine_security_warning">Pot ser que aquesta base de síntesi de la parla pugui aplegar tot el text que es digui en veu alta, incloses les dades personals, com ara les contrasenyes i els números de les targetes de crèdit. Ve de la base %s. Voleu activar l\'ús d\'aquest motor de síntesi de la parla?</string>
   <string name="tts_engine_settings_button">Obre la configuració de la base</string>
   <string name="tts_engine_settings_title">Configuració de %s</string>
+  <string name="tts_general_section_title">General</string>
   <string name="tts_install_data_summary">Instal·la les dades de veu que calguin per a la síntesi de veu</string>
   <string name="tts_install_data_title">Instal·lació de les dades de veu</string>
   <string name="tts_lang_not_selected">No s\'ha seleccionat cap idioma</string>
@@ -4023,6 +4036,8 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="turn_on_security_lock">Tria un bloqueig de pantalla</string>
   <string name="turn_on_wifi_dialog_text">La Wi-Fi es desactiva quan el punt d\'accés s\'activa. Per activar el Wi-Fi heu de desactivar el punt d\'accés.</string>
   <string name="turn_on_wifi_dialog_title">Activa la Wi-Fi</string>
+  <string name="turn_update_keyguard_password_wait_dialog">S\'està modificant la contrasenya</string>
+  <string name="twohours">1 hora</string>
   <string name="under_keyguard">Pantalla de bloqueig</string>
   <string name="uninstall_all_users_text">Desinstal·la per a tots els usuaris</string>
   <string name="uninstall_device_admin">Desinstal·la l\'aplicació</string>
@@ -4558,6 +4573,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_eap_ca_cert">Certificat de CA</string>
   <string name="wifi_eap_domain">Domini</string>
   <string name="wifi_eap_identity">Identitat</string>
+  <string name="wifi_eap_info_reconnect">Error d\'autenticació. Torneu-ho a provar!</string>
   <string name="wifi_eap_method">Mètode EAP</string>
   <string name="wifi_eap_sim_simcard">Tria la SIM</string>
   <string name="wifi_eap_user_cert">Certificat d\'usuari</string>
@@ -4584,6 +4600,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_hotspot_message">Heu d\'iniciar la sessió abans que %1$s es connecti a la xarxa.</string>
   <string name="wifi_hotspot_title">Voleu iniciar la sessió?</string>
   <string name="wifi_in_airplane_mode">En mode d\'avió</string>
+  <string name="wifi_info_reconnect">Contrasenya incorrecta, torneu-ho a provar!</string>
   <string name="wifi_install_credentials">Instal·la els certificats</string>
   <string name="wifi_ip_address">Adreça IP</string>
   <string name="wifi_ip_settings">Configuració IP</string>
