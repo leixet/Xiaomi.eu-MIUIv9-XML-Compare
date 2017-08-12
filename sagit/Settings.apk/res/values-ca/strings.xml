@@ -2281,6 +2281,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_lab_feature_on">Activat</string>
   <string name="miui_lab_gallery_search_title">Troba fotos a la galeria</string>
   <string name="miui_lab_slogan">Aprèn. Explora. Descobreix.</string>
+  <string name="miui_lab_taplus_desc">Premeu i mantingueu premut per activar les dreceres</string>
   <string name="miui_screen_config_title">Configuració de la pantalla inicial</string>
   <string name="mms_breathing_light_color_title">Color dels missatges</string>
   <string name="mms_breathing_light_freq_title">Freqüència de parpelleig del LED dels missatges</string>
@@ -2583,11 +2584,19 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="page_layout_22">El meu perfil</string>
   <string name="page_layout_23">Els meus grups</string>
   <string name="page_layout_24">PREFERITS</string>
+  <string name="page_layout_25">Hugo Barra</string>
+  <string name="page_layout_26">Manvendra Gupta</string>
+  <string name="page_layout_27">Manu Jain</string>
+  <string name="page_layout_28">Clinton Jeff</string>
+  <string name="page_layout_29">Santi Kuan</string>
   <string name="page_layout_3">Galeria</string>
+  <string name="page_layout_30">Jai Mani</string>
+  <string name="page_layout_31">Jack Tang</string>
   <string name="page_layout_4">Música</string>
   <string name="page_layout_5">Vídeo</string>
   <string name="page_layout_6">Aplicacions</string>
   <string name="page_layout_7">Jocs</string>
+  <string name="page_layout_8">Mi Life</string>
   <string name="page_layout_9">Temes</string>
   <string name="page_layout_confirm_message">Per aplicar aquests canvis el dispositiu s\'ha de reiniciar. Trigarà aproximadament 1 minut.</string>
   <string name="page_layout_confirm_title">Canvia la configuració de pantalla</string>
@@ -2608,6 +2617,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="paper_mode_customize_time_summary">planifica de mode de lectura com a temps personalitzat</string>
   <string name="paper_mode_customize_time_title">personalitza el temps</string>
   <string name="paper_mode_end_time_title">Hora de finalització</string>
+  <string name="paper_mode_get_location_dlg_positive_btn_text">Vés a la configuració</string>
   <string name="paper_mode_start_time_title">Hora d\'inici</string>
   <string name="passpoint_content">%1$s certificats</string>
   <string name="passpoint_label">S\'ha desat mitjançant</string>
@@ -3030,6 +3040,7 @@ Aquesta configuració afecta tots els usuaris del telèfon.»</string>
   <string name="saved_wifi_delete">Elimina</string>
   <string name="scan_list_label">Resultats de l\'escaneig:</string>
   <string name="screen">Pantalla</string>
+  <string name="screen_button">Botons de la pantalla</string>
   <string name="screen_cells_config_title">Disposició de la pantalla d\'inici</string>
   <string name="screen_color_and_optimize">Colors i contrast</string>
   <string name="screen_color_and_optimize_disabled">"No es pot ajustar la temperatura del color en el mode lectura"</string>
@@ -3650,6 +3661,7 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="status_bar_key_position_custom">Posició de tecla personalitzada</string>
   <string name="status_bar_screen_button_desc">Llisca avall per amagar el botons de la pantalla</string>
   <string name="status_bar_screen_button_key">Tecles virtuals en pantalla</string>
+  <string name="status_bar_screen_button_key_can_hide">Els botons de la pantalla es poden amagar</string>
   <string name="status_bar_screen_key_back">Tecla Enrere</string>
   <string name="status_bar_screen_key_home">Tecla Pàgina d\'inici</string>
   <string name="status_bar_screen_key_menu">Tecla Menú</string>
