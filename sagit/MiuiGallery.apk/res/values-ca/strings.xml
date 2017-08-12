@@ -20,6 +20,7 @@
   <string name="add_automatically_alert_title">Afegeix fotos automàticament</string>
   <string name="add_sharer">Afegeix membre</string>
   <string name="add_to_album">Afegeix a un àlbum</string>
+  <string name="add_to_album_bulk_result">Error (%d)</string>
   <string name="add_to_album_exist">Aquesta foto ja existeix</string>
   <string name="add_to_album_failed">"No s'ha pogut afegir a l'àlbum"</string>
   <string name="add_to_album_success">Afegida a l\'àlbum</string>
@@ -35,6 +36,7 @@
   <string name="adjust">Millora</string>
   <string name="adjust_blur">Difuminat</string>
   <string name="adjust_brightness">Brillantor</string>
+  <string name="adjust_contrast">Contrast</string>
   <string name="adjust_saturation">Saturació</string>
   <string name="adjust_sharpen">Nitidesa</string>
   <string name="adjust_vignette">Vinyeta</string>
@@ -48,6 +50,7 @@
   <string name="album_jump_failed">Espereu fins que els àlbums se sincronitzin amb Mi Cloud i torneu-ho a provar</string>
   <string name="album_member">Membres de l\'àlbum %s</string>
   <string name="album_name">Nom de l\'àlbum</string>
+  <string name="album_name_tags">Etiquetes</string>
   <string name="album_others_share_baby_info_format">Àlbum del nadó de %s</string>
   <string name="album_others_share_info_format">De %s</string>
   <string name="album_owner_share">Compartit</string>
@@ -340,6 +343,7 @@
   <string name="doodle">Gargot</string>
   <string name="doodle_big_size">Gran</string>
   <string name="doodle_middle_size">Mitjà</string>
+  <string name="doodle_mosaic">Mosaic</string>
   <string name="doodle_small_size">Petit</string>
   <string name="doodle_super_big_size">Enorme</string>
   <string name="double_tap_to_higher_definition">Toqueu dues vegades novament per la vista prèvia en HD</string>
@@ -357,6 +361,7 @@
   <string name="empty_recommend_back">Enrere</string>
   <string name="empty_recommend_face_page_view">No hi ha més recomanacions</string>
   <string name="empty_relation">"El nom del grup no pot estar buit"</string>
+  <string name="empty_title_no_photos">No hi ha cap foto o vídeo</string>
   <string name="enable_auto_upload_tip">Aquest àlbum s\'eliminarà dels altres àlbums després que ho activeu.</string>
   <string name="enable_auto_upload_title">Activa la sincronització amb Mi Cloud</string>
   <string name="enable_cloud_for_sharing">És necessari activar Mi Cloud per veure les fotos compartides.</string>
@@ -438,6 +443,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="has_invalid_recipient">Destinataris no vàlids: %1$s</string>
   <string name="have_known">Ho entenc</string>
   <string name="hidden_album_display_name">Àlbum ocult</string>
+  <string name="home_page_empty_action">Fes una foto</string>
   <string name="home_page_label">Fotos</string>
   <string name="how_to_set_relation">Toqueu i mantingueu premut un àlbum per crear un grup</string>
   <string name="hybrid_check_network">Configuració de xarxa</string>
@@ -586,6 +592,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="other_album">Altres àlbums</string>
   <string name="other_settings">Configuració addicional</string>
   <string name="owner_album_subtitle">Compartit amb %1$s persones</string>
+  <string name="people_album_empty_title">Les fotos es poden ordenar segons la gent que hi surt</string>
   <string name="people_jump_failed">Espereu fins que las fotos amb persones se sincronitzin amb Mi Cloud i torneu-ho a provar</string>
   <string name="people_page_label">Persones</string>
   <string name="people_page_unname">Sense nom</string>
@@ -625,6 +632,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="publish_failed">"No s'ha pogut publicar"</string>
   <string name="publish_succeeded">Àlbum publicat</string>
   <string name="publishing">S\'està publicant&#8230;</string>
+  <string name="recent_album_empty_title">"No s'han afegit fotos noves recentment"</string>
   <string name="recommanded_face_abandon_tip">S\'ha eliminat dels suggeriments</string>
   <string name="recommanded_face_added_tip">Afegit a \"%s\"</string>
   <string name="recovery_merge">Combina</string>
@@ -686,6 +694,8 @@ Feu més fotos als vostres amics!"</string>
   <string name="search_login_sub_title">Inicieu sessió per trobar més fotos</string>
   <string name="search_login_title">Compte Mi</string>
   <string name="search_login_title_full_screen">Inicieu sessió al Compte Mi per trobar més objectes i persones</string>
+  <string name="search_net_error">S\'ha produït un error de xarxa. Connecteu a una xarxa diferent i torneu-ho a provar.</string>
+  <string name="search_request_open">Uniu-vos a l\'equip de test</string>
   <string name="search_result_empty">"No hi ha resultats"</string>
   <string name="search_retry">Torna-ho a provar</string>
   <string name="search_set_network_connection">Configuració de xarxa</string>
