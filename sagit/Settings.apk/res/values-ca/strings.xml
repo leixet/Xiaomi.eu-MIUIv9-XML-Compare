@@ -148,6 +148,8 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
   <string name="add_fingerprint_success_msg">S\'ha afegit correctament</string>
   <string name="add_fingerprint_text">Afegiu una empremta</string>
   <string name="add_fingerprint_toast_text">Poseu el dit al lector</string>
+  <string name="add_new">afegeix</string>
+  <string name="add_rule">afegeix regles</string>
   <string name="add_virtual_keyboard">Gestiona els teclats</string>
   <string name="adding_profile_owner_warning">«Si continueu, el vostre usuari serà gestionat per l\'Administrador, que podrà recollir dades complementàries junt amb les vostres dades personals.
 
@@ -187,6 +189,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="allow_mock_location_summary">Permet ubicacions fictícies</string>
   <string name="allow_overlay_description">Aquest permís permet que una aplicació es mostri per davant d\'altres que s\'estan fent servir. Pot interferir o canviar el que es visualitza d\'altres aplicacions.</string>
   <string name="alpha_build">" | Alfa"</string>
+  <string name="always">Sempre</string>
   <string name="always_allow_bind_appwidgets_text">Heu triat de permetre que l\'aplicació creï ginys i accedeixi a les dades.</string>
   <string name="always_running">Executa sempre (%s)</string>
   <string name="amber_alerts_summary">Rebre informacions sobre segrestos de nens</string>
@@ -285,6 +288,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="app_sees_restricted_accounts_and_controlled_by">L\'aplicació pot accedir als comptes. Controlat per %1$s</string>
   <string name="app_special_disable_dlg_text">Si la desactiveu es suprimiran les dades i podria ser que altres aplicacions no funcionessin correctament.</string>
   <string name="app_special_disable_dlg_title">Voleu eliminar les dades i desactivar l\'aplicació?</string>
+  <string name="app_switch_key">Recents</string>
   <string name="app_usage_preference">Preferències d\'ús de les aplicacions</string>
   <string name="application_forbid_auto_startup">No permetis que %s s\'executi en segon pla</string>
   <string name="application_info_label">Informació de l\'aplicació</string>
