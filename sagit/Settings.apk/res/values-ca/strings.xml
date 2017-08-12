@@ -2157,6 +2157,7 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="managed_profile_settings_title">Configuració del perfil professional</string>
   <string name="managed_user_title">Perfil professional</string>
   <string name="managing_admin">Gestionat per %s</string>
+  <string name="manual">Manual</string>
   <string name="manually_add_network">Afegeix una xarxa</string>
   <string name="master_clear_accounts">«
 
@@ -2275,6 +2276,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_allow_vibrate">Vibració</string>
   <string name="miui_data_usage_menu_metered">Punts d\'accés mòbil</string>
   <string name="miui_experience_optimization">Activa l\'optimització MIUI</string>
+  <string name="miui_lab_feature_applied">S\'ha aplicat</string>
   <string name="miui_lab_feature_off">Desactivat</string>
   <string name="miui_lab_feature_on">Activat</string>
   <string name="miui_lab_gallery_search_title">Troba fotos a la galeria</string>
@@ -4029,6 +4031,7 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="turn_off_common_password_confirm_msg">També es desactivarà el bloqueig de pantalla.</string>
   <string name="turn_off_keyguard_password_alert_title">Desactiva</string>
   <string name="turn_off_keyguard_password_confirm_msg">"Voleu desactivar la contrasenya de la pantalla de bloqueig?"</string>
+  <string name="turn_off_keyguard_password_wait_dialog">S\'està tancant la contrasenya</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"No podreu desbloquejar el dispositiu amb l'empremta si desactiveu la contrasenya de la pantalla de bloqueig"</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">"Després de desactivar la contrasenya de la pantalla de bloqueig, se suprimiran les empremtes registrades. No podreu desbloquejar el dispositiu amb l'empremta."</string>
   <string name="turn_off_security_lock">Desactiva el bloqueig</string>
@@ -4313,6 +4316,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="vibrate_input_devices_summary">Si està connectat, redirigeix la vibració al controlador de jocs.</string>
   <string name="vibrate_on_touch_title">Vibrar en tocar</string>
   <string name="vibrate_when_ringing_title">Vibra també en trucades</string>
+  <string name="vip_mode_info">En el mode Silenciós, s\'activaran els recordatoris Ling i les trucades a la llista de contactes VIP</string>
   <string name="virtual_keyboard_category">Teclat virtual</string>
   <string name="virtual_sim_category_title">Itinerància Mi</string>
   <string name="virtual_sim_description">Servei d\'itinerància internacional fiable</string>
