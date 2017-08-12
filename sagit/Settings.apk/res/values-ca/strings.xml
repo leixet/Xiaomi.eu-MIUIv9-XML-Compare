@@ -2115,6 +2115,7 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="lockpattern_settings_require_pin_before_startup_summary">"Sol·licita un PIN per iniciar el dispositiu. Quan està apagat, aquest dispositiu no pot rebre trucades, missatges, notificacions ni alarmes."</string>
   <string name="lockpattern_settings_title">Patró de desbloqueig</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts">Heu superat el límit d\'intents. Espereu-vos %d segons.</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Espereu %d segons i torneu-ho a provar.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Massa intents fallits</string>
   <string name="lockpattern_tutorial_cancel_label">Cancel·la</string>
   <string name="lockpattern_tutorial_continue_label">Següent</string>
@@ -2460,6 +2461,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="no_vr_listeners">Cap aplicació instal·lada no ha sol·licitat que s\'executi com un servei d\'ajuda per a la realitat virtual.</string>
   <string name="noise_suppression">Supressió de soroll ambiental</string>
   <string name="normal">Normal</string>
+  <string name="normal_info">Tot el volum és normal</string>
   <string name="normal_smartcover_title">Coberta frontal opaca</string>
   <string name="not_battery_optimizing">No s\'està fent servir l\'optimització de la bateria</string>
   <string name="not_installed">No s\'ha instal·lat per a aquest usuari</string>
@@ -2587,6 +2589,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="page_layout_11">El temps</string>
   <string name="page_layout_12">Seguretat</string>
   <string name="page_layout_13">Eines</string>
+  <string name="page_layout_18">Recents</string>
   <string name="page_layout_19">Contactes</string>
   <string name="page_layout_2">Càmera</string>
   <string name="page_layout_20">Pàgines grogues</string>
