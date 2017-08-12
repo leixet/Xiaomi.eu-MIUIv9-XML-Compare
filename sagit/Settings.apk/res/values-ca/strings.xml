@@ -315,6 +315,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="apps_with_restrictions_header">Aplicacions amb restriccions</string>
   <string name="apps_with_restrictions_settings_button">Amplia la configuració de les aplicacions</string>
   <string name="ask_compatibility">Quan s\'executi demana-ho</string>
+  <string name="ask_for_delete">Esteu segur que voleu eliminar la regla?</string>
   <string name="assist_access_context_summary">Permet que l\'auxiliar de l\'aplicació accedeixi al contingut de la pantalla com a text</string>
   <string name="assist_access_context_title">Utilitza el text de la pantalla</string>
   <string name="assist_access_screenshot_summary">Permet que l\'auxiliar de l\'aplicació accedeixi a la imatge de la pantalla</string>
@@ -354,6 +355,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="auto_replace_summary">Corregeix les errades ortogràfiques</string>
   <string name="auto_restore_summary">Quan es reinstal·la una aplicació, restaura la còpia de seguretat de la configuració i dades</string>
   <string name="auto_restore_title">Restauració automàtica</string>
+  <string name="auto_rule">regla prevista</string>
   <string name="auto_startup_application_manage">Auto-inici</string>
   <string name="auto_startup_count">%d aplicacions tenen autorització d\'auto-inici</string>
   <string name="automatic_brightness">Brillantor automàtica</string>
