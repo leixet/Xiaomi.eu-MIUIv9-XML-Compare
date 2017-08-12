@@ -988,6 +988,20 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Feu clic a ajusta - Feu clic en el disparador</item>
     <item>Feu clic en ajusta - Clic perllongat en el disparador</item>
   </string-array>
+  <string-array name="silent_mode_duration_text">
+    <item>Always</item>
+    <item>30 minutes</item>
+    <item>1 hora</item>
+    <item>2 hores</item>
+    <item>8 hores</item>
+  </string-array>
+  <string-array name="silent_mode_duration_value">
+    <item>0</item>
+    <item>30</item>
+    <item>60</item>
+    <item>120</item>
+    <item>480</item>
+  </string-array>
   <string-array name="alarm_repeat_type">
     <item>Cada dia</item>
     <item>Entre setmana</item>
@@ -1007,9 +1021,9 @@ Nota: Només per a Ubuntu 8.04!"</item>
   <string-array name="standard_configuration_version_description_primary">
     <item>CPU</item>
     <item>Capacitat de la bateria</item>
-    <item>Rear camera</item>
-    <item>Screen size</item>
-    <item>Resolution</item>
-    <item>Android version</item>
+    <item>Càmera posterior</item>
+    <item>Mida de la pantalla</item>
+    <item>Resolució</item>
+    <item>Versió d\'Android</item>
   </string-array>
 </resources>
