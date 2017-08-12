@@ -20,7 +20,9 @@
   <string name="fingerprint_try_again_text">Torneu a provar-ho</string>
   <string name="forget_password_string">He oblidat la contrasenya</string>
   <string name="incorrect_pincode">Codi PIN incorrecte</string>
+  <string name="incorrect_pincode_remaining_attempts">Codi PIN incorrecte, encara queden %d intents</string>
   <string name="incorrect_pukcode">Codi PUK incorrecte</string>
+  <string name="incorrect_pukcode_remaining_attempts">Codi PUK incorrecte, encara queden %d intents</string>
   <string name="input_password_after_boot_msg">Per desbloquejar el dispositiu, introduïu la contrasenya</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"No es pot canviar d'espai durant una trucada"</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Cal que accediu al primer espai després de reiniciar el dispositiu</string>
