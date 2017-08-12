@@ -140,6 +140,7 @@ Si canvies de targeta SIM s\'enviarà un altre SMS automàticament per reactivar
   <string name="micloud_all_sub_2_intl_sms">S\'enviaran dos missatges de text internacionals per activar la vostra targeta SIM. El vostre operador us ho cobrarà.</string>
   <string name="micloud_all_sub_2_sms">S\'enviaran dos missatges de text normals per activar la vostra targeta SIM. El vostre operador us ho cobrarà.</string>
   <string name="micloud_all_sub_resend_sms">"Quan s'activa 'Trobar dispositiu', un SMS d'activació pot ser enviat després de canviar les targetes SIM."</string>
+  <string name="micloud_battery_low_notification_title">Bateria baixa</string>
   <string name="micloud_buy_member">Compte</string>
   <string name="micloud_buy_member_safe">Compra subscripció Mi Cloud</string>
   <string name="micloud_check_sim_notify_text">"Sembla que has canviat de SIM. Inicia la sessió 
@@ -269,6 +270,7 @@ Per solucionar això, podeu netejar alguns fitxers antics per deixar espai als n
   <string name="micloud_main_memory_low_message">"Per sincronitzar, elimina alguns dels elements emmagatzemats en el núvol."</string>
   <string name="micloud_main_memory_low_title">"No hi ha prou espai"</string>
   <string name="micloud_main_message_master_sync_off">La configuració de sincronització automàtica és a la barra de notificacions.</string>
+  <string name="micloud_main_message_not_synced">%s dades no sincronitzades</string>
   <string name="micloud_main_multi_user_error_message">"Vostè iniciant sessió amb el mateix compte ha provocat un error a Mi Cloud. Si voleu fer una còpia de seguretat de fitxers:
 
 1. Utilitzar un compte diferent.
