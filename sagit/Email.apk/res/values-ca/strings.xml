@@ -792,7 +792,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="qq_login_webview">S\'està iniciant sessió al correu QQ a través de la pagina web. Introduïu la contrasenya.</string>
   <string name="qq_next_generation_auth_toast">Completeu la sol·licitud de protecció de contrasenya de segona generació a través del navegador</string>
   <string name="qq_uthentication_failed">"Error d'autenticació, inicieu sessió una altra vegada"</string>
-  <string name="qq_webview_loading">S\'està ometen, espereu...</string>
+  <string name="qq_webview_loading">S\'està ometen, espereu…</string>
   <string name="questionnair_body_invisibility">"No es mostren els missatges"</string>
   <string name="questionnair_confirm_delete">Eliminar</string>
   <string name="questionnair_instability">Aplicació inestable, reinicis</string>
@@ -887,7 +887,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="save_power_summary">Establir temps d\'estalvi de bateria</string>
   <string name="save_power_title">Estalvi de bateria</string>
   <string name="saved">Desat, %s</string>
-  <string name="saving">Desant...</string>
+  <string name="saving">Desant…</string>
   <string name="sdcard_cannot_use">"La targeta d'emmagatzematge no es pot utilitzar"</string>
   <string name="search_hint">Cerca correu</string>
   <string name="search_result">"Resultats"</string>
