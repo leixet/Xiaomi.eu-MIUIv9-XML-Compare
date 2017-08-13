@@ -220,6 +220,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="debug_monitoring_category">Monitoratge</string>
   <string name="debug_networking_category">Xarxes</string>
   <string name="debug_view_attributes">Habilita l\'inspecció d\'atributs de visualització</string>
+  <string name="demo_mode">Mode de demostració</string>
   <string name="description_direction_left">Lliscar a l\'esquerra per %s.</string>
   <string name="description_direction_up">Lliscar amunt per %s.</string>
   <string name="description_target_search">Cercar</string>
@@ -469,6 +470,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="show_all_anrs_summary">Mostra el quadre d\'aplicacions que no responen en segon pla</string>
   <string name="show_cpu_usage">Mostra l\'ús de la CPU</string>
   <string name="show_cpu_usage_summary">Superposició en pantalla mostrant informació actual de la CPU</string>
+  <string name="show_demo_mode">Mostra el mode de demostració</string>
   <string name="show_hw_layers_updates">Mostra actualitzacions capes</string>
   <string name="show_hw_layers_updates_summary">Quan s\'actualitza il·lumina les capes de maquinari en verd</string>
   <string name="show_hw_screen_updates">Mostra les actualitzacions de visualització de la GPU</string>
