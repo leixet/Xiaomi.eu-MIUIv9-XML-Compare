@@ -34,6 +34,7 @@
   <string name="adding_recipients">S\'estan afegint els destinataris&#8230;</string>
   <string name="adding_to_album">S\'estan afegint les fotos&#8230;</string>
   <string name="adjust">Millora</string>
+  <string name="adjust_auto">Automàtic</string>
   <string name="adjust_blur">Difuminat</string>
   <string name="adjust_brightness">Brillantor</string>
   <string name="adjust_contrast">Contrast</string>
@@ -50,6 +51,8 @@
   <string name="album_jump_failed">Espereu fins que els àlbums se sincronitzin amb Mi Cloud i torneu-ho a provar</string>
   <string name="album_member">Membres de l\'àlbum %s</string>
   <string name="album_name">Nom de l\'àlbum</string>
+  <string name="album_name_locations">Localitzacions</string>
+  <string name="album_name_recent_discovery">Recents</string>
   <string name="album_name_tags">Etiquetes</string>
   <string name="album_others_share_baby_info_format">Àlbum del nadó de %s</string>
   <string name="album_others_share_info_format">De %s</string>
@@ -713,6 +716,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="search_title_others">Tots els resultats</string>
   <string name="search_title_people">Persones</string>
   <string name="search_title_recommend">Recomanat</string>
+  <string name="search_title_suggestion">Suggeriments</string>
   <string name="search_title_tag">Objectes</string>
   <string name="secret_album_card_description">El millor lloc per a tots els petits secrets</string>
   <string name="secret_album_card_title">Proveu els àlbums privats</string>
