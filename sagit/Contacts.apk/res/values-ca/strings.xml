@@ -523,6 +523,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="import_weibo_error_unknown">Error desconegut</string>
   <string name="import_weibo_error_user_cancel">Importació cancel·lada</string>
   <string name="import_weibo_fetch_followers">Combinant contactes…</string>
+  <string name="import_weibo_notification_title_done">S\'han actualitzat %s contactes</string>
   <string name="import_weibo_progress_name">Coincideix \"%1$s\"…</string>
   <string name="importing_sim_contacts_miui">Importar contactes de la targeta SIM&#8230;</string>
   <string name="importing_sim_contacts_miui_prepare">S\'estan preparant els contactes&#8230;</string>
@@ -1128,6 +1129,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="t9_search_guide_zhuyin_title2">Per exemple, ingresseu 5 i 6 per cercar a <font fgcolor="">J</font>osep <font fgcolor="">M</font>as</string>
   <string name="take_new_photo">Prendre foto nova</string>
   <string name="take_photo">Prendre foto</string>
+  <string name="telecom_fraud_insurance">Assegurança de frau telefònic</string>
   <string name="titleJoinContactDataWith">Combina contactes</string>
   <string name="title_other_devices">Altres dispositius disponibles</string>
   <string name="title_paired_devices">Dispositius aparellats</string>
