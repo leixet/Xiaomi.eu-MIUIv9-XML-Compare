@@ -206,6 +206,10 @@
   <string name="select_storage_location">Selecciona una ubicació per a la còpia de seguretat</string>
   <string name="service_stoped">El servei s\'ha aturat</string>
   <string name="settings_summary">Configuració del telèfon i missatgeria</string>
+  <string name="size_byte">B</string>
+  <string name="size_giga_byte">GB</string>
+  <string name="size_kilo_byte">KB</string>
+  <string name="size_mega_byte">MB</string>
   <string name="sms_title">Missatgeria</string>
   <string name="software_backup_info">Dades de l\'aplicació</string>
   <string name="start_backup">Fes la còpia de seguretat</string>
@@ -247,6 +251,7 @@
   <string name="task_service_not_launched">"El procés encara no ha començat"</string>
   <string name="task_stopped_exception">S\'ha cancel·lat la restauració</string>
   <string name="total_num">%d elements,</string>
+  <string name="total_size">, %s</string>
   <string name="trans_backingup">S\'està copiant&#8230;</string>
   <string name="trans_backingup_no_items">S\'està sincronitzant&#8230;</string>
   <string name="trans_calculating">S\'està calculant&#8230;</string>
