@@ -62,7 +62,7 @@
   <string name="card_title_call_ended">"Trucada finalitzada "</string>
   <string name="card_title_conf_call">Trucada de conferència</string>
   <string name="card_title_dialing">S\'està trucant</string>
-  <string name="card_title_hanging_up">"S'està penjant... "</string>
+  <string name="card_title_hanging_up">"S'està penjant "</string>
   <string name="card_title_hanging_up_fail">"No s'ha pogut finalitzar la trucada, torneu-ho a provar."</string>
   <string name="card_title_hanging_up_restart">"No es pot finalitzar la trucada. Reinicieu el dispositiu."</string>
   <string name="card_title_hanging_up_weak_signal">Senyal de xarxa mòbil feble. Trucada finalitzada</string>
@@ -135,7 +135,7 @@
   <string name="incoming_circle_text_reject">Allibera</string>
   <string name="incoming_circle_text_reject_p">Feu lliscar cap amunt</string>
   <string name="ivr_menu_dialing_msg">S\'està desviant&#8230;</string>
-  <string name="ivr_menu_dialing_msg_no_mute">Vés al servei seleccionat... [La correcció automàtica d\'errors està activada]</string>
+  <string name="ivr_menu_dialing_msg_no_mute">Vés al servei seleccionat… [La correcció automàtica d\'errors està activada]</string>
   <string name="ivr_menu_list_sub_menu_count_format">Premeu %s</string>
   <string name="ivr_menu_list_title">Menú de veu</string>
   <string name="jeejen_answer_call_text">Respondre la trucada</string>
