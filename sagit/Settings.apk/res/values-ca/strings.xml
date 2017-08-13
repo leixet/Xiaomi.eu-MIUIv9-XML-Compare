@@ -4069,7 +4069,7 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="tts_reset_speech_rate_title">Restableix la velocitat de la veu</string>
   <string name="tts_settings">Configuració de text-a-veu</string>
   <string name="tts_settings_title">Sortida de text-a-veu</string>
-  <string name="tts_status_checking">S\'està comprovant...</string>
+  <string name="tts_status_checking">S\'està comprovant…</string>
   <string name="tts_status_not_supported">"%1$s no és compatible"</string>
   <string name="tts_status_ok">%1$s és compatible</string>
   <string name="tts_status_requires_network">Cal connexió de xarxa per a %1$s</string>
