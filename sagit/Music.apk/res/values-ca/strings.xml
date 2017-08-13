@@ -117,7 +117,7 @@
   <string name="cloud_empty_message">No hi ha cançons al Mi Cloud</string>
   <string name="cloud_empty_summary">Feu una còpia de seguretat al Mi Cloud per accedir des d\'altres dispositius</string>
   <string name="cloud_enable">Sincronitza música amb Mi Cloud</string>
-  <string name="cloud_loading_message">S\'estan cercant cançons...</string>
+  <string name="cloud_loading_message">S\'estan cercant cançons…</string>
   <string name="cloud_music">Música al núvol</string>
   <string name="cloud_settings">Configuració de la sincronització</string>
   <string name="cloud_space_full">Sense espai d\'emmagatzematge</string>
@@ -753,7 +753,7 @@
   <string name="sort_by_time">Data</string>
   <string name="source_from">Font: %1$s</string>
   <string name="start_download_music">S\'estan baixant actualitzacions per a la Música.</string>
-  <string name="start_shuffle">Inicia la reproducció aleatòria...</string>
+  <string name="start_shuffle">Inicia la reproducció aleatòria…</string>
   <string name="start_to_download">S\'està baixant&#8230;</string>
   <string name="start_to_play">Reprodueix</string>
   <string name="start_to_use">Obre Música</string>
