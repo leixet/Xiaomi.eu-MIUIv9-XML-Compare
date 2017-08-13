@@ -90,8 +90,8 @@
     <item>1080p (segur)</item>
     <item>4K</item>
     <item>4K (segur)</item>
-    <item>4K (upscaled)</item>
-    <item>4K (upscaled, secure)</item>
+    <item>4K (ampliat)</item>
+    <item>4K (ampliat, segur)</item>
     <item>720p, 1080p (pantalla dual)</item>
   </string-array>
   <string-array name="enable_opengl_traces_entries">
@@ -126,7 +126,7 @@
   <string-array name="usb_configuration_titles">
     <item>Càrrega</item>
     <item>MTP (Protocol de Transferència de Multimèdia)</item>
-    <item>PTP (Picture Transfer Protocol)</item>
+    <item>PTP (Protocol de transferència d\'imatges)</item>
     <item>RNDIS (USB Ethernet)</item>
     <item>Font d\'àudio</item>
     <item>MIDI</item>
