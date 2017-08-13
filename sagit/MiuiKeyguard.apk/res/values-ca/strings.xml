@@ -45,6 +45,7 @@
   <string name="keyguard_charging_info_drained_hour_time_format">%d h</string>
   <string name="keyguard_charging_info_drained_min_time_format">%d min</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Descarregada</string>
+  <string name="keyguard_charging_info_drained_time_format" formatted="false">%d h %d min</string>
   <string name="keyguard_charging_info_finished_charging_text">Càrrega completa</string>
   <string name="keyguard_charging_info_last_charge_time">d/M H:mm</string>
   <string name="keyguard_charging_info_last_charge_today_time">Avui %s</string>
@@ -80,8 +81,11 @@ Torneu a provar-ho d\'aquí %d segons."</string>
   <string name="open_camera_hint_text">Feu lliscar cap a l\'esquerra per obrir %s</string>
   <string name="open_remote_center_hint_text">Feu lliscar cap a la dreta per obrir %s</string>
   <string name="phone_locked_foget_password">Heu oblidat la contrasenya?</string>
+  <string name="phone_locked_foget_password_header">Què hauria de fer si oblidés la meva contrasenya?</string>
   <string name="phone_locked_foget_password_ok">D\'acord</string>
   <string name="phone_locked_string">El telèfon ha estat bloquejat</string>
+  <string name="phone_locked_timeout_minutes_string">Torneu-ho a provar d\'aquí a %d minuts</string>
+  <string name="phone_locked_timeout_seconds_string">Torneu-ho a provar d\'aquí a %d segons</string>
   <string name="unlock_string">Desbloqueja</string>
   <string name="unlocking_sim_card">S\'està desbloquejant la SIM</string>
   <string name="unlockscreen_low_battery">Connecteu el carregador</string>
