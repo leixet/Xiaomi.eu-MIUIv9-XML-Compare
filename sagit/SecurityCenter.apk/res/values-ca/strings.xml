@@ -100,7 +100,7 @@
   <string name="antivirus_toast_network_unavailable">"No es pot connectar a la xarxa"</string>
   <string name="antivirus_toast_update_failed">"No s'ha pogut actualitzar"</string>
   <string name="antivirus_toast_update_success">S\'ha actualitzat correctament</string>
-  <string name="antivirus_toast_updating">S\'està actualitzant...</string>
+  <string name="antivirus_toast_updating">S\'està actualitzant…</string>
   <string name="antivirus_update_btn_contiue">Continua</string>
   <string name="antivirus_update_btn_open">Permet</string>
   <string name="antivirus_update_btn_update">Actualitza</string>
