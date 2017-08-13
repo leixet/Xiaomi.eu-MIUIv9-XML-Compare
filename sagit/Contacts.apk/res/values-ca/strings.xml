@@ -87,6 +87,7 @@
   <string name="call_radio">Trucada a ràdio</string>
   <string name="call_record_setting_miui">Configuració d\'enregistrament</string>
   <string name="call_settings">Configuració</string>
+  <string name="call_settings_primary_user_only">La configuració de les trucades només la pot modificar l\'usuari principal.</string>
   <string name="call_sim1_menu_title">Marca a SIM 1</string>
   <string name="call_sim2_menu_title">Marca a SIM 2</string>
   <string name="call_sim_menu_title_suffix">(Primària)</string>
