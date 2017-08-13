@@ -446,6 +446,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="screenshot_dlg_delete_button">Elimina</string>
   <string name="screenshot_edit">Edita</string>
   <string name="screenshot_failed_text">"No s'ha pogut desar la captura de pantalla, a causa de problemes d'emmagatzematge o que no està permès per l'aplicació o la teva organització."</string>
+  <string name="screenshot_insert_failed">S\'ha produït un error en llegir la captura de pantalla, feu-ne una de nova o verifiqueu que la imatge és a l\'àlbum</string>
   <string name="screenshot_long_screenshot">Desplaça</string>
   <string name="screenshot_saved_text">Premeu per veure la captura.</string>
   <string name="screenshot_saved_title">Captura de pantalla efectuada</string>
