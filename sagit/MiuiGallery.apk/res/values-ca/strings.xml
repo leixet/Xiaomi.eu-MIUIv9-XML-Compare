@@ -750,6 +750,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="set_face_image">Estableix una nova foto de perfil</string>
   <string name="set_group">Estableix un grup</string>
   <string name="set_wallpaper_get_image_failed">"No s'ha pogut baixar la imatge, torneu-ho a provar més tard"</string>
+  <string name="setup_network_connection">Configuració de la xarxa</string>
   <string name="share">Comparteix</string>
   <string name="share_album">Comparteix l\'àlbum</string>
   <string name="share_album_needs_auto_upload_tip">"No es poden desactivar les còpies de seguretat per als àlbums compartits"</string>
