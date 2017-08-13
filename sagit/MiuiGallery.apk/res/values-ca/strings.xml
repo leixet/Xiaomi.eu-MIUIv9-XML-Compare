@@ -802,6 +802,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="text_append_hint">Introduïu el text</string>
   <string name="text_append_style">Bafarada</string>
   <string name="text_append_transparent">Opacitat</string>
+  <string name="things_album_empty_title">Les fotos es poden ordenar segons els objectes que hi surten</string>
   <string name="tip_capture_location">Ubicació:</string>
   <string name="tip_capture_params">Dades EXIF:</string>
   <string name="tip_capture_time">Presa el:</string>
