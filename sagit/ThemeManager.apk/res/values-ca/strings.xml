@@ -91,7 +91,7 @@
   <string name="incompatible_dialog_title">Problemes de compatibilitat</string>
   <string name="is_setting_wallpaper_message">S\'està establint el fons de pantalla&#8230;</string>
   <string name="live_wallpaper">Fons de pantalla animat</string>
-  <string name="loading">Un moment...</string>
+  <string name="loading">Un moment…</string>
   <string name="loading_resource_detail_fail">"No es pot carregar el recurs"</string>
   <string name="loading_resource_detail_info">Un moment&#8230;</string>
   <string name="local_resouce_creator_name">Desenvolupador: %1$s</string>
