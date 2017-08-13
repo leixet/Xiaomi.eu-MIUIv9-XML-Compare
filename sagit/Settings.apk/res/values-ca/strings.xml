@@ -328,7 +328,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="assistant_security_warning_agree">D\'acord</string>
   <string name="assistant_security_warning_disagree">Cancel·la</string>
   <string name="assistant_security_warning_title">Voleu que %s sigui l\'auxiliar?</string>
-  <string name="assisted_gps">Utilitza el GPS assitit</string>
+  <string name="assisted_gps">Utilitza el GPS assistit</string>
   <string name="assisted_gps_disabled">Utilitza el servidor per l\'auxiliar del GPS (desactiva-ho per millorar el rendiment del GPS)</string>
   <string name="assisted_gps_enabled">Utilitza el servidor per l\'auxiliar del GPS (desactiva-ho per reduir l\'ús de dades)</string>
   <string name="attempt_other_network">Proveu-ho amb una altra xarxa</string>
@@ -3191,6 +3191,7 @@ Per fer-ho:
   <string name="sdcard_changes_instructions">Els canvis s\'aplicaran quan es torni a connectar el cable USB.</string>
   <string name="sdcard_format">Esborra l\'emmagatzematge USB</string>
   <string name="sdcard_optimization_cancel">Cancel·la</string>
+  <string name="sdcard_optimization_close">Apaga &amp; reinicia</string>
   <string name="sdcard_optimization_open">Engega</string>
   <string name="sdcard_setting">Emmagatzematge USB</string>
   <string name="sdcard_settings_available_bytes_label">Bytes disponibles:</string>
@@ -3904,6 +3905,8 @@ Per a un millor rendiment, us recomanem que utilitzeu un ^1 més ràpid."</strin
   <string name="supplicant_state_label">Mode suplicant:</string>
   <string name="sure_sync_now">Voleu sincronitzar els elements?</string>
   <string name="suspend_gesture_enabled">Gira la pantalla</string>
+  <string name="suspension_ball_enable">Drecera d\'inici ràpid</string>
+  <string name="suspension_ball_enable_desc">Activa o desactiva la drecera ràpida des de la drecera</string>
   <string name="suw_back_button_label">Enrere</string>
   <string name="suw_more_button_label">Més</string>
   <string name="suw_next_button_label">Següent</string>
@@ -4010,6 +4013,7 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="toast_lockscreen_glogin_empty_password">Introduïu la contrasenya</string>
   <string name="toast_need_login">Inicieu la sessió al compte Mi</string>
   <string name="total">DND</string>
+  <string name="total_info">Silencia els sons i desactiva la vibració per a tots els elements excepte el despertador</string>
   <string name="total_memory">Memòria total</string>
   <string name="total_size">%s en total</string>
   <string name="total_size_label">Total</string>
