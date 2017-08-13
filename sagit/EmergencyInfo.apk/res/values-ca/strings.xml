@@ -30,6 +30,7 @@
   <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
   <string name="abc_toolbar_collapse_description">Replega</string>
   <string name="abminus">AB-</string>
+  <string name="abplus">AB +</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Aquesta característica és experimental i podria afectar el rendiment.</string>
   <string name="accessibility_display_daltonizer_preference_title">Correcció del color</string>
   <string name="accessibility_no_wifi">Wi-Fi desconnectada.</string>
