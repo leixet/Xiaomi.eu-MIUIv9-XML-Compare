@@ -2293,6 +2293,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_lab_settings">Laboratori MIUI</string>
   <string name="miui_lab_slogan">Aprèn. Explora. Descobreix.</string>
   <string name="miui_lab_taplus_desc">Premeu i mantingueu premut per activar les dreceres</string>
+  <string name="miui_lab_taplus_title">Activador d\'aplicacions</string>
   <string name="miui_screen_config_title">Configuració de la pantalla inicial</string>
   <string name="mms_breathing_light_color_title">Color dels missatges</string>
   <string name="mms_breathing_light_freq_title">Freqüència de parpelleig del LED dels missatges</string>
@@ -2569,6 +2570,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="open_personal_assistant_dialog_desc">"No podreu fer servir l'assistent intel·ligent i rebre les seves actualitzacions. Voleu desactivar-lo ara?"</string>
   <string name="open_personal_assistant_dialog_title">Desactiva l\'assistent intel·ligent</string>
   <string name="open_personal_assistant_title">Activa l\'assistent intel·ligent</string>
+  <string name="open_sdcard_optimization_title">obre l\'emulador optimitzat de sdcard</string>
+  <string name="open_sdcard_optimization_warning_message">Per aplicar aquest canvi el dispositiu es reiniciarà.</string>
   <string name="open_wifi_connect_summary">Premeu per veure els detalls.</string>
   <string name="open_wifi_connect_title">Connecta amb %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">L\'administrador d\'aquest perfil professional és:</string>
@@ -2635,6 +2638,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="paper_mode_customize_time_summary">planifica de mode de lectura com a temps personalitzat</string>
   <string name="paper_mode_customize_time_title">personalitza el temps</string>
   <string name="paper_mode_end_time_title">Hora de finalització</string>
+  <string name="paper_mode_get_location_dlg_msg">Per saber l\'hora de les albades i les postes de sol, cal permetre accés a la ubicació</string>
   <string name="paper_mode_get_location_dlg_negative_btn_text">Cancel·la</string>
   <string name="paper_mode_get_location_dlg_positive_btn_text">Vés a la configuració</string>
   <string name="paper_mode_get_location_dlg_title">Estableix la ubicació</string>
@@ -3063,6 +3067,7 @@ Aquesta configuració afecta tots els usuaris del telèfon.»</string>
   <string name="scan_list_label">Resultats de l\'escaneig:</string>
   <string name="screen">Pantalla</string>
   <string name="screen_button">Botons de la pantalla</string>
+  <string name="screen_button_tips">Llisca avall per amagar els botons de la pantalla</string>
   <string name="screen_cells_config_title">Disposició de la pantalla d\'inici</string>
   <string name="screen_color_and_optimize">Colors i contrast</string>
   <string name="screen_color_and_optimize_disabled">"No es pot ajustar la temperatura del color en el mode lectura"</string>
