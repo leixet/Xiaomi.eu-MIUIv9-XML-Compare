@@ -177,6 +177,8 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="alarm_ringtone_title">So d\'alarma predeterminat</string>
   <string name="alarm_sound_dialog_title">Tria el so de l\'alarma</string>
   <string name="alarm_sound_title">So de l\'alarma</string>
+  <string name="alarm_stop">L\'avís d\'alarma desactiva el mode silenciós</string>
+  <string name="alarm_stop_info">Si l\'alarma toca abans de finalitzar la programació, el mode silenciós es desactivarà</string>
   <string name="alarm_volume_option_title">Volum de l\'alarma</string>
   <string name="alarm_volume_title">Alarma</string>
   <string name="all_volume_title">Volums</string>
@@ -690,6 +692,8 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="bluetooth_unlock_change_device_confirm_msg">El dispositiu anterior es substituirà pel dispositiu actual.</string>
   <string name="bluetooth_unlock_change_matched_device">Tria un altre dispositiu</string>
   <string name="bluetooth_unlock_confirm_device_text">Feu tocar els dispositius per desbloquejar-los.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Per desbloquejar toqueu el botó del rellotge.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_miband2">Per desbloquejar toqueu el botó del dispositiu.</string>
   <string name="bluetooth_unlock_delete_device">Suprimeix el dispositiu</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Voleu eliminar aquest dispositiu?</string>
   <string name="bluetooth_unlock_device_matched_text">Utilitza aquest dispositiu per desbloquejar-ho.</string>
@@ -2284,6 +2288,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_lab_feature_off">Desactivat</string>
   <string name="miui_lab_feature_on">Activat</string>
   <string name="miui_lab_features">Funcions del laboratori MIUI</string>
+  <string name="miui_lab_gallery_search_desc">Cerca d\'imatges millorada</string>
   <string name="miui_lab_gallery_search_title">Troba fotos a la galeria</string>
   <string name="miui_lab_settings">Laboratori MIUI</string>
   <string name="miui_lab_slogan">Aprèn. Explora. Descobreix.</string>
