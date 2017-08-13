@@ -1775,7 +1775,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="install_applications_title">Permet tots els orígens de les aplicacions</string>
   <string name="install_no_market_app_summary">Permet la instal·lació d\'aplicacions d\'origen desconegut</string>
   <string name="install_no_market_app_title">Orígens desconeguts</string>
-  <string name="install_preinstall_app">S\'estan carregant les aplicacions&#8230;</string>
+  <string name="install_preinstall_app">S\'estan carregant les aplicacions…</string>
   <string name="install_text">Instal·la</string>
   <string name="install_unknown_applications">Permet la instal·lació d\'aplicacions d\'origen desconegut</string>
   <string name="install_unknown_applications_title">Permet instal·lar aplicacions d\'orígens desconeguts</string>
@@ -3082,7 +3082,7 @@ Aquesta configuració afecta tots els usuaris del telèfon.»</string>
   <string name="screen_key_press">Pulsació dels botons de la barra de navegació</string>
   <string name="screen_key_press_action">Funció de la pulsació</string>
   <string name="screen_locking_sounds_title">Sons de la pantalla de bloqueig</string>
-  <string name="screen_monochrome_mode_apps_loading">Un moment&#8230;</string>
+  <string name="screen_monochrome_mode_apps_loading">Un moment…</string>
   <string name="screen_monochrome_mode_apps_title">Utilitza el mode monocroma</string>
   <string name="screen_monochrome_mode_global_summary">Utilitza el mode monocroma per a totes les aplicacions</string>
   <string name="screen_monochrome_mode_global_title">Totes les aplicacions</string>
@@ -3096,7 +3096,7 @@ Aquesta configuració afecta tots els usuaris del telèfon.»</string>
   <string name="screen_on_proximity_sensor_summary">Bloqueja el telèfon automàticament en ficar-lo a la butxaca</string>
   <string name="screen_on_proximity_sensor_title">Evita trucades accidentals</string>
   <string name="screen_paper_mode_adjust_level">Intensitat</string>
-  <string name="screen_paper_mode_apps_loading">Un moment&#8230;</string>
+  <string name="screen_paper_mode_apps_loading">Un moment…</string>
   <string name="screen_paper_mode_apps_title">Utilitza mode lectura</string>
   <string name="screen_paper_mode_global_summary">Utilitza mode lectura per a totes les aplicacions</string>
   <string name="screen_paper_mode_global_title">Totes les aplicacions</string>
@@ -3496,11 +3496,11 @@ Per fer-ho:
   <string name="settings_forbidden_message">Aquest paràmetre està desactivat</string>
   <string name="settings_label">Configuració</string>
   <string name="settings_label_launcher">Configuració</string>
-  <string name="settings_license_activity_loading">S\'està carregant&#8230;</string>
+  <string name="settings_license_activity_loading">S\'està carregant…</string>
   <string name="settings_license_activity_title">Llicències de codi obert</string>
   <string name="settings_license_activity_unavailable">S\'ha produït un problema en llegir les llicències.</string>
   <string name="settings_manual_activity_unavailable">S\'ha produït un problema en carregar el manual.</string>
-  <string name="settings_safetylegal_activity_loading">S\'està carregant&#8230;</string>
+  <string name="settings_safetylegal_activity_loading">S\'està carregant…</string>
   <string name="settings_safetylegal_activity_title">Informació de seguretat</string>
   <string name="settings_safetylegal_activity_unreachable">No hi ha connexió de dades. Per veure la informació, aneu a %s des de qualsevol ordinador connectat a Internet.</string>
   <string name="settings_safetylegal_title">Informació de seguretat</string>
@@ -4818,7 +4818,7 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="wifi_share_turn_on">Engega</string>
   <string name="wifi_share_upload">Comparteix</string>
   <string name="wifi_share_upload_finish">S\'han compartit</string>
-  <string name="wifi_share_uploading">S\'està compartint&#8230;</string>
+  <string name="wifi_share_uploading">S\'està compartint…</string>
   <string name="wifi_shared">Comparteix amb altres usuaris del dispositiu</string>
   <string name="wifi_show_advanced">Opcions avançades</string>
   <string name="wifi_show_password">Mostra la contrasenya</string>
@@ -4955,7 +4955,7 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="zen_access_warning_dialog_title">Voleu permetre que %1$s accedeixi al mode No molesteu?</string>
   <string name="zen_event_rule_enabled_toast">S\'ha establert una regla automàtica per activar el mode No molesteu durant els esdeveniments indicats</string>
   <string name="zen_event_rule_type_name">Regla d\'esdeveniment</string>
-  <string name="zen_mode_add_rule">Afegir regla</string>
+  <string name="zen_mode_add_rule">Afegeix una regla</string>
   <string name="zen_mode_alarm_use">Sons</string>
   <string name="zen_mode_alarms">Alarmes</string>
   <string name="zen_mode_all_callers">Totes les trucades</string>
@@ -5034,7 +5034,7 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="zen_mode_when_never">Mai</string>
   <string name="zen_mode_when_weeknights">Nits entre setmana</string>
   <string name="zen_schedule_rule_enabled_toast">S\'ha establert una regla automàtica per activar el mode No molesteu durant les hores indicades</string>
-  <string name="zen_schedule_rule_type_name">Regla d\'hora</string>
+  <string name="zen_schedule_rule_type_name">Regla d\'horari</string>
   <string name="zone_auto">Fus horari automàtic</string>
   <string name="zone_auto_summaryOff">Utilitza l\'hora proporcionada per la xarxa</string>
   <string name="zone_auto_summaryOn">Utilitza l\'hora proporcionada per la xarxa</string>
