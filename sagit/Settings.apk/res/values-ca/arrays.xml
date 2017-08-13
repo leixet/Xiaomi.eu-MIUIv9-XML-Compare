@@ -200,7 +200,7 @@
   </string-array>
   <string-array name="entries_font_size">
     <item>Petita</item>
-    <item>Normal</item>
+    <item>Predeterminat</item>
     <item>Grossa</item>
     <item>Molt grossa</item>
   </string-array>
@@ -454,7 +454,7 @@
     <item>Llarga</item>
   </string-array>
   <string-array name="captioning_typeface_selector_titles">
-    <item>Per defecte</item>
+    <item>Predeterminat</item>
     <item>Sans-serif</item>
     <item>Sans-serif condensada</item>
     <item>Sans serif monoespaiada</item>
