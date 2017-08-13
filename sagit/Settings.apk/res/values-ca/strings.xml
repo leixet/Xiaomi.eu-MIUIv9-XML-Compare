@@ -332,7 +332,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="assisted_gps_disabled">Utilitza el servidor per l\'auxiliar del GPS (desactiva-ho per millorar el rendiment del GPS)</string>
   <string name="assisted_gps_enabled">Utilitza el servidor per l\'auxiliar del GPS (desactiva-ho per reduir l\'ús de dades)</string>
   <string name="attempt_other_network">Proveu-ho amb una altra xarxa</string>
-  <string name="audio_list_loading">S\'està carregant&#8230;</string>
+  <string name="audio_list_loading">S\'està carregant…</string>
   <string name="audio_profile_settings_title">Perfils d\'àudio</string>
   <string name="audio_record_proc_title">Redueix la fressa de fons</string>
   <string name="auto_brightness_summary">Optimitza el nivell de brillantor segons la llum</string>
@@ -389,7 +389,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="backup_pw_set_button_text">Establiu la contrasenya de la còpia de seguretat</string>
   <string name="backup_section_title">Còpia de seguretat i restauració</string>
   <string name="band_mode_failed">No s\'ha pogut realitzar</string>
-  <string name="band_mode_loading">S\'està carregant la llista de les freqüències&#8230;</string>
+  <string name="band_mode_loading">S\'està carregant la llista de les freqüències…</string>
   <string name="band_mode_set">Defineix</string>
   <string name="band_mode_succeeded">S\'ha realitzat</string>
   <string name="band_mode_title">Defineix la freqüència de GSM/UMTS</string>
@@ -1368,7 +1368,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="done">Fet</string>
   <string name="done_button">Fet</string>
   <string name="download_current_rom">Aconsegueix la darrera versió de MIUI</string>
-  <string name="downloading_description">S\'està baixant&#8230;</string>
+  <string name="downloading_description">S\'està baixant…</string>
   <string name="doze_summary">La pantalla es reactiva en agafar el dispositiu o en rebre notificacions</string>
   <string name="doze_title">Pantalla ambient</string>
   <string name="draw_overlay">Mostra a sobre d\'altres aplicacions</string>
@@ -3488,7 +3488,7 @@ Per fer-ho:
   <string name="set_data_limit">Estableix un límit de dades</string>
   <string name="set_data_time_range">Mostra l\'interval de temps</string>
   <string name="setting_privacy_password">Estableix la contrasenya de privacitat</string>
-  <string name="settings_ad_loading">S\'està carregant&#8230;</string>
+  <string name="settings_ad_loading">S\'està carregant…</string>
   <string name="settings_ad_loading_unavailable">Hi ha un problema en carregar.</string>
   <string name="settings_backup">Còpia de seguretat de la configuració</string>
   <string name="settings_backup_summary">Còpia de seguretat de la configuració</string>
