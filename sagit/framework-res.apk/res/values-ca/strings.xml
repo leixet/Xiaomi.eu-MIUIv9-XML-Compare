@@ -68,7 +68,7 @@
   <string name="aerr_process_repeated">%1$s continua aturat</string>
   <string name="aerr_report">Envia els suggeriments</string>
   <string name="aerr_restart">Torna a obrir l\'aplicació</string>
-  <string name="aerr_wait">Espereu</string>
+  <string name="aerr_wait">Espera</string>
   <string name="allow">Permet</string>
   <string name="allow_button">Permet</string>
   <string name="alwaysUse">Utilitza-ho sempre per aquesta acció.</string>
@@ -1253,7 +1253,7 @@ Si escolteu sons a un volum alt durant llargs períodes de temps es podrien dany
   <string name="vpn_title">VPN activada</string>
   <string name="vpn_title_long">VPN activada per %s</string>
   <string name="vr_listener_binding_label">Oient VR</string>
-  <string name="wait">Espereu</string>
+  <string name="wait">Espera</string>
   <string name="wallpaper_binding_label">Fons de pantalla</string>
   <string name="web_user_agent_target_content">"Mòbil "</string>
   <string name="webpage_unresponsive">«La pàgina no respon.
