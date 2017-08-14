@@ -34,6 +34,7 @@
   <string name="back_quit_lock">Premeu tornar un altre cop per deixar el vídeo</string>
   <string name="brightness">Brillantor</string>
   <string name="cancel">Cancel·la</string>
+  <string name="common_google_play_services_unknown_issue">%1$s té problemes amb els serveis de Google Play. Si el problema persisteix, contacteu amb el programador per obtenir ajuda.</string>
   <string name="default_text">Per defecte</string>
   <string name="delete">Elimina</string>
   <string name="delete_file_tips">Voleu eliminar aquest fitxer?</string>
