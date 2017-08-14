@@ -652,7 +652,6 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="pull_to_refresh_pull_label">Llisqueu per actualitzar</string>
   <string name="pull_to_refresh_release_label">Allibereu per recomanar i actualitzar</string>
   <string name="qr_code_title">Codi QR</string>
-  <string name="qr_description">Escaneja el codi QR</string>
   <string name="quicklink_bookmark_save">UBICACIÓ DEL MARCADOR</string>
   <string name="quicklink_cannot_save_url">"Aquest URL no es pot afegir."</string>
   <string name="quicklink_folder_text">Aplicacions més importants</string>
@@ -879,7 +878,6 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="view_document_downloaded_files">Mostra els fitxers baixats a Baixades</string>
   <string name="voice_check_network">Comproveu la connexió i torneu-ho a provar</string>
   <string name="voice_connect_network">"No es pot connectar a la xarxa"</string>
-  <string name="voice_description">Cerca per veu</string>
   <string name="voice_network_connection">L\'ús de la cerca per veu necessita d\'accés a la xarxa, autoritzeu la connexió de xarxa</string>
   <string name="voice_search_permission">La cerca per veu requereix privilegis de veu, aneu a la configuració del navegador per obrir els permisos de veu</string>
   <string name="voice_semantic_analysis">Anàlisi semàntica després de la creació de xarxes</string>
