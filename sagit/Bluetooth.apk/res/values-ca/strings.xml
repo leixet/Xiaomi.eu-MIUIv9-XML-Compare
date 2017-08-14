@@ -3,6 +3,7 @@
 <resources>
   <string name="ErrorTooManyRequests">S\'estan processant massa sol·licituds. Intenteu-ho més tard.</string>
   <string name="ack_record">Registre d\'ACK</string>
+  <string name="airplane_can_not_share">"Amb el mode avió no es pot utilitzar el Bluetooth per compartir"</string>
   <string name="airplane_error_msg">"No podeu utilitzar el Bluetooth en el mode avió."</string>
   <string name="airplane_error_title">Mode avió</string>
   <string name="app_name">Compartir per Bluetooth</string>
@@ -11,6 +12,7 @@
   <string name="auth_notif_title">Clau de sessió</string>
   <string name="bluetooth_connected">Àudio Bluetooth connectat</string>
   <string name="bluetooth_disconnected">Àudio Bluetooth desconnectat</string>
+  <string name="bluetooth_in_airplane_mode">En mode avió</string>
   <string name="bluetooth_map_settings_app_icon">Icona de l\'aplicació</string>
   <string name="bluetooth_map_settings_cancel">Cancel·la</string>
   <string name="bluetooth_map_settings_count">Espais lliures:</string>
@@ -55,11 +57,13 @@
   <string name="download_succ_ok">Obre\'l</string>
   <string name="download_success">Recepció completada (%1$s).</string>
   <string name="download_title">Transferència de fitxers</string>
+  <string name="empty_file_notification_sent">Compartició Bluetooth: El dispositiu remot ha rebutjat el fitxer de mida zero %1$s</string>
   <string name="enabling_progress_content">S\'està activant el Bluetooth&#8230;</string>
   <string name="enabling_progress_title">Espereu&#8230;</string>
   <string name="hello">Hola món, TestActivity</string>
   <string name="inbound_history_title">Transferències d\'entrada</string>
   <string name="inbound_noti_title">Bluetooth: Fitxers rebuts</string>
+  <string name="incoming_file_confirm_Notification_caption">Voleu rebre aquest fitxer?</string>
   <string name="incoming_file_confirm_Notification_content">%1$s està llest per enviar %2$s</string>
   <string name="incoming_file_confirm_Notification_title">Bluetooth: Fitxer entrant</string>
   <string name="incoming_file_confirm_cancel">Rebutja</string>
