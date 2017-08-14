@@ -65,6 +65,7 @@ Localització: %s
   <string name="home_tab_local_video">Local</string>
   <string name="illegal_input_tips">Entrada il·legal</string>
   <string name="loading">&lt;CDATA&gt;Carregant&amp;#8230;&lt;/CDATA&gt;</string>
+  <string name="locked">Blocat</string>
   <string name="more">Més</string>
   <string name="no_filter_folder_tips">No hi ha carpeta de filtres</string>
   <string name="no_hidden_files_tips">No hi ha arxius ocults</string>
@@ -72,6 +73,9 @@ Localització: %s
   <string name="no_videos_found">No s\'ha trobat cap vídeo</string>
   <string name="ok">D\'acord</string>
   <string name="pause">Pausar</string>
+  <string name="playlists">Llistes de reproducció</string>
+  <string name="push">empenyeu</string>
+  <string name="push_load_more">empenyeu més</string>
   <string name="refresh">Actualitza</string>
   <string name="remove">Elimina</string>
   <string name="rename">Canvia el nom</string>
@@ -85,5 +89,11 @@ Localització: %s
   <string name="search_history">Historial de cerca</string>
   <string name="select_all">Selecciona-ho tot</string>
   <string name="send">Confirma</string>
+  <string name="settings">Configuració</string>
+  <string name="show_all_files_tips">Mostra tots els arxius</string>
+  <string name="show_all_folder_tips">Mostra totes les carpetes</string>
+  <string name="songs">Cançons</string>
+  <string name="sound_off">So desactivat</string>
+  <string name="sound_on">So activat</string>
   <string name="video">Vídeo</string>
 </resources>
