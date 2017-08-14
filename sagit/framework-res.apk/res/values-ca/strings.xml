@@ -541,9 +541,16 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="loading">S\'està carregant&#8230;</string>
   <string name="locale_search_menu">Cerca</string>
   <string name="lock_pattern_view_aspect">quadrat</string>
+  <string name="lock_to_app_description">"La fixació de pantalla bloqueja la pantalla en una vista.
+
+Per treure la fixació, premeu i mantingueu el botó Inici i el d\'encesa a la vegada."</string>
+  <string name="lock_to_app_description_accessible">"La fixació de pantalla bloqueja la pantalla en una vista.
+
+Per treure la fixació, premeu i mantingueu el botó Inici i el d\'encesa a la vegada."</string>
   <string name="lock_to_app_exit">Pantalla desenganxada</string>
   <string name="lock_to_app_start">Pantalla fixada</string>
   <string name="lock_to_app_toast">Per desenganxar la pantalla, pressioneu i manteniu el botó Inici i el d\'encesa a la vegada.</string>
+  <string name="lock_to_app_toast_accessible">Per desenganxar la pantalla, premeu i mantingueu el botó Inici i el d.\'encesa a la vegada.</string>
   <string name="lock_to_app_toast_locked">"S'ha fixat l'aplicació. En aquest dispositiu no es permet desenganxar."</string>
   <string name="lock_to_app_unlock_password">Demana la contrasenya abans de desenganxar</string>
   <string name="lock_to_app_unlock_pattern">Demana el patró de desbloqueig abans de desenganxar</string>
@@ -831,6 +838,7 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="permgrouplab_phone">Telèfon</string>
   <string name="permgrouplab_sensors">Sensors corporals</string>
   <string name="permgrouplab_storage">Emmagatzematge</string>
+  <string name="permission">Permís</string>
   <string name="permission_remember_choice">Recorda</string>
   <string name="permission_request_notification_title">Permís sol·licitat</string>
   <string name="permission_request_notification_with_subtitle">«Permís sol·licitat
