@@ -204,7 +204,7 @@
   <string name="hybrid_pull_to_refresh_pull_label">Llisqueu per actualitzar&#8230;</string>
   <string name="hybrid_pull_to_refresh_refreshing_label">Un moment&#8230;</string>
   <string name="hybrid_pull_to_refresh_release_label">Deixeu anar per actualitzar&#8230;</string>
-  <string name="hybrid_service_unavailiable">Servei no disponible</string>
+  <string name="hybrid_service_unavailiable">"Servei no disponible"</string>
   <string name="hybrid_try_again">Torneu-ho a provar</string>
   <string name="i_know">D\'acord</string>
   <string name="importing_progress_private_message">S\'està important&#8230;</string>
