@@ -85,6 +85,7 @@
   <string name="not_exist_file">No hi ha cap fitxer</string>
   <string name="not_exist_file_desc">"El fitxer no existeix. 
 "</string>
+  <string name="noti_caption">%1$s amb èxit, %2$s no.</string>
   <string name="notification_received">Bluetooth: %1$s rebut</string>
   <string name="notification_received_fail">Bluetooth: No s\'ha rebut el fitxer %1$s</string>
   <string name="notification_receiving">Bluetooth: S\'està rebent %1$s</string>
