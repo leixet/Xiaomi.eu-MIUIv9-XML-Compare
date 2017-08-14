@@ -447,7 +447,7 @@
   <string name="contactAddFailed">"No s'ha pogut afegir el contacte a la SIM."</string>
   <string name="contactAddSuccess">Contacte afegit a la SIM</string>
   <string name="contactPhoto">Foto del contacte</string>
-  <string name="contactUpdateFailed">No s\'ha pogut actualitzar el contacte a la SIM.</string>
+  <string name="contactUpdateFailed">"No s'ha pogut actualitzar el contacte a la SIM."</string>
   <string name="contactUpdateSuccess">Contacte actualitzat a la SIM.</string>
   <string name="contactdeleteFailed">"No s'ha pogut esborrar el contacte de la SIM."</string>
   <string name="contactdeleteSuccess">S\'ha eliminat el contacte de la SIM.</string>
