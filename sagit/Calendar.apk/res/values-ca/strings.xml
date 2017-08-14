@@ -382,6 +382,7 @@
   <string name="subscribe_card_success">订阅“%1$s”成功</string>
   <string name="subscribe_card_success_for_homepage">S\'ha subscrit amb èxit a «%1$s»</string>
   <string name="subscribe_channel_bottom_hint">—— Calendari Mi ——</string>
+  <string name="subscribe_channel_click_hint">Cal subscripció</string>
   <string name="subscribe_channel_footer_button">Gestiona les subscripcions</string>
   <string name="subscribe_channel_footer_desc">Reviseu les subscripcions o cancel·leu-la</string>
   <string name="subscribe_channel_footer_title">Subscrit</string>
