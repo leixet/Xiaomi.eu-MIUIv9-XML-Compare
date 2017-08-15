@@ -14,6 +14,8 @@
   <string name="fastboot_status_locked_summary">"No es pot obtenir l'accés d'administrador"</string>
   <string name="fastboot_unlock_web_title">Ves a la web oficial de MIUI per aconseguir l\'eina de desbloqueig.</string>
   <string name="game_booster">Accelerador de velocitat dels jocs</string>
+  <string name="gs_dialog_confirm_close_title">Atura</string>
+  <string name="intro_skip">Omet</string>
   <string name="main_toolbar_purchase">Recàrrega</string>
   <string name="miuishare_title_more">Més</string>
   <string name="miuishare_title_share">Compartició</string>
@@ -44,6 +46,10 @@
   <string name="privacy_declare_dialog_title">Condicions del servei</string>
   <string name="privacy_prompt_traffic_purchase_message">"Per obtenir més informació sobre les opcions de compra de dades, es xifraran i es pujaran als servidors de Mi el vostre número de telèfon i els detalls de l'operador."</string>
   <string name="share">Comparteix</string>
+  <string name="shield_keyboard_title">Desactiva els botons</string>
+  <string name="start">Inicia</string>
+  <string name="start_game">Inicia</string>
+  <string name="sys_cpu_title">Ús de la CPU</string>
   <string name="title_share_link">URL de compartició</string>
   <string name="usage_sorted_loading_text">Un moment&#8230;</string>
 </resources>
