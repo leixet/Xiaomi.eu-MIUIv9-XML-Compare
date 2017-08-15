@@ -20,6 +20,13 @@
   <string name="abc_font_family_button_material">sans-serif-mitjà</string>
   <string name="abc_font_family_caption_material">sans-serif</string>
   <string name="abc_font_family_display_1_material">sans-serif</string>
+  <string name="abc_font_family_display_2_material">sans-serif</string>
+  <string name="abc_font_family_display_3_material">sans-serif</string>
+  <string name="abc_font_family_display_4_material">sans-serif-light</string>
+  <string name="abc_font_family_headline_material">sans-serif</string>
+  <string name="abc_font_family_menu_material">sans-serif</string>
+  <string name="abc_font_family_subhead_material">sans-serif</string>
+  <string name="abc_font_family_title_material">sans-serif-medium</string>
   <string name="abc_search_hint">Cerca&#8230;</string>
   <string name="abc_searchview_description_clear">Neteja la consulta</string>
   <string name="abc_searchview_description_query">Cerca la consulta</string>
@@ -49,7 +56,9 @@
   <string name="allergies_hint">Per exemple, cacauets</string>
   <string name="allow_mock_location">Permet les ubicacions simulades</string>
   <string name="allow_mock_location_summary">Permet les ubicacions simulades</string>
+  <string name="aminus">A-</string>
   <string name="animator_duration_scale_title">Escala de la durada de l\'animació</string>
+  <string name="aplus">A+</string>
   <string name="apn_settings_not_available">La configuració del nom del punt d\'accés no està disponible per a aquest usuari</string>
   <string name="app_label">Informació d\'emergència</string>
   <string name="app_process_limit_title">Límit de processos en segon pla</string>
@@ -116,6 +125,8 @@
   <string name="bluetooth_profile_sap">Accés SIM</string>
   <string name="bluetooth_sap_profile_summary_connected">S\'ha connectat a SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Utilitza per l\'accés a la SIM</string>
+  <string name="bminus">B-</string>
+  <string name="bplus">B+</string>
   <string name="bt_hci_snoop_log">Activa el registre de cerca HCI Bluetooth</string>
   <string name="bt_hci_snoop_log_summary">Captura tots els paquets HCI Bluetooth en un fitxer</string>
   <string name="bugreport_in_power">Drecera de l\'informe d\'errors</string>
