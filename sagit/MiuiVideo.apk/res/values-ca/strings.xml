@@ -40,6 +40,8 @@
   <string name="delete_file_tips">Voleu eliminar aquest fitxer?</string>
   <string name="details">Detalls</string>
   <string name="dselect_all">Desselecciona-ho tot</string>
+  <string name="encountered_error_message">"El reproductor ha trobat un error en aquest suport. 
+Intenteu-ho actualitzant la biblioteca multimèdia."</string>
   <string name="encountered_error_title">Error de reproducció</string>
   <string name="error_text_invalid_progressive_playback">"Aquest tipus de fitxer no és compatible."</string>
   <string name="exit_app">Tanca el reproductor</string>
@@ -103,6 +105,7 @@ Durada: %s
   <string name="rename_hidden_error">El fitxer s\'ocultarà</string>
   <string name="replace_num_files">%d arxius</string>
   <string name="replace_num_videos">%d vídeos</string>
+  <string name="ringtone_error">S\'ha produït un error en configurar el to de trucada.</string>
   <string name="sdcard_text">Targeta SD</string>
   <string name="sdcard_tips">Sdcard/</string>
   <string name="search">Cerca</string>
