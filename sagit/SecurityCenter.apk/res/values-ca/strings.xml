@@ -208,6 +208,7 @@
   <string name="applock_add_account">Afegeix</string>
   <string name="applock_add_account_info">Fes que el Compte Mi pugui restablir la contrasenya en cas d\'oblit</string>
   <string name="applock_add_account_setting">Compte i privadesa</string>
+  <string name="applock_bind_account_title">Restabliment de la vostra contrasenya</string>
   <string name="applock_close_dialog_summary">Les aplicacions ja no estaran protegides i la contrasenya s\'eliminarà després de desactivar el Bloqueig d\'aplicació.</string>
   <string name="applock_close_dialog_title">Voleu desactivar el Bloqueig d\'aplicacions?</string>
   <string name="applock_exit_account_info">El compte s\'eliminarà automàticament en tancar la sessió</string>
@@ -640,6 +641,7 @@
   <string name="hints_virus_apk_list_item_summary">Virus (apk)</string>
   <string name="hints_virus_app_list_item_summary">Virus (app)</string>
   <string name="hints_virus_lib_update_default_summary">Ultima actualització desconeguda</string>
+  <string name="hot">Popular</string>
   <string name="hot_today">Popular avui</string>
   <string name="im">MI</string>
   <string name="info_and_call">Trucades i missatges</string>
@@ -807,6 +809,9 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="memory_check_content">Alliberats %s</string>
   <string name="memory_clean_btn_click_text">Accelera la velocitat</string>
   <string name="memory_clean_cleaning_title">Neteja de la memòria cau</string>
+  <string name="memory_clean_memory_size_tip">Memòria Cau</string>
+  <string name="memory_clean_no_need_clean">Tot sembla correcte</string>
+  <string name="memory_clean_no_running_process">Cap tasca per esborrar</string>
   <string name="menu_add">Afegeix</string>
   <string name="menu_bl_call_log">Mostra les trucades bloquejades</string>
   <string name="menu_bl_remove">Desbloqujea</string>
@@ -931,6 +936,8 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="ok">D\'acord</string>
   <string name="ok_button">Aceptar</string>
   <string name="old_sdk_deny_warning">"L'aplicació no és compatible amb els últims requisits de permisos d'Android. Els permisos denegats poden afectar la forma en què funciona aquesta aplicació."</string>
+  <string name="om_btn_text_quick_fix">Optimitza</string>
+  <string name="om_cpu_overload_activity_title">Aplicacions amb un elevat ús de CPU</string>
   <string name="om_ill_proc_activity_title">Problemes</string>
   <string name="om_ill_proc_handle_uninstall_prompt">Desinstal·leu aquesta apli per solucionar problemes d\'ús de la bateria.</string>
   <string name="open_activity_err">No s\'ha trobat l\'aplicació</string>
