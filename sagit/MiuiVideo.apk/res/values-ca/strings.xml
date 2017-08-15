@@ -69,9 +69,15 @@ Localització: %s
   <string name="invalid_location">La posició %1$s no es pot reproduir.</string>
   <string name="language_default">Idioma predeterminat</string>
   <string name="last_added_media">darrer afegit</string>
+  <string name="load_more_and_more">carrega\'n més...</string>
   <string name="loading">&lt;CDATA&gt;Carregant&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="locked">Blocat</string>
   <string name="more">Més</string>
+  <string name="more_file_details" formatted="false">"Mida: %s
+
+Durada: %s 
+
+"</string>
   <string name="no_filter_folder_tips">No hi ha carpeta de filtres</string>
   <string name="no_folder_found">No s\'ha trobat cap carpeta de vídeo</string>
   <string name="no_hidden_files_tips">No hi ha arxius ocults</string>
@@ -82,6 +88,7 @@ Localització: %s
   <string name="open">Obre</string>
   <string name="open_subtitle_file">Obre un fitxer de subtítols</string>
   <string name="other">Altres</string>
+  <string name="over_load_more">carrega\'n més</string>
   <string name="pause">Pausar</string>
   <string name="permission_ask_again">Concedeix permisos</string>
   <string name="playlists">Llistes de reproducció</string>
@@ -97,18 +104,28 @@ Localització: %s
   <string name="replace_num_files">%d arxius</string>
   <string name="replace_num_videos">%d vídeos</string>
   <string name="sdcard_text">Targeta SD</string>
+  <string name="sdcard_tips">Sdcard/</string>
   <string name="search">Cerca</string>
   <string name="search_history">Historial de cerca</string>
+  <string name="search_null_text">Introduïu una contrasenya</string>
   <string name="select_all">Selecciona-ho tot</string>
   <string name="send">Confirma</string>
+  <string name="send_video_type">vídeo/*</string>
   <string name="settings">Configuració</string>
   <string name="show_all_files_tips">Mostra tots els arxius</string>
   <string name="show_all_folder_tips">Mostra totes les carpetes</string>
+  <string name="small_a">A</string>
   <string name="songs">Cançons</string>
   <string name="sound_off">So desactivat</string>
   <string name="sound_on">So activat</string>
+  <string name="spu_delay">Retard en els subtítols</string>
+  <string name="subtitle">Subtítol</string>
+  <string name="subtitle_color_text">Color del subtítol</string>
+  <string name="subtitle_font_tips">Mida de la lletra del subtítol</string>
   <string name="subtitles">Subtítols</string>
+  <string name="synchronization">Sincronització</string>
   <string name="toast_player_list_header">Llista de reproducció</string>
+  <string name="toast_player_list_none">No hi ha més contingut</string>
   <string name="toast_screen_text_default">Mida Predeterminada</string>
   <string name="toast_screen_text_full">Pantalla sencera</string>
   <string name="toast_screen_text_horizontal">Redimensionament horitzontal</string>
@@ -127,4 +144,10 @@ Localització: %s
   <string name="v7_preference_on">ACTIVA</string>
   <string name="video">Vídeo</string>
   <string name="video_error_network_not_available">"No s'ha pogut connectar a la xarxa"</string>
+  <string name="video_error_text_unknown">S\'ha produït un error desconegut.</string>
+  <string name="video_error_title">Error desconegut</string>
+  <string name="video_file_details" formatted="false">%d Vídeos | %s</string>
+  <string name="videos">Vídeos</string>
+  <string name="volume">Volum</string>
+  <string name="wrapper_footer_text">Heu arribat al final de la pàgina</string>
 </resources>
