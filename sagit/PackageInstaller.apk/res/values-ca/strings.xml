@@ -148,6 +148,8 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="debug_networking_category">Xarxes</string>
   <string name="debug_view_attributes">Habilita l\'inspecció d\'atributs de visualització</string>
   <string name="default_permission_description">realitza una acció desconeguda</string>
+  <string name="dev_logpersist_clear_warning_message">Quan ja no monitorem més amb el registrador persistent, se\'ns demanarà d\'esborrar el registrador de dades resident del vostre dispositiu.</string>
+  <string name="dev_logpersist_clear_warning_title">Voleu netejar l\'emmagatzematge del registrador persistent?</string>
   <string name="dev_settings_warning_message">Aquesta configuració només està prevista per a desenvolupament. Pot fer que el dispositiu i les aplicacions s\'interrompin o no funcionin correctament.</string>
   <string name="dev_settings_warning_title">Voleu permetre la configuració de desenvolupament?</string>
   <string name="development_settings_enable">Activa les opcions per a desenvolupadors</string>
@@ -334,6 +336,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="screen_zoom_summary_large">Gran</string>
   <string name="screen_zoom_summary_small">Petit</string>
   <string name="screen_zoom_summary_very_large">Més gran</string>
+  <string name="search_menu_title">Cerca</string>
   <string name="security_settings_desc">Permet a aquesta aplicació:</string>
   <string name="select_application">Seleccioneu l\'aplicació</string>
   <string name="select_logd_size_dialog_title">Seleccioneu la mida del logger de la memòria intermèdia</string>
