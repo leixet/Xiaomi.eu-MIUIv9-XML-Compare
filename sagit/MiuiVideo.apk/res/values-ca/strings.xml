@@ -63,8 +63,12 @@ Localització: %s
   <string name="hide_files_tips">Oculta fitxers</string>
   <string name="hide_filter_folder_tips">Oculta la carpeta de filtres</string>
   <string name="history">Històric</string>
+  <string name="home_tab_hot">Recent</string>
   <string name="home_tab_local_video">Local</string>
   <string name="illegal_input_tips">Entrada il·legal</string>
+  <string name="invalid_location">La posició %1$s no es pot reproduir.</string>
+  <string name="language_default">Idioma predeterminat</string>
+  <string name="last_added_media">darrer afegit</string>
   <string name="loading">&lt;CDATA&gt;Carregant&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="locked">Blocat</string>
   <string name="more">Més</string>
@@ -107,5 +111,20 @@ Localització: %s
   <string name="toast_player_list_header">Llista de reproducció</string>
   <string name="toast_screen_text_default">Mida Predeterminada</string>
   <string name="toast_screen_text_full">Pantalla sencera</string>
+  <string name="toast_screen_text_horizontal">Redimensionament horitzontal</string>
+  <string name="toast_screen_text_scaling">Redimensionament</string>
+  <string name="toast_screen_text_vertical">Redimensionament vertical</string>
+  <string name="track_audio">Pista d\'àudio</string>
+  <string name="track_text">Pista de subtítols</string>
+  <string name="track_unknown">Pista desconeguda</string>
+  <string name="track_video">Pista de vídeo</string>
+  <string name="unknown_album">Àlbum desconegut</string>
+  <string name="unknown_artist">Intèrpret desconegut</string>
+  <string name="unknown_genre">Gènere desconegut</string>
+  <string name="unlocked">Desbloquejat</string>
+  <string name="unseekable_stream">Origen desconegut</string>
+  <string name="v7_preference_off">DESACTIVA</string>
+  <string name="v7_preference_on">ACTIVA</string>
   <string name="video">Vídeo</string>
+  <string name="video_error_network_not_available">"No s'ha pogut connectar a la xarxa"</string>
 </resources>
