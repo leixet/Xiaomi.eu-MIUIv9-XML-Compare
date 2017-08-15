@@ -32,6 +32,7 @@
 L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."</string>
   <string name="config_suggest_suffix_title">Estalvi de bateria MIUI (recomanat)</string>
   <string name="config_suggest_title">Estalvi de bateria MIUI</string>
+  <string name="confirm">Confirma</string>
   <string name="disable_hide_mode">Desactiva l\'estalvi de bateria MIUI</string>
   <string name="disable_hide_mode_warning">En desactivar l\'estalvi de bateria MIUI pot causar més consum d\'energia</string>
   <string name="disabled">Apagat</string>
