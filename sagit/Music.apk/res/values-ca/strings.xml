@@ -844,6 +844,7 @@
   <string name="track_main_fragment_tab_album">Àlbums</string>
   <string name="track_main_fragment_tab_track">Cançons</string>
   <string name="track_search_title">Pista</string>
+  <string name="track_view">Cançó</string>
   <string name="traffic_free_to_play">Utilitzeu el pla de dades de música</string>
   <string name="traffic_network_alert">Pla de dades Música Mi</string>
   <string name="traffic_network_alert_message">"Esteu utilitzant el pla de dades de Música Mi proporcionada per Xina Unicom. Hauríeu de connectar-vos a una xarxa de 3gnet per reproduir cançons sense gastar dades mòbils. Assegureu-vos de verificar la configuració de xarxa per a la transmissió de música."</string>
