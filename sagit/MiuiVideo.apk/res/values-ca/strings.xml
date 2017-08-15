@@ -103,5 +103,8 @@ Localització: %s
   <string name="songs">Cançons</string>
   <string name="sound_off">So desactivat</string>
   <string name="sound_on">So activat</string>
+  <string name="subtitles">Subtítols</string>
+  <string name="toast_player_list_header">Llista de reproducció</string>
+  <string name="toast_screen_text_default">Mida Predeterminada</string>
   <string name="video">Vídeo</string>
 </resources>
