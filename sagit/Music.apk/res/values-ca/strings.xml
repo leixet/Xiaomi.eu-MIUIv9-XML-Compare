@@ -108,6 +108,9 @@
   <string name="cancel_running_download">Cancel·la</string>
   <string name="change_download_quality">Canvia la qualitat de baixada</string>
   <string name="channel_list_fragment_title">Ràdio</string>
+  <string name="chinese_female">Artistes femenines (Xina)</string>
+  <string name="chinese_group">Bandes (Xina)</string>
+  <string name="chinese_male">Artistes masculins (Xina)</string>
   <string name="choose_download_quality">Trieu la qualitat de baixada</string>
   <string name="choose_stream_quality">Trieu la qualitat de la transmissió</string>
   <string name="click_modify">Premeu per editar la lletra.</string>
@@ -293,6 +296,9 @@
   <string name="enable_auto_payment_success">Renovació automàtica</string>
   <string name="enable_auto_payment_success_message">Renovació automàtica activada. Pròxim pagament: %s.</string>
   <string name="enabled">Activat</string>
+  <string name="english_female">Artistes femenines (EEUU/Europa)</string>
+  <string name="english_group">Bandes (EEUU/Europa)</string>
+  <string name="english_male">Artistes masculins (EEUU/Europa)</string>
   <string name="enter_garbage_clean">Neteja l\'emmagatzematge intern.</string>
   <string name="eq_auto">Personalitzat</string>
   <string name="eq_classical">Clàssica</string>
@@ -321,6 +327,7 @@
   <string name="favorites">Preferides</string>
   <string name="favourite_music_left_half">Per afegir cançons a aquesta llista de reproducció, premeu el</string>
   <string name="favourite_music_right_half">"Icona de favorit a la dreta del títol de la cançó"</string>
+  <string name="female_artist">Artistes femenines</string>
   <string name="file_not_found">"El fitxer no existeix"</string>
   <string name="filter_by_duration">Per durada</string>
   <string name="filter_by_duration_max">5 mins</string>
@@ -376,6 +383,7 @@
   <string name="global_search_title_movie">Llista de cançons de pel·lícula</string>
   <string name="global_search_title_prenatal">Música prenatal</string>
   <string name="global_search_title_radar">Reconeixement musical</string>
+  <string name="group_artist">Bandes</string>
   <string name="handle_later">Ara no</string>
   <string name="higher_quality_music">Música d\'alta qualitat</string>
   <string name="higher_quality_music_summary">Escolta i baixa música a major taxa de bits</string>
@@ -400,6 +408,9 @@
   <string name="is_scanning">S\'està comprovant l\'emmagatzematge&#8230;</string>
   <string name="is_scanning_support_online">«S\'està comprovant l\'emmagatzematge&#8230;
 (Mentrestant podeu fer la transmissió de música en línia)»</string>
+  <string name="japan_korea_female">Artistes femenines (Japó/Corea)</string>
+  <string name="japan_korea_group">Bandes (Japó/Corea)</string>
+  <string name="japan_korea_male">Artistes masculins (Japó/Corea)</string>
   <string name="keep_queued_download">Manté</string>
   <string name="ktv_playlist">Llista de reproducció de KTV</string>
   <string name="latest_song">Històric de reproducció (%d)</string>
@@ -430,6 +441,7 @@
   <string name="lyric_is_empty">Lletra no disponible</string>
   <string name="lyric_open_other_connect">Baixa les lletres utilitzant les dades mòbils</string>
   <string name="lyric_setting">Configuració de lletres</string>
+  <string name="male_artist">Artistes masculins</string>
   <string name="manager_cloud_space">Gestionar l\'emmagatzematge del Mi Cloud</string>
   <string name="max_sleep_time">90</string>
   <string name="media_filter">Multimèdia</string>
@@ -788,6 +800,9 @@
   <string name="talkback_download">Baixa</string>
   <string name="talkback_favorite">M\'agrada aquesta cançó</string>
   <string name="talkback_mode">Repeteix la llista de reproducció</string>
+  <string name="talkback_mode_repeat_all">Mode repetició de la llista</string>
+  <string name="talkback_mode_repeat_current">Mode repetició individual</string>
+  <string name="talkback_mode_repeat_shuffle">Mode de reproducció aleatòria</string>
   <string name="talkback_more">Més opcions</string>
   <string name="talkback_next">Propera cançó</string>
   <string name="talkback_play">Reprodueix/Atura</string>
