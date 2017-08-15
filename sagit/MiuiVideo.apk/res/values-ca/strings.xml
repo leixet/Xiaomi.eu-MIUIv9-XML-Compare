@@ -106,5 +106,6 @@ Localització: %s
   <string name="subtitles">Subtítols</string>
   <string name="toast_player_list_header">Llista de reproducció</string>
   <string name="toast_screen_text_default">Mida Predeterminada</string>
+  <string name="toast_screen_text_full">Pantalla sencera</string>
   <string name="video">Vídeo</string>
 </resources>
