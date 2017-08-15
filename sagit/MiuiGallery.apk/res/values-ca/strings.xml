@@ -52,6 +52,7 @@
   <string name="album_member">Membres de l\'àlbum %s</string>
   <string name="album_name">Nom de l\'àlbum</string>
   <string name="album_name_locations">Localitzacions</string>
+  <string name="album_name_people">Gent</string>
   <string name="album_name_recent_discovery">Recents</string>
   <string name="album_name_tags">Etiquetes</string>
   <string name="album_others_share_baby_info_format">Àlbum del nadó de %s</string>
@@ -428,10 +429,12 @@ Feu més fotos als vostres amics!"</string>
   <string name="filter_loft_twilight">Crepuscle</string>
   <string name="filter_original">Sense filtre</string>
   <string name="filter_profoto_cloud">Càlid</string>
+  <string name="filter_rise_lomo">Lomo</string>
   <string name="filter_skin_aki">Esvaïment</string>
   <string name="filter_sweet">Envermelliment</string>
   <string name="filter_velvia_film">Pel·lícula</string>
   <string name="filter_vine">Coloret</string>
+  <string name="filter_vista_retro">Retro</string>
   <string name="finish">Finalitza</string>
   <string name="finish_create_baby_album_toast">Àlbum creat amb Mi Cloud per a \"%s\"</string>
   <string name="finish_fill_baby">Crea</string>
@@ -844,6 +847,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="video_editor_audio_love">Romàntic</string>
   <string name="video_editor_audio_memory">Memòria</string>
   <string name="video_editor_audio_none">Cap</string>
+  <string name="video_editor_audio_rock">Rock</string>
   <string name="video_editor_audio_sad">Balada</string>
   <string name="video_editor_audio_young">Ukelele</string>
   <string name="video_editor_auto_trim">Retalla automàticament</string>
@@ -881,6 +885,8 @@ Feu més fotos als vostres amics!"</string>
   <string name="video_editor_res_not_load_dialog_msg">Baixeu les bandes sonores per utilitzar aquesta característica (més de 20MB).</string>
   <string name="video_editor_template_family">Família</string>
   <string name="video_editor_template_forbidden_tips">"No es pot fer això utilitzant una plantilla"</string>
+  <string name="video_editor_template_oldfilm">Vintage</string>
+  <string name="video_editor_template_sports">Rock</string>
   <string name="video_editor_text_edit_end">Crèdits</string>
   <string name="video_editor_text_edit_input_end_hint">Introduïu els crèdits</string>
   <string name="video_editor_text_edit_input_hint">Toqueu aquí per editar</string>
