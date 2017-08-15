@@ -493,9 +493,14 @@
   <string name="dlg_add_blacklist">Voleu bloquejar aquest número?</string>
   <string name="dlg_add_blacklist_title">Afegeix a la llista de bloqueig</string>
   <string name="dlg_add_keyword">Afegeix paraules clau</string>
+  <string name="dlg_antispam_mode_delete_title">Voleu eliminar els criteris?</string>
+  <string name="dlg_antispam_using_mode_delete_message">"Voleu eliminar els criteris que utilitzeu actualment i tornar als criteris per defecte de la llista de bloqueig?"</string>
+  <string name="dlg_antispam_using_mode_international_delete_message">"Voleu eliminar els criteris que utilitzeu actualment i tornar als criteris per defecte de la llista de bloqueig?"</string>
   <string name="dlg_black_address_antispam_message">Voleu afegir aquesta ubicació a la llista de bloqueig?</string>
   <string name="dlg_black_antispam_hint">Llista de bloqueig</string>
   <string name="dlg_black_antispam_message">Voleu afegir aquest número a la llista de bloqueig?</string>
+  <string name="dlg_clear_all_call">Voleu netejar l\'historial de trucades blocades?</string>
+  <string name="dlg_clear_all_ok">Neteja-ho tot</string>
   <string name="dlg_clear_current_ok">Esborra</string>
   <string name="dlg_delete_keyword">Voleu esborrar les paraules clau seleccionades?</string>
   <string name="dlg_edit_keyword">Edita les paraules clau</string>
