@@ -64,8 +64,14 @@
   <string-array name="select_logpersist_titles">
     <item>Apagat</item>
     <item>Tot</item>
-    <item>All but radio</item>
-    <item>kernel only</item>
+    <item>Tot excepte la ràdio</item>
+    <item>només el kernel</item>
+  </string-array>
+  <string-array name="select_logpersist_summaries">
+    <item>Desactivat</item>
+    <item>Totes les memòries intermèdies de registre</item>
+    <item>Tot excepte les memòries intermèdies de registre de la ràdio</item>
+    <item>només la memòria intermèdia de registre del kernel</item>
   </string-array>
   <string-array name="window_animation_scale_entries">
     <item>Sense animacions</item>
