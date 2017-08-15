@@ -341,6 +341,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="select_application">Seleccioneu l\'aplicació</string>
   <string name="select_logd_size_dialog_title">Seleccioneu la mida del logger de la memòria intermèdia</string>
   <string name="select_logd_size_title">Mides de la memòria intermèdia del logger</string>
+  <string name="select_logpersist_dialog_title">Seleccioneu el memòries intermèdies de registre per emmagatzemar persistentment al dispositiu</string>
   <string name="select_usb_configuration_dialog_title">Seleccioneu la configuració USB</string>
   <string name="select_usb_configuration_title">Seleccioneu la configuració USB</string>
   <string name="select_webview_provider_dialog_title">Establiu la implementació del WebView</string>
@@ -442,6 +443,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="wifi_display_certification_summary">Mostra les opcions de certificació de pantalla sense fil</string>
   <string name="wifi_fail_to_scan">"No es poden cercar xarxes"</string>
   <string name="wifi_no_internet">No s\'ha detectat accés a Internet, no s\'hi tornarà a connectar automàticament.</string>
+  <string name="wifi_no_internet_no_reconnect">"No s'ha detectat accés a Internet, no es tornarà a connectar automàticament."</string>
   <string name="wifi_not_in_range">Fora de l\'abast</string>
   <string name="wifi_remembered">S\'ha desat</string>
   <string name="wifi_security_none">Cap</string>
