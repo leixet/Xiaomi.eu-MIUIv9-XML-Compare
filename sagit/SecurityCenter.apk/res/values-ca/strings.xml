@@ -16,6 +16,7 @@
   <string name="ac_firstUseApplock_title">Sol·licitar contrasenya per obrir les aplicacions seleccionades</string>
   <string name="ac_summaryOff">Desactivat, no es requereix cap contrasenya per obrir aplicacions</string>
   <string name="ac_summaryOn">Activat, es requereix una clau per obrir aplicacions</string>
+  <string name="access_control_fingerprint_not_identified_msg">"No s'ha pogut llegir l'empremta."</string>
   <string name="access_control_need_password">"%sBloqueig afegit amb èxit
   "</string>
   <string name="access_control_need_to_unlock_nofingerprint">Introduïu la contrasenya de desbloqueig</string>
@@ -112,6 +113,8 @@
   <string name="app_install_tips_go_to">Obre\'l</string>
   <string name="app_install_tips_install_success">%1$s s\'ha instal·lat amb èxit</string>
   <string name="app_maanger_app_uninstalled_toast">Aquesta aplicació s\'ha desinstal·lat</string>
+  <string name="app_manager_app_ifno_version">Versió de l\'aplicació</string>
+  <string name="app_manager_app_info_name">Nom de l\'aplicació</string>
   <string name="app_manager_app_lock">Bloqueig d\'aplicacions</string>
   <string name="app_manager_app_power">"Ús de la bateria: "</string>
   <string name="app_manager_app_storage">"Emmagatzematge: "</string>
@@ -140,6 +143,8 @@
   <string name="app_manager_factory_reset_dlg_title">Voleu desinstal·lar actualitzacions?</string>
   <string name="app_manager_force_stop_dlg_text">Si forceu el tancament d\'una aplicació, és possible que no funcioni correctament.</string>
   <string name="app_manager_force_stop_dlg_title">Voleu forçar el tancament?</string>
+  <string name="app_manager_have_not_consume">Cap</string>
+  <string name="app_manager_hide_system_server">Amaga els serveis del sistema</string>
   <string name="app_manager_instruction">Instrucció</string>
   <string name="app_manager_loading_data">S\'estan carregant les dades&#8230;</string>
   <string name="app_manager_manage_space">Gestiona l\'espai</string>
@@ -163,10 +168,12 @@
   <string name="app_manager_powerkeeper_no_bg">Restringeix l\'activitat en segon pla</string>
   <string name="app_manager_powerkeeper_no_restrict">Sense restriccions</string>
   <string name="app_manager_powerkeeper_restrict_bg">Restringeix les aplicacions en segon pla</string>
+  <string name="app_manager_pref_ads">Recomanacions</string>
   <string name="app_manager_rebide_wakepath">Limita</string>
   <string name="app_manager_reduce_wakepath_dialog">Minimitza l\'inici de la cadena</string>
   <string name="app_manager_reduce_wakepath_summary">La restricció de l\'inici automàtic minimitzarà l\'inici de la cadena. Voleu restringir l\'inici automàtic de %s?</string>
   <string name="app_manager_reject_count_over">Bloquejat 100000+ vegades</string>
+  <string name="app_manager_show_all_apps">Mostra totes les aplicacions</string>
   <string name="app_manager_show_detail_infos">Mostra-ho tot</string>
   <string name="app_manager_sort">Ordena per</string>
   <string name="app_manager_start_by">Iniciat per %s</string>
@@ -196,6 +203,8 @@
   <string name="app_usage_recently">Utilitzada recentment</string>
   <string name="app_version">Versió</string>
   <string name="app_wifi">Wi-Fi</string>
+  <string name="application_item_already_permission">Permès</string>
+  <string name="application_item_disable">Limitat</string>
   <string name="applock_add_account">Afegeix</string>
   <string name="applock_add_account_info">Fes que el Compte Mi pugui restablir la contrasenya en cas d\'oblit</string>
   <string name="applock_add_account_setting">Compte i privadesa</string>
@@ -514,6 +523,7 @@
   <string name="dlg_remove_address_whitelist">Voleu eliminar aquesta ubicació de les excepcions?</string>
   <string name="dlg_remove_blacklist">Voleu eliminar aquests números de la llista de bloqueig?</string>
   <string name="dlg_remove_blacklist_ing">S\'està eliminant&#8230;</string>
+  <string name="dlg_remove_whitelist">Voleu treure aquests números del llistat d\'excepcions?</string>
   <string name="dlg_remove_whitelist_ing">S\'està eliminant&#8230;</string>
   <string name="dlg_remove_whitelist_title">Suprimeix</string>
   <string name="dlg_title_not_open_stranger_identify">Identifica els desconeguts</string>
@@ -523,6 +533,7 @@
   <string name="dns_exception_summary">"Comproveu la configuració DNS del seu router"</string>
   <string name="dns_exception_title">Comprovar ajustos DNS</string>
   <string name="domestic_roaming_setting">Itinerància nacional</string>
+  <string name="dont_bore">"No deixeu que els botons i les notificacions us distreguin"</string>
   <string name="download">Baixa</string>
   <string name="downloading">S\'està baixant</string>
   <string name="dual_setting_simcard1">SIM 1 </string>
@@ -589,11 +600,20 @@
   <string name="fw_blocked">Llista de bloqueig</string>
   <string name="fw_blocked_count">"Bloquejat "</string>
   <string name="fw_blocked_join">" i "</string>
+  <string name="game_setting">Configuració del joc</string>
   <string name="gateway_exception_summary">Comprovi el seu router i torneu a provar.</string>
   <string name="gateway_exception_summary2">"No s'ha pogut connectar al servidor"</string>
   <string name="gateway_exception_title">Provar router</string>
+  <string name="get_sys_info">Obtenint informació…</string>
   <string name="go_to">Endavant</string>
   <string name="go_to_setting_fingerprint">Configuració</string>
+  <string name="gs_anto_clean_memory_whitelist">Excepcions</string>
+  <string name="gs_app_back_self_start">Estalviador de bateria</string>
+  <string name="gs_auto_clean_memory">Esborra la memòria cau</string>
+  <string name="gs_auto_clean_memory_detail">Esborra la memòria cau automàticament per optimitzar el joc</string>
+  <string name="gs_dialog_confirm_close_msg">La drecera s\'eliminarà de la vostra pantalla d\'inici. Aneu a Seguretat &gt; Configuració per restablir-la.</string>
+  <string name="gs_dialog_confirm_close_title">Desactiva</string>
+  <string name="gs_only_self_start_for_list">Redueix els processos en segon pla per deixar més bateria pel joc</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Operador incorrecte?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Operador actual: "</string>
   <string name="guide_quck_open">Activa</string>
@@ -607,6 +627,7 @@
   <string name="hide_mode_app_background_setting_text">App d\'estalvi de bateria</string>
   <string name="hide_mode_summary_text">"Gestionar l'activitat de fons d'apps per estalviar bateria"</string>
   <string name="hide_system_app">Amaga les aplicacions del sistema</string>
+  <string name="hint_antispam_mode_edit">Mode personalitzat</string>
   <string name="hints_handle_item_text_virus">Virus: %d</string>
   <string name="hints_input_roaming_daily_limit">Introduïu el límit d\'ús de dades</string>
   <string name="hints_loading_text">S\'està carregant&#8230;</string>
@@ -622,6 +643,7 @@
   <string name="hot_today">Popular avui</string>
   <string name="im">MI</string>
   <string name="info_and_call">Trucades i missatges</string>
+  <string name="info_antispam_current_mode">%s</string>
   <string name="info_antispam_phone">Bloqueja les trucades</string>
   <string name="info_antispam_phone_sms">Bloqueja les trucades i SMS</string>
   <string name="info_antispam_sms">Bloqueja els SMS</string>
@@ -633,10 +655,12 @@
   <string name="input_traffic_pkg">Introduïu dades addicionals</string>
   <string name="input_used_hint">Introduïu l\'ús de dades</string>
   <string name="input_used_max_hint">Introduïu l\'ús de dades (menys de %s)</string>
+  <string name="install">Instal·la</string>
   <string name="install_sucess">%s s\'ha instal·lat amb èxit</string>
   <string name="install_title">Instal·lació a través d\'USB</string>
   <string name="installing">S\'està instal·lant</string>
   <string name="international_roaming_setting">Itinerància en ultramar</string>
+  <string name="intro_skip">Omet</string>
   <string name="ip_address_exception_summary">"No s'ha pogut obtenir l'adreça IP. Si tornes a tenir aquest problema, prova a utilitzar una IP estàtica."</string>
   <string name="item_app_permission">Permisos d\'aplicació</string>
   <string name="item_dev_mode">Opcions de desenvolupament</string>
@@ -746,6 +770,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="main_toolbar_internet_by_wifi">Connecta a internet usant Wi-Fi</string>
   <string name="main_toolbar_purchase">Recargar</string>
   <string name="main_toolbar_statistic">Estadístiques d\'ús de dades</string>
+  <string name="man_add_application">Afegeix manualment les aplicacions d\'arrencada automàtica</string>
   <string name="manual_input_free_traffic">Establir ús de dades en hora vall</string>
   <string name="manual_input_traffic">Establir ús de dades</string>
   <string name="manual_item_white_list_summary">Eviteu que s\'optimitzin les aplicacions seleccionades</string>
@@ -935,6 +960,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="optimize_result_summary_system_default_settings">"L'ús d'aplicacions MIUI per defecte augmenta el nivell d'estabilitat i seguretat del sistema."</string>
   <string name="optimize_result_title_sucurity_risk">Trobats riscos per la seguretat</string>
   <string name="optimize_result_title_system_default_settings">S\'ha canviat la configuració per defecte</string>
+  <string name="optimize_result_title_uninstall_apps">Aplicacions</string>
   <string name="optimize_result_toast_system_default_settings">Configuració per defecte restaurada</string>
   <string name="optimize_result_toast_system_no_item_selected">No hi ha elements seleccionats</string>
   <string name="optmizingbar_optimize_done">Optimitzat</string>
