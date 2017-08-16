@@ -458,6 +458,7 @@
   <string name="contactUpdateSuccess">Contacte actualitzat a la SIM.</string>
   <string name="contactdeleteFailed">"No s'ha pogut esborrar el contacte de la SIM."</string>
   <string name="contactdeleteSuccess">S\'ha eliminat el contacte de la SIM.</string>
+  <string name="content_description_menu_button">Menu</string>
   <string name="convert_to_fbe_warning">"Converteix la partició de dades en una criptografia basada en fitxers.
 Compte! S\'esborraran totes les dades.
 Aquesta funció és alfa i és possible que no funcioni correctament.
@@ -544,6 +545,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="domain_address_title">Servidor</string>
   <string name="doneButton">Fet</string>
   <string name="dtmf_tone_entries_long">Llarg</string>
+  <string name="dtmf_tone_entries_normal">Normal</string>
   <string name="dtmf_tones_summary">Defineix la durada dels tons DTMF</string>
   <string name="dtmf_tones_title">Tons DTMF</string>
   <string name="duration_disable_summary">La visualització de la durada està desactivada</string>
@@ -1177,6 +1179,8 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="select_automatically">Selecció automàtica</string>
   <string name="select_logd_size_dialog_title">Seleccioneu la mida del logger de la memòria intermèdia</string>
   <string name="select_logd_size_title">Mides de la memòria intermèdia del logger</string>
+  <string name="select_logpersist_dialog_title">Seleccioneu les memòries intermèdies de registre per emmagatzemar persistentment al dispositiu</string>
+  <string name="select_logpersist_title">Emmagatzema les dades del registrador de forma persistent en el dispositiu</string>
   <string name="select_usb_configuration_dialog_title">Seleccioneu la configuració USB</string>
   <string name="select_usb_configuration_title">Seleccioneu la configuració USB</string>
   <string name="select_voice_call_sim">Tria la targeta SIM</string>
@@ -1402,6 +1406,11 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="vibrate_after_connected_title">Vibració un cop connectat</string>
   <string name="vm_change_failed">"No s\'ha pogut canviar el número de bústia de veu.
 Contacteu amb el vostre operador si persisteix aquest problema."</string>
+  <string name="vm_change_pin_error_system_error">No es pot canviar el PIN</string>
+  <string name="vm_change_pin_error_too_long">El PIN nou és massa llarg.</string>
+  <string name="vm_change_pin_new_pin">PIN nou</string>
+  <string name="vm_change_pin_old_pin">PIN antic</string>
+  <string name="vm_change_pin_progress_message">Espereu si us plau.</string>
   <string name="vm_changed">S\'ha canviat el número de la bústia de veu.</string>
   <string name="voice_number_setting_primary_user_only">La configuració de la bústia de trucades de veu només pot ser modificat per l\'usuari principal.</string>
   <string name="voice_privacy">Privacitat de veu</string>
@@ -1413,6 +1422,7 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="voicemail_default">El vostre operador</string>
   <string name="voicemail_notification_ringtone_title">So</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Vibració</string>
+  <string name="voicemail_notification_vibrate_when_default">mai</string>
   <string name="voicemail_notification_vibrate_when_title">Vibració</string>
   <string name="voicemail_number_not_set">&lt;No definit&gt;</string>
   <string name="voicemail_provider">Servei</string>
