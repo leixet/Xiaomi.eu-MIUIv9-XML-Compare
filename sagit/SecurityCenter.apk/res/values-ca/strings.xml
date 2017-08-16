@@ -1098,6 +1098,9 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="power_optimize_save_on_lockscreen">Estalvia energia quan el dispositiu està bloquejat</string>
   <string name="power_phone">Trucades de veu</string>
   <string name="power_save_mode_auto_exit_summary">Apaga quan la bateria estigui al 60% o totalment carregada</string>
+  <string name="power_save_mode_auto_exit_title">Apaga quan estigui carregada</string>
+  <string name="power_save_mode_close_warn_text">L\'estalvi de bateria restringeix l\'activitat en segon pla i la sincronització. Si decidiu utilitzar-lo quan el dispositiu està carregat, algunes característiques podrien no funcionar correctament. Voleu mantenir l\'estalvi de bateria actiu quan el dispositiu ja estigui carregat?</string>
+  <string name="power_save_mode_close_warn_title">Estalvi de bateria</string>
   <string name="power_save_mode_enable">Estalvi de bateria</string>
   <string name="power_save_mode_end_time">Final</string>
   <string name="power_save_mode_ontime_enabled">Programació d\'hores per canviar entre modes</string>
@@ -1213,6 +1216,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="reject_all">Restringir tot</string>
   <string name="reject_countdown">Denegar (%d)</string>
   <string name="reject_usb_install">Instal·lació denegada de les següents aplicacions a través d\'USB</string>
+  <string name="release_memory">Neteja la memòria cau</string>
   <string name="renew_ip">Reintentar</string>
   <string name="repair">Reparar</string>
   <string name="repair_loading_text">Un moment&#8230;</string>
@@ -1291,6 +1295,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="security_scan_optimizing">S\'està optimitzant&#8230;</string>
   <string name="see_detail">Detalls</string>
   <string name="set_applock_password">Estableix una contrasenya</string>
+  <string name="setting">Configuració</string>
   <string name="setting_privacy_password">Estableix la contrasenya de protecció de la privacitat</string>
   <string name="settings">Configuració d\'ús de dades</string>
   <string name="settings_battery_consume_abnormal_summary">Rep notificacions quan la bateria es descarregui ràpidament</string>
@@ -1299,6 +1304,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="settings_category_overheat">Sobreescalfament</string>
   <string name="settings_choice_no_notification">Apagat</string>
   <string name="settings_power_save_ontime_title">Horari</string>
+  <string name="shield_keyboard_title">Desactiva els botons</string>
   <string name="show_system_app">Mostra les aplicacions del sistema</string>
   <string name="show_traffic_dialog_message">La seva informació d\'ús de dades es mostrarà en l\'àrea de notificacions. Podeu activar o desactivar aquesta funció en qualsevol moment a Ús de Dades &gt; Configuració</string>
   <string name="show_traffic_dialog_title">Mostra ús a l\'àrea de notificacions</string>
@@ -1359,12 +1365,15 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="st_antispam_des_permit_nokeyword">Permet</string>
   <string name="st_antispam_des_smart_anti">Filtre</string>
   <string name="st_antispam_des_uesless">Desactivat</string>
+  <string name="st_antispam_mode_only_all_deny">Bloca-ho tot</string>
+  <string name="st_antispam_mode_only_contacts">Només permet els contactes</string>
   <string name="st_antispam_mode_smart_sum">"Bloca els números que heu afegit manualment i els que s'han reportat per altres usuaris"</string>
   <string name="st_antispam_title_anoy_sms">Missatges de desconeguts</string>
   <string name="st_antispam_title_service_sms">Servei de notificacions</string>
   <string name="st_filter_keywords_setting_summary1">Es bloquejaran els missatges de números desconeguts que continguin les paraules d\'aquesta llista.</string>
   <string name="st_filter_keywords_setting_summary2">"
 (Utilitzeu una coma per separar múltiples paraules clau)"</string>
+  <string name="st_group_list_management">Gestió de llistes</string>
   <string name="st_hint_add_head_number">Introduïu el prefix</string>
   <string name="st_hint_add_phonenumber">Introduïu número de telèfon</string>
   <string name="st_message_SMS_AntiSpam">Bloqueja els SMS</string>
@@ -1372,6 +1381,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="st_message_phone_AntiSpam">Bloqueja les trucades</string>
   <string name="st_message_phonepass">Permet les trucades</string>
   <string name="st_settings_name">Configuració de la llista de bloqueig</string>
+  <string name="st_sub_title_customize_mode_name">Nom</string>
   <string name="st_sum_call_wait">El missatge d\'absència també es mostrarà com a senyal d\'ocupat per a les trucades entrants.</string>
   <string name="st_summary_blacklist_numbers">Bloqueja les trucades i els missatges de números i àrees específics</string>
   <string name="st_summary_whitelist_numbers">Permet les trucades i els missatges de números i prefixos específics</string>
@@ -1380,6 +1390,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="st_title_adress">Afegeix ubicacions</string>
   <string name="st_title_adress_num">%d seleccionat(s)</string>
   <string name="st_title_anticomintcall_backsound_setting">Missatge reproduït als números bloquejats</string>
+  <string name="st_title_antispam_mode">Criteris</string>
   <string name="st_title_back_sound_busy">Ocupat</string>
   <string name="st_title_back_sound_choose">Missatge d\'absència</string>
   <string name="st_title_back_sound_closed">Apagat</string>
@@ -1444,6 +1455,9 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="summary_virus_update">Obtenir les últimes definicions de virus automàticament</string>
   <string name="summary_xiaomi_roaming">0,01 iuans per MB de trànsit de la xarxa internacional.</string>
   <string name="sys_app_prot_cracked_confirm">D\'acord</string>
+  <string name="sys_app_prot_cracked_login">Inicia sessió amb el compte Mi</string>
+  <string name="sys_cpu_title">Ús de la CPU</string>
+  <string name="sys_freememory_title">Disponible</string>
   <string name="system_app">Aplicacions de Sistema</string>
   <string name="system_application">Aplicacions del Sistema</string>
   <string name="tab_block_log_unKnowNumber">Número privat</string>
@@ -1591,6 +1605,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="toast_root_apply_reject">Accés root denegat a %s</string>
   <string name="toast_set_success">Obert amb èxit!</string>
   <string name="toast_show_notification">Adjunt al tauler de notificacions</string>
+  <string name="top_game">Els millors jocs</string>
   <string name="traffic_alert_auto_modify_notification_sumarry">Pla mensual canviat a %s.</string>
   <string name="traffic_alert_auto_modify_notification_titile">Pla de dades actualitzat</string>
   <string name="traffic_alert_auto_modify_package_summary">"Ajustar automàticament paquet de dades d'acord amb la informació de l'operador"</string>
@@ -1664,6 +1679,7 @@ Dades extres en ús"</string>
   <string name="usbsharenet_exception_title">Comproveu la xarxa compartida per USB</string>
   <string name="usbsharenet_pc_exception_summary">"No es pot connectar a Internet mitjançant connexió USB compartida. Comproveu la connexió a Internet de l'ordinador."</string>
   <string name="use_immediately">Utilitza</string>
+  <string name="user_define_title">Afegeix criteris</string>
   <string name="virus_ad_icon_text">Anunci</string>
   <string name="virus_auto_update_engine">Actualització automàtica:%s</string>
   <string name="virus_update_tips_title">Connecteu-vos a la Wi-Fi</string>
