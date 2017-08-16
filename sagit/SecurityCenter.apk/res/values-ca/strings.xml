@@ -955,6 +955,10 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="om_cpu_overload_activity_title">Aplicacions amb un elevat ús de CPU</string>
   <string name="om_ill_proc_activity_title">Problemes</string>
   <string name="om_ill_proc_handle_uninstall_prompt">Desinstal·leu aquesta apli per solucionar problemes d\'ús de la bateria.</string>
+  <string name="om_ill_proc_handle_unstaill_title">Voleu desinstal·lar %s?</string>
+  <string name="om_settings_lock_app_manage">Bloca aplicacions</string>
+  <string name="om_settings_memocy_occupy_too_large_summary">Avisa quan la mida de memòria cau sigui massa gran</string>
+  <string name="om_settings_title">Configuració d\'optimització</string>
   <string name="open_activity_err">No s\'ha trobat l\'aplicació</string>
   <string name="open_app">Obre</string>
   <string name="open_callwait">Activat</string>
@@ -962,6 +966,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="operator_diagnostic">Diagnòstic d\'operador</string>
   <string name="operator_mi_sim">SIM Mi</string>
   <string name="optimize_result_ads_close_text">Anunci</string>
+  <string name="optimize_result_available_memory_info">Memòria disponible</string>
   <string name="optimize_result_button_cloudspace">Afegeix emmagatzematge al núvol</string>
   <string name="optimize_result_button_consume_power_analysis">Analitza la bateria</string>
   <string name="optimize_result_button_cooldown_now">Refreda</string>
@@ -993,6 +998,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="optmizingbar_title_security">Seguretat</string>
   <string name="optmizingbar_title_system">Seguretat del sistema</string>
   <string name="organization">Organització</string>
+  <string name="other">Configuració addicional</string>
   <string name="other_exception_summary">"No tens connexió d'internet"</string>
   <string name="other_exception_title">Comprovar altres errors</string>
   <string name="package_change_notification_summary">Tocar per saber més.</string>
@@ -1003,6 +1009,8 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="passwordIncorrect">Usuari o contrasenya incorrecta</string>
   <string name="password_forget_pattern_confirm">Còpia de seguretat de les dades</string>
   <string name="password_forget_pattern_message">Feu una còpia de seguretat de les dades localment i després realitzeu un restabliment de dades de fàbrica. Després d\'això, podreu canviar la contrasenya.</string>
+  <string name="password_forget_pattern_message_none">"Les aplicacions no estan blocades. Podeu restablir la vostra contrasenya."</string>
+  <string name="password_forget_pattern_reset">Reinicia</string>
   <string name="password_forget_pattern_title">Còpia de seguretat de les dades</string>
   <string name="password_promotion_not_login_xiaomi_account_message">El bloquejador d\'aplicacions està actualitzant la contrasenya de protecció de privacitat. Pot utilitzar el seu compte Mi per restablir-la. Afegeix el seu compte Mi per a poder fer-ho.</string>
   <string name="password_promotion_postbutton_text">Vés a la Configuració</string>
@@ -1022,6 +1030,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="path_securitycenter">Aplicacions del sistema/Seguretat</string>
   <string name="path_securitycenter_settings">Aplicacions del sistema/Seguretat</string>
   <string name="path_usb_install">Aplicacions del sistema/Seguretat/Permisos/Instal·lació a través d\'USB</string>
+  <string name="pc_activity_title">Optimitza la bateria</string>
   <string name="pc_install_manager">Instal·lació a través d\'USB</string>
   <string name="pc_to_phone_install">Instal·lació bloquejada per %s a través d\'USB</string>
   <string name="per_month_pkg_traffic_settings">Establir límit de dades</string>
@@ -1050,6 +1059,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="power_20s_shutdown">Dispositiu s\'apagarà en %d segons</string>
   <string name="power_analysis_consume_title">Ús de la bateria</string>
   <string name="power_analysis_suggestion_need_optimize">Problemes d\'ús de la bateria detectats.</string>
+  <string name="power_autorun_apps_empty">Sense aplicacions d\'arrencada automàtica</string>
   <string name="power_btn_analyze">Analitza l\'ús de la bateria</string>
   <string name="power_cell">Telèfon en espera</string>
   <string name="power_center_auto_shutdown">Programar encesa i apagat</string>
@@ -1087,6 +1097,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="power_optimize_save_mode_not_opened">Estalvi de bateria desactivat</string>
   <string name="power_optimize_save_on_lockscreen">Estalvia energia quan el dispositiu està bloquejat</string>
   <string name="power_phone">Trucades de veu</string>
+  <string name="power_save_mode_auto_exit_summary">Apaga quan la bateria estigui al 60% o totalment carregada</string>
   <string name="power_save_mode_enable">Estalvi de bateria</string>
   <string name="power_save_mode_end_time">Final</string>
   <string name="power_save_mode_ontime_enabled">Programació d\'hores per canviar entre modes</string>
