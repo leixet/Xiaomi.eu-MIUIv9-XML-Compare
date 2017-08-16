@@ -90,6 +90,7 @@
   <string name="administrative_disable">Administratiu deshabilitat</string>
   <string name="administrative_enable">Administratiu habilitat</string>
   <string name="advanced_settings">Paràmetres opcionals</string>
+  <string name="advanced_settings_container">contenidor de configuració avançada</string>
   <string name="advanced_settings_hide">▷ Toqueu per ocultar-ho tot</string>
   <string name="advanced_settings_show">▷ Toqueu per mostrar-ho tot</string>
   <string name="advertisements_disable">Anuncis desactivats</string>
@@ -246,6 +247,8 @@
   <string name="callFailed_channel_unacceptable">Canal inacceptable</string>
   <string name="callFailed_conditional_IE_error">Error d\'IE condicional</string>
   <string name="callFailed_congestion">Xarxa ocupada</string>
+  <string name="callFailed_data_limit_reached">S\'ha assolit el límit de dades. Trucada finalitzada.</string>
+  <string name="callFailed_data_limit_reached_description">La trucada s\'ha finalitzat perquè s\'ha assolit el límit de dades mòbils.</string>
   <string name="callFailed_destination_out_of_order">Destí fora de servei</string>
   <string name="callFailed_dialToDial">La petició DIAL s\'ha transformat en una DIAL amb un altre número.</string>
   <string name="callFailed_dialToSs">La petició DIAL s\'ha modificat a petició SS.</string>
@@ -417,6 +420,10 @@
   <string name="change_password">Canvia la contrasenya de restricció</string>
   <string name="change_pin">Canvia el PIN de la SIM</string>
   <string name="change_pin2">Canvia el PIN2</string>
+  <string name="change_pin_confirm_pin_header">Confirmeu el vostre PIN</string>
+  <string name="change_pin_confirm_pins_dont_match">"Els codis PIN no coincideixen"</string>
+  <string name="change_pin_continue_label">Continua</string>
+  <string name="change_pin_enter_new_pin_header">Estableix un nou PIN</string>
   <string name="charge_length_format">Fa %1$s</string>
   <string name="choose_profile">Seleccioneu un perfil</string>
   <string name="clear_adb_keys">Revoca autoritzacions de depuració USB</string>
