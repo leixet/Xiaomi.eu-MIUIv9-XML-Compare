@@ -16,6 +16,7 @@
   <string name="ac_firstUseApplock_title">Sol·licitar contrasenya per obrir les aplicacions seleccionades</string>
   <string name="ac_summaryOff">Desactivat, no es requereix cap contrasenya per obrir aplicacions</string>
   <string name="ac_summaryOn">Activat, es requereix una clau per obrir aplicacions</string>
+  <string name="access_control_failed_need_to_unlock_nofingerprint">Es requereix la contrasenya per obrir aplicacions</string>
   <string name="access_control_fingerprint_not_identified_msg">"No s'ha pogut llegir l'empremta."</string>
   <string name="access_control_need_password">"%sBloqueig afegit amb èxit
   "</string>
@@ -114,6 +115,7 @@
   <string name="app_install_tips_install_success">%1$s s\'ha instal·lat amb èxit</string>
   <string name="app_maanger_app_uninstalled_toast">Aquesta aplicació s\'ha desinstal·lat</string>
   <string name="app_manager_app_ifno_version">Versió de l\'aplicació</string>
+  <string name="app_manager_app_info_label">Informació de l\'aplicació</string>
   <string name="app_manager_app_info_name">Nom de l\'aplicació</string>
   <string name="app_manager_app_lock">Bloqueig d\'aplicacions</string>
   <string name="app_manager_app_power">"Ús de la bateria: "</string>
@@ -451,6 +453,10 @@
   <string name="convenient_summary">No demanar la contrasenya després d\'haver desbloquejat 1 aplicació</string>
   <string name="correction_attention_dialog_message">S\'estan aplicant els ajustaments. Espereu fins que acabi el procés i torneu a provar.</string>
   <string name="cpu_usage_android_system">Sistema Android</string>
+  <string name="cpu_usage_app_bg_restrict_default_short">Automàtic</string>
+  <string name="cpu_usage_app_bg_restrict_no_limit">"Sense restriccions"</string>
+  <string name="cpu_usage_app_bg_restrict_partly">Després de %s</string>
+  <string name="cpu_usage_app_bg_restrict_partly_short">Després de %s</string>
   <string name="cpu_usage_process_run_time_little_time">Menys d\'un minut</string>
   <string name="cpu_usage_view_action_btn_text">Toqueu per mostrar-ho</string>
   <string name="cta_dialog_msg">El centre de seguretat pot connectar a Internet per obtenir actualitzacions.</string>
@@ -458,6 +464,7 @@
   <string name="cta_settings">Permet la connexió a internet</string>
   <string name="current_network_state_not_need_diagnose">Normal</string>
   <string name="customize_limit_pkg">%s (personalitzat)</string>
+  <string name="customizer_mode_user_define_name">Els meus criteris</string>
   <string name="daily_limit_and_lock_screen">Límit de dades i notificacions</string>
   <string name="daily_limit_network_available_body">Toqui per veure les estadístiques d\'ús de dades.</string>
   <string name="daily_limit_over_message">"Ha superat el límit de dades diàri."</string>
@@ -511,7 +518,10 @@
   <string name="dlg_black_antispam_message">Voleu afegir aquest número a la llista de bloqueig?</string>
   <string name="dlg_clear_all_call">Voleu netejar l\'historial de trucades blocades?</string>
   <string name="dlg_clear_all_ok">Neteja-ho tot</string>
+  <string name="dlg_clear_all_sms">Voleu esborrar els missatges blocats?</string>
+  <string name="dlg_clear_current_call">Voleu esborrar totes les trucades blocades d\'aquest número?</string>
   <string name="dlg_clear_current_ok">Esborra</string>
+  <string name="dlg_clear_current_sms">Voleu eliminar tots els missatges blocats d\'aquest número?</string>
   <string name="dlg_delete_keyword">Voleu esborrar les paraules clau seleccionades?</string>
   <string name="dlg_edit_keyword">Edita les paraules clau</string>
   <string name="dlg_import_blacklist">S\'està afegint&#8230;</string>
@@ -592,6 +602,7 @@
   <string name="five_percent_total_pkg">%s (5%% de les dades mensuals)</string>
   <string name="foreground_traffic">Portar a primer pla %s</string>
   <string name="forget_password_button_text">He oblidat la contrasenya</string>
+  <string name="forget_password_button_text_normal">Contrasenya oblidada</string>
   <string name="forget_pattern">Heu oblidat el patró?</string>
   <string name="free_time_traffic">Límit de dades en hora vall</string>
   <string name="free_time_traffic_hint">Introduir límit de dades en hora vall</string>
@@ -601,7 +612,9 @@
   <string name="fw_blocked">Llista de bloqueig</string>
   <string name="fw_blocked_count">"Bloquejat "</string>
   <string name="fw_blocked_join">" i "</string>
+  <string name="game_improve_title">Optimitza el rendiment</string>
   <string name="game_setting">Configuració del joc</string>
+  <string name="gamebooster_network_dialog_title">"Algunes característiques no estan disponibles"</string>
   <string name="gateway_exception_summary">Comprovi el seu router i torneu a provar.</string>
   <string name="gateway_exception_summary2">"No s'ha pogut connectar al servidor"</string>
   <string name="gateway_exception_title">Provar router</string>
@@ -812,6 +825,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="memory_clean_memory_size_tip">Memòria Cau</string>
   <string name="memory_clean_no_need_clean">Tot sembla correcte</string>
   <string name="memory_clean_no_running_process">Cap tasca per esborrar</string>
+  <string name="memory_cleaned_memory_info">Memòria disponible</string>
   <string name="menu_add">Afegeix</string>
   <string name="menu_bl_call_log">Mostra les trucades bloquejades</string>
   <string name="menu_bl_remove">Desbloqujea</string>
@@ -859,6 +873,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="monitor_app_add">afegeix</string>
   <string name="monitor_app_more">més</string>
   <string name="monitor_requests_from_pc">Gestionar la instal·lació d\'aplicacions mitjançant USB</string>
+  <string name="more_game">Més jocs</string>
   <string name="name">Nom</string>
   <string name="network_blocked_connected_open_wifi">Connectat a xarxa pública</string>
   <string name="network_blocked_notification_summary">Comproveu l\'estat de la xarxa</string>
