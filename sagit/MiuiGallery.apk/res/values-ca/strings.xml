@@ -29,6 +29,7 @@
   <string name="add_to_secret_fail">"No s'ha pogut afegir a l'àlbum ocult"</string>
   <string name="add_to_secret_failed_with_reason">"No es pot afegir a l'àlbum ocult. %1$s."</string>
   <string name="add_to_secret_failed_with_reason_and_count">"%2$s elements no es poden afegir a l'àlbum ocult. %1$s."</string>
+  <string name="add_to_secret_successful">S\'ha afegit a l\'àlbum ocult</string>
   <string name="add_to_share_album_not_delete">"No es pot eliminar la foto de l'àlbum compartit"</string>
   <string name="adding">S\'està afegint&#8230;</string>
   <string name="adding_recipients">S\'estan afegint els destinataris&#8230;</string>
@@ -271,6 +272,12 @@
   <string name="cloudfolder_contain_invalidate_char">"El nom de l'àlbum no pot contenir '%s'"</string>
   <string name="cloudfolder_name_cannot_empty">Introduïu un nom per l\'àlbum</string>
   <string name="cloudfolder_name_reserved">El nom de l\'àlbum està reservat</string>
+  <string name="collage_choose">selecciona</string>
+  <string name="collage_margin_text">Marge</string>
+  <string name="collage_mirror">mirall</string>
+  <string name="collage_rotate">gira</string>
+  <string name="collage_title_layout">Disposició</string>
+  <string name="collage_title_poster">Pòster</string>
   <string name="collaps_people">Amaga</string>
   <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">Moments WeChat</string>
   <string name="confirm">D\'acord</string>
@@ -339,6 +346,7 @@
   <string name="do_not_remind_me">"No ho tornis a mostrar"</string>
   <string name="double_tap_to_higher_definition">Toqueu dues vegades novament per la vista prèvia en HD</string>
   <string name="download_canceled">Baixada cancel·lada</string>
+  <string name="download_error_format">"No s'ha pogut baixar %s"</string>
   <string name="download_retry_message">"No s'han pogut baixar els fitxers. Comproveu la connexió de xarxa i torneu a intentar-ho"</string>
   <string name="download_retry_text">Torna-ho a provar</string>
   <string name="download_retry_title">"No s'han pogut baixar els fitxers"</string>
@@ -362,6 +370,7 @@
   <string name="enabling_face_feature">Un moment&#8230;</string>
   <string name="enter_email_hint">Introduïu una adreça de correu electrònic</string>
   <string name="error_album_not_exist">"L'àlbum no existeix"</string>
+  <string name="error_build_thumbnail_action">Baixa l\'arxiu original</string>
   <string name="error_cloud_not_active">No hi ha fotos a Mi Cloud</string>
   <string name="error_forbidden">S\'ha desactivat la sincronització a causa de problemes amb el vostre compte Mi.</string>
   <string name="error_invalid_link">URL no vàlida</string>
