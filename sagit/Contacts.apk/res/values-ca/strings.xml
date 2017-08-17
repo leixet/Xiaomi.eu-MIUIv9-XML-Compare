@@ -1124,6 +1124,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="strequentList">Favorits</string>
   <string name="success_message_import_from_account">Importació realitzada</string>
   <string name="summary_kind_title">Resum</string>
+  <string name="t9_search_empty_create_contact">Nou contacte</string>
   <string name="t9_search_guide_pinyin_title1">Cerca ràpida de contactes en introduir lletres</string>
   <string name="t9_search_guide_pinyin_title2">Per exemple, ingresseu 2 i 3 per cercar a <font fgcolor="">A</font>lex <font fgcolor="">F</font>ont</string>
   <string name="t9_search_guide_zhuyin_title1">Cerca ràpida de contactes en introduir lletres</string>
