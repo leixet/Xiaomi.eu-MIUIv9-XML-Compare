@@ -810,7 +810,12 @@ Feu més fotos als vostres amics!"</string>
   <string name="text_append_hint">Introduïu el text</string>
   <string name="text_append_style">Bafarada</string>
   <string name="text_append_transparent">Opacitat</string>
+  <string name="text_edit_dialog_keyboard">teclat</string>
+  <string name="text_edit_dialog_style_align_left">Esquerra</string>
+  <string name="text_edit_dialog_style_align_right">Dreta</string>
+  <string name="text_edit_dialog_style_bold">Negreta</string>
   <string name="things_album_empty_title">Les fotos es poden ordenar segons els objectes que hi surten</string>
+  <string name="thumbnail_name">miniatura</string>
   <string name="tip_capture_location">Ubicació:</string>
   <string name="tip_capture_params">Dades EXIF:</string>
   <string name="tip_capture_time">Presa el:</string>
@@ -892,6 +897,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="video_editor_template_forbidden_tips">"No es pot fer això utilitzant una plantilla"</string>
   <string name="video_editor_template_oldfilm">Vintage</string>
   <string name="video_editor_template_sports">Rock</string>
+  <string name="video_editor_text_default">per defecte</string>
   <string name="video_editor_text_edit_end">Crèdits</string>
   <string name="video_editor_text_edit_input_end_hint">Introduïu els crèdits</string>
   <string name="video_editor_text_edit_input_hint">Toqueu aquí per editar</string>
