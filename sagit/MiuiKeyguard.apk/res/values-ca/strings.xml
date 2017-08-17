@@ -84,7 +84,10 @@ Torneu a provar-ho d\'aquí %d segons."</string>
   <string name="open_camera_hint_text">Feu lliscar cap a l\'esquerra per obrir %s</string>
   <string name="open_remote_center_hint_text">Feu lliscar cap a la dreta per obrir %s</string>
   <string name="phone_locked_foget_password">Heu oblidat la contrasenya?</string>
+  <string name="phone_locked_foget_password_method">Heu oblidat la contrasenya?</string>
+  <string name="phone_locked_foget_password_method_next">Següent</string>
   <string name="phone_locked_foget_password_ok">D\'acord</string>
+  <string name="phone_locked_forget_password_suggesstions_title">Com esborrar les dades?</string>
   <string name="phone_locked_string">El telèfon ha estat bloquejat</string>
   <string name="phone_locked_timeout_minutes_string">Torneu-ho a provar d\'aquí a %d minuts</string>
   <string name="phone_locked_timeout_seconds_string">Torneu-ho a provar d\'aquí a %d segons</string>
