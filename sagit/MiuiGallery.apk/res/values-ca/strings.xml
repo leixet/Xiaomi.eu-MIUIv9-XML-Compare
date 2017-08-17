@@ -371,6 +371,8 @@
   <string name="enter_email_hint">Introduïu una adreça de correu electrònic</string>
   <string name="error_album_not_exist">"L'àlbum no existeix"</string>
   <string name="error_build_thumbnail_action">Baixa l\'arxiu original</string>
+  <string name="error_build_thumbnail_msg">"No s'ha pogut baixar la miniatura. Intenteu baixar l'arxiu original."</string>
+  <string name="error_build_thumbnail_tip">"No s'ha pogut baixar la miniatura."</string>
   <string name="error_cloud_not_active">No hi ha fotos a Mi Cloud</string>
   <string name="error_forbidden">S\'ha desactivat la sincronització a causa de problemes amb el vostre compte Mi.</string>
   <string name="error_invalid_link">URL no vàlida</string>
@@ -380,6 +382,14 @@
   <string name="error_share_not_support">"Aquesta característica encara no està en funcionament"</string>
   <string name="error_share_with_creator">Aquest àlbum ja se us ha compartit</string>
   <string name="error_socket_timeout">S\'ha excedit el temps de connexió a la xarxa</string>
+  <string name="error_socket_timeout_action">Seleccioneu una xarxa</string>
+  <string name="error_socket_timeout_msg">Connecteu a una xarxa diferent i torneu-ho a provar.</string>
+  <string name="error_socket_timeout_tip">Temps de connexió exhaurit.</string>
+  <string name="error_storage_full_action">Allibereu espai</string>
+  <string name="error_storage_full_msg">Allibereu espai d\'emmagatzematge al vostre dispositiu i torneu-ho a provar.</string>
+  <string name="error_storage_full_tip">No hi ha prou espai d\'emmagatzematge</string>
+  <string name="error_sync_off_action">Engega</string>
+  <string name="error_sync_off_msg">"Assegureu-vos que teniu activada la sincronització amb el núvol Mi."</string>
   <string name="error_title">"No es pot sincronitzar"</string>
   <string name="error_unauthorized">S\'ha desactivat la sincronització a causa de massa intents d\'inici de sessió.</string>
   <string name="error_unknown_host">"No es pot connectar a la xarxa. Comproveu la connexió de dades i torneu a provar-ho."</string>
