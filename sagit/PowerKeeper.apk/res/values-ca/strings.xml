@@ -18,6 +18,7 @@
   <string name="app_list_title">Selecciona aplicacions</string>
   <string name="app_name">Estalvi de bateria</string>
   <string name="background">L\'aplicació s\'executa en segon pla</string>
+  <string name="base_info">Informació base</string>
   <string name="config_description">"MIUI pot identificar aplicacions amb processos en segon pla específics (p. ex. aplicacions de missatgeria i navegació, reproductors multimèdia), i aplicar l'estalvi de bateria de manera que no pertorbi gaire la seva activitat en segon pla."</string>
   <string name="config_mode_title">Configuració de segon pla</string>
   <string name="config_no_restrict_description">"L'estalvi de bateria no restringeix l'activitat de les aplicacions"</string>
