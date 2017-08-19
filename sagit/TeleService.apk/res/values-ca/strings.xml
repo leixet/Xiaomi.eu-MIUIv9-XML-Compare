@@ -98,6 +98,7 @@
   <string name="alert_dialog_close">Tanca el perfil</string>
   <string name="alert_dialog_dismiss">Omet</string>
   <string name="alert_dialog_in_ecm_call">"L'acció seleccionada no està disponible durant una trucada d'emergència."</string>
+  <string name="alert_dialog_no">No</string>
   <string name="alert_dialog_ok">D\'acord</string>
   <string name="alert_dialog_yes">Sí</string>
   <string name="alertdialogtitle">Resultats</string>
@@ -118,6 +119,7 @@
   <string name="app_process_limit_title">Límit de procés en segon pla</string>
   <string name="atr_disable">Informes de trànsit d\'àrea desactivats</string>
   <string name="atr_enable">Informes del trànsit de la zona activats</string>
+  <string name="audio_mode_bluetooth">Bluetooth</string>
   <string name="audio_mode_earpiece">Auricular mans lliures</string>
   <string name="audio_mode_speaker">Altaveu</string>
   <string name="audio_mode_wired_headset">Auriculars amb cable</string>
@@ -235,6 +237,7 @@
   <string name="bugreport_in_power">Drecera de l\'informe d\'errors</string>
   <string name="bugreport_in_power_summary">Mostra un botó al menú d\'encesa per crear un informe d\'errors</string>
   <string name="button_convert_fbe">Esborra i converteix&#8230;</string>
+  <string name="callEnded_pulled">Trucada transferida a un altre dispositiu.</string>
   <string name="callFailed_QOS_unavailable">Qualitat del servei no disponible</string>
   <string name="callFailed_access_information_discarded">S\'ha descartat l\'accés a la informació</string>
   <string name="callFailed_bearer_capability_not_authorized">Capacitat de la portadora no autoritzada</string>
@@ -247,6 +250,7 @@
   <string name="callFailed_channel_unacceptable">Canal inacceptable</string>
   <string name="callFailed_conditional_IE_error">Error d\'IE condicional</string>
   <string name="callFailed_congestion">Xarxa ocupada</string>
+  <string name="callFailed_data_disabled">La trucada es va finalitzar perquè les dades mòbils estaven desactivades.</string>
   <string name="callFailed_data_limit_reached">S\'ha assolit el límit de dades. Trucada finalitzada.</string>
   <string name="callFailed_data_limit_reached_description">La trucada s\'ha finalitzat perquè s\'ha assolit el límit de dades mòbils.</string>
   <string name="callFailed_destination_out_of_order">Destí fora de servei</string>
@@ -269,6 +273,7 @@
   <string name="callFailed_invalid_transaction_identifier">El valor de l\'identificador de la transacció no és vàlida</string>
   <string name="callFailed_invalid_transit_NW_selection">La selecció de xarxa de trànsit no és vàlida</string>
   <string name="callFailed_limitExceeded">S\'ha excedit el límit ACM</string>
+  <string name="callFailed_maximum_reached">Totes les línies disponibles estan en ús. Per realitzar una trucada, finalitzeu una de las trucades d\'aquest dispositiu o d\'un dels altres dispositius.</string>
   <string name="callFailed_message_not_compatible_with_protocol_state">Missatge incompatible amb l\'estat de protocol</string>
   <string name="callFailed_message_type_non_implemented">Tipus de missatge inexistent o no implementat</string>
   <string name="callFailed_message_type_not_compatible_with_protocol_state">Tipus de missatge incompatible amb l\'estat de protocol</string>
@@ -385,7 +390,9 @@
   <string name="card_title_outgoing_barred">Trucades sortints restringides</string>
   <string name="card_title_redialing">Tornant a marcar</string>
   <string name="card_title_unconditionalCF">Desviament incondicional de trucades activat</string>
+  <string name="carrier_info">Informació de l\'operador</string>
   <string name="carrier_settings_title">Configuració de l\'operador</string>
+  <string name="category_personal">Personal</string>
   <string name="category_work">Laboral</string>
   <string name="cb_sms_settings">Configuració de difusió mòbil d\'SMS</string>
   <string name="cdma_activate_device">Activa dispositiu</string>
@@ -420,10 +427,12 @@
   <string name="change_password">Canvia la contrasenya de restricció</string>
   <string name="change_pin">Canvia el PIN de la SIM</string>
   <string name="change_pin2">Canvia el PIN2</string>
+  <string name="change_pin_cancel_label">Cancel·la</string>
   <string name="change_pin_confirm_pin_header">Confirmeu el vostre PIN</string>
   <string name="change_pin_confirm_pins_dont_match">"Els codis PIN no coincideixen"</string>
   <string name="change_pin_continue_label">Continua</string>
   <string name="change_pin_enter_new_pin_header">Estableix un nou PIN</string>
+  <string name="change_pin_ok_label">D\'acord</string>
   <string name="charge_length_format">Fa %1$s</string>
   <string name="choose_profile">Seleccioneu un perfil</string>
   <string name="clear_adb_keys">Revoca autoritzacions de depuració USB</string>
@@ -444,6 +453,7 @@
   <string name="confirm_pin2_label">Confirmeu el PIN2 nou</string>
   <string name="confirm_pin_label">Confirmeu el PIN nou</string>
   <string name="connect_disconnect_vibrate_none">Cap</string>
+  <string name="connect_disconnect_vibrate_normal">Normal</string>
   <string name="connect_disconnect_vibrate_summary">"Vibra quan la persona que esteu trucant contesti la trucada"</string>
   <string name="connect_disconnect_vibrate_title">Vibra quan despengin</string>
   <string name="connect_disconnect_vibrate_weak">Llum</string>
