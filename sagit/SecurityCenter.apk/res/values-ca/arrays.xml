@@ -68,9 +68,9 @@
     <item>Ordena per l\'ús de la bateria</item>
   </string-array>
   <string-array name="title_app_info">
-    <item>Installation source</item>
-    <item>Installation time</item>
-    <item>Last update source</item>
+    <item>Origen de la instal·lació</item>
+    <item>Data d\'instal·lació</item>
+    <item>Orígen de la darrera actualització</item>
     <item>Data de la darrera actualització</item>
   </string-array>
   <string-array name="sms_report_type">
