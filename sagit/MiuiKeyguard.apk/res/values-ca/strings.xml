@@ -84,6 +84,7 @@ Torneu a provar-ho d\'aquí %d segons."</string>
   <string name="open_camera_hint_text">Feu lliscar cap a l\'esquerra per obrir %s</string>
   <string name="open_remote_center_hint_text">Feu lliscar cap a la dreta per obrir %s</string>
   <string name="phone_locked_foget_password">Heu oblidat la contrasenya?</string>
+  <string name="phone_locked_foget_password_mehod_back">Enrere</string>
   <string name="phone_locked_foget_password_method">Heu oblidat la contrasenya?</string>
   <string name="phone_locked_foget_password_method_next">Següent</string>
   <string name="phone_locked_foget_password_ok">D\'acord</string>
