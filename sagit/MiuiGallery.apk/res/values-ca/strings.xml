@@ -707,6 +707,8 @@ Feu més fotos als vostres amics!"</string>
   <string name="picker_origin_need_download">"%1$d de les fotos seleccionades (%2$dMB) no són al dispositiu. Voleu baixar-les utilitzant les dades mòbils?"</string>
   <string name="picker_title_format">Podeu seleccionar %d fotos</string>
   <string name="picker_title_selection_format">Fotos seleccionades: %d</string>
+  <string name="picker_title_specify_format">Selecciona %d fotos</string>
+  <string name="picker_title_specify_format_one">Selecciona %d foto</string>
   <string name="picker_title_unlimit">Seleccioneu fotos</string>
   <string name="places_album_empty_title">Les fotos es poden ordenar segons la localització</string>
   <string name="preparing_data">Un moment&#8230;</string>
@@ -882,10 +884,18 @@ Feu més fotos als vostres amics!"</string>
   <string name="text_append_hint">Introduïu el text</string>
   <string name="text_append_style">Bafarada</string>
   <string name="text_append_transparent">Opacitat</string>
+  <string name="text_edit_dialog_font">Lletra</string>
+  <string name="text_edit_dialog_font_default">Per defecte</string>
   <string name="text_edit_dialog_keyboard">teclat</string>
+  <string name="text_edit_dialog_style">Estil</string>
+  <string name="text_edit_dialog_style_align_center">Centre</string>
   <string name="text_edit_dialog_style_align_left">Esquerra</string>
   <string name="text_edit_dialog_style_align_right">Dreta</string>
   <string name="text_edit_dialog_style_bold">Negreta</string>
+  <string name="text_edit_dialog_style_color">"Color  "</string>
+  <string name="text_edit_dialog_style_shadow">Ombra</string>
+  <string name="text_edit_dialog_style_transparent">Opacitat</string>
+  <string name="text_edit_sub_menu_text">Bafarada</string>
   <string name="things_album_empty_title">Les fotos es poden ordenar segons els objectes que hi surten</string>
   <string name="thumbnail_name">miniatura</string>
   <string name="tip_capture_location">Ubicació:</string>
