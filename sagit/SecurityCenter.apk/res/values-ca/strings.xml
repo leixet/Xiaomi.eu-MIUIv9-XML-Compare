@@ -130,6 +130,7 @@
   <string name="app_manager_clear_data_dlg_title">Voleu eliminar les dades de l\'aplicació?</string>
   <string name="app_manager_clear_failed_dlg_message">No s\'han pogut suprimir les dades de l\'aplicació.</string>
   <string name="app_manager_clear_failed_dlg_title">Suprimeix les dades</string>
+  <string name="app_manager_copy_pkg_to_clip">S\'ha copiat al porta-retalls</string>
   <string name="app_manager_default_close_summary">No s\'ha establert els predeterminats.</string>
   <string name="app_manager_default_open">Obre de manera predeterminada</string>
   <string name="app_manager_default_open_summary">S\'ha definit aquesta aplicació com a predeterminada per fer algunes accions.</string>
@@ -534,6 +535,8 @@
   <string name="dlg_remove_address_whitelist">Voleu eliminar aquesta ubicació de les excepcions?</string>
   <string name="dlg_remove_blacklist">Voleu eliminar aquests números de la llista de bloqueig?</string>
   <string name="dlg_remove_blacklist_ing">S\'està eliminant&#8230;</string>
+  <string name="dlg_remove_blacklist_title">Suprimeix</string>
+  <string name="dlg_remove_ok">Suprimeix</string>
   <string name="dlg_remove_whitelist">Voleu treure aquests números del llistat d\'excepcions?</string>
   <string name="dlg_remove_whitelist_ing">S\'està eliminant&#8230;</string>
   <string name="dlg_remove_whitelist_title">Suprimeix</string>
@@ -628,6 +631,7 @@
   <string name="gs_auto_clean_memory_detail">Esborra la memòria cau automàticament per optimitzar el joc</string>
   <string name="gs_dialog_confirm_close_msg">La drecera s\'eliminarà de la vostra pantalla d\'inici. Aneu a Seguretat &gt; Configuració per restablir-la.</string>
   <string name="gs_dialog_confirm_close_title">Desactiva</string>
+  <string name="gs_game_net_priority">Prioritat de connexió</string>
   <string name="gs_only_self_start_for_list">Redueix els processos en segon pla per deixar més bateria pel joc</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Operador incorrecte?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Operador actual: "</string>
@@ -723,6 +727,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="lock_screen_warning_switch_summary">Mostra advertència en pantalla de bloqueig quan l\'ús de dades excedeixi d\'una determinada quantitat</string>
   <string name="lock_screen_warning_switch_title">Mostra advertències en pantalla de bloqueig</string>
   <string name="lock_screen_warning_value">Advertiment d\'ús de dades</string>
+  <string name="lockpattern_access_need_to_unlock_wrong_pattern">La contrasenya no és correcte, torneu-ho a provar.</string>
   <string name="lockpattern_confirm_button_text">D\'acord</string>
   <string name="lockpattern_continue_button_text">Següent</string>
   <string name="lockpattern_need_to_confirm">Dibuixeu el patró novament per confirmar</string>
@@ -1324,6 +1329,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="skin_change_close_toast">Els canvis s\'aplicaran la propera vegada que executeu Seguretat</string>
   <string name="sms_delete_hint">Voleu eliminar tots els missatges bloquejats enviats des d\'aquest número?</string>
   <string name="sms_delete_title">Elimineu el missatge</string>
+  <string name="sms_filter">Filtre intel ligent</string>
   <string name="sms_smart_engine_update">Actualitza el filtre d\'SMS automàticament</string>
   <string name="sorted_dialog_title">Ordena per</string>
   <string name="sp_background_risk_dialog_summary">, feu un control detallat i corregiu els riscos de pagament</string>
@@ -1363,6 +1369,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="st_antispam_bw_head_add">Afegeix un prefix</string>
   <string name="st_antispam_bw_man_add">Afegeix un número de telèfon</string>
   <string name="st_antispam_bw_pick_add">Afegeix contactes</string>
+  <string name="st_antispam_delete">Suprimeix</string>
   <string name="st_antispam_des_anti">Bloqueja</string>
   <string name="st_antispam_des_permit">Permet</string>
   <string name="st_antispam_des_permit_nokeyword">Permet</string>
