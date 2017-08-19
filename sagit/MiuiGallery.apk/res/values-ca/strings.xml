@@ -373,7 +373,13 @@
   <string name="error_build_thumbnail_action">Baixa l\'arxiu original</string>
   <string name="error_build_thumbnail_msg">"No s'ha pogut baixar la miniatura. Intenteu baixar l'arxiu original."</string>
   <string name="error_build_thumbnail_tip">"No s'ha pogut baixar la miniatura."</string>
+  <string name="error_change_storage_action">Canvia d\'emmagatzematge</string>
+  <string name="error_change_storage_msg">Aneu a Configuració &gt; Emmagatzematge, canvieu-hi l\'emmagatzematge i torneu-ho a provar.</string>
   <string name="error_cloud_not_active">No hi ha fotos a Mi Cloud</string>
+  <string name="error_connect_timeout_tip">Temps de connexió exhaurit.</string>
+  <string name="error_decode_tip">"El format no està suportat o els fitxers estan corromputs."</string>
+  <string name="error_external_sdcard_write_action">Canvia d\'emmagatzematge</string>
+  <string name="error_external_sdcard_write_msg">Aneu a Configuració &gt; Emmagatzematge, canvieu-hi l\'emmagatzematge i torneu-ho a provar.</string>
   <string name="error_forbidden">S\'ha desactivat la sincronització a causa de problemes amb el vostre compte Mi.</string>
   <string name="error_invalid_link">URL no vàlida</string>
   <string name="error_link_has_expired">La URL ha caducat</string>
