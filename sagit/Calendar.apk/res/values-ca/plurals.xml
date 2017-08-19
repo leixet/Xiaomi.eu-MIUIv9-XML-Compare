@@ -89,4 +89,16 @@
     <item quantity="other">%d dies laborables</item>
     <item quantity="one">%d dia laborable</item>
   </plurals>
+  <plurals name="birthday_event_description_days_ago">
+    <item quantity="other">Fa %1$d dies de</item>
+    <item quantity="one">Fa %1$d dia de</item>
+  </plurals>
+  <plurals name="birthday_event_description_days_later">
+    <item quantity="other">Falten %1$d dies per</item>
+    <item quantity="one">Falta %1$d dia per</item>
+  </plurals>
+  <plurals name="edit_date_calculate_days_error_hint">
+    <item quantity="other">Podeu introduïr fins a %1$d dies</item>
+    <item quantity="one">Podeu introduïr fins a %1$d dia</item>
+  </plurals>
 </resources>
