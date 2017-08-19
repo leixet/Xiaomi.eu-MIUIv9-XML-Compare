@@ -384,8 +384,11 @@
   <string name="error_external_sdcard_write_msg">Aneu a Configuració &gt; Emmagatzematge, canvieu-hi l\'emmagatzematge i torneu-ho a provar.</string>
   <string name="error_external_sdcard_write_tip">"No es poden desar elements a la targeta SD."</string>
   <string name="error_forbidden">S\'ha desactivat la sincronització a causa de problemes amb el vostre compte Mi.</string>
+  <string name="error_internal_sdcard_write_tip">S\'ha produït un error. Reinicieu el dispositiu i torneu-ho a provar.</string>
   <string name="error_invalid_link">URL no vàlida</string>
   <string name="error_link_has_expired">La URL ha caducat</string>
+  <string name="error_network_restrict_action">Mostra els detalls</string>
+  <string name="error_network_restrict_msg">Permet que la galeria es connecti a la xarxa.</string>
   <string name="error_network_restrict_tip">"No es pot connectar a la xarxa."</string>
   <string name="error_no_account_action">Inicia la sessió</string>
   <string name="error_no_account_msg">Inicieu la sessió al compte Mi i torneu-ho a provar.</string>
@@ -458,7 +461,14 @@ Feu més fotos als vostres amics!"</string>
   <string name="filter_category_food">Menjar</string>
   <string name="filter_category_portrait">Vertical</string>
   <string name="filter_category_scene">Horitzontal</string>
+  <string name="filter_film_blackwhite">Blanc i negre</string>
+  <string name="filter_film_dew">Rosada</string>
+  <string name="filter_film_fade">Esvaeix</string>
   <string name="filter_film_film">Pel·licula</string>
+  <string name="filter_film_grey">Gris</string>
+  <string name="filter_film_quiet">Calma</string>
+  <string name="filter_film_style">Poètic</string>
+  <string name="filter_film_time">Hora</string>
   <string name="filter_food_cookies">Galetes</string>
   <string name="filter_food_delicious">Gurmet</string>
   <string name="filter_food_dessert">Dolç</string>
