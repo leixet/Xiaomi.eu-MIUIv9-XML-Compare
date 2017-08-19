@@ -505,6 +505,10 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="debug_view_attributes">Habilita l\'inspecció d\'atributs de visualització</string>
   <string name="default_notification_description">So predeterminat (%1$s)</string>
   <string name="default_preference_summary">&lt;No establert&gt;</string>
+  <string name="default_preference_summary_domain_address">&lt;No s\'ha configurat&gt;</string>
+  <string name="default_preference_summary_password">&lt;No s\'ha configurat&gt;</string>
+  <string name="default_preference_summary_username">&lt;No s\'ha configurat&gt;</string>
+  <string name="default_transport">UDP</string>
   <string name="delete">Elimina</string>
   <string name="delete_fdn_contact">Esborra número de marcatge predefinit</string>
   <string name="deleting_fdn_contact">S\'està eliminant el número de marcatge predefinit&#8230;</string>
@@ -525,6 +529,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="description_image_button_three">tres</string>
   <string name="description_image_button_two">dos</string>
   <string name="description_voicemail_button">bústia de veu</string>
+  <string name="dev_logpersist_clear_warning_title">Voleu netejar l\'emmagatzematge del registrador persistent?</string>
   <string name="dev_settings_warning_message">Aquesta configuració només està prevista per a desenvolupament. Pot fer que el dispositiu i les aplicacions s\'interrompin o no funcionin correctament.</string>
   <string name="dev_settings_warning_title">Voleu permetre la configuració de desenvolupament?</string>
   <string name="development_settings_enable">Activa les opcions per a desenvolupadors</string>
@@ -585,12 +590,15 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="enable_disable_eo">Oportunitats de feina</string>
   <string name="enable_disable_international">Internacional</string>
   <string name="enable_disable_lafs">Horaris de vols de l\'aeroport local</string>
+  <string name="enable_disable_local">Local</string>
   <string name="enable_disable_local_weather">Clima local</string>
   <string name="enable_disable_lodgings">Allotjaments</string>
   <string name="enable_disable_maintenance">Manteniment</string>
   <string name="enable_disable_mhh">Medicina, salut i hospitals</string>
   <string name="enable_disable_multi_category">Categoria múltiple</string>
   <string name="enable_disable_national">Nacional</string>
+  <string name="enable_disable_regional">Regional</string>
+  <string name="enable_disable_restaurants">Restaurants</string>
   <string name="enable_disable_retail_directory">Directori de Comerços</string>
   <string name="enable_disable_stock_quotes">Cotitzacions d\'Accions</string>
   <string name="enable_disable_technology_news">Notícies de tecnologia</string>
@@ -691,6 +699,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="inactive_app_inactive_summary">Aplicació inactiva. Premeu per activar-la.</string>
   <string name="inactive_apps_title">Aplicacions inactives</string>
   <string name="incall_error_call_failed">No es pot trucar.</string>
+  <string name="incall_error_cannot_add_call">En aquest moment no es pot afegir la trucada.</string>
   <string name="incall_error_ecm_emergency_only">Surt del mode de devolució de trucada d\'emergència per fer un altre tipus de trucada.</string>
   <string name="incall_error_emergency_only">No s\'ha registrat a la xarxa.</string>
   <string name="incall_error_missing_voicemail_number">Número de bústia de veu desconegut.</string>
@@ -831,6 +840,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="msim_mode_progress_activating_message">Activant</string>
   <string name="msim_mode_progress_deactivating_message">Desactivant</string>
   <string name="msim_not_set_summary">No establert</string>
+  <string name="msim_pref_title_data">Internet</string>
   <string name="msim_pref_title_voice">Marcatge</string>
   <string name="msim_set_icc_card_error">Error de targeta ICC</string>
   <string name="msim_set_sub_not_supported_phone_in_call">"Mentre es truca no es pot establir"</string>
@@ -989,6 +999,7 @@ Torneu a provar-ho o truqueu al servei d\'atenció al client per a més opcions.
   <string name="path_telocation_enable_title">Aplicacions del sistema/Telèfon/Ubicació/Mostra ubicació</string>
   <string name="path_turnover_mute_title">Aplicacions de sistema/Telèfon/Configuració de trucades entrants/Passa a mode silenciós</string>
   <string name="path_voicemail_settings">Aplicacions de sistema/Telèfon/Configuració avançada/Configuració de bústia de veu</string>
+  <string name="pause_prompt_no">No</string>
   <string name="pause_prompt_str">"Enviant tons
 "</string>
   <string name="pause_prompt_yes">Sí</string>
@@ -1031,6 +1042,7 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="pin_progress_unlock_icc">S\'està desbloquejant la targeta SIM&#8230;</string>
   <string name="pointer_location">Ubicació del punter</string>
   <string name="pointer_location_summary">Pantalla de superposició que mostra les dades tàctils actuals</string>
+  <string name="port">Port</string>
   <string name="port_title">Número de port</string>
   <string name="power_charging_duration">%1$s - %2$s fins carregar-la</string>
   <string name="power_charging_duration_ac">%1$s - %2$s fins carregar-la per CA</string>
@@ -1106,6 +1118,9 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="private_num">Número privat</string>
   <string name="process_kernel_label">SO Android</string>
   <string name="progress_dialog_exiting_ecm">Sortint del mode de devolució de trucada d\'emergència</string>
+  <string name="proximity_mode_title">Activeu el sensor de proximitat</string>
+  <string name="proximity_off_summary">Quan respongueu una trucada, la pantalla sempre estarà encesa.</string>
+  <string name="proximity_on_summary">Quan respongueu una trucada, la pantalla s\'apagarà per estalviar energia.</string>
   <string name="proxy_address_title">Adreça externa del servidor intermediari</string>
   <string name="pstn_connection_service_label">Targetes SIM integrades</string>
   <string name="pstn_phone">Trucada de telèfon mòbil</string>
@@ -1222,6 +1237,7 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="simContacts_emptyLoading">S\'està llegint de la targeta SIM&#8230;</string>
   <string name="simContacts_title">Gestiona els contactes de la targeta SIM</string>
   <string name="simFdnContacts_empty">No hi ha contactes de marcatge predefinit.</string>
+  <string name="sim_card_num">SIM %s</string>
   <string name="sim_contact_name">Nom</string>
   <string name="sim_contact_number">Número</string>
   <string name="sim_description_default">Targeta SIM %s</string>
@@ -1357,6 +1373,7 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="time_end_minute">minut límit final</string>
   <string name="time_formate_am">am</string>
   <string name="time_formate_pm">pm</string>
+  <string name="time_next_day">" proper dia "</string>
   <string name="time_start">"Des de"</string>
   <string name="time_start_hour">hora límit inicial</string>
   <string name="time_start_minute">minut límit inicial</string>
@@ -1364,6 +1381,7 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="title_convert_fbe">S\'està convertint a xifrat basat en fitxers</string>
   <string name="track_frame_time">Perfil de la renderització de la GPU</string>
   <string name="transition_animation_scale_title">Escalat de l\'animació de transició</string>
+  <string name="transport">Protocol</string>
   <string name="transport_title">Tipus de transport</string>
   <string name="tts_default_lang_summary">Defineix la llengua utilitzada per a la síntesi de veu</string>
   <string name="tts_default_lang_title">Idioma</string>
@@ -1377,6 +1395,7 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="tts_engine_security_warning">Pot ser que aquesta base de síntesi de la parla pugui aplegar tot el text que es digui en veu alta, incloses les dades personals, com ara les contrasenyes i els números de les targetes de crèdit. Ve de la base %s. Voleu activar l\'ús d\'aquest motor de síntesi de la parla?</string>
   <string name="tts_engine_settings_button">Obre la configuració de la base</string>
   <string name="tts_engine_settings_title">Configuració de %s</string>
+  <string name="tts_general_section_title">General</string>
   <string name="tts_install_data_summary">Instal·la les dades de veu que calguin per a la síntesi de veu</string>
   <string name="tts_install_data_title">Instal·lació de les dades de veu</string>
   <string name="tts_lang_not_selected">No s\'ha seleccionat cap idioma</string>
@@ -1416,8 +1435,12 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="vibrate_after_connected_title">Vibració un cop connectat</string>
   <string name="vm_change_failed">"No s\'ha pogut canviar el número de bústia de veu.
 Contacteu amb el vostre operador si persisteix aquest problema."</string>
+  <string name="vm_change_pin_error_invalid">El nou PIN conté caràcters no vàlids.</string>
+  <string name="vm_change_pin_error_mismatch">El PIN anterior no coincideix.</string>
   <string name="vm_change_pin_error_system_error">No es pot canviar el PIN</string>
   <string name="vm_change_pin_error_too_long">El PIN nou és massa llarg.</string>
+  <string name="vm_change_pin_error_too_short">El PIN nou és massa curt.</string>
+  <string name="vm_change_pin_error_too_weak">El PIN nou és massa feble. Una contrasenya segura no hauria de tenir seqüències contínues o dígits repetits.</string>
   <string name="vm_change_pin_new_pin">PIN nou</string>
   <string name="vm_change_pin_old_pin">PIN antic</string>
   <string name="vm_change_pin_progress_message">Espereu si us plau.</string>
@@ -1429,6 +1452,7 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="voice_report_unknown_num">Número desconegut</string>
   <string name="voicemail">Bústia de veu</string>
   <string name="voicemail_abbreviated">BV:</string>
+  <string name="voicemail_change_pin_dialog_title">Canvia el PIN</string>
   <string name="voicemail_default">El vostre operador</string>
   <string name="voicemail_notification_ringtone_title">So</string>
   <string name="voicemail_notification_vibarte_when_dialog_title">Vibració</string>
@@ -1437,6 +1461,7 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="voicemail_number_not_set">&lt;No definit&gt;</string>
   <string name="voicemail_provider">Servei</string>
   <string name="voicemail_provider_summary">Trieu un servei de bústia de veu</string>
+  <string name="voicemail_set_pin_dialog_title">Estableix el PIN</string>
   <string name="voicemail_settings">Configuració de la bústia de veu</string>
   <string name="voicemail_settings_number_hint">Introduïu el número de bústia de veu</string>
   <string name="voicemail_settings_number_label">Número de bústia de veu</string>
