@@ -22,7 +22,6 @@
   <string name="cancel_receive_stop">Continuar rebent</string>
   <string name="cancel_stop">Continuar enviant</string>
   <string name="file_not_support">"Aquest tipus de fitxer no està suportat"</string>
-  <string name="hello_world">Hola món!</string>
   <string name="help">Ajuda</string>
   <string name="i_know">Ho tinc</string>
   <string name="intro_page1_text1">Comparteix fitxers amb dispositius propers</string>
