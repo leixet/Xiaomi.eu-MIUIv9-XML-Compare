@@ -1476,6 +1476,7 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="volte_switch_summary">Utilitza VoLTE per millorar la qualitat de les trucades de veu i de vídeo</string>
   <string name="volte_switch_title">Activa VoLTE</string>
   <string name="vpn_settings_not_available">La configuració de la VPN no està disponible per a aquest usuari</string>
+  <string name="vvm_unsupported_message_format">Tipus de missatge no compatible, truqueu a %s per escoltar-lo.</string>
   <string name="wait_for_debugger">Espera el depurador</string>
   <string name="wait_for_debugger_summary">Abans d\'executar-se, l\'aplicació de depuració espera que es connecti el depurador</string>
   <string name="wait_prompt_str">"Voleu enviar els tons següents?
@@ -1496,6 +1497,7 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="wifi_fail_to_scan">"No es poden cercar xarxes"</string>
   <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_no_internet">No s\'ha detectat accés a Internet, no s\'hi tornarà a connectar automàticament.</string>
+  <string name="wifi_no_internet_no_reconnect">"No s'ha detectat accés a Internet, no es tornarà a connectar automàticament."</string>
   <string name="wifi_not_in_range">Fora de l\'abast</string>
   <string name="wifi_remembered">S\'ha desat</string>
   <string name="wifi_security_none">Cap</string>
