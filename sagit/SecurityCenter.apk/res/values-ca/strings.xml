@@ -111,7 +111,7 @@
   <string name="app_check_no_issue">Sembla que no hi ha problemes amb la bateria. Genial!</string>
   <string name="app_detail">Detalls</string>
   <string name="app_error_tip_for_launcher">"Els components del maquinari o la versió del sistema Android del vostre dispositiu poden causar problemes de compatibilitat i fer que algunes aplicacions no funcionin bé, s'alenteixin o s'aturin definitivament. Si teniu aquests problemes, envieu el vostre feedback als desenvolupadors de l'aplicació."</string>
-  <string name="app_error_tip_for_store">"Els components del maquinari o la versió del sistema Android del vostre dispositiu podrien originar problemes de compatibilitat que provocarien errors d'instal·lació en algunes aplicacions. Si us trobeu amb problemes d'aquest tipus o algunes aplicacions no funcionen correctament, s'alenteixen o s'aturen sobtadament, espereu fins que els desenvolupadors de l'aplicació corregeixin els errors i torneu a provar d'instal·lar l'aplicació."</string>
+  <string name="app_error_tip_for_store">"Els components del maquinari o la versió del sistema Android del vostre dispositiu podrien originar problemes de compatibilitat que provocarien errors d'instal·lació en algunes aplicacions. Si us trobeu amb problemes d'aquest tipus o algunes aplicacions no funcionen bé, s'alenteixen o s'aturen sobtadament, espereu fins que els desenvolupadors de l'aplicació corregeixin els errors i torneu a provar d'instal·lar l'aplicació."</string>
   <string name="app_install_intercept">Bloquejar instal·lació</string>
   <string name="app_install_tips_go_to">Obre\'l</string>
   <string name="app_install_tips_install_success">%1$s s\'ha instal·lat amb èxit</string>
@@ -144,7 +144,7 @@
   <string name="app_manager_dlg_cancel">Cancel·la</string>
   <string name="app_manager_dlg_ok">D\'acord</string>
   <string name="app_manager_factory_reset">Desinstal·la actualitzacions</string>
-  <string name="app_manager_factory_reset_dlg_msg">Es desinstal·laran totes les actualitzacions d\'aquesta aplicació Android.</string>
+  <string name="app_manager_factory_reset_dlg_msg">Es desinstal·laran totes les actualitzacions d\'aquesta aplicació de sistema Android.</string>
   <string name="app_manager_factory_reset_dlg_title">Voleu desinstal·lar actualitzacions?</string>
   <string name="app_manager_force_stop_dlg_text">Si forceu el tancament d\'una aplicació, és possible que no funcioni correctament.</string>
   <string name="app_manager_force_stop_dlg_title">Voleu forçar el tancament?</string>
@@ -1288,6 +1288,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="safe_result_item_info_system_version">Sistema té l\'última versió</string>
   <string name="safepay_alert_dialog_button_continue">Procedir</string>
   <string name="safepay_alert_dialog_button_risk">Solució</string>
+  <string name="save_energy_title">Optimitza la bateria</string>
   <string name="sc_allow_network_dialog_message">Cal permetre a aquesta aplicació connectar-se a internet perquè funcioni normalment.</string>
   <string name="sc_allow_network_dialog_tiltle">"No es pot fer servir l'Estalvi de dades"</string>
   <string name="scan_status_risk">Arriscat</string>
