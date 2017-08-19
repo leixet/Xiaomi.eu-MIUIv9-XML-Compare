@@ -219,6 +219,7 @@ Els missatges només apareixeran en el Segon espai."</string>
   <string name="start_new_fingerprint_tips">Utilitzeu l\'empremta del Segon espai per entrar al Segon espai des de la pantalla de bloqueig</string>
   <string name="start_setting_guide_desc_title">Hi ha algunes coses per configurar</string>
   <string name="summary_switch_apps_settings">Seleccioneu aplicacions del Segon espai</string>
+  <string name="support_desc">Serveis de seguretat subministrats per Graphite</string>
   <string name="sure_to_use">Confirmeu</string>
   <string name="switchDataSummary">Moure elements entre espais</string>
   <string name="switch_apps_settings">Configuració de l\'aplicació</string>
