@@ -110,6 +110,7 @@
   <string name="apn_exception_title">Comprovar configuració d\'APN</string>
   <string name="app_check_no_issue">Sembla que no hi ha problemes amb la bateria. Genial!</string>
   <string name="app_detail">Detalls</string>
+  <string name="app_error_tip_for_launcher">"Els components del maquinari o la versió del sistema Android del vostre dispositiu poden causar problemes de compatibilitat i fer que algunes aplicacions no funcionin bé, es congelin o s'aturin definitivament. Si teniu aquests problemes, envieu el vostre feedback als desenvolupadors de l'aplicació."</string>
   <string name="app_install_intercept">Bloquejar instal·lació</string>
   <string name="app_install_tips_go_to">Obre\'l</string>
   <string name="app_install_tips_install_success">%1$s s\'ha instal·lat amb èxit</string>
