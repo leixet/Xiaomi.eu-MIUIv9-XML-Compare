@@ -2126,6 +2126,7 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="lockscreen_glogin_checking_password">S\'està comprovant&#8230;</string>
   <string name="lockscreen_glogin_password_hint">Contrasenya</string>
   <string name="lockscreen_glogin_submit_button">Inici de sessió</string>
+  <string name="lockscreen_magazine">Carrusel de fons de pantalla</string>
   <string name="lockscreen_magazine_title">Tipus de fons de pantalla</string>
   <string name="lockscreen_remote_input">Si el dispositiu està bloquejat, impedeix que s\'escriguin respostes o altres textos a les notificacions</string>
   <string name="login_account_dialog_message">Inicia la sessió amb el compte de Mi i activa la sincronització amb Mi Cloud.</string>
