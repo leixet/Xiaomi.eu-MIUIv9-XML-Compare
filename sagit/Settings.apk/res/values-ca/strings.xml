@@ -2145,6 +2145,7 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="man_add_application">Afegiu aplicacions d\'inici automàtic</string>
   <string name="manage_device_admin">Administradors del dispositiu</string>
   <string name="manage_device_admin_summary">Mostra o desactiva els administradors del dispositiu</string>
+  <string name="manage_fakecell_settings">Protecció contra estacions de base falses</string>
   <string name="manage_fingerprint_text">Gestió d\'empremtes</string>
   <string name="manage_mobile_plan_title">Pla mòbil</string>
   <string name="manage_notification_access_summary_zero">Les aplicacions no poden llegir les notificacions</string>
@@ -2795,6 +2796,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="privacy_factory_reset_dlg_title">Còpia de seguretat de les dades</string>
   <string name="privacy_file">Fitxers</string>
   <string name="privacy_gallery">Fotos</string>
+  <string name="privacy_header_text_less_than_half">Molt poc espai per a aquesta aplicació. Arrossegueu més lluny el separador.</string>
   <string name="privacy_mms">Missatges</string>
   <string name="privacy_mode_dialog_message">Voleu amagar les trucades entrants, notes, fotos, missatges i configuració?</string>
   <string name="privacy_mode_dialog_title">Mode convidat</string>
@@ -3730,6 +3732,8 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="status_bar_settings_style">Notificacions i disposició dels commutadors</string>
   <string name="status_bar_settings_toggle_collapse_after_clicked">Redueix després de tocar-ho</string>
   <string name="status_bar_settings_toggle_position">Posició dels commutadors</string>
+  <string name="status_bar_settings_user_fold">Carpeta de notificacions</string>
+  <string name="status_bar_settings_user_fold_summary">Totes les notificacions no importants apareixeran en una carpeta separada</string>
   <string name="status_bar_style_list">S\'han combinat</string>
   <string name="status_bar_style_page">Separa</string>
   <string name="status_bt_address">Adreça del Bluetooth</string>
@@ -4083,6 +4087,7 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">"Després de desactivar la contrasenya de la pantalla de bloqueig, se suprimiran les empremtes registrades. No podreu desbloquejar el dispositiu amb l'empremta."</string>
   <string name="turn_off_security_lock">Desactiva el bloqueig</string>
   <string name="turn_on_keyguard_password">Activa la contrasenya de la pantalla de bloqueig</string>
+  <string name="turn_on_keyguard_password_alert">"Recordeu la vostra contrasenya. Si la oblideu, no podreu restaurar-lo."</string>
   <string name="turn_on_keyguard_password_alert_foget_cacel">Ara no</string>
   <string name="turn_on_security_lock">Tria un bloqueig de pantalla</string>
   <string name="turn_on_wifi_dialog_text">La Wi-Fi es desactiva quan el punt d\'accés s\'activa. Per activar el Wi-Fi heu de desactivar el punt d\'accés.</string>
