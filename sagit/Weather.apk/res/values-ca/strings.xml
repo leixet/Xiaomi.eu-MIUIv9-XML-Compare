@@ -148,6 +148,7 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="more_details">Més detalls</string>
   <string name="network_not_available">"No es pot connectar a la xarxa"</string>
   <string name="network_unavailable">"No es pot connectar a la xarxa."</string>
+  <string name="night_not_disturb_settings_title">Sense molèsties per la nit</string>
   <string name="no_network_btn">Torna-ho a provar</string>
   <string name="no_vote_ratio">cons %1$s%%</string>
   <string name="open">Obre</string>
@@ -155,6 +156,7 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="open_now">Obre\'l ara</string>
   <string name="other">Altres</string>
   <string name="particulate_matter_exceeded">Alta</string>
+  <string name="particulate_matter_not_exceeded">Normal</string>
   <string name="particulate_matter_serious_exceeded">Molt alta</string>
   <string name="precipitation_degree_five">tempesta</string>
   <string name="precipitation_degree_four">intensa</string>
@@ -193,6 +195,8 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="unit">Unitats</string>
   <string name="unit_temperature">Unitats de temperatura</string>
   <string name="unit_wind">Unitats de velocitat del vent</string>
+  <string name="update_night_setting_title_text">Actualitza-ho automàticament per la nit</string>
+  <string name="update_setting_title_text">Configuració d\'actualització</string>
   <string name="view_forecast_item_yesterday">Ahir</string>
   <string name="view_indexes_item_today">Avui</string>
   <string name="view_indexes_item_tommorrow">Demà</string>
@@ -203,4 +207,5 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="xiaomi_weather_description_content">"El temps li proporciona informació meteorològica exacta. Sense aquesta aplicació, la barra d'estat i el giny del temps de la pantalla d'inici no funcionaran correctament. Assegureu-vos que podeu prescindir d'aquestes funcions abans de desinstal·lar l'aplicació."</string>
   <string name="xiaomi_weather_description_title">Quant al temps</string>
   <string name="yes_vote_ratio">pros %1$s%%</string>
+  <string name="your_location">La vostra ubicació</string>
 </resources>
