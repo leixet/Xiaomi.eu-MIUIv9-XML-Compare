@@ -81,6 +81,7 @@ Localització: %s
 Durada: %s 
 
 "</string>
+  <string name="network_stream">Transmissió de xarxa</string>
   <string name="no_filter_folder_tips">No hi ha carpeta de filtres</string>
   <string name="no_folder_found">No s\'ha trobat cap carpeta de vídeo</string>
   <string name="no_hidden_files_tips">No hi ha arxius ocults</string>
@@ -136,6 +137,7 @@ Durada: %s
   <string name="toast_screen_text_full">Pantalla sencera</string>
   <string name="toast_screen_text_horizontal">Redimensionament horitzontal</string>
   <string name="toast_screen_text_scaling">Redimensionament</string>
+  <string name="toast_screen_text_stream">Feu clic al botó transmissió</string>
   <string name="toast_screen_text_vertical">Redimensionament vertical</string>
   <string name="track_audio">Pista d\'àudio</string>
   <string name="track_text">Pista de subtítols</string>
