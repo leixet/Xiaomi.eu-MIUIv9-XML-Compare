@@ -6,5 +6,10 @@
   <string name="menu_title_current_version_log">Novetats</string>
   <string name="menu_title_pick_rom_file">Selecciona el paquet d\'actualització</string>
   <string name="menu_title_recovery">Reinicia en mode de recuperació</string>
+  <string name="notif_cancel">Cancel·la</string>
+  <string name="notif_install">Instal·la</string>
+  <string name="notif_new_summary">Premeu per obtenir detalls</string>
+  <string name="notif_new_title">Nova versió disponible!</string>
   <string name="notifications_switch">Mostra les notificacions</string>
+  <string name="permdesc_cache_filesystem">Permet a l\'aplicació escriure arxius a /cache.</string>
 </resources>
