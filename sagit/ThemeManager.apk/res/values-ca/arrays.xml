@@ -24,6 +24,13 @@
     <item>SoundRecorderRewind</item>
     <item>bateria baixa</item>
   </string-array>
+  <string-array name="wallpaper_settings_precust_cover_name">
+    <item>Entertainment</item>
+    <item>Horitzontal</item>
+    <item>Starry sky</item>
+    <item>Botany</item>
+    <item>Animal</item>
+  </string-array>
   <string-array name="disable_package_replacement">
     <item>desactiva el nom del paquet</item>
   </string-array>
