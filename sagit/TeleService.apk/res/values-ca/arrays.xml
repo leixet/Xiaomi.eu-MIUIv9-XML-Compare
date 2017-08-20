@@ -122,7 +122,7 @@
   </string-array>
   <string-array name="show_non_rect_clip_entries">
     <item>Desactivat</item>
-    <item>Draw non-rectangular clip region in blue</item>
+    <item>Dibuixa àrea retall no rectangular en blau</item>
     <item>Ressalta en verd les ordres de dibuixos ja provats</item>
   </string-array>
   <string-array name="track_frame_time_entries">
@@ -208,5 +208,22 @@
     <item>WCDMA</item>
     <item>LTE</item>
     <item>Mode triple</item>
+  </string-array>
+  <string-array name="region_not_support_volte">
+    <item>TW</item>
+    <item>ID</item>
+    <item>PL</item>
+    <item>GR</item>
+    <item>SG</item>
+    <item>SK</item>
+    <item>TH</item>
+    <item>RU</item>
+    <item>MX</item>
+    <item>VN</item>
+    <item>ZA</item>
+    <item>EE</item>
+    <item>LV</item>
+    <item>LT</item>
+    <item>AE</item>
   </string-array>
 </resources>
