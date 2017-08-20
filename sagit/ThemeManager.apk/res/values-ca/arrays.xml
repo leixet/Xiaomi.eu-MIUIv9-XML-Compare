@@ -25,10 +25,10 @@
     <item>bateria baixa</item>
   </string-array>
   <string-array name="wallpaper_settings_precust_cover_name">
-    <item>Entertainment</item>
+    <item>Entreteniment</item>
     <item>Horitzontal</item>
-    <item>Starry sky</item>
-    <item>Botany</item>
+    <item>Cel estrellat</item>
+    <item>Botànica</item>
     <item>Animal</item>
   </string-array>
   <string-array name="disable_package_replacement">
