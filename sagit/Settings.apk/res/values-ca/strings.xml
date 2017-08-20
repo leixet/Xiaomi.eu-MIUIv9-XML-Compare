@@ -4087,8 +4087,13 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">"Després de desactivar la contrasenya de la pantalla de bloqueig, se suprimiran les empremtes registrades. No podreu desbloquejar el dispositiu amb l'empremta."</string>
   <string name="turn_off_security_lock">Desactiva el bloqueig</string>
   <string name="turn_on_keyguard_password">Activa la contrasenya de la pantalla de bloqueig</string>
-  <string name="turn_on_keyguard_password_alert">"Recordeu la vostra contrasenya. Si la oblideu, no podreu restaurar-lo."</string>
+  <string name="turn_on_keyguard_password_alert">"Recordeu la vostra contrasenya. Si la oblideu, no podreu restaurar-la."</string>
+  <string name="turn_on_keyguard_password_alert_choose">"Recordeu la vostra contrasenya. Si la oblideu, haureu d'esborrar totes les dades del vostre dispositiu per establir-ne un de nova."</string>
   <string name="turn_on_keyguard_password_alert_foget_cacel">Ara no</string>
+  <string name="turn_on_keyguard_password_alert_foget_ok">Entesos</string>
+  <string name="turn_on_keyguard_password_alert_foget_ok_time">Entesos (%d segon)</string>
+  <string name="turn_on_keyguard_password_alert_forget_content">"Recordeu la contrasenya de la vostra pantalla de bloqueig. Si la oblideu, haureu d'esborrar totes les dades del vostre dispositiu, incloses les fotos i els contactes i, a continuació, configurar-ne un de nova."</string>
+  <string name="turn_on_keyguard_password_alert_forget_title">"Si la oblideu, no podreu restaurar-la."</string>
   <string name="turn_on_security_lock">Tria un bloqueig de pantalla</string>
   <string name="turn_on_wifi_dialog_text">La Wi-Fi es desactiva quan el punt d\'accés s\'activa. Per activar el Wi-Fi heu de desactivar el punt d\'accés.</string>
   <string name="turn_on_wifi_dialog_title">Activa la Wi-Fi</string>
