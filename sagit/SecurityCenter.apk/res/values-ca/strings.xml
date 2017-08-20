@@ -964,8 +964,15 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="om_ill_proc_activity_title">Problemes</string>
   <string name="om_ill_proc_handle_uninstall_prompt">Desinstal·leu aquesta apli per solucionar problemes d\'ús de la bateria.</string>
   <string name="om_ill_proc_handle_unstaill_title">Voleu desinstal·lar %s?</string>
+  <string name="om_lock_app_tip_msg">Premeu per blocar</string>
+  <string name="om_lock_app_unlocked_app">Desblocat</string>
+  <string name="om_media_scan_timeout_proc_name">Servidor multimèdia</string>
+  <string name="om_other_processes">Altres tasques</string>
+  <string name="om_settings_cpu_over_load_notify">Ús de la CPU</string>
+  <string name="om_settings_lock_app">Bloca aplicacions</string>
   <string name="om_settings_lock_app_manage">Bloca aplicacions</string>
   <string name="om_settings_memocy_occupy_too_large_summary">Avisa quan la mida de memòria cau sigui massa gran</string>
+  <string name="om_settings_memory_occupy_notify_never">Mai</string>
   <string name="om_settings_title">Configuració d\'optimització</string>
   <string name="open_activity_err">No s\'ha trobat l\'aplicació</string>
   <string name="open_app">Obre</string>
@@ -1663,6 +1670,7 @@ Dades extres en ús"</string>
   <string name="traffic_setting_fragment_sms_content_tips">Introduïu el missatge aquí</string>
   <string name="traffic_setting_fragment_title">Configuració de consulta d\'ús de dades</string>
   <string name="traffic_warning_purchase_title">Avís d\'ús de dades mòbils</string>
+  <string name="try_game">Prova\'l</string>
   <string name="try_recommended_function">Protegiu el dispositiu amb les noves funcions de seguretat</string>
   <string name="two_address_choose_hint">%1$s i %2$s</string>
   <string name="unable_connect_internet">No hi ha connexió a internet</string>
