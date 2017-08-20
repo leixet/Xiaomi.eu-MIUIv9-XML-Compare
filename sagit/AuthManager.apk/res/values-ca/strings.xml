@@ -10,7 +10,7 @@
   <string name="HIPS_Perm_AutoStart">Iniciar-se automàticament</string>
   <string name="HIPS_Perm_AutoStart_Desc">iniciar-se en engegar el dispositiu</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity">Canviar la connectivitat Bluetooth</string>
-  <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">activar o desactivar el Bluetooth</string>
+  <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">activa o desactiva el Bluetooth</string>
   <string name="HIPS_Perm_Body_Sensors">Sensors corporals</string>
   <string name="HIPS_Perm_Body_Sensors_Desc">sensors corporals (p. ex. sensor de freqüència cardíaca)</string>
   <string name="HIPS_Perm_Calendar">Llegir esdeveniments del calendari</string>
@@ -23,12 +23,12 @@
   <string name="HIPS_Perm_Contact_Desc">modificar i suprimir contactes</string>
   <string name="HIPS_Perm_External_Storage">Accedir i canviar fitxers en l\'emmagatzematge intern</string>
   <string name="HIPS_Perm_External_Storage_Desc">"afegir i eliminar fitxers en l'emmagatzematge intern del dispositiu"</string>
-  <string name="HIPS_Perm_Location">Obtenir informació de la ubicació</string>
-  <string name="HIPS_Perm_Location_Desc">obtenir la ubicació precisa (basada en el GPS i en la xarxa)</string>
-  <string name="HIPS_Perm_MMS">Escriure i suprimir missatges MMS</string>
+  <string name="HIPS_Perm_Location">Obtén informació de la ubicació</string>
+  <string name="HIPS_Perm_Location_Desc">obtén la ubicació precisa (basada en el GPS i en la xarxa)</string>
+  <string name="HIPS_Perm_MMS">Escriu i suprimeix missatges MMS</string>
   <string name="HIPS_Perm_MMS_Desc">escriure i suprimir missatges multimèdia</string>
   <string name="HIPS_Perm_Mobile_Connectivity">Canviar la connectivitat de dades mòbils</string>
-  <string name="HIPS_Perm_Mobile_Connectivity_Desc">activar i desactivar les dades mòbils</string>
+  <string name="HIPS_Perm_Mobile_Connectivity_Desc">activa o desactiva les dades mòbils</string>
   <string name="HIPS_Perm_PhoneID">Obtenir informació del dispositiu</string>
   <string name="HIPS_Perm_PhoneID_Desc">Accedir al número de telèfon, IMEI i IMSI</string>
   <string name="HIPS_Perm_ROOT">Obtenir accés d\'administrador</string>
