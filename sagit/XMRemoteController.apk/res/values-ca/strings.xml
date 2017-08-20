@@ -134,6 +134,7 @@
   <string name="cancel_timer">Cancel·la temporitzador</string>
   <string name="cannot_be_used_in_current_mode">"No es pot utilitzar &lt;%1$s &gt; en el mode actual"</string>
   <string name="carrier_data">Informació del proveïdor</string>
+  <string name="catalyst_jsload_title">Espereu si us plau…</string>
   <string name="change_to_channel">S\'està canviant [%1$s] %2$s</string>
   <string name="channel">Canal</string>
   <string name="channel_added_to_fav">%1$s afegit a preferits</string>
@@ -303,6 +304,7 @@
   <string name="feedback_input_desc">Descriviu el problema aquí.</string>
   <string name="feedback_issue_desc">Descriviu el problema</string>
   <string name="feedback_keys">Feedback</string>
+  <string name="feedback_keys_success">Gràcies pels vostres comentaris!</string>
   <string name="feedback_keys_tips">"Si no funcionen els botons, envieu-nos el vostre feedback"</string>
   <string name="find_adb_frame">S\'ha detectat %1$d dispositius ADB</string>
   <string name="find_milink_frame">S\'ha detectat %1$d dispositius Mi</string>
@@ -983,6 +985,7 @@ Per canviar, premeu contínuament el botó d\'encesa del TV"</string>
   <string name="wind_speed_auto">Automàtica</string>
   <string name="wind_speed_high">Alta</string>
   <string name="wind_speed_low">Baixa</string>
+  <string name="wind_speed_medium">Normal</string>
   <string name="wind_sweep">Rotació</string>
   <string name="wx_not_installed">Instal·leu primer WeChat</string>
   <string name="xiaomi_vip">VIP Mi</string>
