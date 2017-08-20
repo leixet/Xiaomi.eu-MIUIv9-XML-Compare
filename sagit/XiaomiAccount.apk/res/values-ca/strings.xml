@@ -118,9 +118,12 @@
   <string name="find_device_io_error">"No es pot connectar a la xarxa"</string>
   <string name="find_device_locked_account_email" formatted="false">%s,correu electrònic associat: %s</string>
   <string name="find_device_locked_account_phone" formatted="false">%s,número de telèfon associat: %s</string>
+  <string name="find_device_message">El dispositiu actual està bloquejat, missatge: %1$s, telèfon de contacte: %2$s.</string>
   <string name="find_device_null_credential_error">"No es pot obtenir informació del dispositiu, contacteu amb el servei al client de Xiaomi"</string>
   <string name="find_device_operation_failed_error">S\'ha produït un error</string>
   <string name="find_device_operation_failed_error_unknown">S\'ha produït un error, proveu-ho més tard</string>
+  <string name="find_device_owner_phone">El dispositiu actual està bloquejat, telèfon de contacte: %1$s.</string>
+  <string name="find_device_prompt_message">El dispositiu actual està bloquejat, missatge: %1$s.</string>
   <string name="find_device_remote_exception">Error RPC</string>
   <string name="find_device_request_error">No es pot sol·licitar informació de l\'estat, intenteu-ho més tard</string>
   <string name="find_device_request_prepare_error">"No es pot obtenir l'estat, intenteu-ho més tard"</string>
@@ -176,6 +179,8 @@
   <string name="passport_account_name">Compte: %1$s</string>
   <string name="passport_account_not_activated">"El compte no ha estat activat"</string>
   <string name="passport_account_not_actived">"El vostre compte no ha estat activat"</string>
+  <string name="passport_account_set_password">Estableix la contrasenya</string>
+  <string name="passport_account_set_password_prompt">Estableix la contrasenya del compte per iniciar sessió la propera vegada.</string>
   <string name="passport_active_email_visit">Reviseu la vostra safata d\'entrada a %s</string>
   <string name="passport_activing_account">Activant&#8230;</string>
   <string name="passport_area_code_hot">USAT FREQÜENTMENT</string>
