@@ -18,6 +18,8 @@
   <string name="boosting">S\'està accelerant la velocitat…</string>
   <string name="cancel_button">Cancel·la</string>
   <string name="close">Tanca</string>
+  <string name="create_shortcut">Crea una drecera de la pantalla d\'inici per a l\'accelerador de velocitat dels jocs</string>
+  <string name="dialog_text">Crea una drecera de la pantalla d\'inici per a l\'accelerador de velocitat dels jocs</string>
   <string name="dont_bore">"No deixeu que els botons i les notificacions us distreguin"</string>
   <string name="dont_bore_text">Silencia les notificacions i desactiva els botons per eliminar distraccions</string>
   <string name="dont_bore_title">Mode no molestis</string>
@@ -42,6 +44,7 @@
   <string name="game_net_text2">"Accelera la velocitat de connexió del joc mentre es limita la velocitat de baixada de fons per reduir el retard de la xarxa"</string>
   <string name="game_net_title">Optimitza la velocitat de connexió</string>
   <string name="game_setting">Configuració de joc</string>
+  <string name="gamebooster_network_dialog_message">Voleu permetre a la seguretat connectar-se a la xarxa per poder utilitzar totes les funcions de l\'accelerador de velocitat dels jocs?</string>
   <string name="gamebooster_network_dialog_title">"Algunes característiques no estan disponibles"</string>
   <string name="get_sys_info">S\'està obtenint informació…</string>
   <string name="gs_anto_clean_memory_whitelist">Excepcions</string>
@@ -62,6 +65,7 @@
   <string name="gs_performance_mode_detail">Incrementa l\'ús de la CPU per garantir un rendiment homogeni</string>
   <string name="i_know">Entesos</string>
   <string name="install_sucess">%s s\'ha instal·lat amb èxit</string>
+  <string name="intro_improve">Accelera la vostra experiència de joc a nivell de sistema</string>
   <string name="intro_skip">Omet</string>
   <string name="loading">Un moment…</string>
   <string name="lucky_result_title">Sobres vermells</string>
@@ -107,11 +111,15 @@
   <string name="scan_installed_games">S\'està comprovant els jocs instal·lats…</string>
   <string name="setting">Configuració</string>
   <string name="share">Comparteix</string>
+  <string name="shield_keyboard_detail">Feu doble toc als botons per tornar-los a activar</string>
   <string name="shield_keyboard_title">Desactiva els botons</string>
   <string name="start">Inicia</string>
   <string name="start_game">Inicia</string>
+  <string name="support_game_booster_tips">Obriu jocs mitjançant l\'accelerador de velocitat dels jocs</string>
   <string name="sys_cpu_title">Ús de la CPU</string>
   <string name="sys_freememory_title">Disponible</string>
+  <string name="sys_title_gamebooster_unit_gb">G</string>
+  <string name="sys_title_gamebooster_unit_mb">M</string>
   <string name="title_share_link">URL de compartició</string>
   <string name="top_game">Els millors jocs</string>
   <string name="top_load_fail_detail">"No s'ha pogut carregar, torneu-ho a provar"</string>
