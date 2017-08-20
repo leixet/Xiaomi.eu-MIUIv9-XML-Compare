@@ -181,8 +181,10 @@
   <string name="passport_account_not_actived">"El vostre compte no ha estat activat"</string>
   <string name="passport_account_set_password">Estableix la contrasenya</string>
   <string name="passport_account_set_password_prompt">Estableix la contrasenya del compte per iniciar sessió la propera vegada.</string>
+  <string name="passport_account_set_password_title">Estableix la contrasenya</string>
   <string name="passport_active_email_visit">Reviseu la vostra safata d\'entrada a %s</string>
   <string name="passport_activing_account">Activant&#8230;</string>
+  <string name="passport_adding_account">S\'està afegint el compte…</string>
   <string name="passport_area_code_hot">USAT FREQÜENTMENT</string>
   <string name="passport_area_code_title">Codi de país</string>
   <string name="passport_auto_generate_pwd">Genera una contrasenya segura</string>
@@ -206,6 +208,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_email">Adreça de correu electrònic</string>
   <string name="passport_email_or_id_hint_text">Adreça de correu electrònic o identificador de compte Mi</string>
   <string name="passport_email_reg_success_summary">%1$s s\'ha afegit al vostre compte. Podeu utilitzar-lo per iniciar la sessió o per restablir la contrasenya.</string>
+  <string name="passport_error_auth_fail">La sessió ha expirat, torneu a iniciar la sessió més tard</string>
   <string name="passport_error_device_id">"No es pot obtenir la identitat del dispositiu"</string>
   <string name="passport_error_dup_email">El correu electrònic que heu introduït ja està associat a un altre compte.</string>
   <string name="passport_error_email">L\'adreça de correu que heu introduït no és vàlida</string>
@@ -234,6 +237,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_get_verify_code">Obtén codi</string>
   <string name="passport_getting_verify_code">Obtenint</string>
   <string name="passport_i_know">Ja està</string>
+  <string name="passport_identification_expired">El codi de verificació ha caducat, torneu a començar</string>
   <string name="passport_imei_permission_denied_message">"Us demanem permís per aconseguir l'IMEI del vostre dispositiu. El compte Mi utilitza l'IMEI per identificar el terminal des del que entreu / us registreu, per ajudar a mantenir segur el vostre compte Mi."</string>
   <string name="passport_imei_permission_denied_title">Permís per consultar l\'IMEI</string>
   <string name="passport_input_captcha_hint">Introduïu codi</string>
