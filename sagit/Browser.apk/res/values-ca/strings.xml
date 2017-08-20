@@ -777,6 +777,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="suggest_access_btn_play">Reprodueix</string>
   <string name="suggest_access_btn_view">Mostra</string>
   <string name="suggest_access_item_album_songs">%d cançons</string>
+  <string name="suggest_access_item_app_size">%.2f MB</string>
   <string name="suggest_access_item_app_update">Actualització: %s</string>
   <string name="suggest_access_item_singer_albums">%d àlbums</string>
   <string name="suggest_access_item_singer_pop">%d cançons populars</string>
