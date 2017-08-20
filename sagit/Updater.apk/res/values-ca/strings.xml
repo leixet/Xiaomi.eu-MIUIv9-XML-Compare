@@ -39,7 +39,11 @@ Les dades no es netejaran."</string>
   <string name="permlab_reboot">Accés al reinci</string>
   <string name="pick_not_found">No s\'ha trobat cap gestor d\'arxius adequat.</string>
   <string name="pick_title">Trieu amb:</string>
+  <string name="recovery_desc">El dispositiu es reiniciarà en mode recuperació, si no esteu familiaritzat amb el mode cancel·leu les accions futures. Voleu continuar?</string>
+  <string name="server_error">El servidor no respon, pot ser que l\'aplicació no funcioni correctament!</string>
   <string name="share_title">Comparteix amb</string>
   <string name="stable">estable</string>
+  <string name="version">Instal·lat actualment:</string>
   <string name="weekly">setmanal</string>
+  <string name="wifi_recommended">No hi ha connexió Wi-Fi per començar a baixar de manera segura!</string>
 </resources>
