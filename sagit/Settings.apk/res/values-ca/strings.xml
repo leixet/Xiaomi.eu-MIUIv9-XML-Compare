@@ -3008,6 +3008,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="restore_default_apn_completed">S\'ha restablert la configuració predeterminada d\'APN.</string>
   <string name="restr_pin_enter_admin_pin">Introduïu el PIN d\'administrador</string>
   <string name="restrict_background_blacklisted">Les dades en segon pla estan desactivades</string>
+  <string name="restrict_max_aspect_ratio_title">Suggerim deshabilitar la relació d\'aspecte màxima</string>
   <string name="restriction_bluetooth_config_summary">Permet la modificació de la vinculació i configuració per Bluetooth</string>
   <string name="restriction_location_enable_summary">Permet que les aplicacions utilitzin la informació de la ubicació</string>
   <string name="restriction_location_enable_title">Ubicació</string>
@@ -3691,6 +3692,7 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="status_bar_key_position_custom">Posició de tecla personalitzada</string>
   <string name="status_bar_screen_button_force_immersive_desc">Feu lliscar el dit cap amunt des de la part inferior de la pantalla per mostrar els botons virtuals</string>
   <string name="status_bar_screen_button_key">Tecles virtuals en pantalla</string>
+  <string name="status_bar_screen_button_key_force_immersive">Amaga els botons virtuals</string>
   <string name="status_bar_screen_key_back">Tecla Enrere</string>
   <string name="status_bar_screen_key_home">Tecla Pàgina d\'inici</string>
   <string name="status_bar_screen_key_menu">Tecla Menú</string>
@@ -3892,6 +3894,7 @@ Per a un millor rendiment, us recomanem que utilitzeu un ^1 més ràpid."</strin
   <string name="storageuse_settings_title">Ús de l\'emmagatzematge</string>
   <string name="strict_mode">Mode estricte activat</string>
   <string name="strict_mode_summary">Il·lumina la pantalla si les aplicacions fan tasques llargues en el procés principal</string>
+  <string name="suggest_unrestrict_max_aspect_ratio_title">Suggerim habilitar la relació d\'aspecte màxima</string>
   <string name="suggested_fingerprint_lock_settings_summary">Desbloqueig amb empremta</string>
   <string name="suggested_lock_settings_summary">Protegeix el dispositiu</string>
   <string name="suggested_lock_settings_title">Bloqueig de pantalla</string>
@@ -4171,6 +4174,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="unlock_set_unlock_summary">Configura un bloqueig de pantalla</string>
   <string name="unlock_setup_wizard_fingerprint_details">Quan hàgiu configurat un bloqueig de pantalla, també podeu configurar l\'empremta des de Configuració &gt; Seguretat.</string>
   <string name="unmount_inform_text">L\'emmagatzematge USB es desmuntarà.</string>
+  <string name="unrestrict_max_aspect_ratio_title">Compatibilitat amb la relació d\'aspecte màxima</string>
   <string name="unrestricted_app_summary">Permet dades sense restricció amb l\'estalvi de dades activat</string>
   <string name="unrestricted_app_title">Ús de dades sense restricció</string>
   <string name="unrestricted_data_saver">Accés a dades sense restricció</string>
