@@ -98,6 +98,7 @@
   <string name="bugreport_in_power">Drecera de l\'informe d\'errors</string>
   <string name="bugreport_in_power_summary">Mostra un botó al menú d\'encesa per crear un informe d\'errors</string>
   <string name="button_convert_fbe">Esborra i converteix&#8230;</string>
+  <string name="callFailed_simError">Error de la targeta SIM</string>
   <string name="can_not_dial_vt_while_voice_prompt">"No es pot fer una trucada de vídeo mentre s'està fent una de veu"</string>
   <string name="can_not_dial_while_vt_prompt">"No es pot marcar mentre s'està fent una trucada de vídeo"</string>
   <string name="category_personal">Personals</string>
@@ -109,6 +110,7 @@
   <string name="charge_length_format">Fa %1$s</string>
   <string name="choose_profile">Seleccioneu un perfil</string>
   <string name="clear_adb_keys">Revoca autoritzacions de depuració USB</string>
+  <string name="close">Tanca</string>
   <string name="confirm_enable_oem_unlock_text">ADVERTIMENT: Mentre aquesta configuració estigui activa, les funcions de protecció del dispositiu no funcionaran.</string>
   <string name="confirm_enable_oem_unlock_title">Voleu permetre poder desbloquejar l\'OEM?</string>
   <string name="connected_via_passpoint">Connectat via %1$s</string>
@@ -193,6 +195,8 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="inactive_app_inactive_summary">Aplicació inactiva. Premeu per activar-la.</string>
   <string name="inactive_apps_title">Aplicacions inactives</string>
   <string name="incall_error_call_failed">"No s'ha pogut fer la trucada."</string>
+  <string name="incall_error_power_off">Desactiveu el mode avió per fer una trucada.</string>
+  <string name="incall_error_supp_service_unknown">"Aquest servei no és compatible."</string>
   <string name="incoming_call_failed_low_battery">La trucada entrant ha fallat pel baix nivell de la bateria.</string>
   <string name="keep_screen_on">Mantén-la activa</string>
   <string name="keep_screen_on_summary">La pantalla no entra mai en mode d\'espera si el dispositiu s\'està carregant</string>
