@@ -46,6 +46,8 @@
   <string name="game_setting">Configuració de joc</string>
   <string name="gamebooster_network_dialog_message">Voleu permetre a la seguretat connectar-se a la xarxa per poder utilitzar totes les funcions de l\'accelerador de velocitat dels jocs?</string>
   <string name="gamebooster_network_dialog_title">"Algunes característiques no estan disponibles"</string>
+  <string name="gb_alipays_can_not_complete">"No es pot completar el pagament. Instal·leu-lo per continuar."</string>
+  <string name="gb_weixinpay_can_not_complete">"No es pot completar el pagament. Instal·leu-lo per continuar."</string>
   <string name="get_sys_info">S\'està obtenint informació…</string>
   <string name="gs_anto_clean_memory_whitelist">Excepcions</string>
   <string name="gs_app_back_self_start">Estalviador de bateria</string>
