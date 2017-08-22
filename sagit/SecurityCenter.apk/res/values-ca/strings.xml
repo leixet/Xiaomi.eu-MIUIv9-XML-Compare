@@ -709,6 +709,7 @@
   <string name="item_dev_mode">Opcions de desenvolupament</string>
   <string name="item_install_monitor">Instal·la monitor</string>
   <string name="item_mms">Filtra missatges no desitjats</string>
+  <string name="item_system_auto_download">Baixa actualitzacions automàticament</string>
   <string name="item_usb_debug">Depuració USB</string>
   <string name="item_virus_lib">Actualitza definició de virus automàticament</string>
   <string name="keywords_antispam">Blocklist;Bloquejar;Llista negre;Blocklist intel·ligent;Frau;Vendes;Agents</string>
@@ -729,6 +730,7 @@
   <string name="label_callwait">Notificació de trucada en espera</string>
   <string name="label_mi_stats">Anàlisi Mi</string>
   <string name="last_check_canceled">L\'escaneig de virus previ va ser cancel·lat </string>
+  <string name="later">稍后处理</string>
   <string name="legal_workday">Feiners</string>
   <string name="legal_workday_invalidate">Dll-Dv (informació de feiners caducada)</string>
   <string name="legal_workday_invalidate_message">Premi per actualitzar la informació de dies laborables.</string>
@@ -859,6 +861,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="memory_clean_no_running_process">Cap tasca per esborrar</string>
   <string name="memory_cleaned_memory_info">Memòria disponible</string>
   <string name="memory_cleaned_memory_up">Augment de velocitat</string>
+  <string name="memory_clear_unused">Esborra la memòria cau (%s)</string>
   <string name="menu_add">Afegeix</string>
   <string name="menu_bl_call_log">Mostra les trucades bloquejades</string>
   <string name="menu_bl_remove">Desbloqujea</string>
@@ -895,6 +898,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="menu_text_networkassistants">Ús de dades</string>
   <string name="menu_text_networkassistants_danger">%s sobrepassats</string>
   <string name="menu_text_networkassistants_remain">%s restants</string>
+  <string name="menu_text_optimize_manage">Augment de velocitat</string>
   <string name="menu_text_power_manager">Ús de bateria</string>
   <string name="menu_text_power_percent_title">Bateria %s</string>
   <string name="menu_text_power_percent_title_default">Bateria</string>
@@ -908,6 +912,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="monitor_requests_from_pc">Gestionar la instal·lació d\'aplicacions mitjançant USB</string>
   <string name="more_game">Més jocs</string>
   <string name="name">Nom</string>
+  <string name="net_booster">Augment de velocitat de la xarxa</string>
   <string name="network_blocked_connected_open_wifi">Connectat a xarxa pública</string>
   <string name="network_blocked_notification_summary">Comproveu l\'estat de la xarxa</string>
   <string name="network_blocked_switch_wifi">Canvia xarxes</string>
@@ -1000,13 +1005,17 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="om_settings_lock_app_manage">Bloca aplicacions</string>
   <string name="om_settings_memocy_occupy_too_large_summary">Avisa quan la mida de memòria cau sigui massa gran</string>
   <string name="om_settings_memory_occupy_notify_never">Mai</string>
+  <string name="om_settings_notify_manage">Notifications</string>
+  <string name="om_settings_speed_up_auto">Augment de velocitat automàtic</string>
   <string name="om_settings_title">Configuració d\'optimització</string>
   <string name="open_activity_err">No s\'ha trobat l\'aplicació</string>
   <string name="open_app">Obre</string>
   <string name="open_callwait">Activat</string>
+  <string name="open_game">Obre</string>
   <string name="open_now">Permet a l\'aplicació utilitzar les dades mòbils</string>
   <string name="operator_diagnostic">Diagnòstic d\'operador</string>
   <string name="operator_mi_sim">SIM Mi</string>
+  <string name="optimize_manage_title">Augment de velocitat</string>
   <string name="optimize_result_ads_close_text">Anunci</string>
   <string name="optimize_result_available_memory_info">Memòria disponible</string>
   <string name="optimize_result_button_cloudspace">Afegeix emmagatzematge al núvol</string>
@@ -1025,6 +1034,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="optimize_result_button_see_detaills">Detalls</string>
   <string name="optimize_result_button_to_set">Estableix</string>
   <string name="optimize_result_button_update_now">Actualiza</string>
+  <string name="optimize_result_header_view_summary">Augment de velocitat</string>
   <string name="optimize_result_summary_sucurity_risk">Algunes característiques de seguretat estan desactivades. Activa aquestes característiques per fer el dispositiu més segur:</string>
   <string name="optimize_result_summary_system_default_settings">"L'ús d'aplicacions MIUI per defecte augmenta el nivell d'estabilitat i seguretat del sistema."</string>
   <string name="optimize_result_title_sucurity_risk">Trobats riscos per la seguretat</string>
@@ -1250,6 +1260,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="reach_daily_limit_value_body">Reduïu l\'ús de dades mòbils.</string>
   <string name="reach_daily_limit_value_title">Heu arribat al límit diari de dades</string>
   <string name="read_all_sms">Llegit tot</string>
+  <string name="receive_now">Rebre</string>
   <string name="recently_reject_message">Instal·lació de %1$s i %2$d altres aplicacions rebutjades</string>
   <string name="recently_reject_message_one">%1$s sol·licituds d\'instal·lació rebutjades</string>
   <string name="recommend_news">Fonts recomanades</string>
@@ -1397,6 +1408,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="sp_toast_removed_from_sign_white_list">S\'ha eliminat de les excepcions. L\'element serà escanejat la propera vegada.</string>
   <string name="special_number_group">Bloqueja els números notificats</string>
   <string name="sponsored_sec_fb">Patrocinat</string>
+  <string name="ss_activity_main_support_text">Funciona amb %s</string>
   <string name="st_antispam_black_adress_add">Afegeix ubicacions</string>
   <string name="st_antispam_bw_adress_add">Afegeix ubicacions</string>
   <string name="st_antispam_bw_choose_modes">Afegeix a la llista</string>
@@ -1409,6 +1421,7 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="st_antispam_des_permit_nokeyword">Permet</string>
   <string name="st_antispam_des_smart_anti">Filtre</string>
   <string name="st_antispam_des_uesless">Desactivat</string>
+  <string name="st_antispam_mode_add_new">Afegeix regles</string>
   <string name="st_antispam_mode_blacklist">Números blocats</string>
   <string name="st_antispam_mode_blacklist_sum">"Bloca trucades i SMS dels números que heu afegit manualment a la llista de blocatge"</string>
   <string name="st_antispam_mode_denyownself_sum">Criteris personalitzats</string>
