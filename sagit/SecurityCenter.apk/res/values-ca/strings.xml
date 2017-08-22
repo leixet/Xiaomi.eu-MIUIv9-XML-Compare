@@ -628,7 +628,6 @@
   <string name="get_sys_info">Obtenint informació…</string>
   <string name="go_to">Endavant</string>
   <string name="go_to_setting_fingerprint">Configuració</string>
-  <string name="google_base_app_install_choice"></string>
   <string name="gs_anto_clean_memory_whitelist">Excepcions</string>
   <string name="gs_app_back_self_start">Estalviador de bateria</string>
   <string name="gs_auto_clean_memory">Esborra la memòria cau</string>
@@ -1357,8 +1356,6 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="sp_empty_title_sign_exception">Un únic clic en l\'aplicació en la pàgina de resultats per afegir-la a excepcions</string>
   <string name="sp_monitored_apps_count_zero">No hi ha aplicacions de pagament protegit</string>
   <string name="sp_monitored_apps_list_title">Configuració de Monitorització</string>
-  <string name="sp_network_privacy_dialog_message">""</string>
-  <string name="sp_network_privacy_dialog_title">""</string>
   <string name="sp_scan_item_monitor">Monitorització de pagament</string>
   <string name="sp_scan_item_url_antispam">Protecció d\'URLs maliciosos</string>
   <string name="sp_settings_check_item_summary_sign_exception">Gestiona les excepcions de signatures</string>
@@ -1376,7 +1373,6 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="sp_toast_removed_from_sign_white_list">S\'ha eliminat de les excepcions. L\'element serà escanejat la propera vegada.</string>
   <string name="special_number_group">Bloqueja els números notificats</string>
   <string name="sponsored_sec_fb">Patrocinat</string>
-  <string name="ss_activity_main_support_text"></string>
   <string name="st_antispam_black_adress_add">Afegeix ubicacions</string>
   <string name="st_antispam_bw_adress_add">Afegeix ubicacions</string>
   <string name="st_antispam_bw_choose_modes">Afegeix a la llista</string>
@@ -1454,7 +1450,6 @@ T\"&lt;/b&gt;\"ry using another Ethernet cable to connect your router. If you su
   <string name="start_diagnostic_botton">Iniciar</string>
   <string name="start_downloading_app">S\'està iniciant la baixada: %1$s</string>
   <string name="start_tc_button">Calibra</string>
-  <string name="still_retain_btn"></string>
   <string name="suggest_app_tolock">Suggeriments</string>
   <string name="suggest_scan_again">Es proposa una anàlisi completa per garantir la seguretat.</string>
   <string name="summary_app_lock_disable">Bloquejar aplicacions per protegir la seva privacitat</string>
@@ -1695,10 +1690,6 @@ Dades extres en ús"</string>
   <string name="uninstall_app_dialog_msg">Si ho desinstal·leu, es suprimiran totes les dades de l\'aplicació.</string>
   <string name="uninstall_app_dialog_title">Voleu desinstal·lar-ho ara?</string>
   <string name="uninstall_app_done">Desinstal·lació finalitzada</string>
-  <string name="uninstall_danagerous_btn"></string>
-  <string name="uninstall_danagerous_desc"></string>
-  <string name="uninstall_danagerous_msg"></string>
-  <string name="uninstall_danagerous_title"></string>
   <string name="unlike">No, gràcies</string>
   <string name="updating_diagnostic_botton">Analitzant dades&#8230;</string>
   <string name="usage_sorted_activity_lable">Ús de dades</string>
