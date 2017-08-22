@@ -1024,6 +1024,8 @@ Per afegir un contacte a la llista de favorits:
   <string name="search_wipe_data">Organitza;Contactes</string>
   <string name="searching_vcard_message">Cercant vCard a l\'emmagatzematge&#8230;</string>
   <string name="select_all">Selecciona-ho tot</string>
+  <string name="select_all_exceed">"Seleccioneu no més de %1$d, no podeu seleccionar-ho tot"</string>
+  <string name="select_exceed">Seleccioneu no més de %1$d</string>
   <string name="select_groups">Grups seleccionats</string>
   <string name="select_none">Res seleccionat</string>
   <string name="select_show_contacts">Llista de contactes</string>
