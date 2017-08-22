@@ -2199,6 +2199,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="master_clear_progress_title">S\'està esborrant</string>
   <string name="master_clear_summary">Suprimeix totes les dades del telèfon</string>
   <string name="master_clear_title">Restabliment de fàbrica</string>
+  <string name="max_aspect_settings_all_app_display_loading">Un moment…</string>
   <string name="max_fingerprint_number_reached">"Només es permeten 5 emprentes. Per afegir-n'en una altra, primer n'heu d'esborrar una."</string>
   <string name="maximum_memory_use">Ús màxim de la memòria</string>
   <string name="mbn_version">Versió MBN</string>
@@ -3078,6 +3079,8 @@ Aquesta configuració afecta tots els usuaris del telèfon.»</string>
   <string name="screen_key_press">Pulsació dels botons de la barra de navegació</string>
   <string name="screen_key_press_action">Funció de la pulsació</string>
   <string name="screen_locking_sounds_title">Sons de la pantalla de bloqueig</string>
+  <string name="screen_max_aspect_ratio_desc">Si l\'aplicació pot mostrar-se a pantalla completa</string>
+  <string name="screen_max_aspect_ratio_title">Configuració de la relació d\'aspecte màxim</string>
   <string name="screen_monochrome_mode_apps_loading">Un moment…</string>
   <string name="screen_monochrome_mode_apps_title">Utilitza el mode monocroma</string>
   <string name="screen_monochrome_mode_global_summary">Utilitza el mode monocroma per a totes les aplicacions</string>
@@ -3686,6 +3689,7 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="status_bar_app_enable_keyguard">Pantalla de bloqueig</string>
   <string name="status_bar_app_enable_message">Insígnies</string>
   <string name="status_bar_key_position_custom">Posició de tecla personalitzada</string>
+  <string name="status_bar_screen_button_force_immersive_desc">Feu lliscar el dit cap amunt des de la part inferior de la pantalla per mostrar els botons virtuals</string>
   <string name="status_bar_screen_button_key">Tecles virtuals en pantalla</string>
   <string name="status_bar_screen_key_back">Tecla Enrere</string>
   <string name="status_bar_screen_key_home">Tecla Pàgina d\'inici</string>
