@@ -56,6 +56,7 @@
   <string name="feedback_choose_module">Trieu un element</string>
   <string name="feedback_choose_module_hint">Necessari</string>
   <string name="feedback_collect_log_failed">"No s'han pogut obtenir els registres"</string>
+  <string name="feedback_contact_info_hint">Número de telèfon/correu</string>
   <string name="feedback_continue">Continua amb els comentaris</string>
   <string name="feedback_description">Descripció</string>
   <string name="feedback_description_bugreport_hint">En alguns casos (&#8230;) el meu telèfon té errors (&#8230;).</string>
@@ -194,6 +195,7 @@
   <string name="module_data">Emmagatzematge i Aplicacions duals</string>
   <string name="module_desktop">Pantalla d\'inici i Configuració</string>
   <string name="module_finance">Finances i Mi Wallet</string>
+  <string name="module_google_apps">Aplicacions de Google</string>
   <string name="module_item_less">​​Amaga</string>
   <string name="module_item_more">Més</string>
   <string name="module_medias">Multimèdia</string>
