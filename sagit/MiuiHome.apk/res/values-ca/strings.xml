@@ -77,7 +77,6 @@
   <string name="failed_to_delete_temporary">"No es pot eliminar"</string>
   <string name="failed_to_drop">"No es pot moure"</string>
   <string name="failed_to_drop_widget_invalid">El giny no és vàlid</string>
-  <string name="failed_to_drop_widget_nospace">No queda més espai en aquesta pantalla</string>
   <string name="failed_to_load_image">"No es pot carregar la imatge"</string>
   <string name="folder_name">Carpeta</string>
   <string name="frame_load_failed">"No es pot carregar el marc"</string>
