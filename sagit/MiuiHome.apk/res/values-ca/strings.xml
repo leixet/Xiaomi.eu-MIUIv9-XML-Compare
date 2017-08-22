@@ -170,6 +170,7 @@
   <string name="mtzgadget_missing_text">"El giny no és disponible"</string>
   <string name="multi_selecting_tips">Recolliu una aplicació arrossegant-la i deixant-la aquí</string>
   <string name="no_detail_page">No hi ha pàgina de detalls</string>
+  <string name="no_space_toast">Sense espai</string>
   <string name="normal_wallpaper">Fons de pantalla</string>
   <string name="notification_installed">S\'ha instal·lat correctament</string>
   <string name="notification_open_button">Obre</string>
