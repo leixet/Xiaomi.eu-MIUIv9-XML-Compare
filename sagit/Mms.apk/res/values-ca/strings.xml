@@ -624,11 +624,6 @@ Intents realitzats: %s"</string>
   <string name="url_fraud_visit">Accedeix de totes maneres</string>
   <string name="url_result_safe">La URL és segura</string>
   <string name="url_scanning">S\'està comprovat la URL&#8230;</string>
-  <string name="user_agreement1">Llegiu els termes aplicables acuradament abans d\'instal·lar programari addicional o fer servir aquest producte.</string>
-  <string name="user_agreement2">Condicions del servei</string>
-  <string name="user_agreement3">" i "</string>
-  <string name="user_agreement4">Política de privacitat</string>
-  <string name="user_agreement5">En pressionar «D\'acord», accepteu els nostres Termes d\'ús i Política de privacitat.</string>
   <string name="verification_code_list_title">Codis de verificació</string>
   <string name="view">Mostra</string>
   <string name="view_bookmark">Mostra el missatge original</string>
