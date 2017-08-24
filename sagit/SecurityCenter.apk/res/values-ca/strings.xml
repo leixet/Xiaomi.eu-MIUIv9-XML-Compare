@@ -650,7 +650,12 @@
   <string name="game_improve_text1">Esborra la memòria cau per jugar i alliberar memòria</string>
   <string name="game_improve_text2">Esborra la memòria cau per jugar, millorar el rendiment de la CPU i alliberar memòria</string>
   <string name="game_improve_title">Optimitza el rendiment</string>
+  <string name="game_more_improve">Restringeix l\'activitat en segon pla i la velocitat de baixada per estalviar bateria i ample de banda per jugar</string>
+  <string name="game_net_text1">Limita la velocitat de baixada en segon pla per reduir el retard de la xarxa</string>
+  <string name="game_net_text2">"Augmenta la velocitat de connexió del joc mentre es limita la velocitat de baixada en segon pla per reduir el retard de la xarxa"</string>
+  <string name="game_net_title">Optimitza la velocitat de connexió</string>
   <string name="game_setting">Configuració del joc</string>
+  <string name="gamebooster_network_dialog_message">Voleu permetre a la seguretat connectar-se a la xarxa per poder utilitzar totes les funcions de l\'accelerador de velocitat dels jocs?</string>
   <string name="gamebooster_network_dialog_title">"Algunes característiques no estan disponibles"</string>
   <string name="gateway_exception_summary">Comprovi el seu router i torneu a provar.</string>
   <string name="gateway_exception_summary2">"No s'ha pogut connectar al servidor"</string>
@@ -658,6 +663,7 @@
   <string name="get_sys_info">Obtenint informació…</string>
   <string name="go_to">Endavant</string>
   <string name="go_to_setting_fingerprint">Configuració</string>
+  <string name="google_base_app_install_choice">«%s» requerix de les aplicacions de Google Service Framework per funcionar amb normalitat, voleu baixar-les i instal·lar-les?</string>
   <string name="gs_anto_clean_memory_whitelist">Excepcions</string>
   <string name="gs_app_back_self_start">Estalviador de bateria</string>
   <string name="gs_auto_clean_memory">Esborra la memòria cau</string>
@@ -667,11 +673,13 @@
   <string name="gs_game_disturb_msg">No molesteu</string>
   <string name="gs_game_duration">Temps</string>
   <string name="gs_game_net_priority">Prioritat de connexió</string>
+  <string name="gs_game_net_priority_detail">Limita la velocitat de baixada per tenir prou ample de banda per jugar</string>
   <string name="gs_game_performance">Rendiment</string>
   <string name="gs_game_shortcut">Gaudiu d\'una experiència de joc més fluida</string>
   <string name="gs_only_self_start_for_list">Redueix els processos en segon pla per deixar més bateria pel joc</string>
   <string name="gs_open_game_booster">Augment de velocitat</string>
   <string name="gs_performance_mode">Mode rendiment</string>
+  <string name="gs_performance_mode_detail">Incrementa l\'ús de la CPU per garantir el millor rendiment</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Operador incorrecte?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Operador actual: "</string>
   <string name="guide_quck_open">Activa</string>
@@ -721,6 +729,7 @@
   <string name="install_title">Instal·lació a través d\'USB</string>
   <string name="installing">S\'està instal·lant</string>
   <string name="international_roaming_setting">Itinerància en ultramar</string>
+  <string name="intro_improve">Accelera l\'experiència de joc segons el nivell</string>
   <string name="intro_skip">Omet</string>
   <string name="ip_address_exception_summary">"No s'ha pogut obtenir l'adreça IP. Si tornes a tenir aquest problema, prova a utilitzar una IP estàtica."</string>
   <string name="item_app_permission">Permisos d\'aplicació</string>
@@ -877,6 +886,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="memory_clean_memory_size_tip">Memòria Cau</string>
   <string name="memory_clean_no_need_clean">Tot sembla correcte</string>
   <string name="memory_clean_no_running_process">Cap tasca per esborrar</string>
+  <string name="memory_clean_running_process_title">S\'estan monitoritzant aplicacions (%d)</string>
   <string name="memory_cleaned_memory_info">Memòria disponible</string>
   <string name="memory_cleaned_memory_up">Augment de velocitat</string>
   <string name="memory_clear_unused">Esborra la memòria cau (%s)</string>
