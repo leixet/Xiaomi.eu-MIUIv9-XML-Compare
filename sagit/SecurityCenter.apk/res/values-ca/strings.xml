@@ -187,6 +187,7 @@
   <string name="app_manager_start_count_over">100000+ vegades</string>
   <string name="app_manager_stop_wakepath_dialog_summary">Voleu desinstal·lar %s per restringir l\'inici de la cadena?</string>
   <string name="app_manager_stop_wakepath_dialog_title">Restringeix l\'inici de la cadena</string>
+  <string name="app_manager_stop_wakepath_dlg_msg_with_xspace_app">La desinstal·lació d\'aquesta aplicació restringirà l\'inici de la cadena. Les aplicacions duals relacionades també es desinstal·laran. Voleu desinstal·lar %s?</string>
   <string name="app_manager_stop_wakepath_success">S\'ha restringit amb èxit</string>
   <string name="app_manager_stop_wp_dialog_cancel">Cancel·la</string>
   <string name="app_manager_stop_wp_dialog_uninstall">Desinstal·la</string>
