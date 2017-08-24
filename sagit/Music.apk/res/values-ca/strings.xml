@@ -789,6 +789,8 @@
   <string name="talkback_mode_repeat_shuffle">Mode de reproducció aleatòria</string>
   <string name="talkback_more">Més opcions</string>
   <string name="talkback_next">Propera cançó</string>
+  <string name="talkback_nowplaying_bar">Reprodueix barres</string>
+  <string name="talkback_nowplaying_circle">Reprodueix cercles</string>
   <string name="talkback_play">Reprodueix/Atura</string>
   <string name="talkback_pre">Cançó anterior</string>
   <string name="talkback_progress">Barra de progrés</string>
