@@ -1744,8 +1744,10 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="title_consume_power_rank">Ús de la bateria</string>
   <string name="title_data_flow">Establir un avís d\'ús de dades</string>
   <string name="title_data_flow_monitor">El monitor d\'ús de dades està activat</string>
+  <string name="title_dev_model_off">"Les opcions de desenvolupament estan desactivades"</string>
   <string name="title_dev_no">Opcions de desenvolupador activades</string>
   <string name="title_dev_yes">Opcions de desenvolupador desactivades</string>
+  <string name="title_device_not_root">"L'accés arrel no s'ha concedit"</string>
   <string name="title_find_device">Activa Trobar dispositiu</string>
   <string name="title_flow_notification">Informe d\'ús de dades</string>
   <string name="title_flow_purchase">Hora de recarregar</string>
@@ -1753,17 +1755,20 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="title_flow_verify">Comparar saldo</string>
   <string name="title_flow_verify_failed">"No s'ha pogut ajustar per 5 dies consecutius"</string>
   <string name="title_garbage_clean">La mida de la memòria cau de les aplicacions ha assolit %s</string>
+  <string name="title_garbage_less">La memòria cau de l\'aplicació és petita</string>
   <string name="title_garbage_lib">Actualitzacions automàtiques</string>
   <string name="title_install_virus_no">Monitor d\'instal·lació desactivat</string>
   <string name="title_install_virus_yes">Monitor d\'instal·lació activat</string>
   <string name="title_limit_traffic_per_day">Límit d\'ús de dades diari</string>
   <string name="title_mifi_insurance">Garantia estesa</string>
   <string name="title_miui_update">Actualització disponible</string>
+  <string name="title_miui_update_latest">MIUI està actualitzat</string>
   <string name="title_mms_no">Filtre de missatges desactivat</string>
   <string name="title_mms_yes">Filtre de missatges activat</string>
   <string name="title_network_switch">Connexió de xarxa</string>
   <string name="title_of_app_manage">Aplicacions</string>
   <string name="title_of_auto_launch_manage">Inici automàtic</string>
+  <string name="title_payment_protection">Els pagaments estan assegurats</string>
   <string name="title_payment_risk">Riscos en el pagament</string>
   <string name="title_permission_no">Gestor de permisos desactivat</string>
   <string name="title_permission_root">Avís d\'accés root</string>
@@ -1771,6 +1776,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="title_power_optimizer">Estalviador de Bateria</string>
   <string name="title_realname_verify">Verificació d\'ID</string>
   <string name="title_show_notification">Control a àrea de notificacions</string>
+  <string name="title_system_auto_download">Les actualitzacions es baixaran automàticament</string>
   <string name="title_telecom_operator">Utilitza dades de saldo de l\'operador</string>
   <string name="title_usb_no">Depuració USB activada</string>
   <string name="title_usb_yes">Depuració USB desactivada</string>
@@ -1798,6 +1804,8 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="toast_set_success">Obert amb èxit!</string>
   <string name="toast_show_notification">Adjunt al tauler de notificacions</string>
   <string name="top_game">Els millors jocs</string>
+  <string name="top_load_fail_detail">"No s'ha pogut carregar, toqueu per tornar-ho a provar"</string>
+  <string name="top_no_network_detial">"No s'ha pogut carregar. Comproveu la connexió de xarxa i torneu-ho a provar"</string>
   <string name="traffic_alert_auto_modify_notification_sumarry">Pla mensual canviat a %s.</string>
   <string name="traffic_alert_auto_modify_notification_titile">Pla de dades actualitzat</string>
   <string name="traffic_alert_auto_modify_package_summary">"Ajustar automàticament paquet de dades d'acord amb la informació de l'operador"</string>
@@ -1834,6 +1842,7 @@ Dades extres en ús"</string>
   <string name="traffic_setting_fragment_brand">Marca</string>
   <string name="traffic_setting_fragment_button1_text">Cancel·la</string>
   <string name="traffic_setting_fragment_button2_text">Desar</string>
+  <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'&gt;&lt;U&gt;No esteu segur de la operadora?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">"No tornar a mostrar"</string>
   <string name="traffic_setting_fragment_operator">Operador</string>
   <string name="traffic_setting_fragment_send_num">Número de l\'operador</string>
@@ -1845,10 +1854,12 @@ Dades extres en ús"</string>
   <string name="try_game">Prova\'l</string>
   <string name="try_recommended_function">Protegiu el dispositiu amb les noves funcions de seguretat</string>
   <string name="two_address_choose_hint">%1$s i %2$s</string>
+  <string name="txv_dnd_start_time">0:00</string>
   <string name="unable_connect_internet">No hi ha connexió a internet</string>
   <string name="uninstall_app_dialog_msg">Si ho desinstal·leu, es suprimiran totes les dades de l\'aplicació.</string>
   <string name="uninstall_app_dialog_title">Voleu desinstal·lar-ho ara?</string>
   <string name="uninstall_app_done">Desinstal·lació finalitzada</string>
+  <string name="uninstall_danagerous_btn">Desinstal·la</string>
   <string name="unlike">No, gràcies</string>
   <string name="updating_diagnostic_botton">Analitzant dades&#8230;</string>
   <string name="usage_sorted_activity_lable">Ús de dades</string>
