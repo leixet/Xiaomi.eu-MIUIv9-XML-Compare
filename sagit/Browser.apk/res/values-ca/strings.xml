@@ -116,6 +116,7 @@
   <string name="bookmark_saved">S\'ha desat als marcadors</string>
   <string name="bookmark_title">Nom del marcador</string>
   <string name="bookmark_title_lable">Títol</string>
+  <string name="bookmark_url">URL http://</string>
   <string name="bookmark_url_already_exisit">"Ja heu desat als marcadors aquest URL"</string>
   <string name="bookmark_url_can_not_null">Introduïu l\'adreça.</string>
   <string name="bookmark_url_lable">URL</string>
@@ -329,6 +330,7 @@ Les pàgines que visiteu no apareixeran a l\'historial.»</string>
   <string name="go_supermarket_button">Vés</string>
   <string name="go_supermarket_title">Més aplicacions, més ràpid i menys ús de dades a l\'App Store</string>
   <string name="gold_medals">Medalles d\'or</string>
+  <string name="google_bookmarks">Google</string>
   <string name="have_sent_bookmark_to_home_screen">S\'ha posat a la pantalla d\'inici</string>
   <string name="hint">Consell</string>
   <string name="history">Historial</string>
@@ -494,6 +496,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="miuishare_account_login_ok">Inicia la sessió</string>
   <string name="miuishare_account_need_activate">El compte Weibo s\'hauria de vincular amb el compte Mi. Voleu iniciar sessió al compte Mi?</string>
   <string name="miuishare_account_need_login">El compte Weibo s\'hauria de vincular amb el compte Mi actual. Voleu iniciar sessió per compartir-los?</string>
+  <string name="miuishare_app_name">MiuiShare</string>
   <string name="miuishare_no_network">"No s'ha pogut connectar a la xarxa"</string>
   <string name="miuishare_publish">Envia</string>
   <string name="miuishare_share_done">Compartit</string>
@@ -501,6 +504,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="miuishare_title_more">Més</string>
   <string name="miuishare_title_share">Compartició</string>
   <string name="miuishare_wechat_timeline_title">Cronologia de WeChat</string>
+  <string name="miuishare_weibo_title">Weibo</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">Es necessita una targeta SD per modificar aquesta ruta.</string>
   <string name="month_picker_dialog_title">Estableix el mes</string>
   <string name="more_description">Menú</string>
@@ -696,6 +700,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="retry_after_network_available">"No es pot connectar a la xarxa"</string>
   <string name="retry_download">Reintenta</string>
   <string name="return_to_homepage">Torna a la pàgina d\'inici</string>
+  <string name="rlz_access_point">Y1</string>
   <string name="root_folder_lable">Cap</string>
   <string name="router_download_exist">Aquest fitxer ja existeix</string>
   <string name="router_download_failed">"No s'ha pogut baixar"</string>
