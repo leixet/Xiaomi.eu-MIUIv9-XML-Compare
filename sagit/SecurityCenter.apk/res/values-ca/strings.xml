@@ -74,6 +74,7 @@
   <string name="anim_gamebooster_text">Un segon&#8230;</string>
   <string name="anti_disturb_msg_detail">Desactiva les notificacions excepte per a les trucades entrants</string>
   <string name="anti_disturb_msg_title">No molesteu</string>
+  <string name="antispam_mode_details">detalls del mode d\'intercepció</string>
   <string name="antispam_notificaiton_type_show_all">Tots els números</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Números no bloquejats</string>
   <string name="antispam_notificaiton_type_show_none">Mai</string>
@@ -119,6 +120,7 @@
   <string name="app_manager_app_ifno_version">Versió de l\'aplicació</string>
   <string name="app_manager_app_info_label">Informació de l\'aplicació</string>
   <string name="app_manager_app_info_name">Nom de l\'aplicació</string>
+  <string name="app_manager_app_info_pkg">Nom de l\'APK</string>
   <string name="app_manager_app_lock">Bloqueig d\'aplicacions</string>
   <string name="app_manager_app_power">"Ús de la bateria: "</string>
   <string name="app_manager_app_storage">"Emmagatzematge: "</string>
