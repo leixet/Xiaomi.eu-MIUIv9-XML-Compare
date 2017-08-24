@@ -76,6 +76,7 @@
   <string name="feedback_report_remind_login_desc2">"També podeu veure el progrés dels informes a «Els meus informes»."</string>
   <string name="feedback_retest_label">Passos per reproduir-lo</string>
   <string name="feedback_select_images">Afegeix imatges</string>
+  <string name="feedback_select_modem_log">Afegeix els registres del mòdem</string>
   <string name="feedback_select_problem">Problemes</string>
   <string name="feedback_select_suggestion">Suggeriments</string>
   <string name="feedback_select_upload_log">Afegeix registres</string>
