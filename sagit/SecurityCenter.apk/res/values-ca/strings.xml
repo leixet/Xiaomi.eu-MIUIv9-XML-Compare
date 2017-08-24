@@ -220,6 +220,7 @@
   <string name="applock_close_dialog_summary">Les aplicacions ja no estaran protegides i la contrasenya s\'eliminarà després de desactivar el Bloqueig d\'aplicació.</string>
   <string name="applock_close_dialog_title">Voleu desactivar el Bloqueig d\'aplicacions?</string>
   <string name="applock_exit_account_info">El compte s\'eliminarà automàticament en tancar la sessió</string>
+  <string name="applock_header_text_less_than_half">Molt poc espai per a aquesta aplicació. Arrossegueu més lluny el separador.</string>
   <string name="applock_login_and_add_account">Inicia la sessió i afegeix</string>
   <string name="applock_not_add_account">Ara no</string>
   <string name="applock_not_login_account">"No heu iniciat sessió"</string>
@@ -241,6 +242,8 @@
   <string name="apps_list_header_title_sms_access">Restringir l\'accés als codis de verificació</string>
   <string name="auto_atsk_condition_battery_level_text_down">Quan la bateria arribi al %s</string>
   <string name="auto_atsk_condition_battery_level_text_up">Quan la bateria es carregui fins al %s</string>
+  <string name="auto_clean_close">Les neteges automàtiques estan desactivades</string>
+  <string name="auto_import_games">Poseu tots els vostres jocs en un sol lloc</string>
   <string name="auto_task_condition_choose_battery_level_down">Quan la bateria assoleixi un nivell determinat</string>
   <string name="auto_task_condition_choose_end_time">Hora de finalització</string>
   <string name="auto_task_condition_choose_ontime">Temporitzador</string>
@@ -329,6 +332,7 @@
   <string name="battery_status_unknown">Error desconegut</string>
   <string name="battery_temperature_title">Temperatura</string>
   <string name="begin_date">Restablir data d\'ús</string>
+  <string name="best_booster_status">La velocitat de joc és la millor disponible ara.</string>
   <string name="bind_xiaomi_account_cancel">Cancel·la</string>
   <string name="bind_xiaomi_account_confirm">Afegir</string>
   <string name="bind_xiaomi_account_dialog_summery">"Estàs a punt d'afegir el compte Mi %s. Si oblida la seva contrasenya, pot utilitzar aquest compte per restablir-la. Si finalitza la sessió el compte s'elimina automàticament."</string>
@@ -342,7 +346,9 @@
   <string name="blacklist_prefix_add_hint">Bloqueja tots els números que tinguin aquest prefix</string>
   <string name="block_message_number">SMS: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="block_phone_number">Trucades: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+  <string name="boost_done">S\'ha accelerat amb èxit</string>
   <string name="booster_immediately">Accelera</string>
+  <string name="booster_suc">S\'ha accelerat amb èxit</string>
   <string name="boostering">S\'està augmentant la velocitat…</string>
   <string name="boosting">S\'està augmentant la velocitat…</string>
   <string name="boot_reminder">Encendre el dispositiu a una hora programada</string>
@@ -395,6 +401,7 @@
   <string name="call_private">Trucada privada</string>
   <string name="call_stranger_block">Intercepció de desconeguts</string>
   <string name="call_transfer_block">Bloqueja les trucades desviades</string>
+  <string name="call_transfer_info">Bloqueja les trucades desviades des de números desconeguts</string>
   <string name="cancal_to_setting_fingerprint">Cancel·la</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_button">Cancel·la</string>
@@ -402,6 +409,7 @@
   <string name="card_main_applock_summary">Protegiu els elements privats amb el bloquejador d\'aplicacions</string>
   <string name="card_main_applock_title">Bloquejador d\'aplicacions</string>
   <string name="card_main_deepclean_action">Neteja</string>
+  <string name="card_main_deepclean_qq_title">Netejador QQ</string>
   <string name="card_main_deepclean_summary">Elimineu fitxers innecessaris</string>
   <string name="card_main_deepclean_title">Neteja intensiva</string>
   <string name="card_main_deepclean_wechat_action">Esborra</string>
@@ -464,13 +472,16 @@
   <string name="cpu_usage_android_system">Sistema Android</string>
   <string name="cpu_usage_app_bg_restrict_default">Automàtic (recomanat)</string>
   <string name="cpu_usage_app_bg_restrict_default_short">Automàtic</string>
+  <string name="cpu_usage_app_bg_restrict_full">Restringeix l\'activitat en segon pla</string>
   <string name="cpu_usage_app_bg_restrict_no_limit">"Sense restriccions"</string>
   <string name="cpu_usage_app_bg_restrict_partly">Després de %s</string>
   <string name="cpu_usage_app_bg_restrict_partly_short">Després de %s</string>
   <string name="cpu_usage_app_bg_restrict_title">Configuracions de segon pla</string>
+  <string name="cpu_usage_app_tip_can_not_restrict_system_app">"No es poden restringir els serveis del sistema"</string>
   <string name="cpu_usage_app_uninstalled_toast">Aquesta aplicació s\'ha desinstal·lat</string>
   <string name="cpu_usage_process_run_time_little_time">Menys d\'un minut</string>
   <string name="cpu_usage_view_action_btn_text">Toqueu per mostrar-ho</string>
+  <string name="create_shortcut">Crea una drecera a la pantalla d\'inici per a l\'accelerador de velocitat dels jocs</string>
   <string name="cta_dialog_msg">El centre de seguretat pot connectar a Internet per obtenir actualitzacions.</string>
   <string name="cta_dialog_title">Termes i condicions.</string>
   <string name="cta_settings">Permet la connexió a internet</string>
@@ -515,6 +526,7 @@
   <string name="dialog_msg_stop_virus_scan">"Voleu aturar l'anàlisi de virus abans que acabi?"</string>
   <string name="dialog_roaming_message">Voleu permetre a aquesta aplicació usar dades mòbils en itinerància en ultramar?</string>
   <string name="dialog_roaming_title">Itinerància en ultramar</string>
+  <string name="dialog_text">Crea una drecera a la pantalla d\'inici per a l\'accelerador de velocitat dels jocs</string>
   <string name="dialog_title_attention">Atenció</string>
   <string name="dialog_title_auto_start_declare">Quant a inici automàtic</string>
   <string name="dialog_title_stop_virus_scan">Atura l\'anàlisi de virus</string>
@@ -622,6 +634,7 @@
   <string name="forget_password_button_text">He oblidat la contrasenya</string>
   <string name="forget_password_button_text_normal">Contrasenya oblidada</string>
   <string name="forget_pattern">Heu oblidat el patró?</string>
+  <string name="free_send_net_booster_tip">Gaudeix d\'un joc sense problemes amb l\'augment de velocitat de xarxa gratuït.</string>
   <string name="free_time_traffic">Límit de dades en hora vall</string>
   <string name="free_time_traffic_hint">Introduir límit de dades en hora vall</string>
   <string name="free_time_traffic_settings">Límit de dades en hora vall</string>
@@ -634,6 +647,8 @@
   <string name="game_booster">Accelerador de velocitat dels jocs</string>
   <string name="game_booster_intro">Quant a l\'accelerador de velocitat dels jocs</string>
   <string name="game_booster_title">Potenciador</string>
+  <string name="game_improve_text1">Esborra la memòria cau per jugar i alliberar memòria</string>
+  <string name="game_improve_text2">Esborra la memòria cau per jugar, millorar el rendiment de la CPU i alliberar memòria</string>
   <string name="game_improve_title">Optimitza el rendiment</string>
   <string name="game_setting">Configuració del joc</string>
   <string name="gamebooster_network_dialog_title">"Algunes característiques no estan disponibles"</string>
