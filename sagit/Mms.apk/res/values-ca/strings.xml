@@ -557,6 +557,8 @@
   <string name="sp_category_bank">Missatges de notificació del banc</string>
   <string name="sp_conversation_title">Notificacions</string>
   <string name="sp_mark_as_read_menu_title">Marca com a llegit</string>
+  <string name="sqlite_disk_full">La base de dades o el disc estan plens</string>
+  <string name="sqlite_low_memory">Poca memòria</string>
   <string name="status_failed">Sense èxit</string>
   <string name="status_label">"Estat: "</string>
   <string name="status_pending">Pendent</string>
