@@ -634,6 +634,7 @@
   <string name="forget_password_button_text">He oblidat la contrasenya</string>
   <string name="forget_password_button_text_normal">Contrasenya oblidada</string>
   <string name="forget_pattern">Heu oblidat el patró?</string>
+  <string name="free_send_net_booster">Augment de la velocitat de la xarxa gratuït</string>
   <string name="free_send_net_booster_tip">Gaudeix d\'un joc sense problemes amb l\'augment de velocitat de xarxa gratuït.</string>
   <string name="free_time_traffic">Límit de dades en hora vall</string>
   <string name="free_time_traffic_hint">Introduir límit de dades en hora vall</string>
@@ -934,6 +935,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="mi_service_app_detail">Detalls d\'ús de dades</string>
   <string name="mi_service_traffic_detail">Detalls de Marc</string>
   <string name="mian_page_primary_txt">Itinerància en ultramar</string>
+  <string name="modify_password_mode">&lt;u&gt;Canvia el tipus de contrasenya&lt;/u&gt;</string>
   <string name="modifypassword">Canvia la contrasenya</string>
   <string name="monitor_app_add">afegeix</string>
   <string name="monitor_app_more">més</string>
@@ -941,6 +943,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="more_game">Més jocs</string>
   <string name="name">Nom</string>
   <string name="net_booster">Augment de velocitat de la xarxa</string>
+  <string name="net_booster_expire_notification">La sessió d\'augment de la velocitat de la xarxa està a punt de finalitzar</string>
   <string name="network_blocked_connected_open_wifi">Connectat a xarxa pública</string>
   <string name="network_blocked_notification_summary">Comproveu l\'estat de la xarxa</string>
   <string name="network_blocked_switch_wifi">Canvia xarxes</string>
