@@ -308,6 +308,7 @@ Mantingueu els dispositius propers l\'un de l\'altre."</string>
   <string name="trans_scan_invalid_qrcode">Codi QR no vàlid</string>
   <string name="trans_scan_qr_code_tips">Escanegeu el codi QR amb el dispositiu nou</string>
   <string name="trans_security_tips_message">"Algunes aplicacions no admeten Mi Mover."</string>
+  <string name="trans_security_tips_title">Compatibilitat amb Mi Mover</string>
   <string name="trans_select_data">Seleccioneu els elements per enviar</string>
   <string name="trans_select_data_no_space">"No hi ha prou espai en el dispositiu nou
 Torneu a seleccionar els fitxers o esborreu %s d\'emmagatzematge en el dispositiu nou"</string>
