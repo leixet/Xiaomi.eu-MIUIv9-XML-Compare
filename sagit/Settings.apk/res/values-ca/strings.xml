@@ -2679,6 +2679,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="pointer_location_summary">Mostra les coordenades de toc</string>
   <string name="pointer_settings_category">Ratolí/ratolí tàctil</string>
   <string name="pointer_speed">Velocitat del punter</string>
+  <string name="popup_window">permet finestres emergents</string>
   <string name="power_autorun_apps_empty">Buit</string>
   <string name="power_autorun_empty">Buit</string>
   <string name="power_camera">Càmera</string>
