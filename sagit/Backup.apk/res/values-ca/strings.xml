@@ -42,6 +42,7 @@
   <string name="backup_new">Noves:</string>
   <string name="backup_progress">S\'està fent la còpia de seguretat&#8230;</string>
   <string name="backup_report">Mostra els detalls</string>
+  <string name="backup_security_tips_message">És possible que d\'algunes aplicacions no es puguin fer còpies de seguretat o restaurar-les.</string>
   <string name="backup_security_tips_title">Pot ser que les còpies de seguretat no funcionin</string>
   <string name="backup_update">Actualiza</string>
   <string name="batch_delete_backup_confirm">Voleu eliminar les còpies de seguretat seleccionades?</string>
