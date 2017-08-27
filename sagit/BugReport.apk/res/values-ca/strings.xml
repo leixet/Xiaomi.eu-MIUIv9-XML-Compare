@@ -98,7 +98,7 @@
   <string name="feedback_submit_failed_notification_retry">Envia de nou</string>
   <string name="feedback_submit_failed_notification_title">"No s'ha pogut enviar l'informe"</string>
   <string name="feedback_submit_hint">Informeu d\'errors cada vegada que tingueu algun problema per ajudar a resoldre\'ls més de pressa.</string>
-  <string name="feedback_submit_hint1">"Us informarem sobre el progrés de l'informe"</string>
+  <string name="feedback_submit_hint1">"Us avisarem sobre el progrés de l'informe"</string>
   <string name="feedback_submit_hint2">Aneu a «Els meus informes» per veure\'n els detalls</string>
   <string name="feedback_submit_succ">S\'ha enviat correctament</string>
   <string name="feedback_submit_succ_button">Fet</string>
