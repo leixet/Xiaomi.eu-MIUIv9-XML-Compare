@@ -127,7 +127,7 @@
   <string name="app_manager_app_traffic">"Ús de dades: "</string>
   <string name="app_manager_app_update">Actualitzacions</string>
   <string name="app_manager_app_version_name">Versió:</string>
-  <string name="app_manager_appupdate_remind">Notifica quant a les actualitzacions</string>
+  <string name="app_manager_appupdate_remind">Avisa\'m si ha actualitzacions</string>
   <string name="app_manager_bipartition">Aplicacions duals</string>
   <string name="app_manager_card_permission_title">Permisos</string>
   <string name="app_manager_clear_data_dlg_message">Totes aquestes aplicacions es suprimiran permanentment. Inclou tots els fitxers, configuracions, comptes, bases de dades, etc.</string>
@@ -684,7 +684,7 @@
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Operador incorrecte?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Operador actual: "</string>
   <string name="guide_quck_open">Activa</string>
-  <string name="guide_second_text">"Una vegada configurat l'operador, MIUI controlarà l'ús de dades mòbils diàriament enviant un SMS de franc. Quan MIUI detecti que ha superat el límit de dades, es desconnectarà de la xarxa i li notificarà."</string>
+  <string name="guide_second_text">"Una vegada configurat l'operador, MIUI controlarà l'ús de dades mòbils diàriament enviant un SMS de franc. Quan MIUI detecti que s'ha superat el límit de dades, es desconnectarà de la xarxa i us avisarà."</string>
   <string name="guide_wait_setting">Ara no</string>
   <string name="handle_bar_summary_wifi_unknown">Desconeguda</string>
   <string name="handle_bar_title_system">Sistema</string>
@@ -1069,10 +1069,10 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="om_other_processes">Altres tasques</string>
   <string name="om_other_processes_cpu_usage_summary">La mitjana d\'us de la CPU és inferior a %s%%</string>
   <string name="om_settings_cpu_over_load_notify">Ús de la CPU</string>
-  <string name="om_settings_cpu_over_load_summary">Notifica quan l\'ús de CPU és massa alt</string>
+  <string name="om_settings_cpu_over_load_summary">Avisa\'m quan l\'ús de CPU és massa alt</string>
   <string name="om_settings_lock_app">Bloca aplicacions</string>
   <string name="om_settings_lock_app_manage">Bloca aplicacions</string>
-  <string name="om_settings_memocy_occupy_too_large_summary">Avisa quan la mida de memòria cau sigui massa gran</string>
+  <string name="om_settings_memocy_occupy_too_large_summary">Avisa\'m quan la mida de memòria cau sigui massa grossa</string>
   <string name="om_settings_memory_clean_lock_screen">Esborra la memòria cau quan s\'apagui la pantalla</string>
   <string name="om_settings_memory_occupy_notify">Memòria cau molt grossa</string>
   <string name="om_settings_memory_occupy_notify_never">Mai</string>
@@ -1158,7 +1158,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="pc_to_phone_install">Instal·lació bloquejada per %s a través d\'USB</string>
   <string name="per_month_pkg_traffic_settings">Establir límit de dades</string>
   <string name="permission_action_accept">D\'acord</string>
-  <string name="permission_action_prompt">Pregunta</string>
+  <string name="permission_action_prompt">Avisa\'m</string>
   <string name="permission_action_reject">Denegar</string>
   <string name="permission_close_permission_control_dialog_msg">"Quan l'administrador de permisos està desactivat, les aplicacions no li demanaran permís per llegir els seus contactes, veure el seu registre de trucades, canviar paràmetres del sistema o accedir a la càmera i altres recursos."</string>
   <string name="permission_close_permission_control_dialog_title">Apagar?</string>
