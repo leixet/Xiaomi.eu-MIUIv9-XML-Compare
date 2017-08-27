@@ -125,6 +125,7 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_giftcard_title">Targeta regal Mi Credit</string>
   <string name="mibi_giftcard_will_expire">Caduca al %1$s</string>
   <string name="mibi_giftcard_with_num">%1$s Cupó Mi Credit disponible</string>
+  <string name="mibi_header_network_error">"No s'ha pogut connectar a la xarxa."</string>
   <string name="mibi_illegal_intent">Intent de sol·licitud il·legal</string>
   <string name="mibi_is_what">Què puc comprar amb Mi Credits?</string>
   <string name="mibi_label_balance">Saldo</string>
