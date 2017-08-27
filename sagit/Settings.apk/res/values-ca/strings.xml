@@ -4694,7 +4694,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_notify_cmcc_connected_summary">Mostra una notificació quan es connecti a la xarxa CMCC</string>
   <string name="wifi_notify_cmcc_connected_title">Notificació de xarxa CMCC</string>
   <string name="wifi_notify_open_networks">Notificació de xarxa</string>
-  <string name="wifi_notify_open_networks_summary">Notifica si hi ha una xarxa pública disponible</string>
+  <string name="wifi_notify_open_networks_summary">Avisa\'m si hi ha una xarxa pública disponible</string>
   <string name="wifi_off_airplane_on_cancel">Cancel·la</string>
   <string name="wifi_off_airplane_on_confirm">D\'acord</string>
   <string name="wifi_off_airplane_on_content">Amb el mode avió activat, podeu engegar el Wi-Fi manualment.</string>
