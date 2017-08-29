@@ -190,6 +190,7 @@
   <string name="device_type">Tipus</string>
   <string name="devicetype11">TV per satèl·lit</string>
   <string name="devicetype12">Sintonitzador</string>
+  <string name="devicetype14">Bombeta</string>
   <string name="devicetype6">Ventilador</string>
   <string name="diagnose">Prova el comandament</string>
   <string name="diagnosis_intro">Comprova la connectivitat de la xarxa</string>
