@@ -288,6 +288,7 @@
   <string name="fail_add_device_photo">Afegeix foto del dispositiu</string>
   <string name="fail_content">"    No s'ha pogut trobar informació de vinculació. Podeu enviar els vostres comentaris als nostres enginyers."</string>
   <string name="fail_device_brand">Marca</string>
+  <string name="fail_device_model">Model</string>
   <string name="fail_device_type">Tipus</string>
   <string name="fail_feedback">Suggeriments</string>
   <string name="fail_title">"No s'ha pogut emparellar"</string>
@@ -331,6 +332,7 @@
   <string name="guide">Guia</string>
   <string name="guide_title_one">El vostre telèfon no incorpora infraroigs, no podreu controlar dispositius infraroigs</string>
   <string name="guide_title_three">Instruccions</string>
+  <string name="guide_title_two">Des del Wi-Fi podeu controlar Mi TVs i Mi boxes</string>
   <string name="has_installed">Instal·lat</string>
   <string name="hd_channel_preferred">Vídeo HD preferentment</string>
   <string name="help">Utilitzeu l\'ajuda</string>
@@ -339,9 +341,12 @@
   <string name="home">Inici</string>
   <string name="home_pad_ac_status">%1$d ℃ %2$s</string>
   <string name="home_zhuye">Inici</string>
+  <string name="hot_apps">Recomanades</string>
   <string name="hot_mode">Calefacció</string>
+  <string name="hot_videos">Recomanades</string>
   <string name="hour">h</string>
   <string name="humidity">Humitat:</string>
+  <string name="humidity_frame">%1$d%%</string>
   <string name="increase">Incrementa</string>
   <string name="input_complete">Correcte</string>
   <string name="input_dialogue_cancel_button">Cancel·la</string>
@@ -376,10 +381,13 @@
   <string name="ir_device_mitvbox">TV Mi/Sintonitzador Mi</string>
   <string name="ir_device_name">Nom del dispositiu</string>
   <string name="ir_device_other">Altres</string>
+  <string name="ir_device_prj">Projector</string>
   <string name="ir_device_share">Compartit per la gent</string>
   <string name="ir_device_shared">Als voltants</string>
   <string name="ir_device_sound">Altaveus</string>
   <string name="ir_device_stb">Descodificador</string>
+  <string name="ir_device_tv">Televisor</string>
+  <string name="ir_device_water_heater">Escalfador d\'aigua</string>
   <string name="ir_device_wifi">Comandament Wi-Fi</string>
   <string name="ir_not_supported_devices">"*Algun TV Mi/descodificador no operen amb IR, utilitzeu comandament WiFi"</string>
   <string name="jump_to_mivideo">Visionat en un dispositiu mòbil</string>
@@ -506,6 +514,7 @@ Llavors responeu la pregunta"</string>
   <string name="milink_view_screenshot">Desat a la galeria, premeu per veure-ho</string>
   <string name="mitv">TV Mi</string>
   <string name="mitv_assistant_setting_version">Versió de l\'assistent de TV Mi %1$s</string>
+  <string name="mode">Mode</string>
   <string name="model_name">Model de dispositiu</string>
   <string name="month">Mes</string>
   <string name="month_day_format">dd MMM</string>
@@ -522,12 +531,14 @@ Llavors responeu la pregunta"</string>
   <string name="my_room">L\'habitació</string>
   <string name="my_room_underline">L\'habitació</string>
   <string name="my_setting">Configuració</string>
+  <string name="nearby">A prop</string>
   <string name="network_diagnosis">Comprova la xarxa</string>
   <string name="network_no_connection">"No es pot connectar a la xarxa. Comproveu la connexió i torneu-ho a provar."</string>
   <string name="network_ok">No s\'han detectat problemes</string>
   <string name="network_unstable">· Teniu una connexió estable</string>
   <string name="next_remote">Comandament següent</string>
   <string name="next_step">Següent</string>
+  <string name="no">No</string>
   <string name="no_backup">No s\'ha trobat cap còpia de seguretat</string>
   <string name="no_brand_service">Marca actualment no disponible</string>
   <string name="no_current_play">"Reproducció en curs:- "</string>
@@ -562,6 +573,7 @@ ap arxiu d\'instal·lació</string>
   <string name="oscillation">Oscil·lació</string>
   <string name="other">Altre</string>
   <string name="outdoor_temp_unknown">Desconeguda</string>
+  <string name="pair_server_data_only">Recomanem la utilització de dades en línia per a nous servidors remots</string>
   <string name="partner">Suport</string>
   <string name="passport_access_denied">Accés denegat</string>
   <string name="passport_account_hint_text">Adreça de correu o identificador de compte MI</string>
@@ -796,6 +808,7 @@ directament des de la vostra pantalla de bloqueig"</string>
   <string name="scene_default">Per defecte</string>
   <string name="screen_shot_delete_warning">确定删除截图吗?</string>
   <string name="screen_shot_show_loading">正在加载&#8230;</string>
+  <string name="screenshot">Captura de pantalla</string>
   <string name="screenshot_failed">"No s'ha pogut capturar la pantalla"</string>
   <string name="screenshot_failed_and_check_connection">"No s'ha pogut capturar la pantalla, comproveu els dispositius connectats"</string>
   <string name="screenshot_not_support_adb_devices">No hi ha suport per les captures de pantalla en aquest dispositiu</string>
@@ -806,6 +819,7 @@ directament des de la vostra pantalla de bloqueig"</string>
   <string name="search_history">Historial de cerca</string>
   <string name="search_history_clear">Esborra l\'historial</string>
   <string name="search_history_empty">Historial de cerca buit</string>
+  <string name="search_menu_title">Cerca</string>
   <string name="search_more_failed">"No s'ha pogut carregar resultats"</string>
   <string name="search_no_result">No s\'ha trobat res</string>
   <string name="search_video_app_hint">Cerca</string>
@@ -903,6 +917,7 @@ directament des de la vostra pantalla de bloqueig"</string>
   <string name="supporting_soon">Properament</string>
   <string name="swipe_loading">Un moment&#8230;</string>
   <string name="switch_place">Seleccioneu una ciutat</string>
+  <string name="tab_live">En directe</string>
   <string name="technical_support">Suport tècnic</string>
   <string name="temperature">Temperatura</string>
   <string name="time_error">Sembla que l\'hora no és correcte</string>
