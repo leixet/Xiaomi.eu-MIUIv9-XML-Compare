@@ -199,6 +199,7 @@
   <string name="onscreen_note_calls_text">Nota</string>
   <string name="onscreen_swap_calls_text">Alterna</string>
   <string name="onscreen_switch_camera">Canvia la càmera</string>
+  <string name="package_not_available">«%s» no està disponible</string>
   <string name="pause_prompt_yes">Sí</string>
   <string name="payphone">Telèfon públic</string>
   <string name="picking_participant">S\'està obtenint la informació del contacte&#8230;</string>
