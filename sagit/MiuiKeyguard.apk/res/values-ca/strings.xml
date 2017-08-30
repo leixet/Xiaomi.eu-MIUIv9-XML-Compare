@@ -49,6 +49,9 @@
   <string name="face_unlock_reveal_eye">Feu que els vostres ulls siguin visibles</string>
   <string name="face_unlock_reveal_mouth">Feu que els vostres llavis siguin visibles</string>
   <string name="face_unlock_rise">Baixeu el cap</string>
+  <string name="face_unlock_rotated_left">Gireu el cap cap a la dreta</string>
+  <string name="face_unlock_rotated_right">Gireu el cap cap a l\'esquerra</string>
+  <string name="face_unlock_stay_away_screen">Quedeu-vos de 25 a 40 cm de distància de la pantalla</string>
   <string name="fingerprint_add_text">S\'ha actualitzat la interfície d\'empremta digital. Afegiu altre cop la vostra empremta.</string>
   <string name="fingerprint_add_title">Afegeix una empremta digital</string>
   <string name="fingerprint_again_identified_msg">L\'empremta digital està activa. Utilitzeu-la per desbloquejar el dispositiu o introduïu la contrasenya.</string>
@@ -121,6 +124,9 @@ Torneu a provar-ho d\'aquí %d segons."</string>
   <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Seleccioneu &amp;lt;font color=#a5220e&amp;gt;\"Neteja iamp;amp; Restableix\"&amp;lt;/font&amp;gt; i espereu fins que el dispositiu es reiniciï.&lt;/Data&gt;</string>
   <string name="phone_locked_forget_password_suggesstions_title">Com esborrar les dades?</string>
   <string name="phone_locked_string">El telèfon ha estat bloquejat</string>
+  <string name="unlock_camera_steady">Mantingueu-vos quiets</string>
+  <string name="unlock_failed">Error intern</string>
+  <string name="unlock_failed_face_not_found">S\'està detectant</string>
   <string name="unlock_string">Desbloqueja</string>
   <string name="unlocking_sim_card">S\'està desbloquejant la SIM</string>
   <string name="unlockscreen_low_battery">Connecteu el carregador</string>
