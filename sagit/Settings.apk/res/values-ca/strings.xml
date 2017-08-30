@@ -134,6 +134,7 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
   <string name="add_auto_startup_application">Afegiu aplicacions d\'inici automàtic</string>
   <string name="add_device_admin">Activa</string>
   <string name="add_device_admin_msg">Voleu activar l\'administrador de dispositius?</string>
+  <string name="add_facerecoginition_text">Afegeix dades de la cara</string>
   <string name="add_fingerprint_done_msg">Desbloqueja el dispositiu amb l\'empremta.</string>
   <string name="add_fingerprint_done_title">"Fet!"</string>
   <string name="add_fingerprint_failed_retry_text">"No s'ha pogut llegir l'empremta, torneu-hi"</string>
@@ -1494,6 +1495,8 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="external_data_size_label">Dades a la memòria externa</string>
   <string name="extreme_threats_summary">Rep alertes d\'amenaces extremes per a la vida i la propietat</string>
   <string name="extreme_threats_title">Mostra les amenaces extremes</string>
+  <string name="face_unlock_disable">El desbloqueig facial està desactivat</string>
+  <string name="face_unlock_enable">El desbloqueig facial està activat</string>
   <string name="factory_reset_summary">"Esborra totes les dades de l'emmagatzematge intern del telèfon"</string>
   <string name="failed_to_check_find_device_status_content">"No s'ha pogut comprovar l'estat de Localitza el dispositiu. Espereu-vos un minut o dos i torneu-ho a provar."</string>
   <string name="failed_to_check_find_device_status_title">"No s'ha pogut comprovar l'estat"</string>
@@ -1530,6 +1533,7 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="fingerprint_enable_keyguard_toggle_title">bloqueig de pantalla</string>
   <string name="fingerprint_enroll_button_add">Afegeix-ne un altre</string>
   <string name="fingerprint_enroll_button_next">Següent</string>
+  <string name="fingerprint_first_open_screen_password_face_tittle">Biometria (establiu la contrasenya de la pantalla de bloqueig abans d\'usar-la)</string>
   <string name="fingerprint_first_open_screen_password_tittle">Empremta tàctil (cal utilitzar contrasenya a la pantalla de bloqueig)</string>
   <string name="fingerprint_for_keyguard_disabled">La configuració de seguretat ha desactivat l\'empremta.</string>
   <string name="fingerprint_identify_input_password_msg">Introduïu la contrasenya</string>
@@ -1544,6 +1548,7 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="fingerprint_lock_second">Desbloqueja el segon espai</string>
   <string name="fingerprint_manage">Gestió d\'empremtes</string>
   <string name="fingerprint_manage_category_title">Gestió d\'empremtes</string>
+  <string name="fingerprint_manage_tittle">Empremta</string>
   <string name="fingerprint_not_identified_msg">"No es pot llegir l'empremta. Introduïu la contrasenya"</string>
   <string name="fingerprint_not_recognized">No s\'ha reconegut</string>
   <string name="fingerprint_removal_failed">"No s'ha pogut suprimir l'empremta, torneu-hi"</string>
@@ -1604,6 +1609,10 @@ Però ja no obtingué resposta, perquè el malalt greu acabava de morir d’una 
   <string name="force_allow_on_external_summary">Permet que qualsevol aplicació es pugui escriure en un dispositiu d’emmagatzematge extern, independentment dels valors definits</string>
   <string name="force_hw_ui">Força la renderització de la GPU</string>
   <string name="force_hw_ui_summary">Força l\'ús de la GPU per a dibuixos en 2D</string>
+  <string name="force_immersive_compatibility_dont_hide">"No ho amaguis"</string>
+  <string name="force_immersive_compatibility_hide">Amaga</string>
+  <string name="force_immersive_compatibility_hint_message">És possible que algunes aplicacions no funcionin correctament si escolliu amagar els botons virtuals.</string>
+  <string name="force_immersive_compatibility_hint_title">Problemes de compatibilitat</string>
   <string name="force_msaa">Força 4x MSAA</string>
   <string name="force_msaa_summary">Activa MSAA 4x en aplicacions d\'OpenGL ES 2.0</string>
   <string name="force_resizable_activities">Força l\'ajust de la mida de les activitats</string>
@@ -2136,6 +2145,7 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="man_add_application">Afegiu aplicacions d\'inici automàtic</string>
   <string name="manage_device_admin">Administradors del dispositiu</string>
   <string name="manage_device_admin_summary">Mostra o desactiva els administradors del dispositiu</string>
+  <string name="manage_facerecoginition_text">Gestioni les dades de la cara</string>
   <string name="manage_fakecell_settings">Protecció contra estacions de base falses</string>
   <string name="manage_fingerprint_text">Gestió d\'empremtes</string>
   <string name="manage_mobile_plan_title">Pla mòbil</string>
@@ -4076,6 +4086,7 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="turn_off_keyguard_password_confirm_msg">"Voleu desactivar la contrasenya de la pantalla de bloqueig?"</string>
   <string name="turn_off_keyguard_password_wait_dialog">S\'està tancant la contrasenya</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"No podreu desbloquejar el dispositiu amb l'empremta si desactiveu la contrasenya de la pantalla de bloqueig"</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">"Després de desactivar la contrasenya de la pantalla de bloqueig, se suprimiran les empremtes registrades. No podreu desbloquejar el dispositiu amb l'empremta."</string>
   <string name="turn_off_security_lock">Desactiva el bloqueig</string>
   <string name="turn_on_keyguard_password">Activa la contrasenya de la pantalla de bloqueig</string>
   <string name="turn_on_keyguard_password_alert">"Recordeu la vostra contrasenya. Si la oblideu, no podreu restaurar-la."</string>
