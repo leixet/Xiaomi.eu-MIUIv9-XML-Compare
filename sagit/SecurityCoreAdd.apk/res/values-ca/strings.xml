@@ -90,8 +90,13 @@ aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="finger_print_of_use">Utilitzar l\'empremta</string>
   <string name="fingerprint_removal_failed">"No s'ha pogut eliminar l'empremta"</string>
   <string name="function_not_support">No és compatible amb aquest espai</string>
+  <string name="gms_message">La creació d\'aplicacions duals requereix treballar amb els serveis de Google. Voleu crear una aplicació dual per als serveis de Google?</string>
+  <string name="gms_open_button">Activa</string>
+  <string name="gms_title">Activa els serveis de Google</string>
   <string name="goToSecondSpacce">Anar al Segon espai</string>
   <string name="go_on_import">Mantenir la importació</string>
+  <string name="gpg_message">La creació d\'aplicacions duals per a jocs requereix treballar amb Google Play Games. Voleu crear una aplicació dual per a Google Play Games?</string>
+  <string name="gpg_title">Aplicació dual per a Google Play Games</string>
   <string name="guide_contact_sub_title_desc">"Els contactes afegits al Segon espai seran privats.
 Els missatges només apareixeran en el Segon espai."</string>
   <string name="guide_contact_suc_sub_title_desc">Només els contactes privats i els missatges es mostraran en el Segon espai</string>
