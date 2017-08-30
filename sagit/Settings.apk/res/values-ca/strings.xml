@@ -360,7 +360,6 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="auto_rule">regla prevista</string>
   <string name="auto_silent">Temps silenciat</string>
   <string name="auto_startup_application_manage">Auto-inici</string>
-  <string name="auto_startup_count">%d aplicacions tenen autorització d\'auto-inici</string>
   <string name="automatic_brightness">Brillantor automàtica</string>
   <string name="available_size">%s disponible</string>
   <string name="available_via_passpoint">Disponible mitjançant %1$s</string>
@@ -1638,7 +1637,6 @@ Però ja no obtingué resposta, perquè el malalt greu acabava de morir d’una 
   <string name="free_wifi_connect_summary">Toqueu-ho per a connectar amb %1$s.</string>
   <string name="free_wifi_connect_title">Wi-Fi disponible</string>
   <string name="free_wifi_connected">S\'ha connectat a Wi-Fi oberta</string>
-  <string name="free_wifi_connected_count">%1$s usuaris connectats</string>
   <string name="free_wifi_connected_time">Durada: %1$s</string>
   <string name="free_wifi_connecting">S\'està connectant&#8230;</string>
   <string name="free_wifi_login_again">Torna a iniciar la sessió</string>
@@ -1931,7 +1929,6 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="location_agps_pref_reset_type_title">Tipus de reinici preferit</string>
   <string name="location_agps_pref_si_title">Mode preferit</string>
   <string name="location_agps_register_network_type">Tipus d\'accés a la xarxa</string>
-  <string name="location_agps_register_network_type_dialog_summary">Tria una xarxa</string>
   <string name="location_agps_register_network_type_dialog_title">Tria una xarxa</string>
   <string name="location_agps_register_network_type_summary">Tria una xarxa per l\'ús de l\'AGPS</string>
   <string name="location_agps_reset_type">Tipus de reinici</string>
@@ -2069,7 +2066,6 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="lockpassword_password_too_short">La contrasenya ha de tenir com a mínim %d caràcters</string>
   <string name="lockpassword_pattern_set_toast">S\'ha establert el patró</string>
   <string name="lockpassword_pin_contains_non_digits">El PIN només pot contenir números</string>
-  <string name="lockpassword_pin_fixed_length">El PIN ha de ser %d dígits</string>
   <string name="lockpassword_pin_no_sequential_digits">No es permet una seqüència de dígits ascendents, descendents ni repetits</string>
   <string name="lockpassword_pin_recently_used">"L'administrador del dispositiu no permet l'ús de codi PIN"</string>
   <string name="lockpassword_pin_set_toast">S\'ha definit el PIN</string>
@@ -2777,7 +2773,6 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="print_searching_for_printers">S\'estan cercant impressores</string>
   <string name="print_service_disabled">El servei s\'ha desactivat</string>
   <string name="print_settings">Impressió</string>
-  <string name="print_settings_title">Serveis d\'impressió</string>
   <string name="printer_info_desc">Més informació sobre aquesta impressora</string>
   <string name="priority_storage_app_settings">Les dades de %1$s es guardaran en</string>
   <string name="priority_storage_settings_summary">"Si no es detecta cap SD, les dades d'usuari seran guardades de forma automàtica a l'emmagatzematge intern del dispositiu"</string>
@@ -4081,7 +4076,6 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="turn_off_keyguard_password_confirm_msg">"Voleu desactivar la contrasenya de la pantalla de bloqueig?"</string>
   <string name="turn_off_keyguard_password_wait_dialog">S\'està tancant la contrasenya</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"No podreu desbloquejar el dispositiu amb l'empremta si desactiveu la contrasenya de la pantalla de bloqueig"</string>
-  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">"Després de desactivar la contrasenya de la pantalla de bloqueig, se suprimiran les empremtes registrades. No podreu desbloquejar el dispositiu amb l'empremta."</string>
   <string name="turn_off_security_lock">Desactiva el bloqueig</string>
   <string name="turn_on_keyguard_password">Activa la contrasenya de la pantalla de bloqueig</string>
   <string name="turn_on_keyguard_password_alert">"Recordeu la vostra contrasenya. Si la oblideu, no podreu restaurar-la."</string>
@@ -4382,7 +4376,6 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="virtual_sim_title">Xarxa de dades en itinerància</string>
   <string name="virus_scan">Cerca virus</string>
   <string name="virus_scan_app_continue">Continua cercant virus</string>
-  <string name="virus_scan_app_find_risk">S\'han trobat %d riscos</string>
   <string name="virus_scan_app_finish">Ha finalitzat la cerca de virus</string>
   <string name="virus_scan_app_force_stop">S\'ha pausat la cerca de virus</string>
   <string name="virus_scan_app_is_stop_scan">Voleu aturar la cerca de virus?</string>
@@ -4809,7 +4802,6 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="wifi_share_connect">Connecta</string>
   <string name="wifi_share_connected_summary">"S'ha connectat a una xarxa Wi-Fi pública que és compartida per un altre usuari."</string>
   <string name="wifi_share_connected_title">Xarxa Wi-Fi compartida amb MIUI</string>
-  <string name="wifi_share_count">S\'han compartit %d xarxes</string>
   <string name="wifi_share_current_network">Xarxa actual</string>
   <string name="wifi_share_know">D\'acord</string>
   <string name="wifi_share_list_empty">No s\'han trobat xarxes compartides.</string>
