@@ -24,6 +24,7 @@
   <string name="add_contact_dlg_message_fmt">Voleu afegir \"%s\" a contactes?</string>
   <string name="add_display_photo_entry">Afegeix foto del perfil</string>
   <string name="add_field">Afegeix un altre camp</string>
+  <string name="add_field_toast">No hi ha més camps per afegir.</string>
   <string name="add_incall_show_entry">Afegeix vídeo</string>
   <string name="add_new_account">Afegeix un compte nou</string>
   <string name="add_new_entry_for_section">Afegeix nou</string>
