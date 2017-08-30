@@ -16,6 +16,7 @@
   <string name="ac_firstUseApplock_title">Sol·licitar contrasenya per obrir les aplicacions seleccionades</string>
   <string name="ac_summaryOff">Desactivat, no es requereix cap contrasenya per obrir aplicacions</string>
   <string name="ac_summaryOn">Activat, es requereix una clau per obrir aplicacions</string>
+  <string name="access_control_app_is_launching">L\'aplicació s\'està iniciant</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Es requereix la contrasenya per obrir aplicacions</string>
   <string name="access_control_fingerprint_not_identified_msg">"No s'ha pogut llegir l'empremta."</string>
   <string name="access_control_need_password">"%sBloqueig afegit amb èxit
@@ -128,6 +129,7 @@
   <string name="app_manager_app_update">Actualitzacions</string>
   <string name="app_manager_app_version_name">Versió:</string>
   <string name="app_manager_appupdate_remind">Avisa\'m si ha actualitzacions</string>
+  <string name="app_manager_back">Enrere</string>
   <string name="app_manager_bipartition">Aplicacions duals</string>
   <string name="app_manager_card_permission_title">Permisos</string>
   <string name="app_manager_clear_data_dlg_message">Totes aquestes aplicacions es suprimiran permanentment. Inclou tots els fitxers, configuracions, comptes, bases de dades, etc.</string>
@@ -298,6 +300,7 @@
   <string name="auto_task_operation_sync">Sincronitza</string>
   <string name="auto_task_operation_vibration">Vibració</string>
   <string name="auto_task_operation_wifi">Wi-Fi</string>
+  <string name="background_restrict_app_dialog_message">La restricció de l\'accés a la xarxa en segon pla per a aquesta aplicació pot fer que l\'aplicació no funcioni correctament, rebre missatges, baixar contingut, etc. Voleu restringir-lo de totes maneres?</string>
   <string name="background_traffic">Fons %s</string>
   <string name="backsound_set_hint">Voleu configurar un missatge d\'absència per a %s?</string>
   <string name="battery_capacity_title">Capacitat de la bateria</string>
@@ -896,6 +899,8 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="menu_bl_remove">Desbloqujea</string>
   <string name="menu_bl_sms_log">Mostra els SMS bloquejats</string>
   <string name="menu_call">Marcatge</string>
+  <string name="menu_charge_bill">Recarrega el saldo</string>
+  <string name="menu_charge_traffic">Compra dades</string>
   <string name="menu_edit">Edita</string>
   <string name="menu_item_about_content">Versió %s</string>
   <string name="menu_item_about_summary">Versió %s</string>
@@ -918,6 +923,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="menu_item_virus_install_monitor_title">Escaneja abans d\'instal·lar</string>
   <string name="menu_item_virus_lib_auto_update_summary">Darrera actualització: %s</string>
   <string name="menu_remove">Elimina</string>
+  <string name="menu_report">Notifica un error</string>
   <string name="menu_sms">Envia el missatge</string>
   <string name="menu_text_antispam">Llista de bloqueig</string>
   <string name="menu_text_antivirus">Anàlisi de virus</string>
@@ -1311,6 +1317,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="preferred_app_entries_messaging">Missatgeria</string>
   <string name="preferred_app_entries_music">Música</string>
   <string name="privacy_declare_dialog_title">Términos de Servicio</string>
+  <string name="privacy_dialog_message">"Quan us connecteu a Internet, aquest missatge juntament amb la informació de l'operador es xifrarà i es carregarà als servidors de Mi per ajudar-nos a millorar el seguiment de l'ús de dades."</string>
   <string name="privacy_mode_dialog_title">Mode convidat</string>
   <string name="privacy_prompt_tc_sms_report_message">"El seu número de telèfon i detalls de l'operador s'han d'encriptar i pujaran als servidors de Xiaomi per tal d'actualitzar la informació de la seva utilització de les dades."</string>
   <string name="privacy_prompt_traffic_adjust_message">Aquesta característica ha de xifrar i enviar el IMEI del dispositiu, número de telèfon i informació de l\'operador als servidors Mi amb la finalitat d\'obtenir estadístiques d\'ús de les dades del seu operador.</string>
@@ -1457,6 +1464,8 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="sms_contact_block">Bloqueja SMS dels contactes</string>
   <string name="sms_delete_hint">Voleu eliminar tots els missatges bloquejats enviats des d\'aquest número?</string>
   <string name="sms_delete_title">Elimineu el missatge</string>
+  <string name="sms_detail_fragment_title_bill">Saldo del telèfon</string>
+  <string name="sms_detail_fragment_title_traffic">Dades restants</string>
   <string name="sms_filter">Filtre intel ligent</string>
   <string name="sms_keywords">Llista de bloqueig de paraules clau</string>
   <string name="sms_malicious_url">Bloqueja SMS amb URL malicioses</string>
