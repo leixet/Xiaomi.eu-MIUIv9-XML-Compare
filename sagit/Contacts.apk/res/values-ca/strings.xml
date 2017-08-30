@@ -699,7 +699,6 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="multi_number_menu_message">Missatge</string>
   <string name="multi_number_title">Conferència</string>
   <string name="multipleContactDeleteConfirmation">Eliminar aquest contacte eliminarà la informació en diversos comptes.</string>
-  <string name="multipleContactDeleteConfirmationDetail">En eliminar \"%s\" serà eliminat de diversos comptes.</string>
   <string name="my_phone_not_provider_bluetooth">El meu telèfon no té Bluetooth</string>
   <string name="my_phone_provider_bluetooth">El meu telèfon té Bluetooth</string>
   <string name="nameLabelsGroup">Nom</string>
@@ -950,7 +949,6 @@ Per afegir un contacte a la llista de favorits:
   <string name="quit_dialog_confirm_message">"No has fusionat cap contacte"</string>
   <string name="quit_dialog_confirm_title">Cancel·la la fusió de contactes</string>
   <string name="readOnlyContactDeleteConfirmation">Aquest contacte conté informació de diversos comptes. Aquesta informació és de només lectura i s\'ocultarà en la seva llista de contactes, però no s\'eliminarà.</string>
-  <string name="readOnlyContactDeleteConfirmationDetail">"\"%s\" conté informació de diversos comptes. Qualsevol informació que no es pugui eliminar s'ocultarà de la vostra llista de contactes."</string>
   <string name="readOnlyContactWarning">"No pots eliminar contactes de comptes de només lectura, però pots ocultar-los de les teves llistes de contactes."</string>
   <string name="readingSimContacts">Llegint targeta SIM&#8230;</string>
   <string name="reading_vcard_canceled_title">Lectura de vCard cancel·lada</string>
