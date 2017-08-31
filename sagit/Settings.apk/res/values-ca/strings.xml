@@ -582,8 +582,6 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="bluetooth_enter_passkey_msg">Teclegeu el codi de vinculació i premeu Enter</string>
   <string name="bluetooth_enter_passkey_other_device">També heu de teclejar el codi a l\'altre dispositiu.</string>
   <string name="bluetooth_enter_pin_other_device">També heu de teclejar el PIN a l\'altre dispositiu.</string>
-  <string name="bluetooth_filter_device_display">Mostra-ho tot</string>
-  <string name="bluetooth_filter_device_filter">Només normal</string>
   <string name="bluetooth_headset_profile_summary_connected">S\'ha connectat a l\'àudio del telèfon</string>
   <string name="bluetooth_headset_profile_summary_use_for">Utilizeu-lo per l\'àudio del telèfon</string>
   <string name="bluetooth_hid_profile_summary_connected">S\'ha connectat a un dispositiu</string>
