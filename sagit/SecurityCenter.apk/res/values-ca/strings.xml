@@ -1178,6 +1178,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="person_hotpot">Punt d\'accés mòbil</string>
   <string name="phone">Telèfon</string>
   <string name="pkg_traffic">Estableix límit d\'ús de dades</string>
+  <string name="pm_auto_start_by_other">Inici desencadenat</string>
   <string name="pm_auto_start_by_other_app">\"Permetre a l\'aplicació iniciï altres apps</string>
   <string name="pm_auto_start_by_system">Iniciar aplicacions</string>
   <string name="pm_auto_start_by_system_event">Permetre a apps iniciar automàticament</string>
@@ -1459,6 +1460,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="sim_state_exception_summary">Estat de la SIM indica que alguna cosa pot estar malament amb la targeta SIM.</string>
   <string name="sip_phone">Telèfon SIP</string>
   <string name="skin_change_close_toast">Els canvis s\'aplicaran la propera vegada que executeu Seguretat</string>
+  <string name="sms_address">Llista de bloqueig d\'àrea</string>
   <string name="sms_blacklist">Llista de bloqueig d\'SMS</string>
   <string name="sms_cloud_block">Llista de bloqueig del núvol</string>
   <string name="sms_contact_block">Bloqueja SMS dels contactes</string>
