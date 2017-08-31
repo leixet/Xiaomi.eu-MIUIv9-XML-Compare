@@ -19,8 +19,10 @@
   <string name="app_name">Estalvi de bateria</string>
   <string name="background">L\'aplicació s\'executa en segon pla</string>
   <string name="base_info">Informació base</string>
+  <string name="cloud_addr_info">Amaga la informació del mode núvol</string>
   <string name="cloud_china_addr">Actualitza les dades del servidor xinès</string>
   <string name="cloud_international_addr">Actualitza les dades del servidor internacional</string>
+  <string name="cloud_staging_addr">Actualitza les dades del servidor de posada a disposició</string>
   <string name="config_description">"MIUI pot identificar aplicacions amb processos en segon pla específics (p. ex. aplicacions de missatgeria i navegació, reproductors multimèdia), i aplicar l'estalvi de bateria de manera que no pertorbi gaire la seva activitat en segon pla."</string>
   <string name="config_mode_title">Configuració de segon pla</string>
   <string name="config_no_restrict_description">"L'estalvi de bateria no restringeix l'activitat de les aplicacions"</string>
@@ -60,6 +62,7 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="hints_loading_text">Un moment&#8230;</string>
   <string name="important_warning">Avís</string>
   <string name="invalid_size_value">"No s'ha pogut obtenir la mida del paquet."</string>
+  <string name="lasttime_applist_cloud">Última actualització de la llista d\'aplicacions:</string>
   <string name="lasttime_feature_cloud">Última actualització de funcions:</string>
   <string name="location_disable_description">Les aplicacions en segon pla només poden accedir als serveis de localització per períodes curts de temps, mentre que l\'accés permanent està restringit</string>
   <string name="location_disable_title">Limitar</string>
