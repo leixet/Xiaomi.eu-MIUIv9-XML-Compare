@@ -551,6 +551,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="bluetooth_device_context_pair_connect">Vincula i connecta</string>
   <string name="bluetooth_device_context_unpair">Desvincula</string>
   <string name="bluetooth_device_details">Configuració del dispositiu</string>
+  <string name="bluetooth_device_misc_title">Dispositius bluetooth poc utilitzats</string>
   <string name="bluetooth_device_name">Nom:</string>
   <string name="bluetooth_device_searchable">Visible</string>
   <string name="bluetooth_devices">Dispositius Bluetooth</string>
@@ -746,6 +747,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="brightness_title">Brillantor</string>
   <string name="bt_hci_snoop_log">Activa HCI Snoop log Bluetooth</string>
   <string name="bt_hci_snoop_log_summary">Captura tots els paquets HCI Bluetooth en un fitxer</string>
+  <string name="bt_rarely_used_device_title">Dispositius poc utilitzats (%d)</string>
   <string name="bt_trace_log">Activa el registre de seguiment amb Bluetooth</string>
   <string name="bt_trace_log_summary">Activa el registre de seguiment amb Bluetooth</string>
   <string name="bugreport_in_power">Drecera de l\'informe d\'errors</string>
@@ -868,6 +870,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="clear_failed_dlg_title">Suprimeix les dades</string>
   <string name="clear_uri_btn_text">Esborra l\'accés</string>
   <string name="clear_user_data_text">Suprimeix les dades</string>
+  <string name="close_gesture">Tanca amb un gest</string>
   <string name="close_miui_optimization_title">Atura la optimització de MIUI</string>
   <string name="close_miui_optimization_warning_message">El dispositiu arrencarà de nou per aplicar els canvis.</string>
   <string name="close_sdcard_optimization_title">tanca la simulació de l\'optimització de la targeta SD</string>
@@ -1688,6 +1691,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="go_back_button_label">Torna enrere</string>
   <string name="google_backup_enable">Activa la còpia de seguretat</string>
   <string name="google_backup_section_title">Còpia de seguretat i restauració de Google</string>
+  <string name="got_it">Entesos</string>
   <string name="gsm_to_wifi_connect_type_title">GSM a Wi-Fi</string>
   <string name="handy_mode">Disposició per a una sola mà</string>
   <string name="handy_mode_enable">Operació amb una mà</string>
@@ -1721,6 +1725,8 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="help_feedback_label">Ajuda i suggeriments</string>
   <string name="help_label">Ajuda i suggeriments</string>
   <string name="hidden_ssid_label">SSID ocults:</string>
+  <string name="hide">Amaga</string>
+  <string name="hide_screen_button">Amaga els botons de la pantalla</string>
   <string name="high_performance_notif_summary">El dispositiu es pot escalfar amb l\'ús exhaustiu.</string>
   <string name="high_performance_notif_title">S\'ha activat el mode d\'alt rendiment</string>
   <string name="high_performance_title">"Sembla que està executant un test de referència. Per a millors resultats configureu la gestió de l'energia a \"Alt rendiment\""</string>
@@ -3070,6 +3076,8 @@ Aquesta configuració afecta tots els usuaris del telèfon.»</string>
   <string name="saved_wifi_delete">Elimina</string>
   <string name="scan_list_label">Resultats de l\'escaneig:</string>
   <string name="screen">Pantalla</string>
+  <string name="screen_button">Botons de la pantalla</string>
+  <string name="screen_button_tips">Feu lliscar cap avall per amagar els botons de la pantalla</string>
   <string name="screen_cells_config_title">Disposició de la pantalla d\'inici</string>
   <string name="screen_color_and_optimize">Colors i contrast</string>
   <string name="screen_color_and_optimize_disabled">"No es pot ajustar la temperatura del color en el mode lectura"</string>
