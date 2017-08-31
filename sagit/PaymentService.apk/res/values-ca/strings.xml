@@ -38,6 +38,7 @@
   <string name="mibi_button_retry">Torna a intentar-ho</string>
   <string name="mibi_cancel">Cancel·la</string>
   <string name="mibi_change_security_lock">Més bloquejos de pantalla</string>
+  <string name="mibi_click_retry">%1$s, feu clic per tornar-ho a intentar</string>
   <string name="mibi_deduct_goods_name">Article</string>
   <string name="mibi_deduct_open_prompt">%1$s us podrà carregar automàticament utilitzant %2$s sense verificació. Podeu aturar aquesta funció en %1$s</string>
   <string name="mibi_deduct_order_price">Preu</string>
