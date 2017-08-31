@@ -291,6 +291,7 @@
   <string name="toast_report_copied_to_clipboard">Informe copiat al porta-retalls</string>
   <string name="toast_report_sent_failed">"No es pot enviar l'informe"</string>
   <string name="toast_report_sent_succeed">S\'ha enviat l\'informe</string>
+  <string name="toast_screenshot_too_large">"No es poden penjar fitxers de més de 10 MB."</string>
   <string name="toast_third_packagename_required">Introduïu el nom de l\'aplicació</string>
   <string name="toast_title_required">Descriviu el problema</string>
   <string name="try_again">Torneu a provar-ho</string>
