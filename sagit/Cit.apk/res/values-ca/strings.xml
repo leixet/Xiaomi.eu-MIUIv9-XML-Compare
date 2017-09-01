@@ -401,6 +401,7 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="speak_from_mic">Parleu al MICRO, la reproducció dels altaveus. Jutgeu si hi ha so.</string>
   <string name="start">Inicia</string>
   <string name="testagain">Podeu prémer la tecla INICI per provar-ho de nou</string>
+  <string name="testcase_name">Nom</string>
   <string name="touch_auto">L\'auto-test del panell tàctil està en curs, si us plau espereu....</string>
   <string name="tp_color">Color TP:</string>
   <string name="tp_version">Versió del TP:</string>
