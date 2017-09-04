@@ -432,6 +432,7 @@
   <string name="change_pin_confirm_pins_dont_match">"Els codis PIN no coincideixen"</string>
   <string name="change_pin_continue_label">Continua</string>
   <string name="change_pin_enter_new_pin_header">Estableix un nou PIN</string>
+  <string name="change_pin_enter_new_pin_hint">El PIN ha de tenir entre %1$d-%2$d dígits.</string>
   <string name="change_pin_enter_old_pin_header">Confirmeu el vostre PIN vell</string>
   <string name="change_pin_enter_old_pin_hint">Introduïu el vostre PIN de correu de veu per continuar.</string>
   <string name="change_pin_ok_label">D\'acord</string>
