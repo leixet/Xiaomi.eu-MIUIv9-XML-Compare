@@ -140,12 +140,17 @@
   <string name="catalyst_element_inspector_off">Amaga l\'inspector</string>
   <string name="catalyst_hot_module_replacement">Activa el reemplaçament de mòduls en calent</string>
   <string name="catalyst_hot_module_replacement_off">Desactiva el reemplaçament de mòduls en calent</string>
+  <string name="catalyst_jsload_message">S\'està obtenint el paquet JS</string>
   <string name="catalyst_jsload_title">Espereu si us plau…</string>
   <string name="catalyst_live_reload">Activa la recarrega en directe</string>
   <string name="catalyst_live_reload_off">Desactiva la recarrega en directe</string>
+  <string name="catalyst_perf_monitor">Activa el monitor de rendiment</string>
+  <string name="catalyst_perf_monitor_off">Desactiva el monitor de rendiment</string>
+  <string name="catalyst_reloadjs">Recarrega el JS</string>
   <string name="catalyst_remotedbg_error">No s\'ha pogut connectar amb el depurador remot</string>
   <string name="catalyst_remotedbg_message">S\'està connectant al depurador remot</string>
   <string name="catalyst_settings">Configuració de desenvolupament</string>
+  <string name="catalyst_settings_title">Configuració del Catalyst Dev</string>
   <string name="catalyst_start_profile">Inicia el perfil</string>
   <string name="catalyst_stop_profile">Atura el perfil</string>
   <string name="change_to_channel">S\'està canviant [%1$s] %2$s</string>
