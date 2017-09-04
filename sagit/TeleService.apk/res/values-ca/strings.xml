@@ -123,6 +123,7 @@
   <string name="audio_mode_earpiece">Auricular mans lliures</string>
   <string name="audio_mode_speaker">Altaveu</string>
   <string name="audio_mode_wired_headset">Auriculars amb cable</string>
+  <string name="auth_username">Nom d\'usuari d\'autenticació</string>
   <string name="auth_username_summary">Nom d\'usuari utilitzat per a l\'autenticació</string>
   <string name="auth_username_title">Nom d\'usuari d\'autenticació</string>
   <string name="auto_answer_delay_entries_delay_10s">10 segons</string>
@@ -562,8 +563,10 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="disable_sim_pin">Esborra el PIN de la SIM</string>
   <string name="disabled_by_admin">S\'ha desactivat per l\'administrador</string>
   <string name="disabled_by_admin_summary_text">Controlat per l\'administrador</string>
+  <string name="display_name">Nom de visualització</string>
   <string name="display_name_summary">&lt;Igual que el nombre d\'usuari&gt;</string>
   <string name="display_name_title">Mostra nom</string>
+  <string name="domain_address">Domini SIP</string>
   <string name="domain_address_title">Servidor</string>
   <string name="doneButton">Fet</string>
   <string name="dtmf_tone_entries_long">Llarg</string>
@@ -633,6 +636,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="enhanced_4g_lte_mode_on_failed">"No s'ha pogut activar VoLTE."</string>
   <string name="enhanced_4g_lte_mode_summary">Utilitza els serveis d\' LTE per millorar veu i altres comunicacions (recomanat)</string>
   <string name="enhanced_4g_lte_mode_title">Mode 4G LTE millorada</string>
+  <string name="enhanced_4g_lte_mode_title_variant">Trucades avançades</string>
   <string name="enter_callbarring_password">Introduïu la contrasenya de restricció de trucades (4 dígits)</string>
   <string name="enter_input" formatted="false">Un missatge USSD ha de tenir entre %d i %d caràcters. Si us plau torneu a provar.</string>
   <string name="enter_pin_text">PIN de la SIM:</string>
@@ -715,6 +719,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="incall_error_out_of_service_wfc">La xarxa mòbil no està disponible. Connecteu amb una xarxa sense fil per fer una trucada.</string>
   <string name="incall_error_power_off">Desactiveu el mode avió per fer una trucada.</string>
   <string name="incall_error_power_off_wfc">Sortiu del mode avió o connecteu a una xarxa sense fil per fer una trucada.</string>
+  <string name="incall_error_promote_wfc">Activeu les trucades Wi-Fi per fer una trucada.</string>
   <string name="incall_error_supp_service_conference">No es poden fer trucades multiconferència.</string>
   <string name="incall_error_supp_service_hangup">"No es pot despenjar la trucada."</string>
   <string name="incall_error_supp_service_hold">"No es pot retenir trucades."</string>
@@ -1434,6 +1439,7 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="usb_audio_disable_routing">Desactiva l\'encaminament d\'àudio USB</string>
   <string name="usb_audio_disable_routing_summary">Desactiva l\'encaminament automàtic als perifèrics d\'àudio USB</string>
   <string name="user_guest">Convidat</string>
+  <string name="username">Nom d\'usuari</string>
   <string name="username_title">Nom d\'usuari</string>
   <string name="ussdRunning">El codi USSD està funcionant&#8230;</string>
   <string name="ussd_dialog_sep">----------</string>
