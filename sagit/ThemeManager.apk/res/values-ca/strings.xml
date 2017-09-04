@@ -97,6 +97,8 @@
   <string name="incompatible_dialog_ok">D\'acord</string>
   <string name="incompatible_dialog_title">Problemes de compatibilitat</string>
   <string name="is_setting_wallpaper_message">S\'està establint el fons de pantalla&#8230;</string>
+  <string name="item_resource_audio_optional_color_ring">color de l\'anell</string>
+  <string name="item_resource_audio_optional_notification_ring">anell de notificació</string>
   <string name="live_wallpaper">Fons de pantalla animat</string>
   <string name="loading">Un moment…</string>
   <string name="loading_resource_detail_fail">"No es pot carregar el recurs"</string>
