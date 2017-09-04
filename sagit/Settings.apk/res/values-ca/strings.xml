@@ -856,7 +856,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="choose_profile">Trieu el perfil</string>
   <string name="choose_smartcover_type">Trieu el tipus de funda</string>
   <string name="choose_spell_checker">Tria el corrector ortogràfic</string>
-  <string name="choose_timezone">Trieu el fus horàri</string>
+  <string name="choose_timezone">Trieu el fus horari</string>
   <string name="choose_voice_input_title">Trieu l\'entrada de veu</string>
   <string name="cleaner">Netejador</string>
   <string name="clear_activities">Suprimeix les configuracions predeterminades</string>
@@ -3253,7 +3253,7 @@ Per fer-ho:
   <string name="search_captioning_locale">Idioma</string>
   <string name="search_change_password">Canvia bloqueig de la pantalla;Bloqueig de pantalla;Edició de bloqueig de pantalla;edició de bloqueig de pantalla;bloqueig de pantalla</string>
   <string name="search_children_mode_title">Mode de mainada</string>
-  <string name="search_choose_timezone">Tria fus horàri</string>
+  <string name="search_choose_timezone">Tria fus horari</string>
   <string name="search_cloud_backup_settings_section_title">Configuració de la còpia de seguretat</string>
   <string name="search_cloud_restore_section_title">Restaura des de Mi Cloud</string>
   <string name="search_copyright_title">Drets d\'autor</string>
@@ -5058,5 +5058,5 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="zone_auto_summaryOff">Utilitza l\'hora proporcionada per la xarxa</string>
   <string name="zone_auto_summaryOn">Utilitza l\'hora proporcionada per la xarxa</string>
   <string name="zone_list_menu_sort_alphabetically">Ordena alfabèticament</string>
-  <string name="zone_list_menu_sort_by_timezone">Ordena per fus horàri</string>
+  <string name="zone_list_menu_sort_by_timezone">Ordena per fus horari</string>
 </resources>
