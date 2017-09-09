@@ -1245,7 +1245,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="device_rear_camera">Càmera posterior</string>
   <string name="device_reset_title">Reinicia el dispositiu</string>
   <string name="device_screen_resolution">Resolució de pantalla</string>
-  <string name="device_screen_size">Mida de la pantalla</string>
+  <string name="device_screen_size">Pantalla</string>
   <string name="device_sd_memory">Targeta SD</string>
   <string name="device_share_loading">S\'està creant la imatge</string>
   <string name="device_status">Estat</string>
@@ -1560,7 +1560,7 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="finish_application">Força el tancament</string>
   <string name="finish_button">finalitza</string>
   <string name="finish_button_label">Finalitza</string>
-  <string name="firmware_version">Versió d\'Android</string>
+  <string name="firmware_version">Android</string>
   <string name="floating_window_switch_label">Activa les finestres flotants</string>
   <string name="floating_window_switch_label_disable">Desactiva les finestres flotants</string>
   <string name="fluency_mode">Animacions del sistema</string>
@@ -1695,7 +1695,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="gsm_to_wifi_connect_type_title">GSM a Wi-Fi</string>
   <string name="handy_mode">Disposició per a una sola mà</string>
   <string name="handy_mode_enable">Operació amb una mà</string>
-  <string name="handy_mode_size">Mida de la pantalla</string>
+  <string name="handy_mode_size">Pantalla</string>
   <string name="handy_mode_tips">Feu lliscar a l\'esquerra o a la dreta des del botó Home per acostar la pantalla a un costat o a un altre.</string>
   <string name="haptic_feedback_enable_title">Vibra en tocar</string>
   <string name="haptic_feedback_level">Vibració</string>
