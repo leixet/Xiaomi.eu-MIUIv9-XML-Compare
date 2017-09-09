@@ -303,7 +303,7 @@
   <string name="background_restrict_app_dialog_message">La restricció de l\'accés a la xarxa en segon pla per a aquesta aplicació pot fer que l\'aplicació no funcioni correctament, rebre missatges, baixar contingut, etc. Voleu restringir-lo de totes maneres?</string>
   <string name="background_traffic">Fons %s</string>
   <string name="backsound_set_hint">Voleu configurar un missatge d\'absència per a %s?</string>
-  <string name="battery_capacity_title">Capacitat de la bateria</string>
+  <string name="battery_capacity_title">Bateria</string>
   <string name="battery_charge_estimating">Calculant&#8230;</string>
   <string name="battery_charge_full">Carregat</string>
   <string name="battery_charging_prompt">S\'està carregant </string>
