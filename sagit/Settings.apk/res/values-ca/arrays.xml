@@ -1018,10 +1018,10 @@ Nota: Només per a Ubuntu 8.04!"</item>
   </string-array>
   <string-array name="standard_configuration_version_description_primary">
     <item>CPU</item>
-    <item>Capacitat de la bateria</item>
+    <item>Bateria</item>
     <item>Càmera posterior</item>
-    <item>Mida de la pantalla</item>
+    <item>Pantalla</item>
     <item>Resolució</item>
-    <item>Versió d\'Android</item>
+    <item>Android</item>
   </string-array>
 </resources>
