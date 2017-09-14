@@ -1755,7 +1755,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="title_consume_power_rank">Ús de la bateria</string>
   <string name="title_data_flow">Establir un avís d\'ús de dades</string>
   <string name="title_data_flow_monitor">El monitor d\'ús de dades està activat</string>
-  <string name="title_dev_model_off">"Les opcions de desenvolupament estan desactivades"</string>
+  <string name="title_dev_model_off">Les opcions de desenvolupament estan desactivades</string>
   <string name="title_dev_no">Opcions de desenvolupador activades</string>
   <string name="title_dev_yes">Opcions de desenvolupador desactivades</string>
   <string name="title_device_not_root">"L'accés arrel no s'ha concedit"</string>
