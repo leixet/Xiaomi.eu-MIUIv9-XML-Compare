@@ -384,7 +384,7 @@
   <string name="pref_summary_allow_si_sl_push">Permet als missatges carregar continguts de llocs web</string>
   <string name="pref_summary_delete_limit">%1$s missatges per conversa</string>
   <string name="pref_summary_delivery_reports">Mostra l\'estat de lliurament dels missatges enviats</string>
-  <string name="pref_summary_delivery_ringtone">Rep notificacions de so per al missatge enviat.</string>
+  <string name="pref_summary_delivery_ringtone">Recepció de notificacions de so pels missatges lliurats.</string>
   <string name="pref_summary_manage_sim_messages">Administra els missatges emmagatzemats en la targeta SIM</string>
   <string name="pref_summary_mms_auto_retrieval">Baixa automàticament les fotos i vídeos dels missatges</string>
   <string name="pref_summary_mms_read_reports">Mostra una notificació a la vista de conversa quan el destinatari baixi continguts MMS</string>
