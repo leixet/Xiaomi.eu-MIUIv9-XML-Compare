@@ -78,9 +78,15 @@
   <string name="groupshot_mode_use_hint">Es prendran diverses fotos per seleccionar la millor expressió facial per sintetitzar-la en una foto</string>
   <string name="hibernate_hint">Premeu la pantalla per despertar la càmera</string>
   <string name="hint_fast_motion">El vídeo que enregistreu es visualitzarà més ràpid.</string>
+  <string name="hint_groupshot">"La càmera farà varies fotos
+i les barrejarà per crear-ne una de nova on cadascú quedi millor."</string>
   <string name="hint_slow_motion">El vídeo que enregistreu es visualitzarà més lent.</string>
+  <string name="hunt_dual_water_mark">La marca d\'aigua de la càmera dual s\'afegirà automàticament.</string>
   <string name="install_confirmed">Instal·la</string>
   <string name="message_snap_double_confirm">Si es manté premut el botó de volum actualment s\'activa l\'NFC. Voleu canviar-ho?</string>
+  <string name="module_name_capture">Foto</string>
+  <string name="module_name_fun">Vídeo curt</string>
+  <string name="module_name_manual">Manual</string>
   <string name="no_storage">Inseriu la targeta SD abans d\'usar la càmera</string>
   <string name="not_enough_space">L\'emmagatzematge intern és ple</string>
   <string name="object_track_enable_toast">Per seleccionar un objecte, toqueu dos punts diagonals simultàniament en la seva vora.</string>
