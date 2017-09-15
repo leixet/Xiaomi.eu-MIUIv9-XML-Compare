@@ -504,7 +504,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="block_list_no_device">No hi ha dispositius connectats a la llista de bloqueig</string>
   <string name="block_list_remove_dialog_content">Aquest dispositiu «%s» serà capaç de connectar-se a aquest punt d\'accés</string>
   <string name="block_list_remove_dialog_title">Elimina a «%s» de la llista de bloqueig</string>
-  <string name="block_list_summary">Visualitza els dispositius que no estan autoritzats a connectar-se a aquest punt d\'accés</string>
+  <string name="block_list_summary">"Visualitza els dispositius que no estan autoritzats a connectar-se a aquest punt d'accés"</string>
   <string name="block_list_title">Llista de bloqueig</string>
   <string name="bluetooth_a2dp_profile_summary_connected">S\'ha connectat a un dispositiu d\'àudio</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Per a dispositius d\'àudio</string>
@@ -3009,7 +3009,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="restore_default_apn_completed">S\'ha restablert la configuració predeterminada d\'APN.</string>
   <string name="restr_pin_enter_admin_pin">Introduïu el PIN d\'administrador</string>
   <string name="restrict_background_blacklisted">Les dades en segon pla estan desactivades</string>
-  <string name="restrict_max_aspect_ratio_title">Suggerim deshabilitar la relació d\'aspecte màxima</string>
+  <string name="restrict_max_aspect_ratio_title">"Suggerim deshabilitar la relació d'aspecte màxima"</string>
   <string name="restriction_bluetooth_config_summary">Permet la modificació de la vinculació i configuració per Bluetooth</string>
   <string name="restriction_location_enable_summary">Permet que les aplicacions utilitzin la informació de la ubicació</string>
   <string name="restriction_location_enable_title">Ubicació</string>
@@ -3683,7 +3683,6 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="standard">Silenci</string>
   <string name="standard_info">No es permeten les trucades i les notificacions, només l\'alarma i la música</string>
   <string name="start_silent_mode">Activa el Mode Silenciòs</string>
-  <string name="start_vip_mode">habilita el mode VIP</string>
   <string name="starting_android">S\'està iniciant Android</string>
   <string name="status_awaiting_tap">Toca una etiqueta per escriure...</string>
   <string name="status_awake_time">Temps d\'activació</string>
@@ -4374,7 +4373,6 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="vibrate_input_devices_summary">Si està connectat, redirigeix la vibració al controlador de jocs.</string>
   <string name="vibrate_on_touch_title">Vibrar en tocar</string>
   <string name="vibrate_when_ringing_title">Vibra amb el so de trucada</string>
-  <string name="vip_mode_info">En el mode Silenciós, s\'activaran els recordatoris Ling i les trucades a la llista de contactes VIP</string>
   <string name="virtual_keyboard_category">Teclat virtual</string>
   <string name="virtual_sim_category_title">Itinerància Mi</string>
   <string name="virtual_sim_description">Servei d\'itinerància internacional fiable</string>
