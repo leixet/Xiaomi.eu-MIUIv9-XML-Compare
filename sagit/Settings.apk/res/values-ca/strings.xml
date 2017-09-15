@@ -3554,7 +3554,7 @@ Per fer-ho:
   <string name="show_screen_updates">Mostra les actualitzacions de superfície</string>
   <string name="show_screen_updates_summary">Quan s\'actualitzin il·lumina totes les superfícies de les finestres</string>
   <string name="show_silently">Mostra de manera silenciosa</string>
-  <string name="show_silently_summary">"No reprodueix cap so, no vibra ni mostra aquestes notificacions a la pantalla actual."</string>
+  <string name="show_silently_summary">"No facis sons ni vibracions ni mostris aquestes notificacions a la pantalla actual."</string>
   <string name="show_touches">Mostra els tocs</string>
   <string name="show_touches_summary">Mostra la ubicació dels tocs a la pantalla</string>
   <string name="show_user_info_on_lockscreen_label">Mostra informació del propietari a la pantalla de bloqueig</string>
