@@ -1434,7 +1434,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="setting">Configuració</string>
   <string name="setting_privacy_password">Estableix la contrasenya de protecció de la privacitat</string>
   <string name="settings">Configuració d\'ús de dades</string>
-  <string name="settings_battery_consume_abnormal_summary">Rep notificacions quan la bateria es descarregui ràpidament</string>
+  <string name="settings_battery_consume_abnormal_summary">Recepció de notificacions quan la bateria es descarregui ràpidament</string>
   <string name="settings_battery_consume_abnormal_title">Notificacions de consum excessiu de bateria</string>
   <string name="settings_category_other">Altres paràmetres</string>
   <string name="settings_category_overheat">Sobreescalfament</string>
