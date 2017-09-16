@@ -164,6 +164,7 @@
   <string name="edit_event_tab_countdown">Compte enrere</string>
   <string name="edit_event_tab_event">Esdeveniment</string>
   <string name="edit_event_to_label">Fins a</string>
+  <string name="electricity_amount_label">Consum d\'electricitat</string>
   <string name="email_guests_label">Envia un correu als convidats</string>
   <string name="email_picker_label">Envia un correu amb</string>
   <string name="email_subject_prefix">"Re: "</string>
