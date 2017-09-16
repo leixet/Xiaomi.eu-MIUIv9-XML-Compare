@@ -1816,9 +1816,17 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="keep_screen_on">Mantén-te actiu</string>
   <string name="keep_screen_on_summary">La pantalla no entra mai en mode d\'espera si el dispositiu s\'està carregant</string>
   <string name="kernel_version">Versió del Kernel</string>
+  <string name="key_gesture_function_dialog_message">%1$s és una drecera per a %2$s. Voleu reemplaça-la amb %3$s?</string>
+  <string name="key_gesture_function_dialog_negative">Cancel·la</string>
+  <string name="key_gesture_function_dialog_positive">Reemplaça</string>
+  <string name="key_gesture_function_optional">Gestos opcionals i botons</string>
+  <string name="key_gesture_function_preview">Previsualitzacions de botons i gestos</string>
+  <string name="key_gesture_function_shortcut">Dreceres funcionals</string>
+  <string name="key_none">Cap</string>
   <string name="key_position_cat">Posició dels botons</string>
   <string name="key_settings">Botons</string>
   <string name="key_settings_title">Botons</string>
+  <string name="key_system_control">Control del sistema</string>
   <string name="keyboard_and_input_methods_category">Teclat i mètodes d\'introducció</string>
   <string name="keyboard_assistance_category">Assistència per al teclat</string>
   <string name="keyboard_layout_default_label">Predeterminada</string>
@@ -1896,8 +1904,11 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="later">MÉS TARD</string>
   <string name="lattice_smartcover_title">Tapa frontal enreixada</string>
   <string name="launch_by_default">Obre de manera predeterminada</string>
+  <string name="launch_camera">Obre la càmera</string>
   <string name="launch_defaults_none">No s\'ha definit cap valor predeterminat</string>
   <string name="launch_defaults_some">S\'han definit alguns valors predeterminats</string>
+  <string name="launch_google_search">Obre Google Assistant</string>
+  <string name="launch_voice_assistant">Obre l\'assistent de veu</string>
   <string name="launcher_auto_fill_empty_title">Emplena cel·les buides</string>
   <string name="launcher_title">Pantalla d\'inici</string>
   <string name="launching_cit">S\'està iniciant CIT</string>
@@ -3152,6 +3163,7 @@ Per fer-ho:
   <string name="screen_resolution_title">Resolució de pantalla</string>
   <string name="screen_resolution_ultrahigh_format">Molt alta (%1$s)</string>
   <string name="screen_saturation">Saturació de color</string>
+  <string name="screen_shot">Fes una captura de pantalla</string>
   <string name="screen_timeout">En repòs</string>
   <string name="screen_timeout_summary">Després de %1$s d\'inactivitat</string>
   <string name="screen_timeout_title">Mode d\'espera</string>
@@ -3283,6 +3295,7 @@ Per fer-ho:
   <string name="search_handy_mode">Mode amb una sola mà</string>
   <string name="search_hint">Configuració de la cerca</string>
   <string name="search_home_key">Pàgina d\'inici</string>
+  <string name="search_input_hint">Configuració de la cerca</string>
   <string name="search_key_settings_title">Botons;Tecles</string>
   <string name="search_lab_functions_title">Funcions en Beta;Funció Lab</string>
   <string name="search_label">Configuració</string>
@@ -3518,6 +3531,13 @@ Per fer-ho:
   <string name="settings_safetylegal_title">Informació de seguretat</string>
   <string name="settings_shortcut">Configuració de les dreceres</string>
   <string name="settings_toggle_position_divider_list">Els commutadors sobre d\'aquesta barra són actius</string>
+  <string name="setup_add_fingerprint_failed_retry_text">"No s'ha pogut afegir l'empremta"</string>
+  <string name="setup_choose_unlock_fingerprint_msg">Establiu el bloqueig de la pantalla abans d\'afegir l\'empremta.</string>
+  <string name="setup_choose_unlock_mixpassword_title">Estableix la contrasenya</string>
+  <string name="setup_choose_unlock_password_msg">Introduïu 4 números</string>
+  <string name="setup_choose_unlock_password_title">Estableix el PIN</string>
+  <string name="setup_choose_unlock_pattern_title">Dibuixa un patró de desbloqueig</string>
+  <string name="setup_choose_unlock_type_title">Estableix la contrasenya</string>
   <string name="setup_fingerprint_enroll_enrolling_skip_message">Heu optat per utilitzar l\'empremta com una manera de desbloquejar el telèfon. Si ara ometeu aquest pas, haureu de configurar-ho després. Aquest procés només triga un parell de minuts.</string>
   <string name="setup_fingerprint_enroll_enrolling_skip_title">Voleu ometre la configuració d\'empremta digital?</string>
   <string name="setup_fingerprint_enroll_finish_message">Toca el sensor d\'empremtes per activar i desbloquejar el dispositiu.</string>
@@ -3526,6 +3546,8 @@ Per fer-ho:
   <string name="setup_lock_settings_picker_fingerprint_message">Fer servir l\'empremta pot ser menys segur que utilitzar un patró, un PIN o una contrasenya segurs. Per a més seguretat configureu un bloqueig de pantalla alternatiu.</string>
   <string name="setup_lock_settings_picker_message">Activa les funcions de protecció del dispositiu per impedir que altres persones utilitzin el telèfon sense permís. Trieu el bloqueig de pantalla que vulgueu utilitzar.</string>
   <string name="setup_lock_settings_picker_title">Protecció del telèfon</string>
+  <string name="setup_password_back">Enrere</string>
+  <string name="setup_password_confirm">D\'acord</string>
   <string name="setup_wifi_nfc_tag">Configura l\'etiqueta de NFC per a Wi-Fi</string>
   <string name="severe_threats_summary">Rep alertes d\'amenaces extremes per a la vida i la propietat</string>
   <string name="severe_threats_title">Amenaces importants</string>
@@ -3554,6 +3576,7 @@ Per fer-ho:
   <string name="show_ime_summary">El deixa a la pantalla mentre el teclat físic està actiu</string>
   <string name="show_magnifier_when_input">Lupa</string>
   <string name="show_mem_info_title">Mostra informació de la memòria</string>
+  <string name="show_menu">Mostra el menú</string>
   <string name="show_non_rect_clip">Depura les operacions de retall no rectangulars</string>
   <string name="show_owner_info_on_lockscreen_label">Mostra informació del propietari a la pantalla de bloqueig</string>
   <string name="show_password">Mostra les contrasenyes</string>
