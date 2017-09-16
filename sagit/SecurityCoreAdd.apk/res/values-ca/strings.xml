@@ -163,7 +163,7 @@ Dos espais. Un dispositiu."</string>
   <string name="please_diff_finger_print">Assegureu-vos que s\'utilitzen diferents empremtes digitals en el Primer i el Segon espai. En cas contrari, potser no podríeu entrar al Segon espai des de la pantalla de bloqueig.</string>
   <string name="privacyContactsSummary">Mostrar els elements privats en el Segon espai</string>
   <string name="privacyContactsTitle">Missatges privats i contactes</string>
-  <string name="privacy_password_fingerprint_dialog_message">Poseu el dit al lector</string>
+  <string name="privacy_password_fingerprint_dialog_message">Col·loqueu el dit al lector</string>
   <string name="privacy_password_fingerprint_dialog_title">Escaneja l\'empremta digital</string>
   <string name="private_sms_show_sub_title">Les dades dels missatges estaran compartides entre els dos espais</string>
   <string name="private_sms_show_title">Els missatges privats es mostren al Segon espai</string>
