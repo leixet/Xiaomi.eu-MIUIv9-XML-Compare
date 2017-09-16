@@ -132,6 +132,7 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
   <string name="add_a_language">Afegeix un idioma</string>
   <string name="add_account_label">Afegiu un compte</string>
   <string name="add_auto_startup_application">Afegiu aplicacions d\'inici automàtic</string>
+  <string name="add_back_fingerprint_instruction_msg">Col·loqueu el dit al sensor</string>
   <string name="add_device_admin">Activa</string>
   <string name="add_device_admin_msg">Voleu activar l\'administrador de dispositius?</string>
   <string name="add_facerecoginition_text">Afegeix dades de la cara</string>
