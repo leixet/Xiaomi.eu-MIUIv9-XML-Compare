@@ -3533,9 +3533,15 @@ Per fer-ho:
   <string name="settings_toggle_position_divider_list">Els commutadors sobre d\'aquesta barra són actius</string>
   <string name="setup_add_fingerprint_failed_retry_text">"No s'ha pogut afegir l'empremta"</string>
   <string name="setup_choose_unlock_fingerprint_msg">Establiu el bloqueig de la pantalla abans d\'afegir l\'empremta.</string>
+  <string name="setup_choose_unlock_mixed_password_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;Contrasenya&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_mixed_password_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;Contrasenya&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="setup_choose_unlock_mixpassword_title">Estableix la contrasenya</string>
+  <string name="setup_choose_unlock_password_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;PIN&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_password_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;PIN&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="setup_choose_unlock_password_msg">Introduïu 4 números</string>
   <string name="setup_choose_unlock_password_title">Estableix el PIN</string>
+  <string name="setup_choose_unlock_pattern_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;Patró&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
+  <string name="setup_choose_unlock_pattern_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;Patró&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="setup_choose_unlock_pattern_title">Dibuixa un patró de desbloqueig</string>
   <string name="setup_choose_unlock_type_title">Estableix la contrasenya</string>
   <string name="setup_fingerprint_enroll_enrolling_skip_message">Heu optat per utilitzar l\'empremta com una manera de desbloquejar el telèfon. Si ara ometeu aquest pas, haureu de configurar-ho després. Aquest procés només triga un parell de minuts.</string>
@@ -3705,6 +3711,7 @@ Per fer-ho:
   <string name="spellchecker_language">Idioma</string>
   <string name="spellchecker_quick_settings">Configuració</string>
   <string name="spellchecker_security_warning">Aquest corrector ortogràfic pot accedir a tot el que teclegeu, incloses dades personals, contrasenyes i targetes de crèdit. Prové de l\'aplicació %1$s. Voleu fer-lo servir?</string>
+  <string name="spellchecker_switch_title">Activar el corrector ortogràfic</string>
   <string name="spellcheckers_settings_title">Corrector ortogràfic</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_warning">És possible que la xarxa estigui supervisada</string>
@@ -3789,6 +3796,7 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="status_wifi_mac_address">Adreça MAC del Wi-Fi</string>
   <string name="status_wimax_mac_address">Adreça MAC del 4G</string>
   <string name="status_write_success">Fet!</string>
+  <string name="statusbar_permission_desc">Els permisos només estan disponibles per a notificacions importants</string>
   <string name="storage_detail_apps">Aplicacions</string>
   <string name="storage_detail_audio">Àudio</string>
   <string name="storage_detail_cached">Dades desades a la memòria cau</string>
@@ -4029,6 +4037,7 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="tethering_settings_not_available">Canvia la configuració de la connexió compartida en el primer espai</string>
   <string name="tethering_settings_summary">"Compartiu la connexió de dades mòbils del dispositiu mitjançant USB o amb un punt d'accés Wi-Fi"</string>
   <string name="theme_settings_title">Temes</string>
+  <string name="three_gesture_down">Feu lliscar 3 dits cap avall</string>
   <string name="time_picker_title">Hora</string>
   <string name="time_zone_auto_stub">Selecciona el fus horari</string>
   <string name="timer_switch_settings_title">Planificació d\'activació i desactivació</string>
@@ -4125,11 +4134,13 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="turn_on_keyguard_password_alert_forget_content">"Recordeu la contrasenya de la vostra pantalla de bloqueig. Si la oblideu, haureu d'esborrar totes les dades del vostre dispositiu, incloses les fotos i els contactes i, a continuació, configurar-ne un de nova."</string>
   <string name="turn_on_keyguard_password_alert_forget_title">Si la oblideu, no podreu restaurar-la.</string>
   <string name="turn_on_security_lock">Tria un bloqueig de pantalla</string>
+  <string name="turn_on_torch">Activa la llanterna</string>
   <string name="turn_on_wifi_dialog_text">La Wi-Fi es desactiva quan el punt d\'accés s\'activa. Per activar el Wi-Fi heu de desactivar el punt d\'accés.</string>
   <string name="turn_on_wifi_dialog_title">Activa la Wi-Fi</string>
   <string name="turn_update_keyguard_password_wait_dialog">S\'està modificant la contrasenya</string>
   <string name="twohours">1 hora</string>
   <string name="under_keyguard">Pantalla de bloqueig</string>
+  <string name="unimportant">No important</string>
   <string name="uninstall_all_users_text">Desinstal·la per a tots els usuaris</string>
   <string name="uninstall_device_admin">Desinstal·la l\'aplicació</string>
   <string name="uninstall_dlg_msg">Si ho desinstal·leu es suprimiran totes les dades de l\'aplicació.</string>
