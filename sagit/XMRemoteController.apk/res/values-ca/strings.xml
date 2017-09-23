@@ -459,6 +459,8 @@
   <string name="logining">Iniciant sessió</string>
   <string name="logout">Tanca la sessió</string>
   <string name="logout_done">S\'ha tancat la sessió correctament</string>
+  <string name="main_tab_show_mitv">S\'ha trobat una Mi TV</string>
+  <string name="main_tab_show_mitv_detail">S\'ha afegit una Mi TV i el seu control remot al telèfon. Ara podeu controlar el televisor, instal·lar aplicacions i emetre vídeos amb el vostre telèfon.</string>
   <string name="management_app_management">Aplicacions</string>
   <string name="management_settings">Configuració</string>
   <string name="management_video_favor">Historial i preferits</string>
@@ -555,6 +557,7 @@ Llavors responeu la pregunta"</string>
   <string name="milink_screenshot_done">La captura de pantalla de TV s\'ha fet amb èxit</string>
   <string name="milink_screenshot_pic">Captures de pantalla</string>
   <string name="milink_view_screenshot">Desat a la galeria, premeu per veure-ho</string>
+  <string name="mishopsdk_progress_loading">s\'està carregant...</string>
   <string name="mitv">TV Mi</string>
   <string name="mitv_assistant_setting_version">Versió de l\'assistent de TV Mi %1$s</string>
   <string name="mode">Mode</string>
@@ -571,9 +574,11 @@ Llavors responeu la pregunta"</string>
   <string name="my_backup">Còpies de seguretat remotes</string>
   <string name="my_favorite">Protagonitzat per</string>
   <string name="my_notification">Notificacions</string>
+  <string name="my_order">Les meves comandes</string>
   <string name="my_room">L\'habitació</string>
   <string name="my_room_underline">L\'habitació</string>
   <string name="my_setting">Configuració</string>
+  <string name="my_video_title">Els meus vídeos</string>
   <string name="nearby">A prop</string>
   <string name="network_diagnosis">Comprova la xarxa</string>
   <string name="network_no_connection">"No es pot connectar a la xarxa. Comproveu la connexió i torneu-ho a provar."</string>
@@ -616,6 +621,7 @@ ap arxiu d\'instal·lació</string>
   <string name="oscillation">Oscil·lació</string>
   <string name="other">Altre</string>
   <string name="outdoor_temp_unknown">Desconeguda</string>
+  <string name="pair_server_data_only">Recomanem la utilització de dades en línia per a nous servidors remots</string>
   <string name="partner">Suport</string>
   <string name="passport_access_denied">Accés denegat</string>
   <string name="passport_account_hint_text">Adreça de correu o identificador de compte MI</string>
@@ -773,13 +779,16 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_wrong_vcode">El codi que heu introduït és incorrecte</string>
   <string name="place_frame">"Ubicació: "</string>
   <string name="play_in_phone">Mira al telèfon</string>
+  <string name="play_mi_video">Reprodueix al dispositiu mòbil</string>
   <string name="play_on_tv">Reprodueix a la televisió</string>
+  <string name="play_tv_video">Emet el vídeo</string>
   <string name="playing_time">Data d\'emissió</string>
   <string name="please_enter">"No pot estar buit"</string>
   <string name="please_input_model_name">Introduir el model del dispositiu</string>
   <string name="please_select_stb">Selecciona descodificador</string>
   <string name="please_select_tv">Seleccioneu TV</string>
   <string name="pm_2.5">PM 2.5:</string>
+  <string name="pm_2.5_out">PM2.5 exterior:</string>
   <string name="popup_installed_app_no_app">Obtenint l\'aplicació, espereu un minut i torneu a provar</string>
   <string name="popup_installed_app_title">Seleccioneu l\'aplicació que voleu obrir a la televisió</string>
   <string name="popup_select_device">Seleccioneu el comandament per obrir la Wi-Fi</string>
@@ -861,6 +870,7 @@ directament des de la vostra pantalla de bloqueig"</string>
   <string name="search_history">Historial de cerca</string>
   <string name="search_history_clear">Esborra l\'historial</string>
   <string name="search_history_empty">Historial de cerca buit</string>
+  <string name="search_menu_title">Cerca</string>
   <string name="search_more_failed">"No s'ha pogut carregar resultats"</string>
   <string name="search_no_result">No s\'ha trobat res</string>
   <string name="search_video_app_hint">Cerca</string>
@@ -922,6 +932,7 @@ directament des de la vostra pantalla de bloqueig"</string>
   <string name="share_rc_state_share">S\'està compartint&#8230;</string>
   <string name="share_rc_title">Comparteix comandament</string>
   <string name="share_rc_type_desc">Qui pot veure i utilitzar els comandaments que heu compartit</string>
+  <string name="share_score_share_no_install">"No es pot compartir"</string>
   <string name="share_switch">Comparteix comandament</string>
   <string name="share_tips">Comparteix el comandament amb una persona connectada a la mateixa Wi-Fi</string>
   <string name="share_title_share_to">Compateix amb</string>
@@ -936,6 +947,8 @@ directament des de la vostra pantalla de bloqueig"</string>
   <string name="similar">Semblant</string>
   <string name="skip">Omet</string>
   <string name="sleep">Posa en repòs</string>
+  <string name="smarthome_share_copyurl">Copia l\'URL</string>
+  <string name="smarthome_share_manage">Gestiona</string>
   <string name="somthing_wrong">Teniu problemes?</string>
   <string name="speech_init_failed">Premeu per instal·lar el reconeixedor de veu iFly</string>
   <string name="speed_up_channel_switch">Commuta els canals més ràpid en alguns decodificadors</string>
@@ -958,10 +971,13 @@ directament des de la vostra pantalla de bloqueig"</string>
   <string name="supported_by_kookong">Suport tècnic per Kookong</string>
   <string name="supporting_soon">Properament</string>
   <string name="swipe_loading">Un moment&#8230;</string>
+  <string name="switch_login">&lt;u&gt;canvia de compte&lt;/u&gt;</string>
   <string name="switch_place">Seleccioneu una ciutat</string>
   <string name="tab_live">En directe</string>
+  <string name="tab_store">Botiga</string>
   <string name="technical_support">Suport tècnic</string>
   <string name="temperature">Temperatura</string>
+  <string name="third_party_video">Altres vídeos</string>
   <string name="time_error">Sembla que l\'hora no és correcte</string>
   <string name="timer">Temporitzador</string>
   <string name="timer_turn_off">Programa l\'hora d\'aturada</string>
@@ -1006,6 +1022,7 @@ Per canviar, premeu contínuament el botó d\'encesa del TV"</string>
   <string name="video">Vídeos</string>
   <string name="video_actor_label">"Repartiment: "</string>
   <string name="video_area_label">"País: "</string>
+  <string name="video_buy_vip">Compra una subscripció per Mi TV</string>
   <string name="video_comment_get_reply_failed">"获取评论失败, 点击重试"</string>
   <string name="video_comment_no_reply">暂无评论, 点击发表</string>
   <string name="video_count">Vídeos: %d</string>
