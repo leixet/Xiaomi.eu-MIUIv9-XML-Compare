@@ -6,10 +6,13 @@
   <string name="battery_islow_desc">El nivell de la bateria és massa baix per instal·lar el fitxer zip amb seguretat, connecteu el carregador i torneu-ho a provar més tard!</string>
   <string name="btn_changelog">Registre de canvis</string>
   <string name="btn_download">S\'està baixant</string>
+  <string name="btn_error">S\'ha produït un error, voleu torna-ho a provar?</string>
   <string name="btn_install">Instal·la</string>
   <string name="btn_no">Cancel·la</string>
   <string name="btn_ok">D\'acord</string>
+  <string name="btn_pause">Pausa</string>
   <string name="btn_share">Comparteix</string>
+  <string name="btn_stop">Atura</string>
   <string name="btn_yes">Sí</string>
   <string name="check_new_version">Comprova</string>
   <string name="dialog_3g_desc">Tingueu en compte que l\'ús de dades mòbils per baixar ROM pot tenir una quota important del vostre paquet.</string>
