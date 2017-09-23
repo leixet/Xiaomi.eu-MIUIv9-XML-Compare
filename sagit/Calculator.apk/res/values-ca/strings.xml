@@ -38,6 +38,7 @@
   <string name="equalDesc">és igual a</string>
   <string name="error_fomrat">Error de format</string>
   <string name="from_unit_en">Quilòmetres per hora</string>
+  <string name="global_network_confirm_content">"Les calculadores de conversió de monedes utilitzen la connexió de xarxa del dispositiu per funcionar correctament."</string>
   <string name="global_search_key_area_convertion">Àrea;Conversor de àrea;Conversió d\'àrea</string>
   <string name="global_search_key_calculation">Calcula;Conversió d\'unitats;Conversor;Conversor d\'unitats</string>
   <string name="global_search_key_date_convertion">Conversor de temps;Unitats de temps;Temps de conversió;Temps</string>
