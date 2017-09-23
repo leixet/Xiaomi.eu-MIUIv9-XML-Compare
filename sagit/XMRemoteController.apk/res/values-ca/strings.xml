@@ -424,6 +424,7 @@
   <string name="loading_get">Un moment&#8230;</string>
   <string name="loading_hint">Un moment&#8230;</string>
   <string name="loading_ir_data">Un moment&#8230;</string>
+  <string name="loading_share_info_err">"No s'ha pogut carregar les dades"</string>
   <string name="locate_current_place">Cercant la ubicació actual</string>
   <string name="location_select">Canvia el nom del dispositiu</string>
   <string name="login">Inicia la sessió</string>
