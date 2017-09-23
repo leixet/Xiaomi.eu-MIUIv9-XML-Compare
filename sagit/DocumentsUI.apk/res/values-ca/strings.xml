@@ -73,7 +73,10 @@
   <string name="notification_touch_for_details">Toqueu per veure els detalls</string>
   <string name="open_external_dialog_request">Voleu concedir &lt;b&gt;^1&lt;/b&gt; accés al &lt;i&gt;^2&lt;/i&gt; directori en
 &lt;i&gt;^3&lt;/i&gt;?</string>
+  <string name="open_external_dialog_request_primary_volume">Voleu concedir&lt;b&gt;^1&lt;/b&gt; accés al &lt;i&gt;^2&lt;/i&gt; directori?</string>
+  <string name="open_external_dialog_root_request">Voleu concedir &lt;b&gt;^1&lt;/b&gt; accés a les dades, incloses les fotos i els vídeos, a &lt;i&gt;^2&lt;/i&gt;?</string>
   <string name="query_error">No s\'han pogut consultar els documents</string>
+  <string name="rename_error">No s\'ha pogut canviar el nom del document</string>
   <string name="root_available_bytes">%1$s lliure</string>
   <string name="root_recent">Recents</string>
   <string name="root_type_apps">Més aplicacions</string>
@@ -81,12 +84,17 @@
   <string name="root_type_service">Serveis d\'emmagatzematge</string>
   <string name="root_type_shortcut">Dreceres de teclat</string>
   <string name="save_error">No s\'ha pogut desar el document</string>
+  <string name="search_menu_title">Cerca</string>
   <string name="share_via">Comparteix-lo a través de</string>
   <string name="sort_date">Per data de modificació</string>
   <string name="sort_name">Per nom</string>
   <string name="sort_size">Per mida</string>
+  <string name="status_bar_notification_info_overflow">+999</string>
   <string name="title_open">Obre\'l des de</string>
   <string name="title_save">Desa\'l a</string>
   <string name="toast_failed_delete">No es poden eliminar alguns documents</string>
   <string name="toast_no_application">No es pot obrir el fitxer</string>
+  <string name="too_many_in_select_all">Només s\'han pogut seleccionar 1.000 elements</string>
+  <string name="too_many_selected">Només podeu seleccionar un màxim de 1.000 elements a la vegada</string>
+  <string name="undo">Desfés</string>
 </resources>
