@@ -949,6 +949,12 @@ directament des de la vostra pantalla de bloqueig"</string>
   <string name="sleep">Posa en repòs</string>
   <string name="smarthome_share_copyurl">Copia l\'URL</string>
   <string name="smarthome_share_manage">Gestiona</string>
+  <string name="smarthome_share_miliao">Mi Talk</string>
+  <string name="smarthome_share_qq">QQ</string>
+  <string name="smarthome_share_qzone">Qzone</string>
+  <string name="smarthome_share_sinaweibo">Weibo</string>
+  <string name="smarthome_share_wecaht">WeChat</string>
+  <string name="smarthome_share_wxcircle">Moments</string>
   <string name="somthing_wrong">Teniu problemes?</string>
   <string name="speech_init_failed">Premeu per instal·lar el reconeixedor de veu iFly</string>
   <string name="speed_up_channel_switch">Commuta els canals més ràpid en alguns decodificadors</string>
