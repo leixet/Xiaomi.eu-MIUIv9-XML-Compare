@@ -266,7 +266,7 @@
   <string name="download_traffic_dialog_msg_without_data">"Esteu utilitzant dades mòbils per baixar cançons. ¿Voleu baixar-la de totes maneres?"</string>
   <string name="download_traffic_dialog_negative_button">A l\'espera de Wi-Fi</string>
   <string name="download_traffic_dialog_position_button">Baixa</string>
-  <string name="download_traffic_dialog_position_button_serious">Encara s\'està baixant</string>
+  <string name="download_traffic_dialog_position_button_serious">Encara baixa</string>
   <string name="download_traffic_dialog_title">Avís d\'ús de dades</string>
   <string name="download_traffic_dialog_title_beyond">Límit d\'ús de dades excedit</string>
   <string name="download_traffic_dialog_title_serious">No queden prou dades mòbils</string>
