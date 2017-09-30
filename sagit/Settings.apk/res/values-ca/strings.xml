@@ -2999,6 +2999,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="remove_managed_profile_label">Suprimeix el perfil professional</string>
   <string name="repeat">Repeteix</string>
   <string name="repeat_call">Recordatori de trucades repetides</string>
+  <string name="repeat_call_info">Permet so per a les trucades repetides d\'aquí a 15 minuts en mode silenci</string>
   <string name="repeat_title">Repeteix</string>
   <string name="reset_aaid">Reinicia l\'identificador de publicitat</string>
   <string name="reset_app_preferences">Reinicia les preferències de les aplicacions</string>
