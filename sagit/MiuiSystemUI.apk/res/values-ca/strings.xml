@@ -161,6 +161,7 @@
   <string name="bugreport_in_power_summary">Mostra un botó en el menú d\'encesa per informar d\'un error</string>
   <string name="button_convert_fbe">Esborra i converteix&#8230;</string>
   <string name="call_status_dialing">Marcant</string>
+  <string name="call_status_holding">Retén</string>
   <string name="call_status_ringing">Sonant</string>
   <string name="camera_key_action_app_title">Obrir aplicació</string>
   <string name="camera_key_action_category_title">Utilitzeu si no està oberta l\'aplicació Càmera</string>
