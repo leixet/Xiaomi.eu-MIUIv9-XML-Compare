@@ -5,7 +5,7 @@
   <string name="HIPS_Action_Accept_Once">Permet una vegada</string>
   <string name="HIPS_Action_Reject">Denega</string>
   <string name="HIPS_Action_Reject_Once">Denega una vegada</string>
-  <string name="HIPS_Perm_AudioRecorder">Enregistrar àudio</string>
+  <string name="HIPS_Perm_AudioRecorder">Enregistra l\'àudio</string>
   <string name="HIPS_Perm_AudioRecorder_Desc">enregistrar àudio i trucades telefòniques</string>
   <string name="HIPS_Perm_AutoStart">Iniciar-se automàticament</string>
   <string name="HIPS_Perm_AutoStart_Desc">iniciar-se en engegar el dispositiu</string>
@@ -19,8 +19,8 @@
   <string name="HIPS_Perm_CallLog">Escriure i eliminar l\'historial de trucades</string>
   <string name="HIPS_Perm_CallLog_Desc">escriure i eliminar l\'historial de trucades</string>
   <string name="HIPS_Perm_Call_Desc">trucar directament a números de telèfon</string>
-  <string name="HIPS_Perm_Contact">Modificar i suprimir contactes</string>
-  <string name="HIPS_Perm_Contact_Desc">modificar i suprimir contactes</string>
+  <string name="HIPS_Perm_Contact">Modifica i suprimeix els contactes</string>
+  <string name="HIPS_Perm_Contact_Desc">modifica i suprimeix els vostres contactes</string>
   <string name="HIPS_Perm_External_Storage">Accedir i canviar fitxers en l\'emmagatzematge intern</string>
   <string name="HIPS_Perm_External_Storage_Desc">"afegir i eliminar fitxers en l'emmagatzematge intern del dispositiu"</string>
   <string name="HIPS_Perm_Location">Obtenir informació de la ubicació</string>
