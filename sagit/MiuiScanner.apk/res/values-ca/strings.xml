@@ -96,6 +96,7 @@
   <string name="keywords_search_study">Escàner;Problemes;Resoldre problemes;Deures;L\'escola;Física;Química;Mates;Matemàtiques;Anglès;Història;Xinès</string>
   <string name="keywords_search_translation">Escàner;Tradueix;Diccionari;Anglès;Llengua estrangera;Llengua;Llengües;Anglès a xinès;Italià;Alemany;Japonès;Coreà;Castellà;Francès;Traductor Baidu;Diccionari Youdao;Diccionari Baidu;Traductor Google</string>
   <string name="label_choose_picture">Trieu una imatge</string>
+  <string name="label_flash_light">Llum del flaix</string>
   <string name="language_entry_chinese_cn">Xinès simplificat</string>
   <string name="language_entry_chinese_tw">Xinès tradicional</string>
   <string name="language_entry_danish">Danès</string>
