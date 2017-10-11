@@ -1249,7 +1249,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="device_name_input_overlength">Més enllà del límit de les paraules</string>
   <string name="device_name_usage_point">Altres dispositius propers poden veure aquest nom</string>
   <string name="device_picker">Tria un dispositiu Bluetooth</string>
-  <string name="device_rear_camera">Càmera posterior</string>
+  <string name="device_rear_camera">Càmera</string>
   <string name="device_reset_title">Reinicia el dispositiu</string>
   <string name="device_screen_resolution">Resolució de pantalla</string>
   <string name="device_screen_size">Pantalla</string>
