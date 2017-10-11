@@ -324,7 +324,7 @@
   <string name="conversation_item_mark_unread">No llegit</string>
   <string name="conversation_msg_header_collapsed_sent_to">"Enviat a "</string>
   <string name="conversation_photo_welcome_text">Toqui una imatge del remitent per a seleccionar aquesta conversa.</string>
-  <string name="conversation_pull_ad_content">Administrador de correu eficient</string>
+  <string name="conversation_pull_ad_content">Gestioneu els correus sense esforç</string>
   <string name="conversation_quick_button_approve">D\'acord</string>
   <string name="conversation_quick_button_disapprove">En desacord</string>
   <string name="conversation_quick_button_received">S\'ha rebut</string>
