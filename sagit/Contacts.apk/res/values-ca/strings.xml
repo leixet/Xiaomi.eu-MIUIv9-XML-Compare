@@ -468,7 +468,6 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="group_delete_success_toast">Grup eliminat</string>
   <string name="group_detail_label_placeholder">&#160;</string>
   <string name="group_edit_field_hint_text">Nom del grup</string>
-  <string name="group_member_remove_toast">Eliminat del grup</string>
   <string name="group_name">Els meus grups</string>
   <string name="group_name_hint">"Nom del grup"</string>
   <string name="group_read_only">No es pot modificar en aquest dispositiu.</string>
@@ -1139,7 +1138,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="toast_for_saving_nickname">Sobrenom guardat</string>
   <string name="toast_join_with_empty_contact">Introduïu el nom del contacte abans de combinar-ho amb un altre</string>
   <string name="toast_making_personal_copy">Creant una còpia personal&#8230;</string>
-  <string name="toast_start_intent_failed">No s\'ha trobat cap aplicació per gestionar-ho</string>
+  <string name="toast_start_intent_failed">"No s'ha trobat cap aplicació per gestionar-ho"</string>
   <string name="toast_text_copied">Text copiat</string>
   <string name="today">Avui</string>
   <string name="tomorrow">Demà</string>
