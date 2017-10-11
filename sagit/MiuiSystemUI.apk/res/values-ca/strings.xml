@@ -419,7 +419,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="recents_empty_message_multi_window">Aneu a l\'inici per obrir una aplicació</string>
   <string name="recents_exit_multi_window_mode">Surt del mode de pantalla dividida</string>
   <string name="recents_incompatible_app_message">"L'aplicació no admet la pantalla dividida"</string>
-  <string name="recents_launch_disabled_message">%s està desactivat en el mode segur.</string>
+  <string name="recents_launch_disabled_message">"%s està desactivat en el mode segur."</string>
   <string name="recents_launch_error_message">"%s no s'ha pogut iniciar."</string>
   <string name="recents_multi_window_mode">Mode de pantalla dividida</string>
   <string name="recents_stack_action_button_label">Esborra-ho tot</string>
