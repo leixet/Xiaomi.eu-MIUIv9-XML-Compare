@@ -24,6 +24,7 @@
   <string name="action_menu_account_not_login_hint">Inicieu la sessió per sincronitzar amb Mi Cloud</string>
   <string name="action_menu_bookshelf">Prestatgeria</string>
   <string name="action_menu_current_version">Versió actual</string>
+  <string name="action_menu_request_desktop_site">Visualitza la versió per a ordinador</string>
   <string name="action_menu_text_add_bookmark">Afegeix un marcador</string>
   <string name="action_menu_text_bandwidth">Estalvi de dades</string>
   <string name="action_menu_text_bandwidth_off">Estalvi de dades</string>
