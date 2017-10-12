@@ -408,6 +408,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="sina_weibo">Sina WeiBo</string>
   <string name="sms_send_success">Enviat</string>
   <string name="sns_access_token_expired_warning">L\'inici de sessió del compte ha caducat. Inicieu sessió de nou per tornar a connectar aquest compte.</string>
+  <string name="talkback_scan_barcode">escaneja el codi QR</string>
   <string name="trusted_browsers">Navegadors de confiança</string>
   <string name="trusted_browsers_prompt">El navegador no serà de confiança si suprimiu les galetes.</string>
   <string name="turn_off_find_device_failed_title">"No es pot desactivar Troba el dispositiu"</string>
