@@ -87,6 +87,8 @@
   <string name="all_video_album_display_name">Tots els vídeos</string>
   <string name="already_create_baby_album">L\'àlbum de nadó ja existeix a Mi Cloud.</string>
   <string name="and">&#160;i&#160;</string>
+  <string name="app_is_launching">%s s\'està executant…</string>
+  <string name="app_is_launching_common">S\'està executant l\'aplicació…</string>
   <string name="app_name">Galeria</string>
   <string name="app_name_view_picture">Veure fotos</string>
   <string name="app_name_view_video">Reproducció de vídeos</string>
