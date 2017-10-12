@@ -83,6 +83,8 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="new_group_name">Mode personalitzat</string>
   <string name="no_applications">Buit</string>
   <string name="none">No hi ha processos</string>
+  <string name="nonui_mode_config_description">"No encenguis la pantalla per a notificacions, desactiva la llum de notificació, l'empremta digital i els controls tàctils quan el dispositiu es trobi a la butxaca."</string>
+  <string name="nonui_mode_config_title">Mode no interactiu</string>
   <string name="normal">Mode per defecte</string>
   <string name="operation_create_group">Nom</string>
   <string name="operation_create_group_message">Introdueix el nou nom del grup</string>
