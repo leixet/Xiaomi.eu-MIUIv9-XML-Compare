@@ -25,10 +25,13 @@
   <string name="action_menu_bookshelf">Prestatgeria</string>
   <string name="action_menu_current_version">Versió actual</string>
   <string name="action_menu_request_desktop_site">Visualitza la versió per a ordinador</string>
+  <string name="action_menu_request_desktop_site_off">Visualitza la versió per a ordinador/desactivat</string>
+  <string name="action_menu_request_desktop_site_on">Visualitza la versió per a ordinador/activat</string>
   <string name="action_menu_text_add_bookmark">Afegeix un marcador</string>
   <string name="action_menu_text_bandwidth">Estalvi de dades</string>
   <string name="action_menu_text_bandwidth_off">Estalvi de dades</string>
   <string name="action_menu_text_bandwidth_on">Estalvi de dades</string>
+  <string name="action_menu_text_bookmark_add_off">No es pot afegir cap pàgina web.</string>
   <string name="action_menu_text_bookmark_added">S\'ha afegit un marcador</string>
   <string name="action_menu_text_copy_url">Copia l\'URL</string>
   <string name="action_menu_text_create_qr_code">Codi QR</string>
@@ -63,6 +66,7 @@
   <string name="add_favorites_to">Afegeix-ho als preferits</string>
   <string name="add_new_bookmark">Afegeix un marcador</string>
   <string name="add_new_quicklink">Afegeix a la pàgina d\'inici</string>
+  <string name="add_pwa_to_homescreen">Voleu afegir aquesta web a la pantalla d\'inici?</string>
   <string name="add_ql_bm_title">Desa</string>
   <string name="add_quicklink_to_popular">Afegeix a la pàgina d\'inici</string>
   <string name="add_quicklinks">Afegeix a la pàgina d\'inici</string>
@@ -76,6 +80,7 @@
   <string name="added_to_bookmarks">S\'ha afegit als marcadors</string>
   <string name="adjust_text_zoom_toast">Si es canvia la mida del text algunes pàgines poden visualitzar-se incorrectament</string>
   <string name="agree">D\'acord</string>
+  <string name="agree_permissions_request">Accepta</string>
   <string name="alert_tips">Aquest lloc pot suposar un risc per a la seguretat</string>
   <string name="allow">Permet</string>
   <string name="app_new_version">Ja està instal·lada la darrera versió d\'aquesta aplicació</string>
@@ -133,6 +138,7 @@
   <string name="browserFrameFormResubmitMessage">"La pagina que esteu intentant veure conté dades que ja s'han enviat. Si torneu a enviar les dades, les accions ja realitzades (per exemple, cerques o compres) es repetiran."</string>
   <string name="browserFrameNetworkErrorLabel">Problema de connexió</string>
   <string name="cancel">Cancel·la</string>
+  <string name="cancle_sync_cloud_tabs">Cancel·la la sincronització</string>
   <string name="cannot_download">Només podeu baixar URLs «http» o «https»</string>
   <string name="choosertitle_sharevia">Comparteix mitjançant</string>
   <string name="clear_history">Esborra l\'historial</string>
@@ -183,6 +189,7 @@
   <string name="contextmenu_manually_block_ad">Marca com a anunci</string>
   <string name="contextmenu_map">Mapa</string>
   <string name="contextmenu_openlink">Obre</string>
+  <string name="contextmenu_openlink_in_browser">Obre al navegador</string>
   <string name="contextmenu_openlink_newwindow">Obre en una pestanya nova</string>
   <string name="contextmenu_openlink_newwindow_background">Obre en una pestanya al darrera</string>
   <string name="contextmenu_recognise_qr_code">Escaneja el codi QR</string>
@@ -284,6 +291,9 @@ Les pàgines que visiteu no apareixeran a l\'historial.»</string>
   <string name="edit_quicklink">Edita</string>
   <string name="empty_app_name">Altre aplicació</string>
   <string name="empty_bookmark">Buit</string>
+  <string name="empty_cloud_tab_login_hint">Cap pestanya en el núvol</string>
+  <string name="empty_cloud_tab_logout_hint">"Inicia sessió al Compte Mi
+  les pestanyes obertes en altres dispositius es mostraran aquí"</string>
   <string name="empty_history_hint">L\'historial és buit</string>
   <string name="empty_snapshot_hint">Buit</string>
   <string name="enable_geolocation_confirm_message">Si desactiveu els serveis de localització es veuran afectades les recomanacions que rebeu.</string>
@@ -311,6 +321,7 @@ Les pàgines que visiteu no apareixeran a l\'historial.»</string>
   <string name="find_on_page_next">Següent</string>
   <string name="find_on_page_prev">Anterior</string>
   <string name="find_previous">Cerca l\'anterior</string>
+  <string name="finish_sync_cloud_tabs">Sincronització finalitzada</string>
   <string name="firstUsingSearchEngineTips">Si voleu canviar la cerca</string>
   <string name="fling_on_border_gesture_hint">Podeu triar la funció d\'aquest gest a la Configuració</string>
   <string name="force_quick_search_title">Cerca</string>
@@ -551,7 +562,9 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="pay_failed_toast">"No s'ha pogut completar el pagament"</string>
   <string name="pay_success_toast">S\'ha pagat correctament</string>
   <string name="permission_alert_window">Permet les finestres emergents per utilitzar aquesta funció</string>
+  <string name="permission_notification">envia les notificacions</string>
   <string name="permission_unknown">Acció desconeguda</string>
+  <string name="permissions_prompt_message">"%s vol "</string>
   <string name="popup_window_attempt">Voleu que aquest lloc pugui obrir una finestra emergent?</string>
   <string name="positive_confirm_message">Desactiva-ho de totes maneres</string>
   <string name="pref_accessibility">Accessibilitat</string>
