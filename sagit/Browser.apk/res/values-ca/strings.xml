@@ -355,6 +355,7 @@ Les pàgines que visiteu no apareixeran a l\'historial.»</string>
   <string name="homepage_more_sites">Més llocs web</string>
   <string name="homepage_search_hint">Cerca</string>
   <string name="homepage_top_card_menu">Destacat</string>
+  <string name="ignore_add_pwa_dialog_today">Avui no ho mostris</string>
   <string name="in_incognito">"Esteu d'incògnit! Les pàgines web que veieu en aquesta pestanya no apareixeran en el vostre historial de navegació."</string>
   <string name="in_secureaccess">El navegador s\'ha canviat al Mode segur</string>
   <string name="isReplacePage">El fitxer ja existeix, el voleu reemplaçar?</string>
@@ -567,6 +568,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="permissions_prompt_message">"%s vol "</string>
   <string name="popup_window_attempt">Voleu que aquest lloc pugui obrir una finestra emergent?</string>
   <string name="positive_confirm_message">Desactiva-ho de totes maneres</string>
+  <string name="pref_accept_quicklink_push">Retorna a la pàgina d\'inici</string>
   <string name="pref_accessibility">Accessibilitat</string>
   <string name="pref_accessibility_title">Accessibilitat</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Es poden introduir combinacions habituals de lletres totes de cop a la barra d\'adreces</string>
@@ -684,6 +686,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="quicklink_cannot_save_url">"Aquest URL no es pot afegir."</string>
   <string name="quicklink_folder_text">Aplicacions més importants</string>
   <string name="quicklink_not_saved">"No s'ha pogut afegir a la pàgina d'inici"</string>
+  <string name="quicklink_push_confirm_message">Si desactiveu aquesta opció afectareu el retorn a la pàgina d\'inici.</string>
   <string name="quicklink_saved">S\'ha desat a la pàgina d\'inici</string>
   <string name="quicklink_saved_before">Ja s\'ha afegit aquest lloc</string>
   <string name="quicklink_user_define_webpage_title">Nom</string>
