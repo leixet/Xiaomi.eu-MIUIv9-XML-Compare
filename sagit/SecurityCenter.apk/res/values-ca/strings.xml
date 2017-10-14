@@ -1003,11 +1003,11 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="network_diagnostics">Comproveu l\'estat de la xarxa</string>
   <string name="network_mobile_exception_detail">"El dispositiu no es pot connectar a internet:
 
- 1. Assegureu-vos que no he superat el límit de dades mòbils del pla del seu operador.
+ 1. Assegureu-vos que no heu superat el límit de dades mòbils del pla del vostre operador.
 
  2. Si vostè acaba de aumentar el saldo del seu dispositiu, reinicialitzeu el dispositiu i torneu a provar.
 
- 3. El senyal de la xarxa del seu operador pot ser feble en la seva localització actual."</string>
+ 3. El senyal de la xarxa del vostre operador pot ser feble en la seva ubicació actual."</string>
   <string name="network_operator_exception_summary">"No podia activa la targeta SIM. Assegureu-vos que la targeta SIM està inserida correctament i que s'ha activat el seu pla mòbil per la vostra companyia."</string>
   <string name="network_permission_exception_tips">"No podeu utilitzar dades mòbils per connectar a la xarxa"</string>
   <string name="network_roaming_exception_tips">"No podeu utilitzar dades mòbils mentre estigueu connectat en itinerància a la xarxa."</string>
