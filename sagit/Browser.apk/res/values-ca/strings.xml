@@ -296,7 +296,7 @@ Les pàgines que visiteu no apareixeran a l\'historial.»</string>
   les pestanyes obertes en altres dispositius es mostraran aquí"</string>
   <string name="empty_history_hint">L\'historial és buit</string>
   <string name="empty_snapshot_hint">Buit</string>
-  <string name="enable_geolocation_confirm_message">Si desactiveu els serveis de localització es veuran afectades les recomanacions que rebeu.</string>
+  <string name="enable_geolocation_confirm_message">Si desactiveu els serveis d\'ubicació es veuran afectades les recomanacions que rebeu.</string>
   <string name="enter_developer_mode">Entra al mode programador</string>
   <string name="enter_incongnito_mode">Entra al mode incògnit</string>
   <string name="error_console_eval_button_text">Avalua</string>
@@ -349,7 +349,7 @@ Les pàgines que visiteu no apareixeran a l\'historial.»</string>
   <string name="history">Historial</string>
   <string name="home_description">Inici</string>
   <string name="homepage_delete_card_menu">Elimina</string>
-  <string name="homepage_get_location">Obtén la localització</string>
+  <string name="homepage_get_location">Obtén la ubicació</string>
   <string name="homepage_get_location_failed">"No s'ha pogut obtenir la informació, escolliu una ciutat"</string>
   <string name="homepage_more_cards">Més serveis</string>
   <string name="homepage_more_sites">Més llocs web</string>
