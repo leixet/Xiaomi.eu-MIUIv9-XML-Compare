@@ -364,7 +364,7 @@
   <string name="get_backup_succeed">S\'ha completat la còpia de seguretat, %1$d elements en total, %2$d han quedat igual,%3$d són nous,</string>
   <string name="get_data_fail_tips">"No s'ha pogut obtenir dades, intenteu-ho de nou"</string>
   <string name="get_info_failed">"No s'ha pogut obtenir informació"</string>
-  <string name="get_location_fail_tip">"No s'ha pogut determinar la localització, seleccioneu una ciutat"</string>
+  <string name="get_location_fail_tip">"No s'ha pogut determinar la ubicació, seleccioneu una ciutat"</string>
   <string name="guid_one">· Connecta a la mateixa xarxa Wi-Fi que la del dispositiu de destinació</string>
   <string name="guid_three">"· Alguns controls podrien no estar disponibles si el vostre televisor o descodificador no és compatible amb Android"</string>
   <string name="guid_two">· Turn off router AP Isolation</string>
@@ -798,7 +798,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="press_to_continue_match">Premeu per continuar</string>
   <string name="press_to_match">Premeu per vincular</string>
   <string name="prev_remote">Control remot anterior</string>
-  <string name="privacy_content">Llegiu la &lt;a href=http://www.miui.com/res/doc/privacy/en.html&gt;Política de privacitat&lt;/a&gt; de Xiaomi i el &lt;a href=http://www.miui.com/res/doc/eula/en.html&gt;Contracte d\'usuari&lt;/a&gt; abans d\'utilitzar Control Mi. Cal tenir accés a internet i als serveis de localització perquè l\'aplicació funcioni amb normalitat.</string>
+  <string name="privacy_content">Llegiu la &lt;a href=http://www.miui.com/res/doc/privacy/en.html&gt;Política de privacitat&lt;/a&gt; de Xiaomi i el &lt;a href=http://www.miui.com/res/doc/eula/en.html&gt;Contracte d\'usuari&lt;/a&gt; abans d\'utilitzar Control Mi. Cal tenir accés a internet i als serveis d\'ubicació perquè l\'aplicació funcioni amb normalitat.</string>
   <string name="privacy_nohit">"No ho mostris més"</string>
   <string name="privacy_title">Termes i condicions</string>
   <string name="program_booking_book_filter_book_status">Estat de programació</string>
@@ -875,7 +875,7 @@ directament des de la vostra pantalla de bloqueig"</string>
   <string name="search_no_result">No s\'ha trobat res</string>
   <string name="search_video_app_hint">Cerca</string>
   <string name="select_all">Selecciona-ho tot</string>
-  <string name="select_area">Seleccioneu la localització</string>
+  <string name="select_area">Seleccioneu la ubicació</string>
   <string name="select_brand">Seleccioneu %s</string>
   <string name="select_controller">Seleccioneu comandament</string>
   <string name="select_done">Fet</string>
