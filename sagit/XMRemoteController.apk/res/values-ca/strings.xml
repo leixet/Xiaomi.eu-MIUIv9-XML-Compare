@@ -891,7 +891,7 @@ directament des de la vostra pantalla de bloqueig"</string>
   <string name="share_action_cancel">Cancel·la</string>
   <string name="share_action_confirm">Envia</string>
   <string name="share_address_desc">La vostra ubicació actual ajudarà a la gent del voltant a veure els vostres comandaments compartits</string>
-  <string name="share_address_hint">Entreu la vostra localització actual</string>
+  <string name="share_address_hint">Introduïu la vostra ubicació actual</string>
   <string name="share_address_title">Ubicació actual (opció recomanada)</string>
   <string name="share_app_category">"Categoria: "</string>
   <string name="share_app_downloads">"Baixades: "</string>
@@ -918,7 +918,7 @@ directament des de la vostra pantalla de bloqueig"</string>
   <string name="share_level_private_desc">Xarxa Wi-Fi: %1$s</string>
   <string name="share_level_private_error">No està connectat a Wi-Fi</string>
   <string name="share_level_public">Tota la gent del voltant</string>
-  <string name="share_level_public_error">"No s'ha pogut determinar la ubicació, comproveu la configuració de la localització i torneu-ho a provar"</string>
+  <string name="share_level_public_error">"No s'ha pogut determinar la ubicació, comproveu la configuració de la ubicació i torneu-ho a provar"</string>
   <string name="share_level_title">Qui pot veure el comandament?</string>
   <string name="share_media_actor">"Repartiment: "</string>
   <string name="share_media_area">"País: "</string>
