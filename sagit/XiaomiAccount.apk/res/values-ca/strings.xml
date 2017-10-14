@@ -402,7 +402,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="search_user_detail_desc">Informació personal</string>
   <string name="search_user_detail_path">Compte Mi/Informació personal,Configuració/Compte Mi/Informació personal</string>
   <string name="search_user_detail_top_key_words">Informació personal,Canvia la foto de perfil,Canvia el nom d\'usuari,Canvia el sobrenom,Canvia l\'aniversari,Canvia el gènere</string>
-  <string name="select_location_title">Seleccioneu la vostra localització</string>
+  <string name="select_location_title">Seleccioneu la vostra ubicació</string>
   <string name="send_email_activate_message">Correu de verificació enviat</string>
   <string name="service_error">Error del servei</string>
   <string name="sina_weibo">Sina WeiBo</string>
