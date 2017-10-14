@@ -727,7 +727,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="picker_title_specify_format">Selecciona %d fotos</string>
   <string name="picker_title_specify_format_one">Selecciona %d foto</string>
   <string name="picker_title_unlimit">Seleccioneu fotos</string>
-  <string name="places_album_empty_title">Les fotos es poden ordenar segons la localització</string>
+  <string name="places_album_empty_title">Les fotos es poden ordenar segons la ubicació</string>
   <string name="preparing_data">Un moment&#8230;</string>
   <string name="projection_checkbox_text">Recorda aquesta pantalla</string>
   <string name="projection_device_connection_failed">"No es pot connectar el projector"</string>
