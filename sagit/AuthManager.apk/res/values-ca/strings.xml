@@ -21,7 +21,7 @@
   <string name="HIPS_Perm_Call_Desc">números de telèfon de trucada directa</string>
   <string name="HIPS_Perm_Contact">Modifica i suprimeix els contactes</string>
   <string name="HIPS_Perm_Contact_Desc">modifica i suprimeix els vostres contactes</string>
-  <string name="HIPS_Perm_External_Storage">Accedir i canviar fitxers en l\'emmagatzematge intern</string>
+  <string name="HIPS_Perm_External_Storage">Accedeix i canvia fitxers a l\'emmagatzematge intern</string>
   <string name="HIPS_Perm_External_Storage_Desc">"afegeix i elimina fitxers en l'emmagatzematge intern del dispositiu"</string>
   <string name="HIPS_Perm_Location">Obtenir informació de la ubicació</string>
   <string name="HIPS_Perm_Location_Desc">obtenir la ubicació precisa (basada en el GPS i en la xarxa)</string>
