@@ -2666,7 +2666,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="paper_mode_customize_time_summary">planifica de mode de lectura com a temps personalitzat</string>
   <string name="paper_mode_customize_time_title">personalitza el temps</string>
   <string name="paper_mode_end_time_title">Hora de finalització</string>
-  <string name="paper_mode_get_location_dlg_msg">Per saber l\'hora de les albades i les postes de sol, cal permetre accés a la ubicació</string>
+  <string name="paper_mode_get_location_dlg_msg">És necessari l\'accés a la vostra ubicació per calcular l\'hora de les sortides i postes de sol</string>
   <string name="paper_mode_get_location_dlg_negative_btn_text">Cancel·la</string>
   <string name="paper_mode_get_location_dlg_positive_btn_text">Vés a la configuració</string>
   <string name="paper_mode_get_location_dlg_title">Estableix la ubicació</string>
