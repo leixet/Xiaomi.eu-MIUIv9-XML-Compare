@@ -1097,14 +1097,6 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Entre setmana</item>
     <item>Personalitzada</item>
   </string-array>
-  <string-array name="standard_configuration_version_description_primary">
-    <item>CPU</item>
-    <item>Bateria</item>
-    <item>Càmera</item>
-    <item>Pantalla</item>
-    <item>Resolució</item>
-    <item>Android</item>
-  </string-array>
   <string-array name="privacy_password_function_specfication_names">
     <item>Missatges</item>
     <item>Fotos</item>
