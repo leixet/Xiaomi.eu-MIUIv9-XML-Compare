@@ -237,8 +237,11 @@
   <string name="select_all">Selecciona-ho tot</string>
   <string name="select_item">Selecciona elements</string>
   <string name="send">Envia</string>
+  <string name="send_sms_for_sync_notice">És possible que es requereixi un missatge SMS sortint per activar aquest servei. El vostre operador li cobrarà per aquest missatge.</string>
   <string name="send_sms_for_sync_title">Avís d\'ús de dades</string>
   <string name="settingsDesc">configuració</string>
+  <string name="sim_changed_reactivate_int_notice">És possible que es requereixi un missatge SMS internacional sortint per reactivar aquest servei. El vostre operador li cobrarà per aquest missatge.</string>
+  <string name="sim_changed_reactivate_notice">És possible que es requereixi un missatge SMS sortint per reactivar aquest servei. El vostre operador li cobrarà per aquest missatge.</string>
   <string name="sim_in_airplane_mode">Desactiveu el mode avió.</string>
   <string name="sim_locked">La targeta SIM està bloquejada.</string>
   <string name="sim_not_ready">Targeta SIM en ús. Torneu-ho a provar més tard.</string>
