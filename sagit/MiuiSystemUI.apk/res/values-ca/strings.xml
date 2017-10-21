@@ -227,6 +227,8 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="demo_mode">Mode de demostració</string>
   <string name="description_direction_left">Lliscar a l\'esquerra per %s.</string>
   <string name="description_direction_up">Lliscar amunt per %s.</string>
+  <string name="description_image_button_answer">Resposta</string>
+  <string name="description_image_button_reject">Rebutja</string>
   <string name="description_target_search">Cercar</string>
   <string name="dev_settings_warning_message">Aquesta configuració només està prevista per a usos de desenvolupament. Pot fer que el dispositiu i les aplicacions s\'interrompin o tinguin un comportament inadequat.</string>
   <string name="dev_settings_warning_title">Voleu permetre la configuració de desenvolupament?</string>
