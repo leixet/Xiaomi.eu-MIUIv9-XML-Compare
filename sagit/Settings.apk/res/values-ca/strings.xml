@@ -2481,6 +2481,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="nfc_quick_toggle_summary">Permet l\'intercanvi de dades quan el telèfon toca un altre dispositiu</string>
   <string name="nfc_se_route_title">Posició d\'element segur</string>
   <string name="nfc_se_wallet_title">Portamonedes predeterminat</string>
+  <string name="no_account_found">Cap aplicació permet afegir comptes</string>
   <string name="no_application">Res</string>
   <string name="no_applications">Cap aplicació.</string>
   <string name="no_battery_summary">Cap ús de la bateria des de l\'última càrrega completa</string>
