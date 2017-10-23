@@ -68,6 +68,7 @@
   <string name="error_title">"No s'ha pogut sincronitzar"</string>
   <string name="error_unauthorized">La sincronització s\'ha desactivat a causa de massa intents d\'iniciar sessió.</string>
   <string name="evening">PM</string>
+  <string name="fmt_time_24hour">"H 'en punt'"</string>
   <string name="friday">Divendres</string>
   <string name="friday_short">dv.</string>
   <string name="friday_shortest">dv.</string>
@@ -107,6 +108,7 @@
   <string name="item_title_vel_conversion">Velocitat</string>
   <string name="item_title_volume_conversion">Volum</string>
   <string name="item_title_weight_conversion">Pes</string>
+  <string name="label">SDK de MIUI</string>
   <string name="leftParenDesc">parèntesi esquerre</string>
   <string name="lgDesc">logaritme</string>
   <string name="lnDesc">logaritme neperià</string>
@@ -229,6 +231,7 @@
   <string name="privacy_policy">Política de privadesa</string>
   <string name="rate_data_provider">Els tipus d\'interès són proporcionats per hexun.com</string>
   <string name="rightParenDesc">parèntesi dret</string>
+  <string name="sar">Informació de l\'exposició d\'RF</string>
   <string name="saturday">dissabte</string>
   <string name="saturday_short">ds.</string>
   <string name="saturday_shortest">ds.</string>
