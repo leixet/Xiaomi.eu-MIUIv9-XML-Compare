@@ -868,12 +868,15 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="main_alert_message_no_imsi">SIM no detectada</string>
   <string name="main_alert_message_open_traffic_ctrl">Li recomanem la restricció de l\'ús de dades</string>
   <string name="main_bill_remained">Saldo del telèfon</string>
+  <string name="main_button_mi_sim_close">Activa la SIM Mi</string>
+  <string name="main_button_mi_sim_open">Mostra els detalls</string>
   <string name="main_button_usage_adjust">Sincronitza l\'ús de dades mòbils</string>
   <string name="main_button_usage_adjust_manual">Estableix límit d\'ús de dades</string>
   <string name="main_button_usage_adjusting">Canviant&#8230;</string>
   <string name="main_button_usage_adjusting_bill">S\'està canviant&#8230;</string>
   <string name="main_button_usage_package_setting">Estableix límit d\'ús de dades</string>
   <string name="main_daily_package">Pla de dades diari</string>
+  <string name="main_indicator_title">A l\'espera de l\'activació</string>
   <string name="main_leisure_remained">Dades restants en horari vall</string>
   <string name="main_month_total_used">Usats aquest mes</string>
   <string name="main_month_used">Pla de dades</string>
