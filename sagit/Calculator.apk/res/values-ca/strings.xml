@@ -196,7 +196,7 @@
   <string name="mortgage_years_amount">Període de la hipoteca</string>
   <string name="mulDesc">multiplica</string>
   <string name="name">Nom</string>
-  <string name="network_confirm_content">"El convertidor de moneda i les calculadores d'impostos i d'hipoteca utilitzen la connexió de xarxa per funcionar correctament."</string>
+  <string name="network_confirm_content">El convertidor de moneda i les calculadores d\'impostos i d\'hipoteca utilitzen la connexió de xarxa per funcionar correctament.</string>
   <string name="network_confirm_title">Es requereixen permisos</string>
   <string name="nickname">Sobrenom</string>
   <string name="night">PM</string>
