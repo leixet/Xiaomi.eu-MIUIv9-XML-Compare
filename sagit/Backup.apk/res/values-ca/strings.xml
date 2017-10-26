@@ -49,6 +49,7 @@
   <string name="button_cancel">Cancel·la</string>
   <string name="button_continue">Continua</string>
   <string name="button_finish">Finalitza</string>
+  <string name="button_import">Importa</string>
   <string name="button_next">Següent</string>
   <string name="button_ok">D\'acord</string>
   <string name="button_return">Enrere</string>
@@ -57,6 +58,8 @@
   <string name="camera_summary">Configuració de la càmera (no inclou les fotos)</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_backup">Atura</string>
+  <string name="cancel_moving_dialog_message">Esteu segur que voleu aturar la importació?</string>
+  <string name="cancel_moving_dialog_title">Atura la importació</string>
   <string name="cancel_restore">Atura</string>
   <string name="click_to_view">Toqueu per veure-ho</string>
   <string name="cloud_app_name">Còpia de seguretat de Mi Cloud</string>
@@ -120,6 +123,9 @@
   <string name="guarded_mode_dialog_backup_message">"No es permeten les còpies de seguretat en mode de Convidat."</string>
   <string name="guarded_mode_dialog_title">"Mode de Convidat"</string>
   <string name="guarded_mode_dialog_transfer_message">"En mode de Convidat no es pot utilitzar Mi Mover."</string>
+  <string name="hsa_input_hint">Introduïu el codi de verificació</string>
+  <string name="hsa_send_again">Torna a enviar</string>
+  <string name="hsa_verify_shutdown">Desactiva</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Baixeu Mi Talk i inicieu la sessió.
 \u0009http://www.miliao.com
 
