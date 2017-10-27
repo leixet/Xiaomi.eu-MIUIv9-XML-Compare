@@ -169,9 +169,11 @@
   <string name="notif_backup_complete_title">S\'ha copiat correctament</string>
   <string name="notif_backup_content">Còpia de seguretat de les dades d\'usuari</string>
   <string name="notif_backup_title">Còpia de seguretat de les dades</string>
+  <string name="notif_icloud_saving_summary">S\'estan restaurant dades…</string>
   <string name="notif_restore_complete_title">Restauració completada</string>
   <string name="notif_restore_content">S\'estan restaurant les dades d\'usuari</string>
   <string name="notif_restore_title">Restauració de dades</string>
+  <string name="notif_trans_auto_reconnecting_content">Si cal, podeu cancel·lar la tasca actual.</string>
   <string name="notif_trans_receiving_completed">Dades rebudes correctament</string>
   <string name="notif_trans_receiving_failed">"No s'han pogut rebre les dades"</string>
   <string name="notif_trans_sending_completed">Dades enviades correctament</string>
