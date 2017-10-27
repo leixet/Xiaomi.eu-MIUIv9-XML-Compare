@@ -63,7 +63,7 @@
   <string name="cancel_restore">Atura</string>
   <string name="click_to_view">Toqueu per veure-ho</string>
   <string name="close_twice_auth_step_2">2. A la secció Seguretat, cliqueu a Edita</string>
-  <string name="close_twice_auth_step_3">3. Cliqueu per aturar l\'autorització dual / en dos passos. Torneu a clicar per confirmar-ho</string>
+  <string name="close_twice_auth_step_3">3. Cliqueu Desactiva l\'autorització dual / en dos passos. Torneu a clicar per confirmar-ho</string>
   <string name="close_twice_auth_steps">Per tancar l\'autorització de factor doble, seguiu els passos:</string>
   <string name="cloud_app_name">Còpia de seguretat de Mi Cloud</string>
   <string name="cloud_backup_hint">Inicieu la sessió per accedir a les còpies de seguretat</string>
@@ -79,6 +79,7 @@
   <string name="cloud_search">S\'està cercant&#8230;</string>
   <string name="compute_backup_info">S\'està obtenint informació de la còpia de seguretat&#8230;</string>
   <string name="compute_delete_contact_info">S\'està obtenint la informació&#8230;</string>
+  <string name="connect_wifi">Connecta a la Wi-Fi</string>
   <string name="contact_title">Contactes</string>
   <string name="current_account">Hola %s</string>
   <string name="current_pad_location">Tauleta</string>
