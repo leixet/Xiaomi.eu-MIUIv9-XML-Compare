@@ -62,6 +62,7 @@
   <string name="cancel_moving_dialog_title">Atura la importació</string>
   <string name="cancel_restore">Atura</string>
   <string name="click_to_view">Toqueu per veure-ho</string>
+  <string name="close_twice_auth_step_1">1. Inicieu la sessió amb l\'identificador Apple a la pàgina del compte</string>
   <string name="close_twice_auth_step_2">2. A la secció Seguretat, cliqueu a Edita</string>
   <string name="close_twice_auth_step_3">3. Cliqueu Desactiva l\'autorització dual / en dos passos. Torneu a clicar per confirmar-ho</string>
   <string name="close_twice_auth_steps">Per tancar l\'autorització de factor doble, seguiu els passos:</string>
@@ -149,6 +150,9 @@
   <string name="local_select_sysdata">Sistema</string>
   <string name="local_select_userapp">Aplicacions</string>
   <string name="local_select_video">Vídeos</string>
+  <string name="login">Inicia una sessió</string>
+  <string name="login_failed">No s\'ha pogut iniciar la sessió. Torneu-ho a intentar.</string>
+  <string name="logining">iniciant la sessió…</string>
   <string name="miliao_account_guide">Utilitzeu el Compte Mi per iniciar sessió al Mi Cloud, a la botiga de temes MIUI i als serveis Mi, des d\'arreu.</string>
   <string name="miliao_account_login">Inicia la sessió amb Mi Talk</string>
   <string name="mms_title">Missatgeria multimèdia</string>
