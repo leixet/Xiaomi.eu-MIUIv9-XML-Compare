@@ -145,13 +145,36 @@ Després de crear una nova pregunta de seguretat i confirmar la vostra data de n
   <string name="hsa_tip_message">"1.Un missatge que conté el codi de verificació s\'enviarà al telèfon enllaçat a iCloud
 2.Desactiveu l\'autenticació de dos factors si no es verifica."</string>
   <string name="hsa_tip_message_shutdown_hsa">com desactivar l\'autenticació de dos factors</string>
+  <string name="hsa_tip_message_with_device">"1.Un missatge que conté el codi de verificació s\'ha enviat al telèfon %s enllaçat a iCloud
+2. Desactiveu l\'autenticació de dos factors si no es verifica."</string>
+  <string name="hsa_tip_title">Consells:</string>
+  <string name="hsa_title">Autenticació de dos factors</string>
+  <string name="hsa_verify_failed">L\'autenticació de dos factors ha fallat</string>
+  <string name="hsa_verify_failed_message">L\'autenticació de dos factors ha fallat. Podeu tornar-ho a intentar o desactiveu l\'autenticació de dos factors.</string>
+  <string name="hsa_verify_retry">Tornar a intentar</string>
   <string name="hsa_verify_shutdown">Desactiva</string>
+  <string name="icloud_backup_tip">Accediu a l\'ID d\'iCloud del dispositiu Apple anterior</string>
+  <string name="icloud_how_to_backup_tip_steps">"1. Accediu a la configuració del dispositiu iOS i, a continuació, seleccioneu iCloud.
+2. Activeu els contactes.
+3. Seleccioneu fotos i activeu la biblioteca de fotos d\'iCloud."</string>
+  <string name="icloud_how_to_backup_tip_summary">Per importar les dades d\'iOS, heu de carregar les dades en dispositius antics a iCloud.</string>
+  <string name="icloud_how_to_backup_tip_title">Consells:</string>
+  <string name="icloud_login_title">Inicia sessió a l\'iCloud</string>
+  <string name="icloud_need_sync">"Per importar dades d\'iOS
+necessiteu carregar les dades en dispositius antics a l\'iCloud"</string>
+  <string name="icloud_need_wifi_message">La Wi-Fi no està connectada actualment. Per importar dades d\'iCloud, cal utilitzar Wi-Fi per iniciar la sessió i baixar-ne les dades.</string>
+  <string name="icloud_need_wifi_title">Es requereix d\'una connexió Wi-Fi</string>
+  <string name="import_again">Importa de nou</string>
+  <string name="import_data_from_icloud">Importa les dades des de l\'iCloud</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Baixeu Mi Talk i inicieu la sessió.
 \u0009http://www.miliao.com
 
 2.\u0009Aneu a la configuració de Mi Talk i seleccioneu \"Còpia de seguretat dels contactes al Compte Mi\""</string>
   <string name="import_from_xiaomi_account_hint2">Si ja teniu una còpia de seguretat, premeu Següent.</string>
   <string name="import_from_xiaomi_account_hint_title">Utilitzeu Mi Talk per fer còpies de seguretat dels contactes d\'altres dispositius.</string>
+  <string name="import_tip_summary">A causa de la compatibilitat, els contactes i les fotos només són compatibles. Heu de carregar les dades en dispositius antics primer a l\'iCloud.</string>
+  <string name="import_tip_title">Consells:</string>
+  <string name="loading_data">S\'estan carregant les dades</string>
   <string name="local_app_name">Còpia de seguretat</string>
   <string name="local_backup_window_title">Còpies de seguretat locals</string>
   <string name="local_home_title">Còpia de seguretat local</string>
@@ -175,6 +198,7 @@ Després de crear una nova pregunta de seguretat i confirmar la vostra data de n
   <string name="multi_user_mode_backup_message">"Desactiveu el mode Multiusuari per poder utilitzar la còpia de seguretat."</string>
   <string name="multi_user_mode_dialog_message">"Desactiveu el mode Multiusuari per poder utilitzar Mi Mover."</string>
   <string name="multi_user_mode_dialog_title">"Esteu utilitzant el mode Multiusuari"</string>
+  <string name="name_password_not_consistent">El nom d\'usuari o la contrasenya són incorrectes</string>
   <string name="never">Mai</string>
   <string name="new_backup">Còpia de seguretat</string>
   <string name="no_encrypt_password">Sense contrasenya</string>
@@ -184,6 +208,9 @@ Després de crear una nova pregunta de seguretat i confirmar la vostra data de n
   <string name="notif_backup_complete_title">S\'ha copiat correctament</string>
   <string name="notif_backup_content">Còpia de seguretat de les dades d\'usuari</string>
   <string name="notif_backup_title">Còpia de seguretat de les dades</string>
+  <string name="notif_icloud_canceled_summary">Cancel·lat</string>
+  <string name="notif_icloud_canceling_summary">S\'està cancel·lant…</string>
+  <string name="notif_icloud_import_title">Importa les dades des de l\'iCloud</string>
   <string name="notif_icloud_saving_summary">S\'estan restaurant dades…</string>
   <string name="notif_restore_complete_title">Restauració completada</string>
   <string name="notif_restore_content">S\'estan restaurant les dades d\'usuari</string>
