@@ -264,6 +264,9 @@ necessiteu carregar les dades en dispositius antics a l\'iCloud"</string>
 Les dades restants necessiten ser importades de nou"</string>
   <string name="saving_data">"S\'estan important les dades de l\'iCloud
 No desactiveu ni canvieu la Wi-Fi"</string>
+  <string name="saving_data_no_time">S\'estan restaurant les dades</string>
+  <string name="saving_data_space_low">"No hi ha prou espai
+Allibereu %s com a mínim"</string>
   <string name="sc_bad_request">Sol·licitud no vàlida</string>
   <string name="sc_internal_server_error">Error intern del servidor</string>
   <string name="sc_network_unavailable">Comproveu la connexió i torneu-ho a provar.</string>
@@ -280,6 +283,12 @@ No desactiveu ni canvieu la Wi-Fi"</string>
   <string name="see_backup_files_on_router">Mostra les còpies de seguretat del Mi Router %s</string>
   <string name="select_all">Selecciona-ho tot</string>
   <string name="select_backup_item">Selecciona elements</string>
+  <string name="select_empty">Seleccioneu els elements a importar</string>
+  <string name="select_item_contacts">Contactes</string>
+  <string name="select_item_empty_summary">Sense contingut</string>
+  <string name="select_item_photos">Fotos</string>
+  <string name="select_item_summary_loading">S\'estan carregant les dades…</string>
+  <string name="select_item_summary_wait">Espereu a que es carreguin les dades</string>
   <string name="select_storage_location">Selecciona una ubicació per a la còpia de seguretat</string>
   <string name="service_stoped">El servei s\'ha aturat</string>
   <string name="settings_summary">Configuració del telèfon i missatgeria</string>
@@ -331,6 +340,7 @@ No desactiveu ni canvieu la Wi-Fi"</string>
   <string name="total_size">, %s</string>
   <string name="trans_backingup">S\'està copiant&#8230;</string>
   <string name="trans_backingup_no_items">S\'està sincronitzant&#8230;</string>
+  <string name="trans_button_cancel">Cancel·la</string>
   <string name="trans_calculating">S\'està calculant&#8230;</string>
   <string name="trans_calculating_app_sd_size">S\'està calculant la mida: %s</string>
   <string name="trans_calculating_base_size">S\'està calculant la mida de les dades</string>
@@ -346,6 +356,7 @@ No desactiveu ni canvieu la Wi-Fi"</string>
   <string name="trans_detail_category_files">Fitxers</string>
   <string name="trans_detail_category_sysdata">Dades del sistema</string>
   <string name="trans_detail_category_userdata">Aplicacions</string>
+  <string name="trans_device_auto_reconnecting">Dispositiu desconnectat. S\'està tornant a connectar automàticament…</string>
   <string name="trans_device_disconnected">S\'ha desconnectat el dispositiu</string>
   <string name="trans_device_wait_for_reconnecting">Dispositiu desconnectat. Torneu-lo a connectar.</string>
   <string name="trans_generate_qr_code_failed">"No s'ha pogut crear el codi QR"</string>
