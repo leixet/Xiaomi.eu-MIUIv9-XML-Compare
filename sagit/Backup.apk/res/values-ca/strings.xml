@@ -62,10 +62,13 @@
   <string name="cancel_moving_dialog_title">Atura la importació</string>
   <string name="cancel_restore">Atura</string>
   <string name="click_to_view">Toqueu per veure-ho</string>
+  <string name="close_twice_auth_note">"Nota:
+Després de crear una nova pregunta de seguretat i confirmar la vostra data de naixement, la funció d\'autenticació dual es desactivarà. Si no veieu l\'opció de desactivar l\'autenticació dual a la pàgina del compte d\'ID d\'Apple, no podreu desactivar-la."</string>
   <string name="close_twice_auth_step_1">1. Inicieu la sessió amb l\'identificador Apple a la pàgina del compte</string>
   <string name="close_twice_auth_step_2">2. A la secció Seguretat, cliqueu a Edita</string>
   <string name="close_twice_auth_step_3">3. Cliqueu Desactiva l\'autorització dual / en dos passos. Torneu a clicar per confirmar-ho</string>
   <string name="close_twice_auth_steps">Per tancar l\'autorització de factor doble, seguiu els passos:</string>
+  <string name="close_twice_auth_tutor">Tanca l\'autorització de dos factors d\'ID d\'Apple</string>
   <string name="cloud_app_name">Còpia de seguretat de Mi Cloud</string>
   <string name="cloud_backup_hint">Inicieu la sessió per accedir a les còpies de seguretat</string>
   <string name="cloud_backup_login">Inicieu la sessió al compte Mi</string>
@@ -78,9 +81,11 @@
   <string name="cloud_restore_title">Restauració de la còpia de seguretat</string>
   <string name="cloud_restore_window_title">Restauració del Mi Cloud</string>
   <string name="cloud_search">S\'està cercant&#8230;</string>
+  <string name="comma_seperator">", "</string>
   <string name="compute_backup_info">S\'està obtenint informació de la còpia de seguretat&#8230;</string>
   <string name="compute_delete_contact_info">S\'està obtenint la informació&#8230;</string>
   <string name="connect_wifi">Connecta a la Wi-Fi</string>
+  <string name="connect_wifi_tip">S\'ha desconnectat la xarxa. La importació de dades de l\'iCloud necessita Wi-Fi.</string>
   <string name="contact_title">Contactes</string>
   <string name="current_account">Hola %s</string>
   <string name="current_pad_location">Tauleta</string>
@@ -96,8 +101,10 @@
   <string name="delete_failed_backup_confirm">Aquesta còpia de seguretat conté errors.</string>
   <string name="deselect_all">Desselecciona-ho tot</string>
   <string name="dir_date_format">ddMMyyyy_HHmmss</string>
+  <string name="disable_encrypt_description">No ho xifris</string>
   <string name="disable_encrypt_title">Desactivació del xifratge</string>
   <string name="enable_encrypt">Activa el xifratge</string>
+  <string name="enable_encrypt_description">Xifra</string>
   <string name="enable_encrypt_fail">El xifratge ha fallat</string>
   <string name="enable_encrypt_indicator">Toqueu per xifrar-ho</string>
   <string name="enable_encrypt_ok">D\'acord</string>
@@ -128,8 +135,16 @@
   <string name="guarded_mode_dialog_backup_message">"No es permeten les còpies de seguretat en mode de Convidat."</string>
   <string name="guarded_mode_dialog_title">"Mode de Convidat"</string>
   <string name="guarded_mode_dialog_transfer_message">"En mode de Convidat no es pot utilitzar Mi Mover."</string>
+  <string name="hsa_code_null">El codi de verificació no pot estar buit</string>
   <string name="hsa_input_hint">Introduïu el codi de verificació</string>
+  <string name="hsa_input_tip">L\'ID d\'iCloud permet l\'autenticació de dos factors. Introduïu el codi de verificació.</string>
   <string name="hsa_send_again">Torna a enviar</string>
+  <string name="hsa_send_again_countdown">Torna-ho a enviar (%d s)</string>
+  <string name="hsa_send_failed">No s\'ha pogut enviar el codi de verificació. Torneu-ho a intentar més tard.</string>
+  <string name="hsa_sending">S\'està enviant…</string>
+  <string name="hsa_tip_message">"1.Un missatge que conté el codi de verificació s\'enviarà al telèfon enllaçat a iCloud
+2.Desactiveu l\'autenticació de dos factors si no es verifica."</string>
+  <string name="hsa_tip_message_shutdown_hsa">com desactivar l\'autenticació de dos factors</string>
   <string name="hsa_verify_shutdown">Desactiva</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009Baixeu Mi Talk i inicieu la sessió.
 \u0009http://www.miliao.com
