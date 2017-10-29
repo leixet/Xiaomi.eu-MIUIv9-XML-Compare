@@ -359,12 +359,16 @@ Allibereu %s com a mínim"</string>
   <string name="trans_device_auto_reconnecting">Dispositiu desconnectat. S\'està tornant a connectar automàticament…</string>
   <string name="trans_device_disconnected">S\'ha desconnectat el dispositiu</string>
   <string name="trans_device_wait_for_reconnecting">Dispositiu desconnectat. Torneu-lo a connectar.</string>
+  <string name="trans_disconnected_tips_message">El dispositiu remot està desconnectat. Torneu-lo a connectar a mà. Podeu cancel·lar la tasca actual si és necessari.</string>
+  <string name="trans_disconnected_tips_title">El dispositiu remot està desconnectat</string>
   <string name="trans_generate_qr_code_failed">"No s'ha pogut crear el codi QR"</string>
+  <string name="trans_intro_desc_1">"Al dispositiu Xiaomi, connecteu-vos per Wi-Fi. Toqueu «Sóc el destinatari» i, a continuació, seleccioneu «Dispositiu Apple». Inicieu sessió a l'iCloud i importeu-ne les dades."</string>
   <string name="trans_intro_desc_3">El Mi Mover utilitza Wi-Fi per transferir fitxers. Per això, no es pot connectar a Internet mitjançant Wi-Fi en qualsevol dispositiu durant una transferència. Encara podeu utilitzar dades mòbils. Tanmateix, alguns dispositius més nous (per exemple, Mi 6) encara podrien connectar-se a Internet mitjançant Wi-Fi durant les transferències.</string>
   <string name="trans_intro_desc_4">"L'espai d'emmagatzematge en dispositius antics s'utilitza per crear paquets de transferència. Assegureu-vos que teniu almenys 500 Mb: 1 Gb d'emmagatzematge disponible al vostre telèfon anterior abans d'iniciar una transferència."</string>
   <string name="trans_intro_desc_5">Hi ha diverses raons per les quals això pot passar: problemes de compatibilitat amb la versió de l\'aplicació i del sistema, problemes de xarxa, problemes de compatibilitat específics d\'un dispositiu en particular, etc.</string>
   <string name="trans_intro_desc_6">Alguns perfils d\'aplicacions (banca electrònica, finances, etc.) estan associats a un dispositiu específic per raons de seguretat. Proveu de netejar les dades de l\'aplicació o torneu a instal·lar l\'aplicació en un dispositiu nou.</string>
   <string name="trans_intro_desc_7">Les dades de l\'aplicació WeChat i l\'historial de xat poden no ser transferits completament amb Mi Mover. Aneu a la configuració de WeChat i tanqueu el vostre compte per obtenir més possibilitats d\'obtenir una transferència amb èxit.</string>
+  <string name="trans_intro_desc_8">"Les dades de l'aplicació WeChat i l'historial de xat poden no ser transferits completament amb Mi Mover. Aneu a la configuració de WeChat i tanqueu el vostre compte per obtenir més possibilitats d'obtenir una transferència amb èxit."</string>
   <string name="trans_intro_desc_account">Haureu d\'iniciar la sessió als vostres comptes (p. ex., Compte Mi, Exchange, Google, etc.) en un nou dispositiu per raons de seguretat.</string>
   <string name="trans_intro_desc_multiapp">"El Mi Mover no transfereix dades d'aplicacions duals per evitar conflictes entre fitxers."</string>
   <string name="trans_intro_desc_multiuser">"El Mi Mover no pot accedir als elements del segon espai. Moveu els elements al primer espai i inicieu el Mi Mover allà."</string>
@@ -379,6 +383,7 @@ Allibereu %s com a mínim"</string>
   <string name="trans_intro_question_6">"6. Per què no s'inicien algunes aplicacions en un dispositiu nou?"</string>
   <string name="trans_intro_question_7">"7. Per què no s'ha transferit totalment l'historial de WeChat?"</string>
   <string name="trans_intro_question_8">"8. Quins elements no es poden transferir?"</string>
+  <string name="trans_intro_question_9">"9. Quins elements no es poden transferir?"</string>
   <string name="trans_intro_title">PMF</string>
   <string name="trans_intro_title_account">Comptes i contrasenyes:</string>
   <string name="trans_intro_title_multiapp">Dades d\'aplicacions duals:</string>
@@ -455,7 +460,11 @@ S\'està esperant la transferència&#8230;"</string>
   <string name="trans_waiting_ensurance">"Comproveu que el dispositiu antic està engegat
 i s\'ha activat Mi Mover"</string>
   <string name="trans_waiting_for_sender">S\'està esperant al dispositiu antic per connectar&#8230;</string>
+  <string name="trans_wlan_tips_message">"No desactiveu ni canvieu la Wi-Fi durant la transferència de dades. En cas contrari, el gestor pot fallar."</string>
+  <string name="trans_wlan_tips_title">"No desactiveu ni canvieu la Wi-Fi"</string>
   <string name="unknown_hint">Desconeguda</string>
+  <string name="user_name">ID d\'Apple o correu</string>
+  <string name="user_name_null">El nom d\'usuari no pot estar buit</string>
   <string name="user_notice_declaration_ignore">"No ho tornis a mostrar"</string>
   <string name="user_notice_message">Per funcionar amb normalitat, algunes característiques requereixen connexió a Internet.</string>
   <string name="user_notice_title">Atenció!</string>
