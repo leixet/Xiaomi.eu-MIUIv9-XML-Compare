@@ -137,7 +137,7 @@ Després de crear una nova pregunta de seguretat i confirmar la vostra data de n
   <string name="guarded_mode_dialog_transfer_message">"En mode de Convidat no es pot utilitzar Mi Mover."</string>
   <string name="hsa_code_null">El codi de verificació no pot estar buit</string>
   <string name="hsa_input_hint">Introduïu el codi de verificació</string>
-  <string name="hsa_input_tip">L\'ID d\'iCloud permet l\'autenticació de dos factors. Introduïu el codi de verificació.</string>
+  <string name="hsa_input_tip">El vostre ID d\'iCloud permet l\'autenticació de dos factors. Introduïu el codi de verificació.</string>
   <string name="hsa_send_again">Torna a enviar</string>
   <string name="hsa_send_again_countdown">Torna-ho a enviar (%d s)</string>
   <string name="hsa_send_failed">No s\'ha pogut enviar el codi de verificació. Torneu-ho a intentar més tard.</string>
