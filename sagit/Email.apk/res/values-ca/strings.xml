@@ -977,6 +977,8 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="str_select_all">Selecciona-ho tot</string>
   <string name="str_select_none">Anul·la la selecció</string>
   <string name="subject_hint">Assumpte</string>
+  <string name="sync_contacts_fail_per_title">La sincronització de contactes ha fallat</string>
+  <string name="sync_contacts_fail_permission">La sincronització de contactes ha fallat, l\'accés als contactes del mòbil no està activa, entreu a la configuració del mòbil, gestió de permisos</string>
   <string name="sync_contacts_req_per_ignored">El contacte del telèfon no està obert i no es poden sincronitzar els contactes</string>
   <string name="sync_error">"No s'ha pogut sincronitzar."</string>
   <string name="sync_error_message">"El dispositiu no té prou espai d'emmagatzematge per sincronitzar."</string>
