@@ -14,8 +14,10 @@
   <string name="ac_enter_applock">Entra al bloquejador d\'aplicacions</string>
   <string name="ac_firstUseApplock_subTitle">Utilitzeu el bloquejador d\'aplicacions per protegir la seva privacitat</string>
   <string name="ac_firstUseApplock_title">Sol·licitar contrasenya per obrir les aplicacions seleccionades</string>
+  <string name="ac_mask_all_apps">Amaga per a totes les aplicacions</string>
   <string name="ac_summaryOff">Desactivat, no es requereix cap contrasenya per obrir aplicacions</string>
   <string name="ac_summaryOn">Activat, es requereix una clau per obrir aplicacions</string>
+  <string name="ac_unmask_all_apps">Mostra-ho per a totes les aplicacions</string>
   <string name="access_control_app_is_launching">L\'aplicació s\'està iniciant</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Es requereix la contrasenya per obrir aplicacions</string>
   <string name="access_control_fingerprint_not_identified_msg">"No s'ha pogut llegir l'empremta."</string>
