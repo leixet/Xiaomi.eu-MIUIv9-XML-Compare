@@ -39,5 +39,18 @@
   <string name="calc_currency">Tipus de canvi</string>
   <string name="calc_name">Científica</string>
   <string name="calc_parent">Calculadora</string>
+  <string name="card_bookall_flight">Bitllets d\'avió</string>
   <string name="card_bookall_hotel">Reserves d\'hotel</string>
+  <string name="card_bookall_movie">Entrades per al cinema</string>
+  <string name="card_bookall_train">Bitllets de tren</string>
+  <string name="card_bookall_train_start">Sortida</string>
+  <string name="card_trip_arrive">Arribada</string>
+  <string name="card_trip_dep">Sortida</string>
+  <string name="check_network">Comproveu la configuració de xarxa</string>
+  <string name="choose_city">Seleccioneu la ciutat</string>
+  <string name="choose_upload">Seleccioneu els fitxers a pujar</string>
+  <string name="city_name_spell">Introduïu la ciutat</string>
+  <string name="cleanup_garbage">Netejador</string>
+  <string name="cleanup_memory">Neteja la memòria cau</string>
+  <string name="cleanup_power">Neteja intensiva</string>
 </resources>
