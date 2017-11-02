@@ -23,4 +23,7 @@
   <string name="cleanup_memory">Neteja la memòria cau</string>
   <string name="cleanup_power">Neteja intensiva</string>
   <string name="corpus_description_apps">Aplicacions instal·lades</string>
+  <string name="corpus_hint_apps">Cerca aplicacions</string>
+  <string name="cta_negative">Tanca</string>
+  <string name="cta_positive">Detalls</string>
 </resources>
