@@ -27,4 +27,9 @@
   <string name="alipay_sdk_minute_refresh">Actualitza-ho cada minut</string>
   <string name="alipay_sdk_payed_desc">Preu original: %1$s CNY | %2$s CNY d\'estalvi</string>
   <string name="alipay_sdk_payed_desc_osfress">%1$s CNY (%2$s)</string>
+  <string name="alipay_sdk_payed_finished">S\'ha pagat correctament</string>
+  <string name="alipay_sdk_payed_rmb">CNY</string>
+  <string name="alipay_sdk_payed_show_paycode">Mostra el codi</string>
+  <string name="alipay_sdk_payed_success">S\'ha pagat correctament</string>
+  <string name="alipay_sdk_tiemout">Pagament directe (no cal cap aplicació)</string>
 </resources>
