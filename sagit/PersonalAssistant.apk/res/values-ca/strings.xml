@@ -32,4 +32,12 @@
   <string name="alipay_sdk_payed_show_paycode">Mostra el codi</string>
   <string name="alipay_sdk_payed_success">S\'ha pagat correctament</string>
   <string name="alipay_sdk_tiemout">Pagament directe (no cal cap aplicació)</string>
+  <string name="assistant_place">Identifica llocs habituals</string>
+  <string name="assistant_summary">Obteniu suggeriments útils tot just quan els necessiteu</string>
+  <string name="ball_dialog_confirm">Instal·la</string>
+  <string name="ball_dialog_tip">No tornis a mostrar-ho</string>
+  <string name="calc_currency">Tipus de canvi</string>
+  <string name="calc_name">Científica</string>
+  <string name="calc_parent">Calculadora</string>
+  <string name="card_bookall_hotel">Reserves d\'hotel</string>
 </resources>
