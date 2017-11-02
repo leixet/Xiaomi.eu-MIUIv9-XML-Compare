@@ -13,4 +13,18 @@
   <string name="accordingto_position">Reconeix ubicacions freqüents amb el GPS</string>
   <string name="account_address">Adreça</string>
   <string name="add_stock">Afegeix</string>
+  <string name="address_name_spell">Introduïu adreça</string>
+  <string name="agenda">Recordatoris</string>
+  <string name="agenda_open">Activa els recordatoris</string>
+  <string name="agenda_setting_brief">Esdeveniments, recordatoris d\'aniversari i altres fets</string>
+  <string name="agenda_setting_brief_detail">Mostra actes previstos i recordatoris d\'aniversari.</string>
+  <string name="agenda_settings_account">Gestiona els comptes del calendari</string>
+  <string name="agenda_settings_birthday">Mostra els recordatoris d\'aniversari</string>
+  <string name="agenda_settings_credit">Mostra els rebuts de la targeta de crèdit</string>
+  <string name="agenda_settings_elecbill">Mostra les factures d\'electricitat i gas</string>
+  <string name="agenda_settings_loan">Mostra informació del pagament de préstecs</string>
+  <string name="alipay_scan">Escàner</string>
+  <string name="alipay_sdk_minute_refresh">Actualitza-ho cada minut</string>
+  <string name="alipay_sdk_payed_desc">Preu original: %1$s CNY | %2$s CNY d\'estalvi</string>
+  <string name="alipay_sdk_payed_desc_osfress">%1$s CNY (%2$s)</string>
 </resources>
