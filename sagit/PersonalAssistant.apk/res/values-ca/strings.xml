@@ -87,4 +87,17 @@
   <string name="favorite_important">Importants</string>
   <string name="favorite_label">Preferits</string>
   <string name="favorite_main">Historial</string>
+  <string name="favorite_mark_important">S\'ha marcat com a important</string>
+  <string name="flow_open">Mostra targeta de dades mòbils</string>
+  <string name="flow_setting_brief">Visualitzeu la informació de dades mòbils (Afegiu el pla de dades a Seguretat &gt; Ús de dades).</string>
+  <string name="focus">Segueix l\'estat</string>
+  <string name="focus_stocks">Les meves empreses</string>
+  <string name="launch_noapp_dialog_redownload">Torna-ho a baixar</string>
+  <string name="launch_noapp_dialog_replace">Substitueix</string>
+  <string name="launch_noapp_dialog_title">L\'aplicació s\'ha suprimit</string>
+  <string name="launch_order_change">Canvia l\'ordre</string>
+  <string name="launch_order_finish">Fet</string>
+  <string name="launch_setting_alipay_login">Inicia la sessió</string>
+  <string name="launch_setting_alipay_logout">Tanca la sessió</string>
+  <string name="launch_setting_alipay_logout_posi">Tanca la sessió</string>
 </resources>
