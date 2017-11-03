@@ -32,6 +32,9 @@
   <string name="alipay_sdk_payed_show_paycode">Mostra el codi</string>
   <string name="alipay_sdk_payed_success">S\'ha pagat correctament</string>
   <string name="alipay_sdk_tiemout">Pagament directe (no cal cap aplicació)</string>
+  <string name="app_label">Targeta ràpida</string>
+  <string name="apps">Suggeriments d\'aplicacions</string>
+  <string name="apps_label">Aplicacions</string>
   <string name="assistant_place">Identifica llocs habituals</string>
   <string name="assistant_summary">Obteniu suggeriments útils tot just quan els necessiteu</string>
   <string name="ball_dialog_confirm">Instal·la</string>
