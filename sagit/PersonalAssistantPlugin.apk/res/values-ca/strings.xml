@@ -97,4 +97,22 @@
   <string name="didi_close">Tanca</string>
   <string name="didi_input">Selecciona</string>
   <string name="didi_price">Tarifa</string>
+  <string name="didi_price_unit">EUR</string>
+  <string name="didi_trip">Taxi</string>
+  <string name="empty_card_btn">Obre l\'aplicació</string>
+  <string name="empty_card_tip">"Sembla que no heu iniciat sessió o encara no heu configurat aquesta targeta."</string>
+  <string name="empty_card_title">Sense dades</string>
+  <string name="empty_duokan_card_btn">Visualitza llibres</string>
+  <string name="empty_duokan_card_tip">"Sembla que no esteu llegint"</string>
+  <string name="empty_duokan_card_title">Sense dades</string>
+  <string name="empty_express_btn">Tots els paquets</string>
+  <string name="empty_express_btn2">Afegeix manualment</string>
+  <string name="empty_express_tip">No hi ha dades de lliurament exprés</string>
+  <string name="empty_fav_card_btn">Tots els preferits</string>
+  <string name="empty_fav_card_tip">Encara no teniu cap preferit</string>
+  <string name="empty_health_card_btn">Enllaça la Mi Band</string>
+  <string name="empty_health_card_btn_get">Baixa el Mi Fit</string>
+  <string name="empty_health_card_btn_login">Inicia sessió</string>
+  <string name="empty_health_card_login_tip">Inicieu sessió al Mi Fit i enllçeu la Mi Band.</string>
+  <string name="empty_health_card_login_tip_vip">Inicieu sessió al Mi Fit i activeu el comptador de passos.</string>
 </resources>
