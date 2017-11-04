@@ -115,4 +115,13 @@
   <string name="empty_health_card_btn_login">Inicia sessió</string>
   <string name="empty_health_card_login_tip">Inicieu sessió al Mi Fit i enllçeu la Mi Band.</string>
   <string name="empty_health_card_login_tip_vip">Inicieu sessió al Mi Fit i activeu el comptador de passos.</string>
+  <string name="empty_health_card_tip">Instal·leu el Mi Fit i enllaçeu la Mi Band.</string>
+  <string name="empty_health_card_tip_vip">Instal·leu el Mi Fit i activeu el comptador de passos.</string>
+  <string name="empty_recharge_card_btn">Vés a la configuració</string>
+  <string name="empty_recharge_card_tip">"Sembla que la targeta SIM no està instal·lada o no heu definit el pla de dades"</string>
+  <string name="empty_recharge_card_title">Sense dades</string>
+  <string name="enter_address">Introduïu l\'adreça</string>
+  <string name="express_booking_txt">Sol·licita una entrega urgent</string>
+  <string name="express_code_txt">Codi:</string>
+  <string name="express_complete">Acceptat</string>
 </resources>
