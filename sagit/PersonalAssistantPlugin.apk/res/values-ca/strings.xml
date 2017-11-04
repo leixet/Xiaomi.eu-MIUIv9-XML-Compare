@@ -124,4 +124,5 @@
   <string name="express_booking_txt">Sol·licita una entrega urgent</string>
   <string name="express_code_txt">Codi:</string>
   <string name="express_complete">Acceptat</string>
+  <string name="express_delivery">Lliurant-se</string>
 </resources>
