@@ -65,6 +65,8 @@
   <string name="close_twice_auth_btn">Prop de l\'autenticació de dos factors</string>
   <string name="close_twice_auth_note">"Nota:
 Després de crear una nova pregunta de seguretat i confirmar la vostra data de naixement, la funció d\'autenticació dual es desactivarà. Si no veieu l\'opció de desactivar l\'autenticació dual a la pàgina del compte d\'ID d\'Apple, no podreu desactivar-la."</string>
+  <string name="close_twice_auth_operation">"URL:
+https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="close_twice_auth_step_1">1. Inicieu la sessió amb l\'identificador Apple a la pàgina del compte</string>
   <string name="close_twice_auth_step_2">2. A la secció Seguretat, cliqueu a Edita</string>
   <string name="close_twice_auth_step_3">3. Cliqueu Desactiva l\'autorització dual / en dos passos. Torneu a clicar per confirmar-ho</string>
