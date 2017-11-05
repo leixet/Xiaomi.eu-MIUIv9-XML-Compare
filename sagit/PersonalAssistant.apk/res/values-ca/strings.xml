@@ -217,7 +217,7 @@
   <string name="empty_duokan_card_title">Sense dades</string>
   <string name="empty_express_btn">Tots els paquets</string>
   <string name="empty_express_btn2">Afegeix manualment</string>
-  <string name="empty_express_tip">No hi ha dades de lliurament exprés</string>
+  <string name="empty_express_tip">No hi ha dades de lliurament urgent</string>
   <string name="empty_fav_card_btn">Tots els preferits</string>
   <string name="empty_fav_card_tip">Encara no teniu cap preferit</string>
   <string name="empty_health_card_btn">Enllaça la Mi Band</string>
@@ -245,7 +245,22 @@
   <string name="express_address_warning_no_area">Cal indicar una regió</string>
   <string name="express_address_warning_no_full_address">Cal indicar una adreça</string>
   <string name="express_address_warning_no_name">Cal indicar un nom</string>
+  <string name="express_address_warning_no_phone">Cal indicar un telèfon</string>
+  <string name="express_addressee_info">Informació del destinatari</string>
+  <string name="express_addressee_name">Nom del destinatari</string>
+  <string name="express_addressee_region">"Regió del destinatari"</string>
   <string name="express_authorized">Permès</string>
+  <string name="express_banner_header">%1$s / Número de seguiment</string>
+  <string name="express_booking_txt">Sol·licita una entrega urgent</string>
+  <string name="express_cainiao_banner">Proporcionat per Cainiao</string>
+  <string name="express_cancel_order">Cancel·la</string>
+  <string name="express_code_txt">Codi:</string>
+  <string name="express_company_list_empty">No hi ha cap empresa</string>
+  <string name="express_company_phone_prefix">"Contacte: "</string>
+  <string name="express_company_pricing_details">Detall dels preus</string>
+  <string name="express_complete">Acceptat</string>
+  <string name="express_complete_flag">3</string>
+  <string name="express_contact_address">Introduïu una adreça</string>
   <string name="express_contact_address_finding">S\'està ubicant…</string>
   <string name="express_contact_label">Informació per al servei de recollida</string>
   <string name="express_contact_phone">Introduïu el número de telèfon</string>
@@ -261,7 +276,7 @@
   <string name="express_field_empty">Buit</string>
   <string name="express_go_back">Enrere</string>
   <string name="express_goods_detail">Detalls de la comanda</string>
-  <string name="express_icon_tip">Recupera la informació de seguiment de l\'enviament exprés mitjançant el vostre número de telèfon i informació de la comanda.</string>
+  <string name="express_icon_tip">Recupera la informació de seguiment de l\'enviament urgent mitjançant el vostre número de telèfon i informació de la comanda.</string>
   <string name="express_icon_tip_link">Seguretat i privadesa</string>
   <string name="express_info_divider">" / "</string>
   <string name="express_inqiury_select_logistics">Servei de missatgeria</string>
@@ -273,7 +288,7 @@
   <string name="express_inquiry_delete_warning_multiple">Voleu eliminar %d entrades?</string>
   <string name="express_inquiry_delete_warning_single">Voleu eliminar aquesta entrada?</string>
   <string name="express_inquiry_delivered">Entregat</string>
-  <string name="express_inquiry_detail">Detalls del lliurament exprés</string>
+  <string name="express_inquiry_detail">Detalls del lliurament urgent</string>
   <string name="express_inquiry_edit_logistics">Missatgeria</string>
   <string name="express_inquiry_history">Historial</string>
   <string name="express_inquiry_history_remark">Comentaris</string>
@@ -351,7 +366,19 @@ Comproveu el número de seguiment."</string>
   <string name="express_select_addressee">Per a</string>
   <string name="express_select_city">Seleccioneu una ciutat</string>
   <string name="express_select_sender">Des de</string>
+  <string name="express_send">Envia</string>
   <string name="express_send_mms">Envia</string>
+  <string name="express_send_mms_format">Paquet lliurat per %1$s | Número de seguiment: %2$s</string>
+  <string name="express_send_notice">Articles no permesos</string>
+  <string name="express_sender_info">Informació del remitent</string>
+  <string name="express_sender_name">Nom del remitent</string>
+  <string name="express_sender_region">"Regió del remitent"</string>
+  <string name="express_setting_authorized_number">Número de telèfon verificat</string>
+  <string name="express_setting_authorized_number_add">Afegeix</string>
+  <string name="express_setting_authorized_number_delete">Elimina</string>
+  <string name="express_setting_authorized_number_description">Declaració de privadesa: el número de telèfon només s\'utilitzarà per comprovar l\'estat i els detalls del lliurament de la comanda.</string>
+  <string name="express_setting_authorized_number_empty">"Encara no heu verificat el vostre número de telèfon."</string>
+  <string name="express_setting_brief">Seguiu els vostres paquets de lliurament urgent</string>
   <string name="express_setting_entrance_description">Verifiqueu el vostre número de telèfon per consultar els detalls de la comanda.</string>
   <string name="express_setting_number">Número de telèfon</string>
   <string name="express_setting_number_invalid">"Assegureu-vos que heu introduït un número de telèfon vàlid"</string>
@@ -369,7 +396,7 @@ Comproveu el número de seguiment."</string>
   <string name="express_setting_verification_code_success">Codi SMS enviat</string>
   <string name="express_setting_verify_failed">"No s'ha pogut verificar"</string>
   <string name="express_setting_verify_success">Verificació correcta</string>
-  <string name="express_shortcut_name">Envia o segueix un lliurament exprés</string>
+  <string name="express_shortcut_name">Envia o segueix un lliurament urgent</string>
   <string name="express_show_all_inquiry_history">Mostra tot l\'historial de consultes</string>
   <string name="express_submit_order">Envia</string>
   <string name="express_support_app">Aplicacions compatibles</string>
@@ -420,6 +447,7 @@ Comproveu el número de seguiment."</string>
   <string name="function_not_support">"Aquesta funció no és compatible amb aquest dispositiu"</string>
   <string name="function_qq_title">QQ</string>
   <string name="go_to_school">Per a i des del treball o l\'escola</string>
+  <string name="greeting_alarm_desc">L\'alarma s\'apagarà demà a les %1$s</string>
   <string name="greeting_news_morning">Què va passar mentre dormieu</string>
   <string name="greeting_news_night">Avui ha estat un dia ple d\'esdeveniments</string>
   <string name="greeting_no_alarm">No hi ha alarmes programades, dormiu tranquil!</string>
@@ -433,4 +461,5 @@ Comproveu el número de seguiment."</string>
   <string name="launch_setting_alipay_login">Inicia la sessió</string>
   <string name="launch_setting_alipay_logout">Tanca la sessió</string>
   <string name="launch_setting_alipay_logout_posi">Tanca la sessió</string>
+  <string name="mi_express">El meu lliurament urgent</string>
 </resources>
