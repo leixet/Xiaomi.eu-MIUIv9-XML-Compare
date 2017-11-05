@@ -692,6 +692,7 @@ Comproveu el número de seguiment."</string>
   <string name="payment_upload_data_no_data">No hi ha dades per pujar</string>
   <string name="payment_upload_data_success">S\'ha pujat les dades amb èxit</string>
   <string name="personalAssistant_mainpage">Pàgina d\'inici</string>
+  <string name="pie_chart_label_atm">Retirada d\'efectiu en caixers automàtics:</string>
   <string name="pie_chart_label_catering">Menjar:</string>
   <string name="pie_chart_label_education">Educació:</string>
   <string name="pie_chart_label_entertainment">Entreteniment:</string>
@@ -901,6 +902,7 @@ Comproveu el número de seguiment."</string>
   <string name="trans_card">Targeta de transport</string>
   <string name="transit_subway">Transport públic</string>
   <string name="trip_assistant_all_btn">Tots els viatges</string>
+  <string name="trip_profession">Cotxe prèmium</string>
   <string name="trip_quick">Conductor</string>
   <string name="trip_taxi">Taxi</string>
   <string name="try_again">Torna-ho a provar</string>
@@ -913,4 +915,27 @@ Comproveu el número de seguiment."</string>
   <string name="uploads_disabled">"No es poden pujar els arxius"</string>
   <string name="user_id">ID d\'usuari: %s</string>
   <string name="user_notice_title">Atenció</string>
+  <string name="walk">A peu</string>
+  <string name="weibo_name">Nou article</string>
+  <string name="weibo_parent">Weibo</string>
+  <string name="which_transport">Com arribeu normalment al vostre destí?</string>
+  <string name="widget_fav">preferit</string>
+  <string name="widget_fav_open">Mostra la targeta dels preferits</string>
+  <string name="widget_fav_setting_brief">Deseu els preferits de diverses aplicacions aquí</string>
+  <string name="widget_fav_setting_brief_detail">Vegeu tots els vostres preferits en un sol lloc.</string>
+  <string name="widget_loading">Un moment…</string>
+  <string name="widget_more">Mostra\'n més</string>
+  <string name="widget_no_data">Encara no hi ha preferits.</string>
+  <string name="widget_title">Afegit recentment</string>
+  <string name="wx_collectioncode">Rebeu el pagament</string>
+  <string name="wx_name">La meva targeta</string>
+  <string name="wx_parent">WeChat</string>
+  <string name="wx_paycode">Pagament</string>
+  <string name="wx_scan">Escàner</string>
+  <string name="wx_timeline">Moments</string>
+  <string name="xiaomi_search_label">Cerca</string>
+  <string name="xspace_resolver_activity_title">Selecciona l\'aplicació</string>
+  <string name="year_month_day_format">dd/MM/yyyy</string>
+  <string name="yellow_page_website">Lloc web oficial</string>
+  <string name="yesterday">Ahir</string>
 </resources>
