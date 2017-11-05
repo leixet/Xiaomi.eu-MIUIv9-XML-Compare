@@ -381,6 +381,9 @@ Comproveu el número de seguiment."</string>
   <string name="express_setting_brief">Seguiu els vostres paquets de lliurament urgent</string>
   <string name="express_setting_brief_detail">Seguiu tots els vostres paquets usant el vostre número de telèfon i la vostra informació de la comanda.</string>
   <string name="express_setting_code_invalid">"Assegureu-vos que heu introduït el codi correctament"</string>
+  <string name="express_setting_count_down_time">Torneu-ho a provar en %d s</string>
+  <string name="express_setting_dialog_authority_description">La verificació del número de telèfon és proporcionada per les pàgines grogues. Les pàgines grogues necessiten connectar-se a la xarxa perquè funcioni amb normalitat. Esteu d\'acord?</string>
+  <string name="express_setting_dialog_delete_cancel">Cancel·la</string>
   <string name="express_setting_entrance_description">Verifiqueu el vostre número de telèfon per consultar els detalls de la comanda.</string>
   <string name="express_setting_number">Número de telèfon</string>
   <string name="express_setting_number_invalid">"Assegureu-vos que heu introduït un número de telèfon vàlid"</string>
