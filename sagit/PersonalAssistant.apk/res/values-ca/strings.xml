@@ -384,6 +384,11 @@ Comproveu el número de seguiment."</string>
   <string name="express_setting_count_down_time">Torneu-ho a provar en %d s</string>
   <string name="express_setting_dialog_authority_description">La verificació del número de telèfon és proporcionada per les pàgines grogues. Les pàgines grogues necessiten connectar-se a la xarxa perquè funcioni amb normalitat. Esteu d\'acord?</string>
   <string name="express_setting_dialog_delete_cancel">Cancel·la</string>
+  <string name="express_setting_dialog_delete_description">"Les pàgines grogues no podran fer el seguiment de la informació de lliurament automàticament després de suprimir el número de telèfon. Voleu suprimir-lo de totes maneres?"</string>
+  <string name="express_setting_dialog_delete_failed">"No s'ha pogut eliminar el número de telèfon"</string>
+  <string name="express_setting_dialog_delete_ok">Elimina</string>
+  <string name="express_setting_dialog_delete_success">S\'ha eliminat amb èxit</string>
+  <string name="express_setting_dialog_delete_title">Elimina el número de telèfon</string>
   <string name="express_setting_entrance_description">Verifiqueu el vostre número de telèfon per consultar els detalls de la comanda.</string>
   <string name="express_setting_number">Número de telèfon</string>
   <string name="express_setting_number_invalid">"Assegureu-vos que heu introduït un número de telèfon vàlid"</string>
