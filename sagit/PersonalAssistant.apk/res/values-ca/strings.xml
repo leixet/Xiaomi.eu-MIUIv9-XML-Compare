@@ -465,6 +465,8 @@ Comproveu el número de seguiment."</string>
   <string name="greeting_no_alarm">No hi ha alarmes programades, dormiu tranquil!</string>
   <string name="greeting_no_schedule">No hi ha esdeveniments per avui</string>
   <string name="greeting_open">Activa les salutacions diàries</string>
+  <string name="greeting_schedule_desc">Esdeveniments programats d\'avui: %1$d</string>
+  <string name="greeting_setting_brief">Obteniu informació meteorològica i recordatoris sobre esdeveniments programats, alarmes i aniversaris cada matí i tarda</string>
   <string name="greeting_title_morning">Bon dia!</string>
   <string name="greeting_title_night">Bona nit!</string>
   <string name="greeting_weather_desc_from_to">%1$s a %2$s</string>
