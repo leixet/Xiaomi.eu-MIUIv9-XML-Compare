@@ -517,4 +517,12 @@ Comproveu el número de seguiment."</string>
   <string name="miuishare_account_need_activate">La participació Weibo requereix que el vostre compte Weibo estigui enllaçat al compte de Xiaomi, que no està activat actualment. Voleu activar el vostre compte?</string>
   <string name="miuishare_account_need_login">La participació de Weibo requereix que el vostre compte Weibo estigui enllaçat al compte Xiaomi, que actualment està iniciat. Voleu iniciar sessió per compartir-la?</string>
   <string name="miuishare_app_name">MiuiShare</string>
+  <string name="miuishare_no_network">Sense xarxa per compartir</string>
+  <string name="miuishare_publish">Envia</string>
+  <string name="miuishare_qzone_title">Qzone</string>
+  <string name="miuishare_share_editor_title">Comparteix</string>
+  <string name="miuishare_title_more">Més</string>
+  <string name="miuishare_title_share">Comparteix</string>
+  <string name="miuishare_wechat_timeline_title">Cronologia de WeChat</string>
+  <string name="month_day_format">dd/MM</string>
 </resources>
