@@ -63,6 +63,9 @@
   <string name="ball_dialog_tip">No tornis a mostrar-ho</string>
   <string name="ball_dialog_title">Cal que instal·leu l\'aplicació.</string>
   <string name="ball_football_news">Notícies</string>
+  <string name="ball_football_rank_flat">E</string>
+  <string name="ball_football_rank_lose">P</string>
+  <string name="ball_football_rank_num">P</string>
   <string name="ball_football_rank_team">Equip</string>
   <string name="ball_football_recent">CONTRA</string>
   <string name="ball_football_recent_end">Finalitzat</string>
