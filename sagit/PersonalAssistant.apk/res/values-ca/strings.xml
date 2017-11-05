@@ -66,7 +66,9 @@
   <string name="ball_football_rank_flat">E</string>
   <string name="ball_football_rank_lose">P</string>
   <string name="ball_football_rank_num">P</string>
+  <string name="ball_football_rank_score">Pts</string>
   <string name="ball_football_rank_team">Equip</string>
+  <string name="ball_football_rank_win">G</string>
   <string name="ball_football_recent">CONTRA</string>
   <string name="ball_football_recent_end">Finalitzat</string>
   <string name="ball_football_recent_end_tip">Resultats</string>
