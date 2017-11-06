@@ -69,6 +69,7 @@
   <string name="ball_football_rank_score">Pts</string>
   <string name="ball_football_rank_team">Equip</string>
   <string name="ball_football_rank_win">V</string>
+  <string name="ball_football_rank_win_or_lose">F/C</string>
   <string name="ball_football_recent">CONTRA</string>
   <string name="ball_football_recent_end">Finalitzat</string>
   <string name="ball_football_recent_end_tip">Resultats</string>
@@ -576,6 +577,7 @@ Comproveu el número de seguiment."</string>
   <string name="miuishare_no_network">Sense xarxa per compartir</string>
   <string name="miuishare_publish">Envia</string>
   <string name="miuishare_qzone_title">Qzone</string>
+  <string name="miuishare_share_done">S\'ha enviat el contingut compartit.</string>
   <string name="miuishare_share_editor_title">Comparteix</string>
   <string name="miuishare_title_more">Més</string>
   <string name="miuishare_title_share">Comparteix</string>
@@ -664,6 +666,7 @@ Comproveu el número de seguiment."</string>
   <string name="payment_pref_clear_records_title">Esborra l\'historial de pagaments</string>
   <string name="payment_pref_enabled_summary">Registra tots els pagaments automàticament</string>
   <string name="payment_pref_enabled_title">Permet pagaments</string>
+  <string name="payment_pref_notification_enabled_title">Notifica sobre els registres exitosos i fallits</string>
   <string name="payment_pref_privacy_category_title">Privacitat</string>
   <string name="payment_pref_privacy_security_summary">Utilitzeu la contrasenya de protecció de privadesa de MIUI per ocultar els detalls del vostre compte</string>
   <string name="payment_pref_privacy_security_title">Contrasenya</string>
