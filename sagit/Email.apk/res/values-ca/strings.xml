@@ -76,6 +76,7 @@
   <string name="account_setup_basics_email_label">Adreça de correu electrònic</string>
   <string name="account_setup_basics_login_gmail_without_proxy">Utilitza la connexió de xarxa actual</string>
   <string name="account_setup_basics_manual_setup_action">Configuració manual</string>
+  <string name="account_setup_basics_mi_mail_login_help">Inici de sessió del Correu Mi correcte, comproveu els SMS, activeu l\'enllaç per enviar i rebre correu Oh!</string>
   <string name="account_setup_basics_password_label">Contrasenya</string>
   <string name="account_setup_basics_title">Afegeix un compte</string>
   <string name="account_setup_check_settings_check_incoming_msg">"Validant la configuració del servidor…"</string>
