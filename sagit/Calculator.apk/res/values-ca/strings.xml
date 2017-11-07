@@ -148,7 +148,7 @@
   <string name="month_august_shortest">ag.</string>
   <string name="month_december">desembre</string>
   <string name="month_december_short">des.</string>
-  <string name="month_december_shortest">des.</string>
+  <string name="month_december_shortest">D</string>
   <string name="month_february">febrer</string>
   <string name="month_february_short">febr.</string>
   <string name="month_february_shortest">febr.</string>
@@ -169,7 +169,7 @@
   <string name="month_may_shortest">maig</string>
   <string name="month_november">novembre</string>
   <string name="month_november_short">nov.</string>
-  <string name="month_november_shortest">nov.</string>
+  <string name="month_november_shortest">N</string>
   <string name="month_october">octubre</string>
   <string name="month_october_short">oct.</string>
   <string name="month_october_shortest">oct.</string>
