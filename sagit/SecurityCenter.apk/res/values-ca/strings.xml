@@ -96,7 +96,7 @@
   <string name="antivirus_monitor_risk_advice">"Aquesta aplicació no és segura, elimineu-la"</string>
   <string name="antivirus_monitor_virus_advice">Aquesta aplicació podria contenir virus, elimineu-la</string>
   <string name="antivirus_none_engine_dialog_ok">D\'acord</string>
-  <string name="antivirus_not_wlan">No esteu connectats a Wi-Fi. L\'ús de dades mòbils pot generar càrrecs addicionals. Voleu continua de totes maneres?</string>
+  <string name="antivirus_not_wlan">"No esteu connectats a Wi-Fi. L'ús de dades mòbils pot generar càrrecs addicionals. Voleu continua de totes maneres?"</string>
   <string name="antivirus_privacy_dialog_cloudscan">Pujar noms i detalls d\'aplicacions</string>
   <string name="antivirus_privacy_dialog_cloudscan_description">Pujar i escanejar noms i detalls d\'aplicacions usant definicions de virus en línia.</string>
   <string name="antivirus_privacy_dialog_ok">D\'acord</string>
@@ -146,7 +146,6 @@
   <string name="app_manager_copy_pkg_to_clip">S\'ha copiat al porta-retalls</string>
   <string name="app_manager_default_cleared">netejat</string>
   <string name="app_manager_default_close_summary">No s\'ha establert els predeterminats.</string>
-  <string name="app_manager_default_open">Obre de manera predeterminada</string>
   <string name="app_manager_default_open_summary">S\'ha definit aquesta aplicació com a predeterminada per fer algunes accions.</string>
   <string name="app_manager_default_open_title">Suprimeix els predeterminats</string>
   <string name="app_manager_defaults_setting">Per defecte</string>
@@ -1488,12 +1487,11 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="safe_result_item_info_system_scan">Supervisió de pagament activat</string>
   <string name="safe_result_item_info_system_version">Sistema té l\'última versió</string>
   <string name="safepay_alert_dialog_button_continue">Procedir</string>
-  <string name="safepay_alert_dialog_button_risk">Solució</string>
   <string name="save_energy_text">"Restringeix l'arrencada automàtica i la sincronització de les aplicacions en segon pla per aprofitar al màxim la bateria del dispositiu"</string>
   <string name="save_energy_title">Optimitza la bateria</string>
   <string name="sc_allow_network_dialog_message">Cal permetre a aquesta aplicació connectar-se a internet perquè funcioni normalment.</string>
   <string name="sc_allow_network_dialog_tiltle">"No es pot fer servir l'Estalvi de dades"</string>
-  <string name="sc_system_risk_fix_info_xspace">El risc no es pot corregir en xspace, canvieu a l\'espai del propietari per arreglar-lo.</string>
+  <string name="sc_system_risk_fix_info_xspace">"El risc no es pot corregir en xspace, canvieu a l'espai del propietari per arreglar-lo."</string>
   <string name="scan_installed_games">S\'està comprovant els jocs instal·lats…</string>
   <string name="scan_status_risk">Arriscat</string>
   <string name="scan_status_safe">Segur</string>
@@ -1993,7 +1991,7 @@ Dades extres en ús"</string>
   <string name="virus_ad_icon_text">Anunci</string>
   <string name="virus_auto_update_engine">Actualització automàtica:%s</string>
   <string name="virus_update_tips_title">Connecteu-vos a la Wi-Fi</string>
-  <string name="virus_wait_network_dialog_message">Les actualitzacions són grans. Connecteu-vos a la Wi-Fi per baixar-les</string>
+  <string name="virus_wait_network_dialog_message">"Les actualitzacions són grans. Connecteu-vos a la Wi-Fi per baixar-les"</string>
   <string name="vpn_disabled_by_user">La connexió de dades designada està desactivada</string>
   <string name="vpn_unbale_get_phonenum">"No es poden obtenir números de telèfon amb els plans de dades designats"</string>
   <string name="wakepath_confirm_start_activity">Permetre a %1$s obrir %2$s?</string>
