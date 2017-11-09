@@ -122,6 +122,8 @@
   <string name="app_install_tips_go_to">Obre\'l</string>
   <string name="app_install_tips_install_success">%1$s s\'ha instal·lat amb èxit</string>
   <string name="app_maanger_app_uninstalled_toast">Aquesta aplicació s\'ha desinstal·lat</string>
+  <string name="app_manager_advanced_setting">Configuració avançada</string>
+  <string name="app_manager_allow">Sí</string>
   <string name="app_manager_app_ifno_version">Versió de l\'aplicació</string>
   <string name="app_manager_app_info_label">Informació de l\'aplicació</string>
   <string name="app_manager_app_info_name">Nom de l\'aplicació</string>
@@ -157,6 +159,7 @@
   <string name="app_manager_disable_dlg_title">Voleu desactivar l\'aplicació integrada?</string>
   <string name="app_manager_disable_text">Desactiva</string>
   <string name="app_manager_disabled">Desactivada</string>
+  <string name="app_manager_disabled_by_admin">Desactivat per l\'administrador</string>
   <string name="app_manager_dlg_cancel">Cancel·la</string>
   <string name="app_manager_dlg_ok">D\'acord</string>
   <string name="app_manager_enable_text">Activa</string>
@@ -172,6 +175,7 @@
   <string name="app_manager_has_not_data">Sense dades</string>
   <string name="app_manager_have_not_consume">Cap</string>
   <string name="app_manager_hide_system_server">Amaga els serveis del sistema</string>
+  <string name="app_manager_install_other_app">Instal·la aplicacions de fonts desconegudes</string>
   <string name="app_manager_instruction">Instrucció</string>
   <string name="app_manager_loading_data">S\'estan carregant les dades&#8230;</string>
   <string name="app_manager_manage_space">Gestiona l\'espai</string>
@@ -180,6 +184,7 @@
   <string name="app_manager_net_control_title">Restricció d\'ús de dades</string>
   <string name="app_manager_net_mobile">Mòbil</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
+  <string name="app_manager_not_allow">No</string>
   <string name="app_manager_not_record">"No hi ha elements aquí"</string>
   <string name="app_manager_notify_bar">Insígnies</string>
   <string name="app_manager_notify_floating">Notificacions flotants</string>
@@ -568,6 +573,7 @@
   <string name="dialog_app_roaming_title">"La itinerància en ultramar no s'ha activat per a %1$s"</string>
   <string name="dialog_msg_auto_start_declare">Algunes aplicacions de seguretat poden indicar incorrectament que MIUI els ha prohibit iniciar. Per comprovar els permisos que han estat concedits a les aplicacions individualment, aneu a Configuració i Aplicacions.</string>
   <string name="dialog_msg_stop_virus_scan">"Voleu aturar l'anàlisi de virus abans que acabi?"</string>
+  <string name="dialog_no_longer_alert">"No ho tornis a mostrar"</string>
   <string name="dialog_roaming_message">Voleu permetre a aquesta aplicació usar dades mòbils en itinerància en ultramar?</string>
   <string name="dialog_roaming_title">Itinerància en ultramar</string>
   <string name="dialog_text">Crea una drecera a la pantalla d\'inici per a l\'accelerador de velocitat dels jocs</string>
@@ -1487,6 +1493,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="safe_result_item_info_system_scan">Supervisió de pagament activat</string>
   <string name="safe_result_item_info_system_version">Sistema té l\'última versió</string>
   <string name="safepay_alert_dialog_button_continue">Procedir</string>
+  <string name="safepay_alert_dialog_button_fix">Arregla</string>
   <string name="save_energy_text">"Restringeix l'arrencada automàtica i la sincronització de les aplicacions en segon pla per aprofitar al màxim la bateria del dispositiu"</string>
   <string name="save_energy_title">Optimitza la bateria</string>
   <string name="sc_allow_network_dialog_message">Cal permetre a aquesta aplicació connectar-se a internet perquè funcioni normalment.</string>
@@ -1550,7 +1557,9 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="sms_stranger_block">Bloqueja SMS d\'estranys</string>
   <string name="sorted_dialog_title">Ordena per</string>
   <string name="sp_background_risk_dialog_summary">, feu un control detallat i corregiu els riscos de pagament</string>
+  <string name="sp_background_risk_dialog_summary_wifi_approve">Esteu connectat a una xarxa Wi-Fi pública que pot ser que no sigui segura. Assegureu-vos que el vostre pagament estigui protegit abans de completar-lo.</string>
   <string name="sp_background_risk_dialog_title">Perillós</string>
+  <string name="sp_background_risk_dialog_title_wifi_approve">Alerta de Wi-Fi pública</string>
   <string name="sp_background_risk_type_messaging">L\'aplicació de missatgeria del sistema ha estat substituïda</string>
   <string name="sp_background_risk_type_root">El sistema ha estat rootejat</string>
   <string name="sp_background_risk_type_sign">S\'està executant una aplicació no oficial</string>
