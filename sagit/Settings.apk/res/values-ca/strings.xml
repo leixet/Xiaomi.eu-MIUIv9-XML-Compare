@@ -2031,6 +2031,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="lock_screen_notifications_summary_show">Mostra tot el contingut de les notificacions</string>
   <string name="lock_screen_notifications_summary_show_profile">Mostra tot el contingut de notific. professionals</string>
   <string name="lock_screen_notifications_title">Amb el dispositiu bloquejat</string>
+  <string name="lock_screen_secure_after_timeout_immediately_never">Mai cal contrasenya.</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">Cal la contrasenya.</string>
   <string name="lock_screen_secure_after_timeout_summary">Cal la contrasenya en %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Cal contrasenya</string>
@@ -2699,6 +2700,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="phone_info_label">Informació del telèfon</string>
   <string name="phone_language">Idioma</string>
   <string name="physical_keyboard_title">Teclat físic</string>
+  <string name="pick_up_gesture_wakeup_title">Trieu un gest per despertar</string>
   <string name="picture_color_mode">Mode de color de la imatge</string>
   <string name="picture_color_mode_desc">Utilitza sRGB</string>
   <string name="pin_failed">Hi ha hagut un problema en l\'operació del PIN de la SIM!</string>
