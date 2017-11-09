@@ -1671,7 +1671,7 @@ Però ja no obtingué resposta, perquè el malalt greu acabava de morir d’una 
   <string name="fullbackup_data_summary">«Creeu còpies de seguretat automàtiques de les dades del dispositiu (com ara les contrasenyes de la Wi-Fi o l\'historial de trucades) i de les aplicacions (com ara les configuracions i els fitxers que desin) de manera remota.
 
 Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius i de les aplicacions s\'emmagatzemaran periòdicament de manera remota. Les dades de les aplicacions poden ser qualsevol tipus de dades que hagi desat una aplicació (en funció de la configuració del desenvolupador), incloses les dades potencialment confidencials, com ara contactes, missatges i fotos.»</string>
-  <string name="fullbackup_erase_dialog_message">Voleu deixar de fer còpies de seguretat de les dades del dispositiu (per exemple, contrasenyes i historial de trucades WLAN) i dades d\'aplicacions (com ara les configuracions i els arxius emmagatzemats per aplicacions), a més d\'esborrar totes les còpies a Google Drive?</string>
+  <string name="fullbackup_erase_dialog_message">Voleu deixar de fer còpies de seguretat de les dades del dispositiu (per exemple, contrasenyes i historial de trucades Wi-Fi) i dades d\'aplicacions (com ara les configuracions i els arxius emmagatzemats per aplicacions), a més d\'esborrar totes les còpies a Google Drive?</string>
   <string name="gadget_brightness_state_auto">Automàtic</string>
   <string name="gadget_brightness_state_full">Màxim</string>
   <string name="gadget_brightness_state_half">meitat</string>
