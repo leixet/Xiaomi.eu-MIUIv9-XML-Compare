@@ -1008,6 +1008,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="system_folders_trash_dlg">"Seleccioneu la carpeta Paperera del seu servidor"</string>
   <string name="system_folders_trash_summary">"Seleccioneu la carpeta Paperera del seu servidor"</string>
   <string name="system_folders_trash_title">Paperera</string>
+  <string name="system_root_path">Configuració d\'emmagatzematge intern</string>
   <string name="system_security_open_error">No es pot ajustar el centre de seguretat. Obriu els permisos a la configuració del telèfon</string>
   <string name="system_setup_open_error">No es pot activar la sincronització del compte, activeu el sistema \"a la configuració\" en el compte de correu de sincronització</string>
   <string name="tablet">tauleta tàctil</string>
@@ -1020,6 +1021,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="toast_bar_invalid_account">Heu d\'iniciar sessió de nou</string>
   <string name="toast_bar_no_connection_network">"Sense connexió a Internet"</string>
   <string name="toast_bar_open_gmail_synchronization">"Toqui per utilitzar servidor intermediari per a Gmail"</string>
+  <string name="toast_bar_send_fail_remind">"No s'ha pogut enviar el correu. S'ha desat a la carpeta «Safata de sortida»."</string>
   <string name="toastbar_calendar_and_contacts_permission_switch_close">No està autoritzada l\'agenda ni els contactes. L\'agenda i els contactes no es poden sincronitzar</string>
   <string name="toastbar_calendar_permission_switch_close">No està autoritzada l\'agenda. L\'agenda no es pot sincronitzar</string>
   <string name="toastbar_contacts_permission_switch_close">No estan autoritzats els contactes. Els contactes no es poden sincronitzar</string>
