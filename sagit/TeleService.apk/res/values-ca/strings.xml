@@ -509,7 +509,6 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="debug_networking_category">Xarxes</string>
   <string name="debug_view_attributes">Habilita l\'inspecció d\'atributs de visualització</string>
   <string name="default_notification_description">So predeterminat (%1$s)</string>
-  <string name="default_preference_summary">&lt;No establert&gt;</string>
   <string name="default_preference_summary_domain_address">&lt;No s\'ha configurat&gt;</string>
   <string name="default_preference_summary_password">&lt;No s\'ha configurat&gt;</string>
   <string name="default_preference_summary_username">&lt;No s\'ha configurat&gt;</string>
