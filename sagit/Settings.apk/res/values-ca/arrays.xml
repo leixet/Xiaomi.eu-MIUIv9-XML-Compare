@@ -828,17 +828,17 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Il·limitat</item>
   </string-array>
   <string-array name="organized_locales">
+    <item>af</item>
     <item>al</item>
     <item>dz</item>
-    <item>am</item>
+    <item>as</item>
+    <item>ad</item>
     <item>ao</item>
+    <item>ai</item>
     <item>ag</item>
     <item>ar</item>
-    <item>az</item>
-    <item>bs</item>
-    <item>bh</item>
-    <item>bd</item>
-    <item>bb</item>
+    <item>am</item>
+    <item>aw</item>
     <item>by</item>
     <item>be</item>
     <item>bz</item>
@@ -860,20 +860,20 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>dm</item>
     <item>do</item>
     <item>ec</item>
-    <item>eg</item>
+    <item>kh</item>
     <item>sv</item>
-    <item>gq</item>
-    <item>ee</item>
-    <item>et</item>
-    <item>fk</item>
-    <item>fi</item>
-    <item>fr</item>
-    <item>gf</item>
-    <item>ge</item>
-    <item>de</item>
-    <item>gh</item>
-    <item>gr</item>
-    <item>gd</item>
+    <item>ca</item>
+    <item>cv</item>
+    <item>bq</item>
+    <item>ky</item>
+    <item>td</item>
+    <item>cl</item>
+    <item>co</item>
+    <item>km</item>
+    <item>cd</item>
+    <item>ck</item>
+    <item>cr</item>
+    <item>ci</item>
     <item>hr</item>
     <item>cu</item>
     <item>cy</item>
