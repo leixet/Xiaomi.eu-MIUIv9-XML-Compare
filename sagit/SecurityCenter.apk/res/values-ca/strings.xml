@@ -644,6 +644,10 @@
   <string name="examination_score_80_100">Es poden optimitzar pocs elements</string>
   <string name="examination_score_80_60">Es poden optimitzar alguns elements</string>
   <string name="examination_score_has_virus">S\'han detectat algunes aplicacions sospitoses.</string>
+  <string name="exception_dialog_message">"No s'han pogut calcular les estadístiques d'ús de dades a causa d'un error. Sense estadístiques exactes, l'aplicació Seguretat no podrà controlar l'ús de dades. Voleu reiniciar-la per restaurar aquesta funció?"</string>
+  <string name="exception_dialog_ok_button">Reinicia</string>
+  <string name="exception_notify_message">"No s'ha pogut calcular les estadístiques de dades a causa d'un error. Reinicieu-la per restaurar-la."</string>
+  <string name="exception_titile">S\'ha produït un error</string>
   <string name="exit">Surt</string>
   <string name="finger_remind_message">Bloqueig d\'aplicació suporta desbloqueig per empremta. Afegir empremta?</string>
   <string name="fingerprint_identify_msg">Escanegeu l\'empremta</string>
