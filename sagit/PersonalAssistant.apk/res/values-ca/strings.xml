@@ -32,6 +32,8 @@
   <string name="agenda_settings_elecbill">Mostra les factures d\'electricitat i gas</string>
   <string name="agenda_settings_loan">Mostra informació del pagament de préstecs</string>
   <string name="agree">D\'acord</string>
+  <string name="alipay_init">S\'estan inicialitzant els serveis d\'Alipay…</string>
+  <string name="alipay_init_success">S\'han iniciat els serveis d\'Alipay amb èxit</string>
   <string name="alipay_scan">Escàner</string>
   <string name="alipay_sdk_minute_refresh">Actualitza-ho cada minut</string>
   <string name="alipay_sdk_payed_desc">Preu original: %1$s CNY | %2$s CNY d\'estalvi</string>
