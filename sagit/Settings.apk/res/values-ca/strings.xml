@@ -2750,6 +2750,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="pre_installed_application">Aplicacions pre-instal·lades</string>
   <string name="pref_button_light">Il·luminació dels botons</string>
   <string name="pref_button_light_summary">Il·luminació dels botons Menú, Pàgina d\'inici i Enrere</string>
+  <string name="pref_button_light_summary_sub">Inici,</string>
   <string name="pref_edge_handgrip">Controls de la vora</string>
   <string name="pref_operational_key">Botons de navegació</string>
   <string name="pref_title_lang_selection">Preferències d\'idioma</string>
