@@ -8,8 +8,8 @@
   <string name="HIPS_Perm_AudioRecorder">Enregistra l\'àudio</string>
   <string name="HIPS_Perm_AudioRecorder_Desc">enregistrar àudio i trucades telefòniques</string>
   <string name="HIPS_Perm_AutoStart">Iniciar-se automàticament</string>
-  <string name="HIPS_Perm_AutoStart_Desc">iniciar-se en engegar el dispositiu</string>
-  <string name="HIPS_Perm_Bluetooth_Connectivity">Canviar la connectivitat Bluetooth</string>
+  <string name="HIPS_Perm_AutoStart_Desc">executa en engegar el dispositiu</string>
+  <string name="HIPS_Perm_Bluetooth_Connectivity">Canvia la connectivitat Bluetooth</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">activar o desactivar el Bluetooth</string>
   <string name="HIPS_Perm_Body_Sensors">Sensors corporals</string>
   <string name="HIPS_Perm_Body_Sensors_Desc">sensors corporals (p. ex. sensor de freqüència cardíaca)</string>
