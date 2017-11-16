@@ -174,6 +174,8 @@ Dos espais. Un dispositiu."</string>
   <string name="public_app">Ambdós espais</string>
   <string name="removeSuccess">S\'ha eliminat correctament</string>
   <string name="remove_second_space_msg">Totes les dades d\'aplicacions del Segon espai es perdran quan suprimiu el Segon espai. Voleu suprimir el Segon espai ara?</string>
+  <string name="remove_user_click_message">"*Si no teniu cap element important al Segon espai, %s"</string>
+  <string name="remove_user_click_message_action">podeu eliminar el segon espai i reiniciar el dispositiu ara.</string>
   <string name="removingSpace">S\'està suprimint&#8230;</string>
   <string name="repeat_scanner_fingerprint">Afegir de nou</string>
   <string name="reset_passwd_success">Contrasenya restablerta amb èxit</string>
@@ -194,6 +196,13 @@ Dos espais. Un dispositiu."</string>
   <string name="scanner_fingerprint_tips_title">Entrar al Segon espai utilitzant una empremta existent</string>
   <string name="scanner_second_space_fingerprint">Escanejar empremta del Segon espai</string>
   <string name="sdcardfs_dialog_message">Desactiveu l\'«Optimització de la targeta SD simulada» a les opcions del desenvolupador abans d\'entrar al segon espai.</string>
+  <string name="sdcardfs_dialog_title">Actualització important</string>
+  <string name="sdcradfs_dialog_in_owner_message">"MIUI 9 té un nou sistema de fitxers. Les dades antigues poden ser incompatibles amb ell. Per actualitzar, moveu elements del segon espai, reinicieu el dispositiu i creeu el segon espai de nou.
+Si no s\'actualitza, és possible que les aplicacions duals no funcionin correctament. "</string>
+  <string name="sdcradfs_dialog_in_owner_title">Segon espai</string>
+  <string name="sdcradfs_dialog_in_sec_message">"Per actualitzar, hauríeu d\'eliminar el segon espai i tornar-lo a crear. Moveu les dades del segon espai al primer espai i reinicieu el dispositiu per completar l\'actualització.
+Si no s\'actualitza, és possible que les aplicacions duals no funcionin correctament. "</string>
+  <string name="sdcradfs_dialog_in_sec_title">Actualització important</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="search_result_text">"No s'ha trobat cap aplicació"</string>
   <string name="secondSpace">Segon espai</string>
@@ -238,6 +247,7 @@ Dos espais. Un dispositiu."</string>
   <string name="show_private_msg_summary">Mostrar els missatges privats en el Segon espai</string>
   <string name="skip">Omet</string>
   <string name="spaceSetting">Configuració</string>
+  <string name="space_created_success">S\'ha creat el segon espai amb èxit</string>
   <string name="space_deleted">Aquest espai s\'ha suprimit</string>
   <string name="space_des_default">Espai aïllat amb dades xifrades</string>
   <string name="space_finger_sub_text">Estableix l\'empremta del segon espai per canviar més ràpid</string>
