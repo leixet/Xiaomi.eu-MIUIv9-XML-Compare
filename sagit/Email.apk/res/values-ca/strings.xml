@@ -517,7 +517,7 @@
   <string name="hide_elided">▼ Amaga el text citat</string>
   <string name="hide_password">oculta la contrasenya</string>
   <string name="hierarchical_folder_parent_top_ellip">%1$s∕&#8230;∕%2$s∕</string>
-  <string name="hint_quick_reply_all">Respondre a tots</string>
+  <string name="hint_quick_reply_all">Respon a tots</string>
   <string name="imap_password_error">Contrasenya del servidor de correu entrant és incorrecta</string>
   <string name="import_button_text">Importa</string>
   <string name="import_from_other_account">Importa d\'altres comptes</string>
@@ -684,8 +684,8 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="notification_action_archive">Fitxer</string>
   <string name="notification_action_delete">Elimina</string>
   <string name="notification_action_remove_label">Tregui l\'etiqueta</string>
-  <string name="notification_action_reply">Respondre</string>
-  <string name="notification_action_reply_all">Respondre a tots</string>
+  <string name="notification_action_reply">Respon</string>
+  <string name="notification_action_reply_all">Respon a tots</string>
   <string name="notification_action_undo_archive">Arxivat</string>
   <string name="notification_action_undo_delete">Eliminat</string>
   <string name="notification_action_undo_remove_label">Treta l\'etiqueta</string>
@@ -903,15 +903,15 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="remove_account">Elimina el compte</string>
   <string name="remove_folder">Esborrat de %1$s</string>
   <string name="remove_star">Treure estrella</string>
-  <string name="reply">Respondre</string>
+  <string name="reply">Respon</string>
   <string name="reply_add_bodycontent">Afegir resposta ràpida al contingut del missatge?</string>
-  <string name="reply_all">Respondre a tots</string>
+  <string name="reply_all">Respon a tots</string>
   <string name="reply_attribution" formatted="false">En %s, %s va escriure:</string>
   <string name="report_phishing">Denunciar phishing</string>
   <string name="report_spam">Denunciar spam</string>
   <string name="request_entity_large">El fitxer és massa gran</string>
   <string name="request_permission_activity">Sol·licitud de permís</string>
-  <string name="respond_inline">"Respondre en línia"</string>
+  <string name="respond_inline">"   Respon en línia"</string>
   <string name="save_action">Desar</string>
   <string name="save_attachment">Desar</string>
   <string name="save_draft_failed">Desar esborrany ha fallat</string>
@@ -940,6 +940,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="security_unsupported_ticker_fmt">"No es pot sincronitzar el compte «%s» a causa dels requisits de seguretat."</string>
   <string name="select_attachment_type">Trieu la font del fitxer adjunt</string>
   <string name="select_no_file">No hi ha fitxers adjunts seleccionats</string>
+  <string name="select_path">Seleccioneu la ruta</string>
   <string name="send">Envia</string>
   <string name="send_failed">"El missatge no va ser enviat."</string>
   <string name="send_feed_back">Envia els suggeriments</string>
