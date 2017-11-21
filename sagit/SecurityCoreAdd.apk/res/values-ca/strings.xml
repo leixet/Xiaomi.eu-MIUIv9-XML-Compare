@@ -30,6 +30,7 @@ aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="closeSecondSpace">Esborrar el Segon espai</string>
   <string name="closeSecondSpaceSummary">Esborrar el Segon espai amb les seves dades</string>
   <string name="closeSuccess">Desactivat</string>
+  <string name="close_second_space">Segon espai suprimit</string>
   <string name="close_second_space_success">Segon espai esborrat</string>
   <string name="closed">Apagat</string>
   <string name="complete_setting">Finalitzat</string>
@@ -127,6 +128,7 @@ Dos espais. Un dispositiu."</string>
   <string name="input_space_password">Estableix ara</string>
   <string name="invalid_qr_code">Codi QR no vàlid</string>
   <string name="list_empty_text">Buit</string>
+  <string name="list_empty_text_xspace">Instal·leu WeChat/QQ/Weibo, creeu aplicacions duals i torneu-ho a provar.</string>
   <string name="loading">Un moment&#8230;</string>
   <string name="loading_apps">S\'estan carregant les aplicacions&#8230;</string>
   <string name="loading_space">Un moment&#8230;</string>
@@ -172,6 +174,7 @@ Dos espais. Un dispositiu."</string>
   <string name="private_sms_show_title">Els missatges privats es mostren al Segon espai</string>
   <string name="private_space_setting">Gestionar</string>
   <string name="public_app">Ambdós espais</string>
+  <string name="qq_send">Envia als amics/dispositius QQ</string>
   <string name="removeSuccess">S\'ha eliminat correctament</string>
   <string name="remove_second_space_msg">Totes les dades d\'aplicacions del Segon espai es perdran quan suprimiu el Segon espai. Voleu suprimir el Segon espai ara?</string>
   <string name="remove_user_click_message">"*Si no teniu cap element important al Segon espai, %s"</string>
@@ -300,10 +303,17 @@ Si no s\'actualitza, és possible que les aplicacions duals no funcionin correct
   <string name="transferMessage">Els missatges del Segon espai es mouran al Primer espai</string>
   <string name="tryNow">Proveu-ho ara</string>
   <string name="wating">Un moment&#8230;</string>
+  <string name="weibo_send">Envia al Weibo</string>
+  <string name="weixin_pay">Pagament WeChat</string>
+  <string name="weixin_share">Pagament WeChat</string>
   <string name="xpsace_guide_button">Crea</string>
   <string name="xspace_account">Comptes d\'aplicacions duals</string>
   <string name="xspace_chocie">Suport d\'aplicacions duals</string>
   <string name="xspace_creating">S\'està creant l\'aplicació dual&#8230;</string>
+  <string name="xspace_default_app_summary">Estableix l\'aplicació predeterminada per als pagaments, l\'ús compartit, els preferits i molt més.</string>
+  <string name="xspace_default_app_title">Aplicació per defecte</string>
+  <string name="xspace_default_setting_dialog_title">Per defecte</string>
+  <string name="xspace_default_setting_label">Aplicació per defecte</string>
   <string name="xspace_description">Creeu aplicacions duals per utilitzar-les separadament. Les aplicacions duals tindran icones específiques a la pantalla d\'inici.</string>
   <string name="xspace_guide_des">Utilitza 2 comptes sense canviar</string>
   <string name="xspace_guide_title">Crear aplicació dual per a %s</string>
