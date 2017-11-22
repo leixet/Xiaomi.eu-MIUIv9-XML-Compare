@@ -839,6 +839,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="search_feedback_task_request_award_failed">"No s'ha pogut rebre la recompensa. Torneu-ho a provar més tard."</string>
   <string name="search_feedback_task_requesting_award">S\'està rebent la recompensa…</string>
   <string name="search_feedback_user_notice">"He llegit i he acceptat %s."</string>
+  <string name="search_feedback_user_policy">Política de privacitat de l\'algoritme del programa Galeria MI AIUI</string>
   <string name="search_hint">Cerca d\'imatges</string>
   <string name="search_image_result_title">Resultats de la cerca</string>
   <string name="search_login_now">Inicia la sessió</string>
@@ -987,6 +988,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="tip_not_download">No es troba al dispositiu. Es baixarà de Mi Cloud mentre es reprodueix.</string>
   <string name="tip_screenshot_package_info">Nom de l\'aplicació:</string>
   <string name="title_set_name">Introduïu el nom</string>
+  <string name="title_tip">Pista</string>
   <string name="title_warn">Advertència</string>
   <string name="to_count">%d en total</string>
   <string name="to_enable_gallery_sync_dialog_message">Cal que primer activeu la sincronització de la galeria</string>
