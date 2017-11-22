@@ -97,10 +97,18 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="device_xiaomi">Telèfon Mi</string>
   <string name="dialog_cancel_backup_cancel">Cancel·la</string>
   <string name="dialog_cancel_backup_confirm">D\'acord</string>
+  <string name="dialog_cancel_backup_msg">En commutar l\'interruptor, es cancel·laran les còpies de seguretat en curs.</string>
+  <string name="dialog_cancel_backup_title">Voleu cancel·lar la còpia de seguretat en curs?</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
+  <string name="doing_restore_home">S\'està restaurant la pantalla d\'inici i la configuració…</string>
+  <string name="done_remove">S\'ha esborrat correctament</string>
+  <string name="download_home_data">S\'està baixant el disseny de la pantalla d\'inici…</string>
+  <string name="download_meta_again">"No s'ha pogut carregar la còpia de seguretat, torneu-ho a provar."</string>
+  <string name="download_meta_failed">"No s'ha pogut carregar les dades."</string>
   <string name="download_settings">S\'està baixant la configuració de la pantalla d\'inici: %s%%</string>
   <string name="download_settings_fail">"No s'ha pogut baixar la configuració de la pantalla d'inici"</string>
   <string name="error_unknown">Quelcom ha fallat</string>
+  <string name="lack_of_storage">No hi ha prou espai</string>
   <string name="latest_backup_time_loading">S\'està carregant&#8230;</string>
   <string name="managespace_delete_backup">Esborra còpia de seguretat</string>
   <string name="menu_item_managespace">Gestiona l\'espai</string>
@@ -108,6 +116,7 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="menu_item_sort_name">Nom</string>
   <string name="menu_item_sort_size">Mida</string>
   <string name="name_model">"%2$s de %1$s"</string>
+  <string name="network_error">Connecteu-vos a la xarxa</string>
   <string name="open_wifi">Encén el Wi-Fi ara</string>
   <string name="open_wifi_description">Connecteu-vos a una xarxa Wi-Fi per restaurar aplicacions</string>
   <string name="open_wifi_setting">Configuració Wi-Fi</string>
