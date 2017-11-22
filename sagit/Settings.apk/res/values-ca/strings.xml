@@ -1559,6 +1559,7 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="fingerprint_manage_tittle">Empremta</string>
   <string name="fingerprint_not_identified_msg">"No es pot llegir l'empremta. Introduïu la contrasenya"</string>
   <string name="fingerprint_not_recognized">No s\'ha reconegut</string>
+  <string name="fingerprint_payment">Pagaments amb l\'empremta</string>
   <string name="fingerprint_removal_failed">"No s'ha pogut suprimir l'empremta, torneu-hi"</string>
   <string name="fingerprint_unlock_set_unlock_password">Empremta + Contrasenya</string>
   <string name="fingerprint_unlock_set_unlock_pattern">Empremta + Patró</string>
