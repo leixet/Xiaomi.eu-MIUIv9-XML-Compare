@@ -124,6 +124,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="err_unknown">Error no identificat</string>
   <string name="err_version_too_old">El fitxer de la còpia de seguretat és massa antic.</string>
   <string name="err_version_unsupported">"La versió de la còpia de seguretat no és compatible."</string>
+  <string name="error_permissions">"Ha fallat els permisos del calendari de lectura i escriptura, comproveu el permís a la configuració"</string>
   <string name="every_day">Cada dia</string>
   <string name="exchange_account">Canvia de compte</string>
   <string name="fail">S\'ha produït un error</string>
