@@ -287,6 +287,7 @@
   <string name="toast_feedbackservice_in_submit">S\'estan enviant els comentaris anteriors&#8230;</string>
   <string name="toast_fill_brackets">Al vostre informe li falta informació</string>
   <string name="toast_log_not_exists">"El registre necessari s'ha suprimit o no existeix"</string>
+  <string name="toast_log_too_large">"No es pot penjar. El fitxer és massa gran."</string>
   <string name="toast_module_required">Trieu un element</string>
   <string name="toast_network_unavailable">"No s'ha pogut enviar. No es pot connectar a la xarxa."</string>
   <string name="toast_pending_log_collection">Encara s\'estan recuperant registres&#8230;</string>
