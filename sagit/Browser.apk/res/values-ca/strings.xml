@@ -532,6 +532,9 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="nav_bottom_bar_new_tab">Nova pestanya</string>
   <string name="nav_screen_container_tab_incognito">Pestanya d\'incògnit</string>
   <string name="nav_screen_container_tab_normal">Pestanya normal</string>
+  <string name="nav_screen_incognito_message">"L\'historial de navegació i cerca no es desarà al mode incògnit. Recordeu que els fitxers que baixeu i els marcadors que afegiu es desaran."</string>
+  <string name="nav_screen_incognito_time">Després de %s segons es crearà automàticament una pàgina nova</string>
+  <string name="nav_screen_incognito_title">Mode d\'incògnit</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Cancel·la</string>
   <string name="navigationbar_rightbutton_actiontext_go">Vés</string>
   <string name="navigationbar_rightbutton_actiontext_search">Cerca</string>
@@ -786,6 +789,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="send_comment_title">Comentari</string>
   <string name="senddesktop">Pantalla d\'inici</string>
   <string name="sendstartpage">Pàgina d\'inici</string>
+  <string name="sequence_bookmark_description">Canvia la seqüència d\'adreces d\'interès</string>
   <string name="share_image_text">Estic gaudint d\'una imatge molt meravellosa</string>
   <string name="share_page_text">Estic gaudint 【%1$s】 | %2$s</string>
   <string name="show_check_security_url_check_tip_dialog_description">Per millorar-ne la seguretat i rebre recomanacions rellevants, permeteu al navegador accedir a aquests elements:</string>
@@ -796,6 +800,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="snapshot">Local</string>
   <string name="snapshot_failed">"No s'ha pogut desar per llegir-la fora de línia"</string>
   <string name="snapshot_successed">Desa per una lectura fora de línia</string>
+  <string name="soft_toast_see_view">Mostra</string>
   <string name="ssl_bad_clock_date_settings">Configuració de data</string>
   <string name="ssl_bad_clock_warning" formatted="false">"No es pot establir una connexió privada a %s1 perquè la data i l'hora (%s2) del dispositiu són incorrectes."</string>
   <string name="ssl_certificate">Certificat de Seguretat</string>
@@ -832,6 +837,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="suggest_access_item_singer_pop">%d cançons populars</string>
   <string name="suggest_access_item_site_mark">LLOCS</string>
   <string name="suggest_access_item_video_mark">VÍDEO</string>
+  <string name="suggest_access_item_yellow_mark">PÀGINES GROGUES</string>
   <string name="suggest_access_music">Música Mi</string>
   <string name="suggest_item_delete_text">Elimina</string>
   <string name="suggest_open_app_failed">"No s'ha pogut obrir aquesta aplicació"</string>
@@ -852,6 +858,8 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="title_bar_loading">S\'està carregant&#8230;</string>
   <string name="too_many_windows_dialog_message">"El navegador no pot obrir una nova pestanya fins que en tanqueu una altra"</string>
   <string name="too_many_windows_dialog_title">"No es pot obrir més pestanyes"</string>
+  <string name="transfer_prompt_0">Reprodueix el vídeo</string>
+  <string name="transfer_restart">Reinicia</string>
   <string name="unSwitchText">NO</string>
   <string name="undo">Desfés</string>
   <string name="unknown_title">Desconegut</string>
@@ -896,6 +904,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="video_buffering_percent_string">"S'està omplint la memòria intermèdia "</string>
   <string name="video_collect_cancel">Elimina de Preferits</string>
   <string name="video_collect_success">S\'ha agregat als favorits</string>
+  <string name="video_doenload_complete">S\'ha baixat el vídeo amb èxit</string>
   <string name="video_download_complete">Baixada completa.</string>
   <string name="video_download_empty">No hi ha vídeos</string>
   <string name="video_download_error">Error</string>
@@ -932,6 +941,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="video_push_multi_message">Hi ha %1$d actualitzacions</string>
   <string name="video_push_multi_title">Hi ha actualitzacions</string>
   <string name="video_push_single_message">Premeu per actualitzar a %1$d.</string>
+  <string name="video_service_notification_title">Reproducció de vídeo emergent</string>
   <string name="video_subtitle_last_message1">Falta menys d\'un minut</string>
   <string name="video_subtitle_prefix1">Vist</string>
   <string name="video_subtitle_prefix2">"Vist "</string>
