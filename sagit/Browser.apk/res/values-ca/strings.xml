@@ -36,6 +36,7 @@
   <string name="action_menu_text_copy_url">Copia l\'URL</string>
   <string name="action_menu_text_create_qr_code">Codi QR</string>
   <string name="action_menu_text_download">Gestiona les baixades</string>
+  <string name="action_menu_text_drop">Menú de sortida</string>
   <string name="action_menu_text_exit">Surt</string>
   <string name="action_menu_text_find_in_page">Troba a la pàgina</string>
   <string name="action_menu_text_fullscreen">Pantalla completa</string>
@@ -115,6 +116,7 @@
   <string name="bookmark_cannot_save_url">"Aquest URL no es pot afegir als marcadors."</string>
   <string name="bookmark_folder_needs_title">Introduïu un nom de grup</string>
   <string name="bookmark_group_lable">Grup</string>
+  <string name="bookmark_move_to">Mou a</string>
   <string name="bookmark_needs_title">El marcador ha de tenir un nom</string>
   <string name="bookmark_needs_url">El marcador ha de contenir un URL</string>
   <string name="bookmark_not_saved">"No s'ha pogut desar el marcador"</string>
@@ -140,6 +142,8 @@
   <string name="cancel">Cancel·la</string>
   <string name="cancle_sync_cloud_tabs">Cancel·la la sincronització</string>
   <string name="cannot_download">Només podeu baixar URLs «http» o «https»</string>
+  <string name="check_security_tip_privacy_policy">Política de privadesa</string>
+  <string name="check_security_tip_user_agreement">Acord d\'usuari</string>
   <string name="choosertitle_sharevia">Comparteix mitjançant</string>
   <string name="clear_history">Esborra l\'historial</string>
   <string name="clear_most_visited">Historial recent</string>
@@ -221,6 +225,7 @@ està a punt de passar»</string>
   <string name="date_time_picker_dialog_title">Estableix la data i l\'hora</string>
   <string name="delete">Elimina</string>
   <string name="delete_bookmark">Elimina</string>
+  <string name="delete_bookmark_action_warning">Voleu elimina els marcadors?</string>
   <string name="delete_bookmark_group_warning">Voleu eliminar «%s»? Tots els marcadors d\'aquest grup s\'eliminaran.</string>
   <string name="delete_bookmark_warning">Voleu eliminar el marcador «%s»?</string>
   <string name="delete_download">Elimina</string>
@@ -338,6 +343,7 @@ està a punt de passar»</string>
   <string name="geolocation_settings_page_summary_allowed">Aquest lloc pot accedir a la vostra ubicació</string>
   <string name="geolocation_settings_page_summary_not_allowed">"Aquest lloc no pot accedir a la vostra ubicació"</string>
   <string name="geolocation_settings_page_title">Esborra l\'accés a la ubicació</string>
+  <string name="go_back_descirption">Enrere</string>
   <string name="go_supermarket_button">Vés</string>
   <string name="go_supermarket_title">Més aplicacions, més ràpid i menys ús de dades a l\'App Store</string>
   <string name="gold_medals">Medalles d\'or</string>
@@ -522,6 +528,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="more_option">Més opcions</string>
   <string name="nav_bottom_bar_back">Anterior</string>
   <string name="nav_bottom_bar_close_all">Tanca-ho tot</string>
+  <string name="nav_bottom_bar_close_description">Tanca</string>
   <string name="nav_bottom_bar_new_tab">Nova pestanya</string>
   <string name="nav_screen_container_tab_incognito">Pestanya d\'incògnit</string>
   <string name="nav_screen_container_tab_normal">Pestanya normal</string>
