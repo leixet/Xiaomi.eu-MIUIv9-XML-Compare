@@ -17,6 +17,10 @@
     <item quantity="other">%1$d de %2$d</item>
     <item quantity="one">1 coincidència</item>
   </plurals>
+  <plurals name="transfer_prompt">
+    <item quantity="other">Reprodueix vídeo en %1$d segons</item>
+    <item quantity="one">Reprodueix vídeo en %1$d segon</item>
+  </plurals>
   <plurals name="v5_edit_mode_title">
     <item quantity="other">%1$d seleccionats</item>
     <item quantity="one">%1$d seleccionat</item>
