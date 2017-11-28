@@ -5,7 +5,7 @@
   <string name="abort_restore_confirm">"La restauració no ha acabat. Voleu aturar-la?"</string>
   <string name="account_contact_backup_info">Dades dels comptes Google i Mi i dels contactes</string>
   <string name="account_login">Inicia la sessió</string>
-  <string name="account_summary">Còpia de seguretat del compte Google, Mi i altres dades d\'usuari</string>
+  <string name="account_summary">Còpia de seguretat dels comptes Google i Mi i d\'altres dades d\'usuari</string>
   <string name="already_enable_encrypt">El xifratge ja està activat</string>
   <string name="app_name">Còpia de seguretat</string>
   <string name="apps_and_data_item_desc">Aplicacions i dades</string>
