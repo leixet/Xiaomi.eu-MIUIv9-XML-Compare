@@ -3,7 +3,7 @@
 <resources>
   <string name="abort_backup_confirm">"La còpia de seguretat no ha acabat. Voleu aturar-la?"</string>
   <string name="abort_restore_confirm">"La restauració no ha acabat. Voleu aturar-la?"</string>
-  <string name="account_contact_backup_info">Dades del compte Google, Mi i contactes</string>
+  <string name="account_contact_backup_info">Dades dels comptes Google i Mi i dels contactes</string>
   <string name="account_login">Inicia la sessió</string>
   <string name="account_summary">Còpia de seguretat del compte Google, Mi i altres dades d\'usuari</string>
   <string name="already_enable_encrypt">El xifratge ja està activat</string>
