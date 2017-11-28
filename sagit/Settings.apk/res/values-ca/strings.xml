@@ -2649,7 +2649,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="page_layout_page2_small_summary">Molt petita</string>
   <string name="page_layout_page2_small_title">Molt petita</string>
   <string name="page_layout_page2_title">Previsualització</string>
-  <string name="paper_mode_auto_twilight_summary">mode de lectura en mode penombra</string>
+  <string name="paper_mode_auto_twilight_summary">Canvi automàtic de mode de lectura després de l\'ocàs</string>
   <string name="paper_mode_auto_twilight_title">"Mode penombra"</string>
   <string name="paper_mode_customize_time_summary">planifica de mode de lectura com a temps personalitzat</string>
   <string name="paper_mode_customize_time_title">personalitza el temps</string>
