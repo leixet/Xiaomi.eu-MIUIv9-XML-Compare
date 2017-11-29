@@ -102,7 +102,6 @@
   <string name="button_sort_by_date">Ordena per data</string>
   <string name="button_sort_by_size">Ordena per mida</string>
   <string name="button_wait_for_wifi">Espera</string>
-  <string name="buy_other_flow">Dades habituals</string>
   <string name="can_not_find_resource">"No s'ha trobat el recurs"</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_running_download">Cancel·la</string>
@@ -259,7 +258,6 @@
   <string name="download_toast">Utilitzant les dades mòbils per baixar cançons</string>
   <string name="download_toast_with_beyond_data">Utilitzant les dades mòbils per baixar cançons. S\'ha excedit el límit per %s</string>
   <string name="download_toast_with_data">Utilitzant les dades mòbils per baixar cançons, %s restants</string>
-  <string name="download_traffic_dialog_buy_package">Compreu un pla de dades de música</string>
   <string name="download_traffic_dialog_msg">L\'ús de les seves dades mòbils per baixar cançons pot augmentar els seus càrrecs per dades mòbils</string>
   <string name="download_traffic_dialog_msg_beyond">"Heu superat el límit de dades mòbils un %s. Voleu utilitzar dades mòbils per baixar cançons?"</string>
   <string name="download_traffic_dialog_msg_serious">Només queden %s de dades mòbils. Voleu utilitzar dades per baixar cançons?</string>
@@ -493,8 +491,6 @@
   <string name="music_filter">Filtra els fitxers d\'àudio</string>
   <string name="music_service">Servei de música</string>
   <string name="music_settings">Música</string>
-  <string name="music_traffic">Pla de dades musicals</string>
-  <string name="music_traffic_summary">Escolteu i baixeu cançons sense necessitat d\'utilitzar dades</string>
   <string name="my_account">Compte Mi</string>
   <string name="my_music_empty">Llista de reproducció buida.</string>
   <string name="my_music_empty_goto_online">No s\'han trobat cançons</string>
@@ -669,7 +665,6 @@
   <string name="ringtone_not_support">"Aquest format de cançó no és compatible"</string>
   <string name="root_downloads">Baixades</string>
   <string name="save_to_playlist">Desa com a llista de reproducció</string>
-  <string name="search_album">Cerca àlbums</string>
   <string name="search_empty">"Sense resultats. Proveu amb altres paraules"</string>
   <string name="search_for_album">Àlbum</string>
   <string name="search_for_artist">Artista</string>
@@ -677,19 +672,16 @@
   <string name="search_hint_not_support_online">Cerca per artistes, cançons i àlbums</string>
   <string name="search_history_clear_all">Neteja</string>
   <string name="search_instant_online_music">En línia</string>
-  <string name="search_lyric">Cerca lletres</string>
   <string name="search_title">Cerca</string>
   <string name="search_title_album">Àlbums</string>
   <string name="search_title_singer">Artistes</string>
   <string name="search_title_song">Cançons</string>
   <string name="sel_svc">Seleccioneu un servei</string>
-  <string name="select_album">Trieu un àlbum</string>
   <string name="select_all">Seleccioneu-ho tot</string>
   <string name="select_device">Seleccioneu un dispositiu</string>
   <string name="select_displayed_folders">Trieu les carpetes a mostrar</string>
   <string name="select_local_album">Trieu un àlbum</string>
   <string name="select_local_lyric">Trieu una lletra</string>
-  <string name="select_lyric">Trieu una lletra</string>
   <string name="select_none">Anul·la la selecció</string>
   <string name="select_operation_items">Seleccioneu elements</string>
   <string name="selected_count">Seleccionats %1$d de %2$d</string>
@@ -698,14 +690,11 @@
   <string name="server_error">Error al servidor. Si us plau, torneu-ho a provar més tard</string>
   <string name="service_and_settings">Servei i configuració</string>
   <string name="service_stop">Servei suspès</string>
-  <string name="set_album_successful">Àlbum desat</string>
   <string name="set_as_ring">Estableix com a to de trucada</string>
   <string name="set_id3_failed">"No s'ha pogut desar la informació"</string>
   <string name="set_id3_not_have_read_or_write_permission">"No tens permisos per editar aquest fitxer"</string>
   <string name="set_id3_not_support_format">"No es pot editar aquest format de fitxer"</string>
   <string name="set_id3_successful">Informació de la cançó desada</string>
-  <string name="set_lyric_successful">Lletra desada</string>
-  <string name="set_now">Vés a la Configuració</string>
   <string name="set_ringtones_failed">"No s'ha pogut establir el to de trucada"</string>
   <string name="set_ringtones_successful">%s establert com a to de trucada</string>
   <string name="setting_feature_setting">Configuració de les característiques</string>
@@ -765,9 +754,6 @@
   <string name="storage_usb">Emmagatzematge USB</string>
   <string name="stream_quality">Qualitat de la transmissió</string>
   <string name="streamloadingtext">S\'està connectant amb %s</string>
-  <string name="sub_explanation">Pla de dades musicals</string>
-  <string name="sub_explanation_message">"El pla de dades musicals és compatible actualment amb Xina Unicom. El vostre proveïdor de xarxa no suporta aquesta característica. Vostè pot comprar dades mòbils estàndards."</string>
-  <string name="subed">Activat</string>
   <string name="suggest_text">La gent a la qual li va agradar això també li va agradar</string>
   <string name="sync_only_in_wifi">Sincronitza només amb Wi-Fi</string>
   <string name="sync_only_in_wifi_summary">Sincronitza la vostra música a tots els vostres dispositius amb Mi Cloud. En utilitzar la vostra connexió de dades per sincronitzar música incrementarà el vostre ús de dades. Si us passeu del límit del vostre pla, el vostre proveïdor pot cobrar un extra.</string>
@@ -837,9 +823,6 @@
   <string name="track_main_fragment_tab_track">Cançons</string>
   <string name="track_search_title">Pista</string>
   <string name="track_view">Cançó</string>
-  <string name="traffic_free_to_play">Utilitzeu el pla de dades de música</string>
-  <string name="traffic_network_alert">Pla de dades Música Mi</string>
-  <string name="traffic_network_alert_message">"Esteu utilitzant el pla de dades de Música Mi proporcionada per Xina Unicom. Hauríeu de connectar-vos a una xarxa de 3gnet per reproduir cançons sense gastar dades mòbils. Assegureu-vos de verificar la configuració de xarxa per a la transmissió de música."</string>
   <string name="trigger_to_scan_media_library_finish">Actualitzat</string>
   <string name="trigger_to_scan_media_library_processing">Encara s\'està refrescant&#8230;</string>
   <string name="trigger_to_scan_media_library_start">S\'està refrescant&#8230;</string>
