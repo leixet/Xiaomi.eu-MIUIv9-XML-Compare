@@ -505,6 +505,7 @@
   <string name="modify_progress">Canvia la velocitat de desplaçament de la lletra</string>
   <string name="modify_progress_helper">Feu lliscar amunt o avall per ajustar l\'avançament de la lletra.</string>
   <string name="modify_song_info">Edita la informació de la cançó</string>
+  <string name="modify_song_info_success">La informació de la cançó s\'ha actualitzat</string>
   <string name="monthly_price">Crèdits Mi</string>
   <string name="more">Més</string>
   <string name="more_about_artist">Més sobre %s</string>
@@ -606,6 +607,8 @@
   <string name="open_download">Obre</string>
   <string name="open_online_service">Cal activar els serveis en línia per utilitzar aquesta funció. Voleu activar-los?</string>
   <string name="open_service">Activa</string>
+  <string name="optimize_all_until_optimized">Optimitza la informació de la cançó, l\'àlbum i la lletra</string>
+  <string name="optimize_all_until_scanned">S\'està escanejant una cançó local, proveu-ho més tard</string>
   <string name="order_pending">S\'està esperant la confirmació</string>
   <string name="order_process_fail">"No s'ha pogut autoritzar el vostre compte. Espereu uns minuts i torne-ho a provar."</string>
   <string name="other_filter">Altres</string>
@@ -623,6 +626,7 @@
   <string name="pay_now">Servei actual</string>
   <string name="payment_fail">S\'ha produït un error en el pagament</string>
   <string name="payment_success">Pagament completat</string>
+  <string name="pending_apk">Pendents...</string>
   <string name="permission_declaration_message">Permeteu l\'accés a l\'emmagatzematge a Seguretat &gt; Permisos &gt; Permisos &gt; Emmagatzematge &gt; Música disponible per utilitzar normalment.</string>
   <string name="permission_declaration_negative_text">Més tard</string>
   <string name="permission_declaration_positive_text">Vés a Seguretat</string>
@@ -677,6 +681,21 @@
   <string name="really_pay">Voleu pagar ara?</string>
   <string name="recently_played">Reproduït recentment</string>
   <string name="recently_played_songs">Reproduït recentment</string>
+  <string name="recognition_reverted_message">"La informació, l'àlbum i la lletra de la cançó s'han revertit. Podeu recuperar tota la informació de les cançons que s'han optimitzat a la Configuració."</string>
+  <string name="recognition_reverted_title">Optimització intel·ligent d\'àlbums i lletres</string>
+  <string name="recognize_call">Optimitza</string>
+  <string name="recognize_call_summary">"La informació, l'àlbum i la lletra de la cançó no s'han optimitzat"</string>
+  <string name="recognize_calling">"S'està optimitzant la informació, l'àlbum i la lletra de la cançó…"</string>
+  <string name="recognize_calling_fail">No s\'ha trobat cap informació d\'aquesta cançó. L\'afegirem el més aviat possible</string>
+  <string name="recognize_calling_network_error">La xarxa no està disponible, torneu-ho a provar més tard</string>
+  <string name="recognize_revert">Reverteix</string>
+  <string name="recognize_revert_summary">"La informació, l'àlbum i la lletra de la cançó s'han optimitzat"</string>
+  <string name="recognize_reverting">"S'està revertint la informació de la cançó, l'àlbum i la lletra…"</string>
+  <string name="recognize_switch_off_alert_not_now">Ara no</string>
+  <string name="recognize_switch_off_alert_revert">Reverteix</string>
+  <string name="recognize_switch_off_alert_title">Optimització intel·ligent d\'àlbums i lletres</string>
+  <string name="recognized_alert_message">"L'aplicació de música optimitza automàticament la informació, l'àlbum i la lletra de la cançó. Podeu fer clic a «...» i modificar-los manualment"</string>
+  <string name="recognized_alert_title">Optimització intel·ligent d\'àlbums i lletres</string>
   <string name="recommend_fragment_title">Destacat</string>
   <string name="recommended_file_size_download_in_mobile">Voleu utilitzar %s de dades mòbils per baixar aquest fitxer?</string>
   <string name="recommended_no_file_size_download_in_mobile">Voleu utilitzar la vostre connexió de dades mòbils per baixar aquest fitxer?</string>
@@ -697,7 +716,9 @@
   <string name="retry_download">Torneu a provar-ho</string>
   <string name="ringtone_not_support">"Aquest format de cançó no és compatible"</string>
   <string name="root_downloads">Baixades</string>
+  <string name="save">Desa</string>
   <string name="save_to_playlist">Desa com a llista de reproducció</string>
+  <string name="search_album_and_lyric">Cerca àlbums i lletra per informació anterior</string>
   <string name="search_empty">"Sense resultats. Proveu amb altres paraules"</string>
   <string name="search_for_album">Àlbum</string>
   <string name="search_for_artist">Artista</string>
@@ -806,6 +827,7 @@
   <string name="talkback_device">Reprodueix a través d\'altres dispositius</string>
   <string name="talkback_download">Baixa</string>
   <string name="talkback_favorite">M\'agrada aquesta cançó</string>
+  <string name="talkback_karaoke">Obre el Karaoke</string>
   <string name="talkback_mode">Repeteix la llista de reproducció</string>
   <string name="talkback_mode_repeat_all">Mode repetició de la llista</string>
   <string name="talkback_mode_repeat_current">Mode repetició individual</string>
@@ -864,6 +886,7 @@
   <string name="unknown_album_name">Àlbum desconegut</string>
   <string name="unknown_artist_name">Artista desconegut</string>
   <string name="update_now">Actualitza ara</string>
+  <string name="update_time">(%s)</string>
   <string name="upgrade">Actualitza:</string>
   <string name="upgrade_force">"Vam deixar de donar servei al nostre servei de transmissió actual per problemes de copyright. Actualitzeu a la darrera versió de la nostra aplicació Música per escoltar música d'alta qualitat."</string>
   <string name="upgrade_immediate">Actualitza ara</string>
