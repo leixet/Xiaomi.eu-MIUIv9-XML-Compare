@@ -411,6 +411,7 @@
   <string name="in_searching_please_wait">S\'està cercant&#8230;</string>
   <string name="individuation_recommend_message">Assegureu-vos d\'activar les recomanacions personalitzades, la música de Xiaomi us oferirà un servei personal</string>
   <string name="individuation_recommend_switch_message">En desactivar aquest servei afectarà la ràdio personal i les recomanacions. Voleu desactivar-lo de totes maneres?</string>
+  <string name="individuation_recommend_title">Recomanem la individuació</string>
   <string name="input_hint_prefix">Introduïu la %1$s</string>
   <string name="installing_apk">S\'està instal·lant...</string>
   <string name="insufficient_space">"No hi ha prou espai en l'emmagatzematge intern del vostre dispositiu"</string>
