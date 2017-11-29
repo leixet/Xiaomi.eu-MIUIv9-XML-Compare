@@ -44,6 +44,7 @@
   <string name="audio_chat">Xat de veu</string>
   <string name="auto_nickname">Automàtic</string>
   <string name="auto_set_nickname">Automàtic</string>
+  <string name="back_description">Enrere</string>
   <string name="back_view_description">Anar enrere</string>
   <string name="batch_delete">Elimina el lot</string>
   <string name="blacklist">Bloca</string>
@@ -97,6 +98,8 @@
   <string name="call_work">Trucar a la feina</string>
   <string name="call_work_mobile">Trucar al mòbil de la feina</string>
   <string name="call_work_pager">Trucar al cercapersones de la feina</string>
+  <string name="calllog_call_note_menu">Notes de la trucada</string>
+  <string name="calllog_call_record_menu">Trucades enregistrades</string>
   <string name="calllog_menu_blacklist">Bloca</string>
   <string name="calllog_menu_edit_before_call">Edita</string>
   <string name="calllog_menu_send_sms">Enviar un missatge</string>
@@ -234,6 +237,9 @@ Les targetes de contacte estan apagades"</string>
   <string name="contact_editor_prompt_multiple_accounts">Seleccioneu un compte de contacte per guardar a</string>
   <string name="contact_editor_prompt_one_account">El nou contacte serà %1$s sincronitzat</string>
   <string name="contact_editor_prompt_zero_accounts">Desa al mòbil o en un compte en línia</string>
+  <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
+  <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
+  <string name="contact_import_methods_dialog_title">Seleccioneu el mètode d\'importació</string>
   <string name="contact_is_readOnly">"No es pot editar els contactes de només lectura"</string>
   <string name="contact_list_loading">Carregant&#8230;</string>
   <string name="contact_pick_photo">Foto</string>
@@ -252,6 +258,8 @@ Les targetes de contacte estan apagades"</string>
   <string name="contacts_unavailable_add_account">Inicieu sessió en un compte</string>
   <string name="contacts_unavailable_create_contact">Crea un nou contacte</string>
   <string name="contacts_unavailable_import_contacts">Importa contactes des d\'un fitxer</string>
+  <string name="contacts_unavailable_import_from_old_device">Importa des d\'un dispositiu antic</string>
+  <string name="contacts_unavailable_import_sim_contacts">Importa contactes de la SIM</string>
   <string name="convenient_service">Serveis</string>
   <string name="copy_number">Copia</string>
   <string name="copy_text">Copia al porta-retalls</string>
@@ -508,6 +516,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="import_name">Nom</string>
   <string name="import_one_vcard_string">Importa un fitxer vCard</string>
   <string name="import_selected_sim_entries_miui">Importa contactes seleccionats</string>
+  <string name="import_sim_contacts_hint_title">Importa contactes de la SIM</string>
   <string name="import_sim_entries_finish">Contactes importats de la targeta SIM</string>
   <string name="import_sim_entry_miui">Importar</string>
   <string name="import_to_xiaomi_account_confirm">Importar</string>
