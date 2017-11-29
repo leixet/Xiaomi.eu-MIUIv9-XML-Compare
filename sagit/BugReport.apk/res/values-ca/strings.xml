@@ -57,6 +57,7 @@
   <string name="feedback_bug_status_change_notification_desc">%1$s problema \"%2$s\"</string>
   <string name="feedback_choose_module">Trieu un element</string>
   <string name="feedback_choose_module_hint">Necessari</string>
+  <string name="feedback_choose_reproductivity">Reproductivitat</string>
   <string name="feedback_choose_third_app_name">Seleccioneu el nom de l\'aplicació</string>
   <string name="feedback_collect_log_failed">"No s'han pogut obtenir els registres"</string>
   <string name="feedback_contact_info_hint">Número de telèfon/correu</string>
@@ -114,6 +115,7 @@
   <string name="feedback_third_packagename_hint">Quina aplicació de tercers causa problemes?</string>
   <string name="feedback_title">Títol</string>
   <string name="feedback_title_hint">Descriviu el problema breument</string>
+  <string name="feedback_title_reproductivity">Selecció de la reproductivitat</string>
   <string name="feedback_tracking">Segueix els problemes</string>
   <string name="feedback_version_label">Versió</string>
   <string name="feesback_list">Informes</string>
