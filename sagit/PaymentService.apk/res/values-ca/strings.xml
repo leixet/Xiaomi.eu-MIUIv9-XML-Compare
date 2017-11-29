@@ -27,7 +27,6 @@
   <string name="mibi_btn_recharge_success_quick">S\'ha completat la recàrrega</string>
   <string name="mibi_button_bind_phone">Emparella ara</string>
   <string name="mibi_button_call">Truca</string>
-  <string name="mibi_button_call_frozen_service">Suport 24 hores en línia</string>
   <string name="mibi_button_cancel">Cancel·la</string>
   <string name="mibi_button_confirm">Confirma</string>
   <string name="mibi_button_count_down_finish">D\'acord(%1$s)</string>
@@ -81,9 +80,6 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="mibi_error_deduct">"No es va poder activar el protocol de pagament automàtic"</string>
   <string name="mibi_error_expired_summary">La vostra comanda ha caducat</string>
   <string name="mibi_error_frozen_service_num">400-100-2234</string>
-  <string name="mibi_error_frozen_service_time">Dilluns a diumenge</string>
-  <string name="mibi_error_frozen_summary">"El vostre compte està bloquejat.
-Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_error_has_bought_summary">Ja heu comprat aquest producte.</string>
   <string name="mibi_error_illegal_order_summary">Error en la comanda. Torneu-ho a provar més tard</string>
   <string name="mibi_error_invalid_device">Dispositiu no vàlid.</string>
@@ -259,7 +255,6 @@ Contacteu amb el servei al client de Xiaomi"</string>
   <string name="mibi_sms_code_hint">Introduïu codi de verificació de 3 a 6 dígits</string>
   <string name="mibi_summary_bind_phone">Per garantir la seguretat del compte, completeu el pagament després de vincular el número de telèfon.</string>
   <string name="mibi_summary_sms_code">Introduïu el codi de verificació enviat a %1$s i després, finalitzi el pagament</string>
-  <string name="mibi_title_bill_record">Historial de pagaments</string>
   <string name="mibi_title_bind_phone">S\'està vinculant amb el número de telèfon</string>
   <string name="mibi_title_custom_service_phone">Contacta amb atenció al client</string>
   <string name="mibi_title_discounts">Descomptes</string>
