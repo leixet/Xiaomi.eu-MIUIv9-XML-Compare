@@ -7,6 +7,7 @@
   <string name="accessibility_effect_mode_button">Botó d\'efectes</string>
   <string name="accessibility_flash_mode_button">Botó del flaix</string>
   <string name="accessibility_hdr">Botó activar HDR</string>
+  <string name="accessibility_intent_done_apply">Fet</string>
   <string name="accessibility_mode_dismiss_button">Botó de tancament del mode de selecció</string>
   <string name="accessibility_peak">Botó de pic d\'enfocament</string>
   <string name="accessibility_portrait_button">Mode retrat</string>
