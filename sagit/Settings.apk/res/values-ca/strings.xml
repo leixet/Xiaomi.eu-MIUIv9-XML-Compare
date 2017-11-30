@@ -714,6 +714,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="bluetooth_unlock_turned_on">Activat</string>
   <string name="bluetooth_untether_blank">%1$s es desconnectarà de la connexió a internet compartida.</string>
   <string name="bluetooth_visibility_timeout">Durada de la visibilitat</string>
+  <string name="bluetooth_wake">Desperta amb àudio Bluetooth</string>
   <string name="bootloader">Mode Fastboot</string>
   <string name="bootloader_apply_step_1">Voleu activar el mode Fastboot?</string>
   <string name="bootloader_apply_step_2">Quan el dispositiu és en mode Fastboot i connectat a l\'ordinador</string>
@@ -3530,6 +3531,8 @@ Per fer-ho:
   <string name="settings_license_activity_title">Llicències de codi obert</string>
   <string name="settings_license_activity_unavailable">S\'ha produït un problema en llegir les llicències.</string>
   <string name="settings_manual_activity_unavailable">S\'ha produït un problema en carregar el manual.</string>
+  <string name="settings_notify_need_backup">Feu una còpia de seguretat de la configuració al Mi Cloud per accedir-hi després d\'haver canviat els telèfons.</string>
+  <string name="settings_notify_phone_recycled">El vostre número de telèfon ha estat reciclat. Toqueu per afegir un número de telèfon diferent.</string>
   <string name="settings_safetylegal_activity_loading">S\'està carregant…</string>
   <string name="settings_safetylegal_activity_title">Informació de seguretat</string>
   <string name="settings_safetylegal_activity_unreachable">No hi ha connexió de dades. Per veure la informació, aneu a %s des de qualsevol ordinador connectat a Internet.</string>
@@ -3714,6 +3717,7 @@ Per fer-ho:
   <string name="spellchecker_security_warning">Aquest corrector ortogràfic pot accedir a tot el que teclegeu, incloses dades personals, contrasenyes i targetes de crèdit. Prové de l\'aplicació %1$s. Voleu fer-lo servir?</string>
   <string name="spellchecker_switch_title">Activar el corrector ortogràfic</string>
   <string name="spellcheckers_settings_title">Corrector ortogràfic</string>
+  <string name="split_screen">Accedeix a la pantalla dividida</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_warning">És possible que la xarxa estigui supervisada</string>
   <string name="ssl_ca_cert_warning_message">«Un tercer pot supervisar l\'activitat a la xarxa, inclosos els correus electrònics, les aplicacions i els llocs web segurs.
@@ -3942,6 +3946,7 @@ Per a un millor rendiment, us recomanem que utilitzeu un ^1 més ràpid."</strin
   <string name="suggested_lock_settings_title">Bloqueig de pantalla</string>
   <string name="suggestion_additional_fingerprints">Afegeix una altra empremta digital</string>
   <string name="suggestion_additional_fingerprints_summary">Desbloqueja amb una altra empremta</string>
+  <string name="suggestion_for_phone_recycled">Afegiu un número de telèfon diferent</string>
   <string name="suggestion_remove">Treu</string>
   <string name="suggestions_title">Suggeriments (%1$d)</string>
   <string name="sum_carrier_select">Trieu un operador de xarxa</string>
@@ -3991,6 +3996,7 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="system_backup_section_title">Còpia de seguretat</string>
   <string name="system_default_app">(Opció predeterminada del sistema)</string>
   <string name="system_package">Les actualitzacions del sistema no es poden instal·lar en suports externs.</string>
+  <string name="system_shortcut_wake">Desperta amb els botons de drecera</string>
   <string name="system_storage">Emmagatzematge del sistema</string>
   <string name="system_ui_settings">Mostra el SystemUI Tuner</string>
   <string name="system_update_settings_list_item_title">Actualitzacions del sistema</string>
@@ -4458,6 +4464,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="vision_settings_description">Podeu personalitzar el dispositiu perquè s\'adapti a les vostres necessitats. Aquestes funcions d\'accessibilitat es poden canviar posteriorment des de Configuració.</string>
   <string name="vision_settings_title">Configuració de visió</string>
   <string name="voice_category">Veu</string>
+  <string name="voice_helper_title">Assistent de veu</string>
   <string name="voice_input_output_settings">Entrada i sortida de veu</string>
   <string name="voice_input_output_settings_title">Configuració de l\'entrada i sortida de veu</string>
   <string name="voice_input_settings">Configuració de l\'entrada de veu</string>
