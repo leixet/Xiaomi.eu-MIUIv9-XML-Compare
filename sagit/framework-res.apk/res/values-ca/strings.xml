@@ -53,4 +53,17 @@
   <string name="app_running_notification_title">%1$s s\'està executant</string>
   <string name="app_upgrading_toast">%1$s s\'està actualitzant…</string>
   <string name="audit_safemode_notification">Restableix les dades de fàbrica del dispositiu per utilitzar-lo sense restriccions</string>
+  <string name="audit_safemode_notification_details">Premeu per obtenir més informació.</string>
+  <string name="autofill_this_form">Emplenament automàtic</string>
+  <string name="back_button_label">Enrere</string>
+  <string name="badPin">"El codi PIN antic que heu introduït no és correcte."</string>
+  <string name="badPuk">"El codi PUK que heu introduït no és correcte."</string>
+  <string name="battery_saver_description">"Per ajudar a ampliar la durada de la bateria, l\'estalvi de bateria redueix el funcionament del dispositiu i limita la vibració, el servei d\'ubicació i la majoria de les dades de fons. El correu electrònic, la missatgeria i les altres aplicacions que utilitzen la sincronització podrien no actualitzar-se fins que les obriu.
+
+L\'estalvi de bateria s\'apaga automàticament quan el dispositiu s\'està carregant."</string>
+  <string name="beforeOneMonthDurationPast">Abans de fa 1 mes</string>
+  <string name="bluetooth_a2dp_audio_route_name">Àudio Bluetooth</string>
+  <string name="bugreport_message">Es recopilarà informació sobre l\'estat actual del vostre dispositiu i s\'enviarà per correu. Passaran uns minuts des que comenci a generar-se l\'informe d\'errors fins que s\'enviï, per la qual cosa et recomanem que tingueu paciència.</string>
+  <string name="bugreport_option_full_summary">Utilitzeu aquesta opció perquè la interferència en el sistema sigui mínima si el dispositiu no respon o va massa lent, o bé si necessiteu totes les seccions de l\'informe. No us permetrà introduir més dades ni fer més captures de pantalla.</string>
+  <string name="bugreport_option_full_title">Informe complet</string>
 </resources>
