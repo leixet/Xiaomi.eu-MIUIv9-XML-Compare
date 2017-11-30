@@ -66,4 +66,37 @@ L\'estalvi de bateria s\'apaga automàticament quan el dispositiu s\'està carre
   <string name="bugreport_message">Es recopilarà informació sobre l\'estat actual del vostre dispositiu i s\'enviarà per correu. Passaran uns minuts des que comenci a generar-se l\'informe d\'errors fins que s\'enviï, per la qual cosa et recomanem que tingueu paciència.</string>
   <string name="bugreport_option_full_summary">Utilitzeu aquesta opció perquè la interferència en el sistema sigui mínima si el dispositiu no respon o va massa lent, o bé si necessiteu totes les seccions de l\'informe. No us permetrà introduir més dades ni fer més captures de pantalla.</string>
   <string name="bugreport_option_full_title">Informe complet</string>
+  <string name="bugreport_option_interactive_summary">Utilitzeu aquesta opció en la majoria de circumstàncies. Us permetrà fer un seguiment del progrés de l\'informe, introduir més dades sobre el problema i fer captures de pantalla. És possible que ometi seccions poc utilitzades que requereixen molt de temps.</string>
+  <string name="bugreport_option_interactive_title">Informe interactiu</string>
+  <string name="bugreport_status" formatted="false">%s (%s)</string>
+  <string name="bugreport_title">Crea un informe d\'errors</string>
+  <string name="byteShort">B</string>
+  <string name="cancel">Cancel·la</string>
+  <string name="candidates_style">&lt;u&gt;candidats&lt;/u&gt;</string>
+  <string name="capability_desc_canControlMagnification">"Controla el nivell i el posicionament del zoom de la pantalla."</string>
+  <string name="capability_desc_canPerformGestures">Podeu tocar, lliscar, pessigar i realitzar altres gestos.</string>
+  <string name="capability_desc_canRequestEnhancedWebAccessibility">És possible que s\'instal·lin seqüències d\'ordres perquè el contingut de les aplicacions sigui més accessible.</string>
+  <string name="capability_desc_canRequestFilterKeyEvents">Inclou dades personals com números de targetes de crèdit i contrasenyes.</string>
+  <string name="capability_desc_canRequestTouchExploration">Els elements seleccionats es diran en veu alta i podreu explorar la pantalla mitjançant gestos.</string>
+  <string name="capability_desc_canRetrieveWindowContent">"Inspeccioneu el contingut d'una finestra amb la qual interactueu."</string>
+  <string name="capability_title_canControlMagnification">Controla el zoom de la pantalla</string>
+  <string name="capability_title_canPerformGestures">Realitza gestos</string>
+  <string name="capability_title_canRequestEnhancedWebAccessibility">Activa l\'accessibilitat web millorada</string>
+  <string name="capability_title_canRequestFilterKeyEvents">Observa el text que escriu</string>
+  <string name="capability_title_canRequestTouchExploration">Activa l\'exploració tàctil</string>
+  <string name="capability_title_canRetrieveWindowContent">Recupera el contingut de la finestra</string>
+  <string name="capital_off">DESACTIVAT</string>
+  <string name="capital_on">ACTIVAT</string>
+  <string name="car_mode_disable_notification_message">Toqueu per sortir del mode cotxe.</string>
+  <string name="car_mode_disable_notification_title">S\'ha activat el mode cotxe</string>
+  <string name="carrier_app_dialog_button">OBTÉN L\'APLICACIÓ</string>
+  <string name="carrier_app_dialog_message">"Perquè la nova SIM funcioni, heu d'instal·lar i obrir una aplicació del vostre operador de telefonia mòbil."</string>
+  <string name="carrier_app_dialog_not_now">ARA NO</string>
+  <string name="carrier_app_notification_text">Toqueu per configurar-la</string>
+  <string name="carrier_app_notification_title">S\'ha inserit una SIM nova</string>
+  <string name="cfTemplateForwarded">{0}: {1}</string>
+  <string name="cfTemplateForwardedTime">{0}: {1} transcorreguts {2} segons</string>
+  <string name="cfTemplateNotForwarded">{0}: No desviada</string>
+  <string name="cfTemplateRegistered">{0}: No desviada</string>
+  <string name="cfTemplateRegisteredTime">{0}: No desviada</string>
 </resources>
