@@ -1760,6 +1760,9 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="incoming_call_breathing_light_color_title">Color de les trucades</string>
   <string name="incoming_call_breathing_light_freq_title">Freqüència de parpelleig del LED per trucades</string>
   <string name="incoming_call_volume_title">To de trucada</string>
+  <string name="infinity_display_settings">Pantalla completa</string>
+  <string name="infinity_display_slogan">Creixement continuat en tecnologia inexplorada</string>
+  <string name="infinity_display_title">Pantalla completa</string>
   <string name="information_dialog_button_text">Ja està!</string>
   <string name="input_method">Teclat</string>
   <string name="input_method_selector">Selector del mètode d\'entrada</string>
@@ -2332,6 +2335,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="mock_location_app">Selecciona aplicació per simular ubicació</string>
   <string name="mock_location_app_not_set">Cap aplicació per simular ubicació seleccionada</string>
   <string name="mock_location_app_set">Aplicació d\'ubicació simulades: %1$s</string>
+  <string name="model_name">Nom del model</string>
   <string name="model_number">Model</string>
   <string name="modify_instruction_password_settings">Estableix una contrasenya</string>
   <string name="modify_privacy_password">Canvieu la contrasenya</string>
@@ -2388,6 +2392,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="music_dirac_mode_piston_color">Edició de color</string>
   <string name="music_dirac_mode_piston_standard">Edició Estàndard</string>
   <string name="music_dirac_mode_piston_youth">Edició Jove</string>
+  <string name="music_dirac_mode_reduction_noise">Redueix el soroll Tipus-C</string>
   <string name="music_dolby_mode_movie">Vídeo</string>
   <string name="music_dolby_mode_music">Música</string>
   <string name="music_dolby_mode_off">Apagat</string>
