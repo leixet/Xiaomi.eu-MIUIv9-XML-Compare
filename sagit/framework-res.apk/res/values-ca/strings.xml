@@ -32,4 +32,25 @@
   <string name="aerr_wait">Espereu</string>
   <string name="allow">Permet</string>
   <string name="allow_button">Permet</string>
+  <string name="alwaysUse">Utilitza-ho per defecte per a aquesta acció.</string>
+  <string name="android_preparing_apk">S\'està preparant %1$s.</string>
+  <string name="android_start_title">S\'està iniciant Android…</string>
+  <string name="android_system_label">Sistema Android</string>
+  <string name="android_upgrading_apk">S\'està optimitzant l\'aplicació %1$d de %2$d.</string>
+  <string name="android_upgrading_complete">S\'està acabant l\'arrencada.</string>
+  <string name="android_upgrading_fstrim">S\'està optimitzant l\'emmagatzematge.</string>
+  <string name="android_upgrading_notification_body">Pot ser que algunes aplicacions no funcionin correctament fins que no es completi l\'actualització</string>
+  <string name="android_upgrading_notification_title">S\'està finalitzat l\'actualització d\'Android…</string>
+  <string name="android_upgrading_starting_apps">S\'està iniciant les aplicacions.</string>
+  <string name="android_upgrading_title">Android s\'està actualitzant…</string>
+  <string name="anr_activity_application">"%2$s no respon"</string>
+  <string name="anr_activity_process">"%1$s no respon"</string>
+  <string name="anr_application_process">"%1$s no respon"</string>
+  <string name="anr_process">"El procés %1$s no respon"</string>
+  <string name="app_info">Informació de l\'aplicació</string>
+  <string name="app_not_found">No s\'ha trobat cap aplicació per processar aquesta acció</string>
+  <string name="app_running_notification_text">Toqueu per obtenir més informació o per aturar l\'aplicació.</string>
+  <string name="app_running_notification_title">%1$s s\'està executant</string>
+  <string name="app_upgrading_toast">%1$s s\'està actualitzant…</string>
+  <string name="audit_safemode_notification">Restableix les dades de fàbrica del dispositiu per utilitzar-lo sense restriccions</string>
 </resources>
