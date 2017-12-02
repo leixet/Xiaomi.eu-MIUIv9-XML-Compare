@@ -355,6 +355,7 @@ utilitzat %s"</string>
   <string name="hour">hora</string>
   <string name="hour_picker_description">Control circular d\'hores</string>
   <string name="hours">hores</string>
+  <string name="httpErrorOk">D\'acord</string>
   <string name="imProtocolCustom">Personalitzat</string>
   <string name="imTypeCustom">Personalitzat</string>
   <string name="imTypeHome">Casa</string>
@@ -375,4 +376,14 @@ utilitzat %s"</string>
   <string name="issued_by">Emès per:</string>
   <string name="issued_on">Emès el:</string>
   <string name="issued_to">Emès per a:</string>
+  <string name="keyboardview_keycode_cancel">Cancel·la</string>
+  <string name="keyboardview_keycode_delete">Suprimeix</string>
+  <string name="keyboardview_keycode_done">Fet</string>
+  <string name="keygaurd_accessibility_media_controls">Controls multimèdia</string>
+  <string name="keyguard_accessibility_add_widget">Afegeix un giny.</string>
+  <string name="keyguard_accessibility_camera">Càmera</string>
+  <string name="keyguard_accessibility_expand_lock_area">Amplia l\'àrea de desbloqueig.</string>
+  <string name="keyguard_accessibility_face_unlock">Desbloqueig facial.</string>
+  <string name="keyguard_accessibility_status">Estat</string>
+  <string name="keyguard_accessibility_widget_empty_slot">Buit</string>
 </resources>
