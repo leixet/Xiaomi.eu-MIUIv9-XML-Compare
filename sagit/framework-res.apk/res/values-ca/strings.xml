@@ -352,4 +352,27 @@ utilitzat %s"</string>
   <string name="hardware">Mostra el teclat virtual</string>
   <string name="heavy_weight_notification">%1$s en execució</string>
   <string name="heavy_weight_notification_detail">Toqueu per canviar a l\'aplicació</string>
+  <string name="hour">hora</string>
+  <string name="hour_picker_description">Control circular d\'hores</string>
+  <string name="hours">hores</string>
+  <string name="imProtocolCustom">Personalitzat</string>
+  <string name="imTypeCustom">Personalitzat</string>
+  <string name="imTypeHome">Casa</string>
+  <string name="imTypeOther">Altres</string>
+  <string name="imTypeWork">Feina</string>
+  <string name="ime_action_default">Executa</string>
+  <string name="ime_action_done">Fet</string>
+  <string name="ime_action_go">Vés</string>
+  <string name="ime_action_next">Següent</string>
+  <string name="ime_action_previous">Anterior</string>
+  <string name="ime_action_search">Cerca</string>
+  <string name="ime_action_send">Envia</string>
+  <string name="imei">IMEI</string>
+  <string name="immersive_cling_description">Per sortir, llisqueu el dit cap avall des de la part superior.</string>
+  <string name="immersive_cling_positive">Entesos</string>
+  <string name="inputMethod">Mètode d\'entrada</string>
+  <string name="input_method_binding_label">Mètode d\'entrada</string>
+  <string name="issued_by">Emès per:</string>
+  <string name="issued_on">Emès el:</string>
+  <string name="issued_to">Emès per a:</string>
 </resources>
