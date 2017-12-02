@@ -69,7 +69,7 @@
     <item>"Massa ràpid! No s'ha pogut reconèixer l'empremta"</item>
     <item>Moveu el dit una mica i torneu-ho a provar</item>
     <item>Aixequeu el dit i torneu a col·locar-lo a l\'escàner</item>
-    <item>Keep your finger on the scanner a bit longer</item>
+    <item>Mantingueu el dit a l\'escàner una mica més</item>
     <item></item>
     <item></item>
     <item></item>
@@ -78,7 +78,13 @@
     <item></item>
     <item></item>
     <item></item>
-    <item>Move your finger slightly</item>
-    <item>This fingerprint has been added, use a different finger</item>
+    <item>Moveu el dit una mica</item>
+    <item>Aquesta empremta ja s\'ha afegit, utilitzeu un dit diferent</item>
+  </string-array>
+  <string-array name="imAddressTypes">
+    <item>Casa</item>
+    <item>Feina</item>
+    <item>Altres</item>
+    <item>Personalitzat</item>
   </string-array>
 </resources>
