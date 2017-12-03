@@ -334,9 +334,13 @@ utilitzat %s"</string>
   <string name="global_action_power_off">Apaga</string>
   <string name="global_action_reboot">Reinicia</string>
   <string name="global_action_settings">Configuració</string>
+  <string name="global_action_silent_mode_off_status">El so està activat</string>
+  <string name="global_action_silent_mode_on_status">El so està desactivat</string>
   <string name="global_action_toggle_silent_mode">Mode silenci</string>
   <string name="global_action_voice_assist">Assistent de veu</string>
   <string name="global_actions">Opcions del telèfon</string>
+  <string name="global_actions_airplane_mode_off_status">El mode avió està desactivat</string>
+  <string name="global_actions_airplane_mode_on_status">El mode avió està activat</string>
   <string name="global_actions_toggle_airplane_mode">Mode avió</string>
   <string name="gpsNotifMessage">Sol·licitud enviada per %1$s (%2$s)</string>
   <string name="gpsNotifTicker">Sol·licitud d\'ubicació de %s</string>
