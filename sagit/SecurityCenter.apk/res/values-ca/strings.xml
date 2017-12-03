@@ -424,7 +424,7 @@
   <string name="button_text_delete_from_virus_white_list">elimina</string>
   <string name="button_text_deny">Denega</string>
   <string name="button_text_disconnect_now">Desconnectar</string>
-  <string name="button_text_fix_now">Corregeix-ho</string>
+  <string name="button_text_fix_now">Arregla</string>
   <string name="button_text_forbid_now">Prohibeix</string>
   <string name="button_text_ignore">Ignora</string>
   <string name="button_text_ignore_alert_title">Ignorar aquesta alerta?</string>
@@ -1184,7 +1184,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="optimize_result_button_consume_power_analysis">Analitza la bateria</string>
   <string name="optimize_result_button_cooldown_now">Refreda</string>
   <string name="optimize_result_button_correct_now">Ajusta</string>
-  <string name="optimize_result_button_fix_now">Corregeix-ho</string>
+  <string name="optimize_result_button_fix_now">Arregla</string>
   <string name="optimize_result_button_mifi_insurance">Compra ara</string>
   <string name="optimize_result_button_onekey_open">Activa</string>
   <string name="optimize_result_button_onekey_restore">Restaura</string>
@@ -1780,7 +1780,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="tc_diagnostic_notification_sumarry">Premi per veure els resultats</string>
   <string name="tc_diagnostic_notification_summary">"No s'ha pogut ajustar 5 vegades en una fila. Tocar per iniciar el diagnòstic."</string>
   <string name="tc_diagnostic_notification_title">Diagnosticar operador</string>
-  <string name="tc_diagnostic_onekey_repair_botton">Fixar</string>
+  <string name="tc_diagnostic_onekey_repair_botton">Arregla</string>
   <string name="tc_diagnostic_operator_error_notification_summary">Premi per canviar paràmetres d\'operador</string>
   <string name="tc_diagnostic_operator_error_notification_title">Operador incorrecte</string>
   <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;Result: Operador incorrecte&lt;br/&gt;&lt;br/&gt;Estbalir operaor: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual carrier: &lt;xliff:g id=location example=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
