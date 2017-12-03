@@ -25,8 +25,8 @@
   "</string>
   <string name="access_control_need_to_unlock_nofingerprint">Introduïu la contrasenya de desbloqueig</string>
   <string name="action_button_text_100">Optimitza-ho</string>
-  <string name="action_button_text_60">Corregeix-ho</string>
-  <string name="action_button_text_60_80">Corregeix-ho</string>
+  <string name="action_button_text_60">Arregla</string>
+  <string name="action_button_text_60_80">Arregla</string>
   <string name="action_button_text_80_100">Optimitza-ho</string>
   <string name="action_source_sms_title">SMS bloquejats</string>
   <string name="activity_title_antispam">Llista de bloqueig</string>
