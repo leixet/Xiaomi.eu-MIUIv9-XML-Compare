@@ -348,6 +348,7 @@ utilitzat %s"</string>
   <string name="gpsVerifNo">No</string>
   <string name="gpsVerifYes">Sí</string>
   <string name="grant_credentials_permission_message_footer">Voleu permetre aquesta sol·licitud?</string>
+  <string name="grant_credentials_permission_message_header">La següent o més aplicacions demanen permís per accedir al vostre compte, des d\'ara en endavant.</string>
   <string name="grant_permissions_header_text">Sol·licitud d\'accés</string>
   <string name="granularity_label_character">caràcter</string>
   <string name="granularity_label_line">línia</string>
@@ -356,6 +357,7 @@ utilitzat %s"</string>
   <string name="hardware">Mostra el teclat virtual</string>
   <string name="heavy_weight_notification">%1$s en execució</string>
   <string name="heavy_weight_notification_detail">Toqueu per canviar a l\'aplicació</string>
+  <string name="heavy_weight_switcher_text">Ja s\'està executant una altra aplicació que s\'hauria d\'aturar abans que pugueu iniciar-ne una de nova.</string>
   <string name="hour">hora</string>
   <string name="hour_picker_description">Control circular d\'hores</string>
   <string name="hours">hores</string>
