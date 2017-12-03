@@ -517,6 +517,51 @@ Per treure la fixació, premeu i mantingueu el botó Inici i el d\'encesa a la v
   <string name="lockscreen_access_pattern_start">S\'ha iniciat el patró</string>
   <string name="lockscreen_carrier_default">Sense servei</string>
   <string name="lockscreen_emergency_call">Emergència</string>
+  <string name="lockscreen_failed_attempts_almost_at_wipe">Heu intentat desbloquejar el telèfon sense èxit %1$d vegades. Després de %2$d intents incorrectes més, el telèfon es restablirà als valors de fàbrica i es perdran totes les dades d\'usuari.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin">\"Heu fallat %1$d vegades en dibuixar el patró de desbloqueig. Si falleu unes altres %2$d vegades, haureu de fer servir les vostres credencials d\'accés a Google per desbloquejar el telèfon.
+
+ Torneu-ho a provar en %3$d segons.»</string>
+  <string name="lockscreen_failed_attempts_now_wiping">Heu intentat desbloquejar el telèfon sense èxit %d vegades. El telèfon es reiniciarà als valors de fàbrica.</string>
+  <string name="lockscreen_forgot_pattern_button_text">Heu oblidat el patró?</string>
+  <string name="lockscreen_glogin_account_recovery_hint">\"Heu oblidat el vostre nom d\'usuari o contrasenya?
+Visiteu \"&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
+  <string name="lockscreen_glogin_checking_password">S\'està comprovant…</string>
+  <string name="lockscreen_glogin_forgot_pattern">Desbloqueig del compte</string>
+  <string name="lockscreen_glogin_instructions">Per desbloquejar, inicieu sessió amb el vostre compte de Google.</string>
+  <string name="lockscreen_glogin_invalid_input">Nom d\'usurari o contrasenya incorrecte.</string>
+  <string name="lockscreen_glogin_password_hint">Contrasenya</string>
+  <string name="lockscreen_glogin_submit_button">Inicia sessió</string>
+  <string name="lockscreen_glogin_username_hint">Nom d\'usuari (correu)</string>
+  <string name="lockscreen_instructions_when_pattern_disabled">Toqueu Menú per desbloquejar.</string>
+  <string name="lockscreen_instructions_when_pattern_enabled">Premeu Menú per desbloquejar o establiu una trucada d\'emergència.</string>
+  <string name="lockscreen_missing_sim_instructions">Inseriu una targeta SIM.</string>
+  <string name="lockscreen_missing_sim_instructions_long">Falta la targeta SIM o és il·legible. Inseriu una targeta SIM.</string>
+  <string name="lockscreen_missing_sim_message">No hi ha cap targeta SIM al telèfon.</string>
+  <string name="lockscreen_missing_sim_message_short">Sense targeta SIM</string>
+  <string name="lockscreen_network_locked_message">Bloquejat per xarxa</string>
+  <string name="lockscreen_password_wrong">Torneu-ho a provar</string>
+  <string name="lockscreen_pattern_correct">Correcte!</string>
+  <string name="lockscreen_pattern_instructions">Dibuixeu el patró per desbloquejar</string>
+  <string name="lockscreen_pattern_wrong">Torneu-ho a provar</string>
+  <string name="lockscreen_permanent_disabled_sim_instructions">"La targeta SIM s\'ha desactivat permanentment.
+ Per obtenir una altre targeta SIM, poseu-vos en contacte amb el vostre operador."</string>
+  <string name="lockscreen_permanent_disabled_sim_message_short">Targeta SIM no utilitzable.</string>
+  <string name="lockscreen_return_to_call">Torna a la trucada</string>
+  <string name="lockscreen_screen_locked">Pantalla bloquejada.</string>
+  <string name="lockscreen_sim_locked_message">La targeta SIM està bloquejada.</string>
+  <string name="lockscreen_sim_puk_locked_instructions">Consulteu la guia d\'usuari o contacteu amb el servei d\'atenció al client.</string>
+  <string name="lockscreen_sim_puk_locked_message">La targeta SIM està bloquejada per PUK.</string>
+  <string name="lockscreen_sim_unlock_progress_dialog_message">S\'està desbloquejant la targeta SIM…</string>
+  <string name="lockscreen_sound_off_label">So desactivat</string>
+  <string name="lockscreen_sound_on_label">So activat</string>
+  <string name="lockscreen_storage_locked">Desbloqueja per a totes les funcions i dades</string>
+  <string name="lockscreen_too_many_failed_attempts_countdown">Torneu-ho a provar en %d segons.</string>
+  <string name="lockscreen_too_many_failed_attempts_dialog_message">"Heu fallat %1$d vegades en dibuixar el patró de desbloqueig. 
+
+Torneu-ho a provar en %2$d segons."</string>
+  <string name="lockscreen_too_many_failed_password_attempts_dialog_message">"Heu introduït una contrasenya incorrecta %1$d vegades. 
+
+Torneu-ho a provar en %2$d segons."</string>
   <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">"Heu introduït un codi PIN incorrecte %1$d vegades. 
 
 Torneu-ho a provar en %2$d segons."</string>
@@ -528,4 +573,52 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="lockscreen_transport_rew_description">Rebobina</string>
   <string name="lockscreen_transport_stop_description">Atura</string>
   <string name="lockscreen_unlock_label">Desbloqueja</string>
+  <string name="low_internal_storage_view_text">Pot ser que fallin algunes funcions del sistema</string>
+  <string name="low_internal_storage_view_text_no_boot">No hi ha prou espai d\'emmagatzematge per al sistema. Comproveu que tingueu 250MB d\'espai lliure i reinicieu.</string>
+  <string name="low_internal_storage_view_title">S\'està esgotant l\'espai d\'emmagatzematge</string>
+  <string name="low_memory">L\'emmagatzematge del telèfon està ple. Suprimiu uns quants fitxers per alliberar espai.</string>
+  <string name="managed_profile_label_badge">Feina %1$s</string>
+  <string name="maximize_button_text">Maximitza</string>
+  <string name="me">Jo</string>
+  <string name="media_route_button_content_description">Emet</string>
+  <string name="media_route_chooser_extended_settings">Configuració</string>
+  <string name="needPuk">La targeta SIM està bloquejada pel PUK. Introduïu el codi PUK per desbloquejar-la.</string>
+  <string name="needPuk2">Escriviu el PUK2 per desbloquejar la targeta SIM.</string>
+  <string name="network_available_sign_in">Inicieu la sessió a la xarxa</string>
+  <string name="network_switch_metered">Canviat a %1$s</string>
+  <string name="network_switch_metered_detail">El dispositiu utilitza %1$s quan %2$s no té accés a Internet. Es poden aplicar càrrecs.</string>
+  <string name="network_switch_metered_toast">Canviat de %1$s a %2$s</string>
+  <string name="network_switch_type_name_unknown">tipus de xarxa desconeguda</string>
+  <string name="new_app_action">Inicia %1$s</string>
+  <string name="new_app_description">Atura l\'aplicació antiga sense desar.</string>
+  <string name="new_sms_notification_content">Obre l\'aplicació SMS per veure\'ls</string>
+  <string name="new_sms_notification_title">Teniu missatges nous</string>
+  <string name="next_button_label">Següent</string>
+  <string name="no">Cancel·la</string>
+  <string name="noApplications">No hi ha cap app que pugui realitzar aquesta acció.</string>
+  <string name="no_file_chosen">No s\'ha triat cap fitxer</string>
+  <string name="no_matches">Cap coincidència</string>
+  <string name="no_permissions">No cal cap permís</string>
+  <string name="no_recent_tasks">No hi ha cap aplicació recent.</string>
+  <string name="noon">migdia</string>
+  <string name="notification_hidden_by_policy_text">Contingut ocult per la política</string>
+  <string name="notification_hidden_text">Contingut ocult</string>
+  <string name="notification_listener_binding_label">Detector de notificacions</string>
+  <string name="notification_ranker_binding_label">Servei de classificació de notificacions</string>
+  <string name="notification_title">Error d\'inici de sessió per a %1$s</string>
+  <string name="notification_work_profile_content_description">Perfil de feina</string>
+  <string name="now_string_shortest">ara</string>
+  <string name="number_picker_decrement_button">Redueix</string>
+  <string name="number_picker_increment_button">Augmenta</string>
+  <string name="number_picker_increment_scroll_action">Llisqueu cap amunt per augmentar i avall per reduir.</string>
+  <string name="number_picker_increment_scroll_mode">Mantingueu premut %s.</string>
+  <string name="ok">D\'acord</string>
+  <string name="old_app_action">Torna a %1$s</string>
+  <string name="old_app_description">"No iniciïs l'aplicació nova."</string>
+  <string name="older">Anterior</string>
+  <string name="oneMonthDurationPast">Fa 1 mes</string>
+  <string name="open_permission_deny">"No teniu permís per obrir aquesta pàgina."</string>
+  <string name="orgTypeCustom">Personalitzat</string>
+  <string name="orgTypeOther">Altres</string>
+  <string name="orgTypeWork">Feina</string>
 </resources>
