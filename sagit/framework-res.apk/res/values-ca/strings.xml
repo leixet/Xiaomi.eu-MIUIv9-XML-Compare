@@ -441,6 +441,7 @@ utilitzat %s"</string>
   <string name="keyguard_accessibility_widget_deleted">Giny %1$s eliminat.</string>
   <string name="keyguard_accessibility_widget_empty_slot">Buit</string>
   <string name="keyguard_accessibility_widget_reorder_end">S\'ha finalitzat el canvi d\'ordre dels ginys.</string>
+  <string name="keyguard_accessibility_widget_reorder_start">S\'ha iniciat la reordenació de ginys.</string>
   <string name="keyguard_label_text">Per desbloquejar, toqueu Menú i després 0.</string>
   <string name="keyguard_password_enter_password_code">Introduïu la contrasenya per desbloquejar</string>
   <string name="keyguard_password_enter_pin_code">Introduïu el codi PIN</string>
@@ -586,6 +587,7 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="low_internal_storage_view_text_no_boot">No hi ha prou espai d\'emmagatzematge per al sistema. Comproveu que tingueu 250MB d\'espai lliure i reinicieu.</string>
   <string name="low_internal_storage_view_title">S\'està esgotant l\'espai d\'emmagatzematge</string>
   <string name="low_memory">L\'emmagatzematge del telèfon està ple. Suprimiu uns quants fitxers per alliberar espai.</string>
+  <string name="managed_profile_label">Canvia al perfil laboral</string>
   <string name="managed_profile_label_badge">Feina %1$s</string>
   <string name="maximize_button_text">Maximitza</string>
   <string name="me">Jo</string>
@@ -600,6 +602,15 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="media_route_status_in_use">En ús</string>
   <string name="media_route_status_not_available">No disponible</string>
   <string name="media_route_status_scanning">S\'està escanejant...</string>
+  <string name="mediasize_na_index_3x5">Fitxa 3x5</string>
+  <string name="mediasize_na_index_4x6">Fitxa 4x6</string>
+  <string name="mediasize_na_index_5x8">Fitxa 5x8</string>
+  <string name="mediasize_na_junior_legal">Júnior Legal</string>
+  <string name="mediasize_na_legal">Legal</string>
+  <string name="mediasize_na_letter">Carta</string>
+  <string name="mediasize_na_monarch">Monarca</string>
+  <string name="mediasize_na_quarto">Quart</string>
+  <string name="mediasize_na_tabloid">Tabloide</string>
   <string name="mediasize_unknown_landscape">Mida horitzontal desconeguda</string>
   <string name="mediasize_unknown_portrait">Mida vertical desconeguda</string>
   <string name="meid">MEID</string>
@@ -1159,6 +1170,7 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="time_picker_increment_minute_button">Augmenta els minuts</string>
   <string name="time_picker_increment_set_pm_button">Estableix PM</string>
   <string name="toolbar_collapse_description">Redueix</string>
+  <string name="turn_off_radio">Desactiva la connexió sense fils</string>
   <string name="usb_storage_stop_notification_title">Desactiva l\'emmagatzematge USB</string>
   <string name="usb_storage_stop_title">Emmagatzematge USB en ús</string>
   <string name="usb_storage_title">USB connectat</string>
