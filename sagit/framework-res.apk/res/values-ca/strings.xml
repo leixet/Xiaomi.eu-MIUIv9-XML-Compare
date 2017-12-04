@@ -801,6 +801,12 @@ per al compte %s"</string>
   <string name="permlab_accessNetworkConditions">conèixer les observacions sobre les condicions de la xarxa</string>
   <string name="permlab_accessNetworkState">veure les connexions de xarxa</string>
   <string name="permlab_accessNotifications">accedir a les notificacions</string>
+  <string name="permlab_accessWifiState">veure les connexions Wi-Fi</string>
+  <string name="permlab_accessWimaxState">connectar i desconnectar a WiMAX</string>
+  <string name="permlab_access_notification_policy">accedir al mode No molesteu</string>
+  <string name="permlab_addVoicemail">afegir bústia de veu</string>
+  <string name="permlab_bindCarrierMessagingService">vincular al servei de missatgeria d\'un operador</string>
+  <string name="permlab_bindCarrierServices">vincular als serveis de l\'operador</string>
   <string name="permlab_getPackageSize">mesurar de l\'espai d\'emmagatzematge d\'aplicació</string>
   <string name="permlab_getTasks">recuperar aplicacions en execució</string>
   <string name="permlab_handoverStatus">rebre l\'estat de la transferència d\'Android Beam</string>
