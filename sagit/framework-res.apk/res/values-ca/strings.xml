@@ -1224,4 +1224,6 @@ Voleu tancar-la?"</string>
   <string name="zen_mode_downtime_feature_name">Temps d\'inactivitat</string>
   <string name="zen_mode_feature_name">No molesteu</string>
   <string name="zen_mode_forever">Fins que no ho desactiveu</string>
+  <string name="zen_mode_forever_dnd">Fins que desactiveu el mode No molesteu</string>
+  <string name="zen_mode_until">Fins %1$s</string>
 </resources>
