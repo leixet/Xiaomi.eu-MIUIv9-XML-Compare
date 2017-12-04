@@ -932,6 +932,8 @@ per al compte %s"</string>
   <string name="policylab_disableKeyguardFeatures">Desactiva algunes de les característiques de bloqueig de pantalla</string>
   <string name="policylab_encryptedStorage">Estableix el xifrat d\'emmagatzematge</string>
   <string name="policylab_expirePassword">Estableix la caducitat de la contrasenya de bloqueig de pantalla</string>
+  <string name="policylab_forceLock">Bloquejar la pantalla</string>
+  <string name="policylab_limitPassword">Establir regles de contrasenya</string>
   <string name="preposition_for_time">a les %s</string>
   <string name="preposition_for_year">el %s</string>
   <string name="print_service_installed_message">Toqueu per activar</string>
@@ -983,6 +985,19 @@ per al compte %s"</string>
   <string name="roamingText4">Fora de l\'edifici</string>
   <string name="roamingText5">Itinerància: sistema preferit</string>
   <string name="roamingText6">Itinerància: sistema disponible</string>
+  <string name="roamingText7">Itinerància - soci d\'aliança</string>
+  <string name="roamingText8">Itinerància: soci prèmium</string>
+  <string name="roamingText9">Itinerància: funcionalitat de servei total</string>
+  <string name="roamingTextSearching">S\'està cercant el servei</string>
+  <string name="safeMode">Mode segur</string>
+  <string name="safe_media_volume_warning">"Voleu apujar el volum per sobre del nivell recomanat?
+Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les orelles."</string>
+  <string name="save_password_label">Confirma</string>
+  <string name="save_password_message">Voleu que el navegador recordi aquesta contrasenya?</string>
+  <string name="save_password_never">Mai</string>
+  <string name="save_password_notnow">Ara no</string>
+  <string name="save_password_remember">Recorda-la</string>
+  <string name="screen_compat_mode_hint">Torneu a activar-lo accedint a Configuració &gt; Aplicacions &gt; Baixades.</string>
   <string name="screen_compat_mode_scale">Escala</string>
   <string name="screen_compat_mode_show">Mostra sempre</string>
   <string name="screen_lock">Pantalla de bloqueig</string>
@@ -1032,6 +1047,16 @@ per al compte %s"</string>
   <string name="share_remote_bugreport_notification_message_finished">L\'administrador de TI ha sol·licitat un informe d\'errors per resoldre els problemes d\'aquest dispositiu. És possible que es comparteixin aplicacions i dades.</string>
   <string name="share_remote_bugreport_notification_title">Voleu compartir l\'informe d\'errors?</string>
   <string name="shareactionprovider_share_with">Comparteix amb</string>
+  <string name="shareactionprovider_share_with_application">Comparteix amb %s</string>
+  <string name="sharing_remote_bugreport_notification_title">S\'està compartint l\'informe d\'errors…</string>
+  <string name="show_ime">Mantén en pantalla mentre el teclat físic està actiu</string>
+  <string name="shutdown_confirm">El telèfon s\'apagarà.</string>
+  <string name="shutdown_confirm_question">Voleu apagar-lo?</string>
+  <string name="shutdown_progress">S\'està apagant…</string>
+  <string name="silent_mode">Mode silenci</string>
+  <string name="silent_mode_ring">Timbre activat</string>
+  <string name="silent_mode_silent">Timbre desactivat</string>
+  <string name="silent_mode_vibrate">Timbre en vibració</string>
   <string name="storage_sd_card_label">%s targeta SD</string>
   <string name="storage_usb">Emmagatzematge USB</string>
   <string name="storage_usb_drive">Unitat USB</string>
