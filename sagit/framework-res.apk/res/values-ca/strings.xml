@@ -1290,6 +1290,13 @@ Voleu tancar-la?"</string>
   <string name="wifi_p2p_frequency_conflict_message">"El telèfon es desconnectarà temporalment de la xarxa Wi-Fi mentre està connectat a %1$s"</string>
   <string name="wifi_p2p_from_message">Des de:</string>
   <string name="wifi_p2p_invitation_sent_title">S\'ha enviat la invitació</string>
+  <string name="wifi_p2p_invitation_to_connect_title">Invitació per connectar</string>
+  <string name="wifi_p2p_show_pin_message">PIN:</string>
+  <string name="wifi_p2p_to_message">Per:</string>
+  <string name="wifi_p2p_turnon_message">Inicieu Wi-Fi Direct. Això desactivarà tant el Wi-Fi com el punt d\'accés Wi-Fi.</string>
+  <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
+  <string name="wifi_watchdog_network_disabled">"No s'ha pogut connectar a la Wi-Fi"</string>
+  <string name="wifi_watchdog_network_disabled_detailed">" té una connexió inestable a Internet."</string>
   <string name="wireless_display_route_description">Pantalla sense fils</string>
   <string name="work_mode_off_message">Permet que el perfil laboral funcioni, incloses les aplicacions, la sincronització en segon pla i les funcions relacionades.</string>
   <string name="work_mode_off_title">Mode laboral DESACTIVAT</string>
