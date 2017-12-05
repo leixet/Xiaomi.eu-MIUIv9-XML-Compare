@@ -418,6 +418,8 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="service_error">Error del servei</string>
   <string name="set_success">Correcte</string>
   <string name="sign_in">Inicia sessió</string>
+  <string name="sim_changed_notification_msg">Toqueu per actualitzar el vostre telèfon de recuperació i així mantenir el compte més segur.</string>
+  <string name="sim_changed_notification_title">Heu canviat el número de telèfon?</string>
   <string name="sina_weibo">Sina WeiBo</string>
   <string name="sms_send_success">Enviat</string>
   <string name="sns_access_token_expired_warning">L\'inici de sessió del compte ha caducat. Inicieu sessió de nou per tornar a connectar aquest compte.</string>
