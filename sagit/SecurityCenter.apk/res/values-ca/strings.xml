@@ -139,12 +139,18 @@
   <string name="app_manager_as_dlg_title">Atenció</string>
   <string name="app_manager_back">Enrere</string>
   <string name="app_manager_bipartition">Aplicacions duals</string>
+  <string name="app_manager_cache_size">Memòria cau</string>
   <string name="app_manager_card_permission_title">Permisos</string>
+  <string name="app_manager_clear_all_data">Esborra totes les dades</string>
   <string name="app_manager_clear_cache">Esborra la memòria cau</string>
   <string name="app_manager_clear_data_dlg_message">Totes aquestes aplicacions es suprimiran permanentment. Inclou tots els fitxers, configuracions, comptes, bases de dades, etc.</string>
   <string name="app_manager_clear_data_dlg_title">Voleu eliminar les dades de l\'aplicació?</string>
+  <string name="app_manager_clear_dlg_title">Esborra les dades</string>
   <string name="app_manager_clear_failed_dlg_message">No s\'han pogut suprimir les dades de l\'aplicació.</string>
+  <string name="app_manager_code_size">Mida de l\'aplicació</string>
+  <string name="app_manager_comuting_size">S\'està calculant…</string>
   <string name="app_manager_copy_pkg_to_clip">S\'ha copiat al porta-retalls</string>
+  <string name="app_manager_data_size">Dades d\'usuari</string>
   <string name="app_manager_default_cleared">netejat</string>
   <string name="app_manager_default_close_summary">No s\'ha establert els predeterminats.</string>
   <string name="app_manager_default_open_summary">S\'ha definit aquesta aplicació com a predeterminada per fer algunes accions.</string>
@@ -160,6 +166,7 @@
   <string name="app_manager_disabled">Desactivada</string>
   <string name="app_manager_disabled_by_admin">Desactivat per l\'administrador</string>
   <string name="app_manager_dlg_cancel">Cancel·la</string>
+  <string name="app_manager_dlg_clear_cache_title">Esborra la memòria cau?</string>
   <string name="app_manager_dlg_ok">D\'acord</string>
   <string name="app_manager_enable_text">Activa</string>
   <string name="app_manager_enabled">Activada</string>
@@ -184,6 +191,7 @@
   <string name="app_manager_net_mobile">Mòbil</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
   <string name="app_manager_not_allow">No</string>
+  <string name="app_manager_not_support_uninstall">"No es pot desinstal·lar aquestes aplicacions"</string>
   <string name="app_manager_notify_bar">Insígnies</string>
   <string name="app_manager_notify_floating">Notificacions flotants</string>
   <string name="app_manager_notify_keyguard">Bloqueig de pantalla</string>
@@ -223,8 +231,10 @@
   <string name="app_manager_stop_wakepath_success">S\'ha restringit amb èxit</string>
   <string name="app_manager_stop_wp_dialog_cancel">Cancel·la</string>
   <string name="app_manager_stop_wp_dialog_uninstall">Desinstal·la</string>
+  <string name="app_manager_support_uninstall">Podeu desinstal·lar aquestes aplicacions</string>
   <string name="app_manager_system_mobile_disable">Desactiva les dades</string>
   <string name="app_manager_title">Administra les aplicacions</string>
+  <string name="app_manager_total_size">Total</string>
   <string name="app_manager_uninstall_protected_dlg_msg">En desinstal·lar les aplicacions del sistema podeu impedir que alguns components de MIUI funcionin correctament. Voleu desinstal·lar-la de totes maneres?</string>
   <string name="app_manager_uninstall_protected_dlg_title">Desinstal·lació d\'aplicacions del sistema</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Les aplicacions duals es suprimiran conjuntament amb les dades de l\'aplicació.</string>
