@@ -168,8 +168,8 @@
   </string-array>
   <string-array name="check_importance_summary">
     <item>MIUI decidirà quines notificacions han d\'aparèixer directament</item>
-    <item>Les notificacions apareixeran directament en l\'àrea de notificacions</item>
-    <item>Totes les notificacions apareixeran en una carpeta separada</item>
+    <item>Les notificacions apareixeran al taulell de notificacions</item>
+    <item>Les notificacions apareixeran en una carpeta independent</item>
   </string-array>
   <string-array name="timezone_filters">
     <item>Amèrica</item>
@@ -215,9 +215,9 @@
   </string-array>
   <string-array name="entries_font_size">
     <item>Petita</item>
-    <item>Predeterminat</item>
-    <item>Grossa</item>
-    <item>Molt grossa</item>
+    <item>Predeterminada</item>
+    <item>Gran</item>
+    <item>Molt gran</item>
   </string-array>
   <string-array name="wifi_p2p_wps_setup">
     <item>Premeu el botó</item>
@@ -227,7 +227,7 @@
   <string-array name="wifi_p2p_status">
     <item>S\'ha connectat</item>
     <item>Convidat</item>
-    <item>No s\'ha pogut realitzar</item>
+    <item>Ha fallat</item>
     <item>Disponible</item>
     <item>Fora de rang</item>
   </string-array>
@@ -246,7 +246,7 @@
   <string-array name="wifi_sleep_policy_entries">
     <item>Sempre</item>
     <item>Només quan és endollat</item>
-    <item>Mai (augmenta l\'ús de dades)</item>
+    <item>Mai</item>
   </string-array>
   <string-array name="wifi_sleep_policy_entries_wifi_only">
     <item>Sempre</item>
