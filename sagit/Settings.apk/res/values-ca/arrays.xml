@@ -660,10 +660,10 @@
   <string-array name="wfd_status">
     <item>S\'està iniciant la sessió&#8230;</item>
     <item>Sessió iniciada</item>
-    <item>S\'està tancant la sessió&#8230;</item>
+    <item>S\'està desactivant el servei…</item>
     <item>"No s'ha pogut iniciar la sessió"</item>
-    <item>S\'ha esgotat el temps. S\'està reintentant&#8230;</item>
-    <item>S\'ha connectat el dispositiu</item>
+    <item>S\'ha esgotat el temps. S\'està reintentant…</item>
+    <item>Dispositiu connectat</item>
   </string-array>
   <string-array name="power_mode_entries">
     <item>Rendiment</item>
@@ -733,8 +733,8 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Nadiu</item>
   </string-array>
   <string-array name="phone_call_noise_suppression_title">
-    <item>Un sol micròfon per a supressió de fressa</item>
-    <item>Doble micròfon per a supressió de fressa</item>
+    <item>Supressió de soroll per micròfon individual</item>
+    <item>Supressió de soroll per micròfon doble</item>
   </string-array>
   <string-array name="change_security_lock_picker">
     <item>Desbloqueig facial</item>
@@ -744,17 +744,17 @@ Nota: Només per a Ubuntu 8.04!"</item>
   </string-array>
   <string-array name="wifi_connect_type_entries">
     <item>Connecta automàticament</item>
-    <item>Connecta\'t manualment</item>
+    <item>Connecta manualment</item>
     <item>Pregunta sempre</item>
   </string-array>
   <string-array name="wifi_ssid_type_entries">
     <item>Connecta automàticament</item>
-    <item>Connecta\'t manualment</item>
+    <item>Connecta manualment</item>
   </string-array>
   <string-array name="traffic_balance_entries">
     <item>Off</item>
-    <item>mode normal</item>
-    <item>mode extrem</item>
+    <item>Normal</item>
+    <item>Extrem</item>
   </string-array>
   <string-array name="preferred_app_entries">
     <item>Llançador</item>
@@ -800,10 +800,10 @@ Nota: Només per a Ubuntu 8.04!"</item>
   </string-array>
   <string-array name="lock_screen_secure_after_timeout_entries">
     <item>Immediatament</item>
-    <item>30 segons</item>
-    <item>1 minut</item>
-    <item>2 minuts</item>
-    <item>5 minuts</item>
+    <item>Després de 30 segons</item>
+    <item>Després d\'1 minut</item>
+    <item>Després de 2 minuts</item>
+    <item>Després de 5 minuts</item>
     <item>Mai</item>
   </string-array>
   <string-array name="fluency_mode_entries">
