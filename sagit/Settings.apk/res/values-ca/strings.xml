@@ -130,17 +130,17 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
   <string name="adb_warning_message">La depuració USB només és per a desenvolupament. Feu-la servir per copiar dades entre l\'ordinador i el dispositiu, per instal·lar aplicacions sense notificació i per llegir dades de registre.</string>
   <string name="adb_warning_title">Voleu permetre la depuració USB?</string>
   <string name="add_a_language">Afegeix un idioma</string>
-  <string name="add_account_label">Afegiu un compte</string>
+  <string name="add_account_label">Afegeix un compte</string>
   <string name="add_auto_startup_application">Afegiu aplicacions d\'inici automàtic</string>
   <string name="add_back_fingerprint_instruction_msg">Col·loqueu el dit al sensor</string>
-  <string name="add_device_admin">Activa</string>
+  <string name="add_device_admin">Activa aquest administrador de dispositiu</string>
   <string name="add_device_admin_msg">Voleu activar l\'administrador de dispositius?</string>
-  <string name="add_facerecoginition_text">Afegeix dades de la cara</string>
-  <string name="add_fingerprint_done_msg">Desbloqueja el dispositiu amb l\'empremta.</string>
-  <string name="add_fingerprint_done_title">"Fet!"</string>
+  <string name="add_facerecoginition_text">Afegeix dades facials</string>
+  <string name="add_fingerprint_done_msg">Ara podeu desbloquejar aquest dispositiu amb l\'empremta.</string>
+  <string name="add_fingerprint_done_title">"Ja podeu començar!"</string>
   <string name="add_fingerprint_edge_instruction_msg">Moveu el dit perquè el sensor pugui enregistrar les vores de l\'empremta.</string>
   <string name="add_fingerprint_edge_instruction_title">Moveu el dit una mica</string>
-  <string name="add_fingerprint_failed_retry_text">"No s'ha pogut llegir l'empremta, torneu-hi"</string>
+  <string name="add_fingerprint_failed_retry_text">"No s'ha pogut llegir l'empremta, torneu-ho a provar"</string>
   <string name="add_fingerprint_finished_button_text">Fet</string>
   <string name="add_fingerprint_instruction_msg">Desbloqueja el dispositiu o valida el pagament amb l\'empremta.</string>
   <string name="add_fingerprint_instruction_title">Afegiu una empremta</string>
@@ -148,17 +148,17 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
   <string name="add_fingerprint_put_finger_edge_msg">Traieu el dit i torneu-lo a posar a sobre del lector.</string>
   <string name="add_fingerprint_put_finger_msg">Poseu el dit en el lector fins que noteu una vibració.</string>
   <string name="add_fingerprint_put_finger_title">Afegiu una empremta</string>
-  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Mogueu el dit una mica</string>
+  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Moveu el dit una mica</string>
   <string name="add_fingerprint_success_msg">S\'ha afegit correctament</string>
-  <string name="add_fingerprint_text">Afegiu una empremta</string>
+  <string name="add_fingerprint_text">Afegeix una empremta</string>
   <string name="add_fingerprint_toast_text">Poseu el dit al lector</string>
   <string name="add_front_fingerprint_instruction_msg">El sensor d\'empremtes està a la part posterior del dispositiu.</string>
-  <string name="add_new">afegeix</string>
-  <string name="add_rule">afegeix regles</string>
+  <string name="add_new">Afegeix</string>
+  <string name="add_rule">Afegeix regles</string>
   <string name="add_virtual_keyboard">Gestiona els teclats</string>
-  <string name="adding_profile_owner_warning">«Si continueu, el vostre usuari serà gestionat per l\'Administrador, que podrà recollir dades complementàries junt amb les vostres dades personals.
+  <string name="adding_profile_owner_warning">"Si continueu, el vostre usuari serà gestionat per l\'Administrador, que podrà recollir dades complementàries junt amb les vostres dades personals.
 
-L\'Administrador pot supervisar i administrar la configuració, els accessos, les aplicacions i les dades associades a l\'usuari com ara l\'activitat de la xarxa i els serveis d\'ubicació.»</string>
+L\'Administrador pot supervisar i administrar la configuració, els accessos, les aplicacions i les dades associades a l\'usuari com ara l\'activitat de la xarxa i els serveis d\'ubicació."</string>
   <string name="additional_permissions">Permisos addicionals</string>
   <string name="additional_permissions_more">%1$d més</string>
   <string name="additional_system_update_settings_list_item_title">Actualitzacions addicionals del sistema</string>
@@ -173,7 +173,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="advanced_section_header">Avançat</string>
   <string name="advanced_security_title">Avançat</string>
   <string name="advanced_settings">Configuració avançada</string>
-  <string name="advanced_settings_summary">Habilita més opcions avançades</string>
+  <string name="advanced_settings_summary">Activa més opcions avançades</string>
   <string name="agps_roaming">A-GPS en itinerància</string>
   <string name="agps_roaming_dia">"L'ús d'A-GPS en itinerància pot augmentar l'ús de dades mòbils. Si excediu el límit contractat, el vostre operador us pot cobrar càrrecs addicionals."</string>
   <string name="agps_roaming_dia_title">Ús de l\'A-GPS en itinerància</string>
