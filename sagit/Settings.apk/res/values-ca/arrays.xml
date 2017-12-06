@@ -379,23 +379,23 @@
     <item>activa/desactiva el micròfon</item>
     <item>mostra torrades</item>
     <item>projecta contingut multimèdia</item>
-    <item>desa fons de pantalla</item>
+    <item>activa una VPN</item>
+    <item>escriu el fons de pantalla</item>
     <item>estructura assistida</item>
-    <item>captura de pantalla assistida</item>
     <item>captura de pantalla assistida</item>
     <item>llegeix l\'estat del telèfon</item>
     <item>afegeix bústia de veu</item>
     <item>utilitza sip</item>
     <item>gestiona la trucada de sortida</item>
-    <item>empremta dactilar</item>
+    <item>empremta</item>
     <item>sensors corporals</item>
     <item>llegeix missatges de difusió mòbil</item>
     <item>simula la ubicació</item>
     <item>llegeix l\'emmagatzematge</item>
     <item>escriu l\'emmagatzematge</item>
-    <item>engega la pantalla</item>
+    <item>encén la pantalla</item>
     <item>aconsegueix comptes</item>
-    <item>obre en segon pla</item>
+    <item>executa en segon pla</item>
   </string-array>
   <string-array name="app_ops_labels">
     <item>Ubicació</item>
@@ -406,8 +406,8 @@
     <item>Modifica contactes</item>
     <item>Llegeix el registre de trucades</item>
     <item>Modifica el registre de trucades</item>
-    <item>Llegeix calendari</item>
-    <item>Modifica calendari</item>
+    <item>Llegeix el calendari</item>
+    <item>Modifica el calendari</item>
     <item>Ubicació</item>
     <item>Publica la notificació</item>
     <item>Ubicació</item>
@@ -422,7 +422,7 @@
     <item>Llegeix SMS/MMS</item>
     <item>Escriu SMS/MMS</item>
     <item>Modifica la configuració</item>
-    <item>Dibuixa a la part de sobre</item>
+    <item>Dibuixa al damunt</item>
     <item>Accés a les notificacions</item>
     <item>Càmera</item>
     <item>Gravació d\'àudio</item>
@@ -434,7 +434,7 @@
     <item>Volum general</item>
     <item>Volum de la veu</item>
     <item>Volum del so de la trucada</item>
-    <item>Volum de multimèdia</item>
+    <item>Volum multimèdia</item>
     <item>Volum de l\'alarma</item>
     <item>Volum de les notificacions</item>
     <item>Volum del Bluetooth</item>
@@ -445,23 +445,23 @@
     <item>Silencia/activa el micròfon</item>
     <item>Projecta contingut multimèdia</item>
     <item>Projecta contingut multimèdia</item>
-    <item>Fons de pantalla d\'escriptura</item>
-    <item>Estructura d\'assistència</item>
-    <item>Captura de pantalla assistida</item>
+    <item>Activa una VPN</item>
+    <item>Escriu el fons de pantalla</item>
+    <item>Estructura assistida</item>
     <item>Captura de pantalla assistida</item>
     <item>Llegeix l\'estat del telèfon</item>
     <item>Afegeix bústia de veu</item>
     <item>Utilitza sip</item>
     <item>Gestiona la trucada de sortida</item>
-    <item>Empremta dactilar</item>
+    <item>Empremta</item>
     <item>Sensors corporals</item>
     <item>Llegeix missatges de difusió mòbil</item>
     <item>Simula la ubicació</item>
     <item>Llegeix l\'emmagatzematge</item>
     <item>Escriu l\'emmagatzematge</item>
-    <item>Engega la pantalla</item>
+    <item>Encén la pantalla</item>
     <item>Aconsegueix comptes</item>
-    <item>Obre en segon pla</item>
+    <item>Executa en segon pla</item>
   </string-array>
   <string-array name="long_press_timeout_selector_titles">
     <item>Curta</item>
@@ -469,7 +469,7 @@
     <item>Llarga</item>
   </string-array>
   <string-array name="captioning_typeface_selector_titles">
-    <item>Predeterminat</item>
+    <item>Per defecte</item>
     <item>Sans-serif</item>
     <item>Sans-serif condensada</item>
     <item>Sans serif monoespaiada</item>
@@ -483,11 +483,11 @@
     <item>Molt petita</item>
     <item>Petita</item>
     <item>Normal</item>
-    <item>Grossa</item>
-    <item>Molt grossa</item>
+    <item>Gran</item>
+    <item>Molt gran</item>
   </string-array>
   <string-array name="captioning_edge_type_selector_titles">
-    <item>Predeterminat</item>
+    <item>Per defecte</item>
     <item>Cap</item>
     <item>Contorn</item>
     <item>Redueix l\'ombra</item>
