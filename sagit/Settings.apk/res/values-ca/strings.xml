@@ -5,12 +5,12 @@
   <string name="abc_action_bar_home_description">Torna a la pàgina d\'inici</string>
   <string name="abc_action_bar_up_description">Vés amunt</string>
   <string name="abc_action_menu_overflow_description">Més opcions</string>
-  <string name="abc_action_mode_done">Fet!</string>
+  <string name="abc_action_mode_done">Fet</string>
   <string name="abc_activity_chooser_view_see_all">Mostra-les totes</string>
   <string name="abc_activitychooserview_choose_application">Trieu una aplicació</string>
   <string name="abc_capital_off">Desactivat</string>
   <string name="abc_capital_on">Activat</string>
-  <string name="abc_search_hint">Cerca&#8230;</string>
+  <string name="abc_search_hint">Cerca…</string>
   <string name="abc_searchview_description_clear">Esborra la consulta</string>
   <string name="abc_searchview_description_query">Cerca consulta</string>
   <string name="abc_searchview_description_search">Cerca</string>
@@ -23,23 +23,23 @@
   <string name="about_phone_enter_xiaomi_net">Aprèn més</string>
   <string name="about_settings">Quant al telèfon</string>
   <string name="about_settings_summary">Informació legal, estat i versió de programari</string>
-  <string name="ac_enable_summary">Cal una contrasenya</string>
+  <string name="ac_enable_summary">Estableix una contrasenya per a aplicacions individuals</string>
   <string name="ac_enable_title">Bloquejador d\'aplicacions</string>
   <string name="ac_privacy_mode_sum">Demana contrasenya per a desactivar el mode Convidat</string>
   <string name="ac_privacy_mode_title">Contrasenya</string>
-  <string name="ac_set_apps_title">Trieu les aplicacions a bloqueja</string>
-  <string name="accelerometer_summary_off">Canvia automàticament l\'orientació al girar el telèfon</string>
+  <string name="ac_set_apps_title">Trieu les aplicacions a bloquejar</string>
+  <string name="accelerometer_summary_off">Canvia automàticament l\'orientació en girar el telèfon</string>
   <string name="accelerometer_summary_on">Canvia automàticament l\'orientació en girar el telèfon</string>
   <string name="accelerometer_title">Gira la pantalla automàticament</string>
   <string name="access_control_app_entry_multiple">Obre %s</string>
   <string name="access_control_app_entry_single">Obre l\'aplicació</string>
-  <string name="access_control_need_password">«s\'ha protegit %s
-»</string>
+  <string name="access_control_need_password">"s\'ha protegit %s
+"</string>
   <string name="access_control_need_to_unlock">Cal contrasenya:</string>
-  <string name="access_control_no_back_footer">Per sortir toqueu [icon]</string>
+  <string name="access_control_no_back_footer">Toqueu [icon] per sortir</string>
   <string name="access_control_password_title">Contrasenya</string>
   <string name="access_control_recording_intro_header">Dibuixeu un patró de desbloqueig:</string>
-  <string name="access_control_reset_by_account">Per restablir la contrasenya, inicieu la sessió del compte Mi</string>
+  <string name="access_control_reset_by_account">Per restablir la contrasenya, inicieu la sessió del Compte Mi</string>
   <string name="access_point_names">Noms dels punt d\'accés</string>
   <string name="accessibility_autoclick_delay_preference_title">Retard abans del clic</string>
   <string name="accessibility_autoclick_preference_title">Clic quan el punter deixi de moure\'s</string>
