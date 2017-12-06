@@ -495,7 +495,7 @@
     <item>Reduït</item>
   </string-array>
   <string-array name="captioning_preset_selector_titles">
-    <item>Valors predeterminats</item>
+    <item>Utilitza els valors predeterminats de l\'aplicació</item>
     <item>Blanc sobre negre</item>
     <item>Negre sobre blanc</item>
     <item>Groc sobre negre</item>
@@ -512,11 +512,11 @@
   </string-array>
   <string-array name="vpn_states">
     <item>Desconnectat</item>
-    <item>S\'està inicialitzant&#8230;</item>
-    <item>S\'està connectant&#8230;</item>
+    <item>S\'està inicialitzant…</item>
+    <item>S\'està connectant…</item>
     <item>S\'ha connectat</item>
-    <item>S\'ha exhaurit el temps</item>
-    <item>No s\'ha pogut realitzar</item>
+    <item>Temps d\'espera</item>
+    <item>Ha fallat</item>
   </string-array>
   <string-array name="user_content_ratings_entries">
     <item>Ser superior</item>
@@ -560,7 +560,7 @@
     <item>A la memòria cau (buit)</item>
   </string-array>
   <string-array name="color_picker">
-    <item>Verd blavós</item>
+    <item>Xarxet</item>
     <item>Blau</item>
     <item>Anyil</item>
     <item>Porpra</item>
