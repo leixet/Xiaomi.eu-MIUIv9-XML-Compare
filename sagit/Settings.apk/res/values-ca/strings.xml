@@ -182,8 +182,8 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="alarm_ringtone_title">So d\'alarma predeterminat</string>
   <string name="alarm_sound_dialog_title">Tria el so de l\'alarma</string>
   <string name="alarm_sound_title">So de l\'alarma</string>
-  <string name="alarm_stop">L\'avís d\'alarma desactiva el mode silenciós</string>
-  <string name="alarm_stop_info">Si l\'alarma toca abans de finalitzar la programació, el mode silenciós es desactivarà</string>
+  <string name="alarm_stop">L\'avís d\'alarma desactiva el mode silenci</string>
+  <string name="alarm_stop_info">Si l\'alarma toca abans de finalitzar la programació, el mode silenci es desactivarà</string>
   <string name="alarm_volume_option_title">Volum de l\'alarma</string>
   <string name="alarm_volume_title">Alarma</string>
   <string name="all_volume_title">Volums</string>
@@ -222,7 +222,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="apn_edit">Edita punt d\'accés</string>
   <string name="apn_http_proxy">Servidor intermediari</string>
   <string name="apn_mms_port">Port MMS</string>
-  <string name="apn_mms_proxy">Proxy MMS</string>
+  <string name="apn_mms_proxy">Servidor intermediari MMS</string>
   <string name="apn_name">Nom</string>
   <string name="apn_new">Punt d\'accés nou</string>
   <string name="apn_not_set">No s\'ha definit</string>
@@ -240,7 +240,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="app_data_usage">Ús de dades de l\'aplicació</string>
   <string name="app_disable_dlg_positive">Desactiva l\'aplicació</string>
   <string name="app_disable_dlg_text">Si la desactiveu, podria ser que altres aplicacions no funcionessin correctament.</string>
-  <string name="app_disable_dlg_title">Voleu desactivar l\'aplicació?</string>
+  <string name="app_disable_dlg_title">Voleu desactivar l\'aplicació integrada?</string>
   <string name="app_disable_notifications_dlg_text">Si desactiveu les notificacions de l\'aplicació, deixareu de rebre avisos importants i actualitzacions.</string>
   <string name="app_disable_notifications_dlg_title">Voleu desactivar les notificacions?</string>
   <string name="app_factory_reset">Desfés actualitzacions</string>
