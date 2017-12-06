@@ -113,7 +113,7 @@
   <string-array name="debug_hw_overdraw_entries">
     <item>Apagat</item>
     <item>Mostra les àrees sobreposades</item>
-    <item>Mostra les àrees amb Deuteranomaly</item>
+    <item>Mostra àrees per a deuteranomia</item>
   </string-array>
   <string-array name="app_process_limit_entries">
     <item>Límit estàndard</item>
@@ -125,7 +125,7 @@
   </string-array>
   <string-array name="usb_configuration_titles">
     <item>Càrrega</item>
-    <item>MTP (Protocol de Transferència de Multimèdia)</item>
+    <item>MTP (Protocol de transferència multimèdia)</item>
     <item>PTP (Protocol de transferència d\'imatges)</item>
     <item>RNDIS (USB Ethernet)</item>
     <item>Font d\'àudio</item>
@@ -167,7 +167,7 @@
     <item>No important</item>
   </string-array>
   <string-array name="check_importance_summary">
-    <item>Jutge intel·ligent, les notificacions no importants apareixeran en una carpeta separada</item>
+    <item>MIUI decidirà quines notificacions han d\'aparèixer directament</item>
     <item>Les notificacions apareixeran directament en l\'àrea de notificacions</item>
     <item>Totes les notificacions apareixeran en una carpeta separada</item>
   </string-array>
