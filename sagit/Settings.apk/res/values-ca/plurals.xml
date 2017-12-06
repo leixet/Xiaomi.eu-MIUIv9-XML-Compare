@@ -194,12 +194,12 @@ Per obtenir més informació sobre aquest certificat, contacteu amb l\'administr
     <item quantity="one">No ho desactivis mai per a 1 aplicació</item>
   </plurals>
   <plurals name="lockpassword_pin_too_short">
-    <item quantity="other">El PIN ha de tenir com a mínim %d números</item>
-    <item quantity="one">El PIN ha de tenir com a mínim %d número</item>
+    <item quantity="other">El PIN ha de tenir com a mínim %d dígits</item>
+    <item quantity="one">El PIN ha de tenir com a mínim %d dígit</item>
   </plurals>
   <plurals name="lockpassword_pin_too_long">
-    <item quantity="other">El PIN pot contenir fins a %d números</item>
-    <item quantity="one">El PIN pot contenir fins a %d número</item>
+    <item quantity="other">El PIN pot contenir fins a %d dígits</item>
+    <item quantity="one">El PIN pot contenir fins a %d dígit</item>
   </plurals>
   <plurals name="lockpattern_recording_incorrect_too_short">
     <item quantity="other">Connecteu almenys %d punts. Torneu-ho a provar.</item>
