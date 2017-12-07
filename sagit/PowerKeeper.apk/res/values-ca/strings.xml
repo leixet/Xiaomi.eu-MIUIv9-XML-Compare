@@ -16,7 +16,7 @@
   <string name="alter_message_switch_mode">Voleu canviar els modes?</string>
   <string name="alter_message_switch_mode_message">Quan canvieu els modes, la vostra configuració anterior ja no s\'aplicarà a aquesta aplicació.</string>
   <string name="app_list_title">Selecciona aplicacions</string>
-  <string name="app_name">Estalvi de bateria</string>
+  <string name="app_name">Bateria i rendiment</string>
   <string name="background">L\'aplicació s\'executa en segon pla</string>
   <string name="base_info">Informació base</string>
   <string name="cloud_addr_info">Amaga la informació del mode núvol</string>
