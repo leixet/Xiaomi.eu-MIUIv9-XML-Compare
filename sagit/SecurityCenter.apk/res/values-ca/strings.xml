@@ -143,8 +143,8 @@
   <string name="app_manager_card_permission_title">Permisos</string>
   <string name="app_manager_clear_all_data">Esborra totes les dades</string>
   <string name="app_manager_clear_cache">Esborra la memòria cau</string>
-  <string name="app_manager_clear_data_dlg_message">Totes aquestes aplicacions es suprimiran permanentment. Inclou tots els fitxers, configuracions, comptes, bases de dades, etc.</string>
-  <string name="app_manager_clear_data_dlg_title">Voleu eliminar les dades de l\'aplicació?</string>
+  <string name="app_manager_clear_data_dlg_message">Totes les dades de l\'aplicació, inclosos els fitxers, la configuració, els comptes, les bases de dades i la memòria cau seran eliminats de manera permanent.</string>
+  <string name="app_manager_clear_data_dlg_title">Voleu suprimir totes les dades?</string>
   <string name="app_manager_clear_dlg_title">Esborra les dades</string>
   <string name="app_manager_clear_failed_dlg_message">No s\'han pogut suprimir les dades de l\'aplicació.</string>
   <string name="app_manager_code_size">Mida de l\'aplicació</string>
