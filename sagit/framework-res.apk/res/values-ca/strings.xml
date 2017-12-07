@@ -602,6 +602,7 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="media_route_status_in_use">En ús</string>
   <string name="media_route_status_not_available">No disponible</string>
   <string name="media_route_status_scanning">S\'està escanejant...</string>
+  <string name="mediasize_na_gvrnmt_letter">Government Letter</string>
   <string name="mediasize_na_index_3x5">Fitxa 3x5</string>
   <string name="mediasize_na_index_4x6">Fitxa 4x6</string>
   <string name="mediasize_na_index_5x8">Fitxa 5x8</string>
@@ -1036,6 +1037,7 @@ per al compte %s"</string>
   <string name="safeMode">Mode segur</string>
   <string name="safe_media_volume_warning">"Voleu apujar el volum per sobre del nivell recomanat?
 Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les orelles."</string>
+  <string name="sans_serif">sans-serif</string>
   <string name="save_password_label">Confirma</string>
   <string name="save_password_message">Voleu que el navegador recordi aquesta contrasenya?</string>
   <string name="save_password_never">Mai</string>
