@@ -462,7 +462,7 @@ Proveu el següent per solucionar el problema:
   <string name="login_failed_tips">"Disculpeu, no s'ha pogut obtenir informació del compte"</string>
   <string name="login_thirdparty">Altres maneres d\'iniciar la sessió</string>
   <string name="login_wxfailed_tips">"No s'ha pogut obtenir informació del compte, torneu-ho a provar més tard"</string>
-  <string name="logining">Iniciant sessió</string>
+  <string name="logining">S\'està iniciant sessió…</string>
   <string name="logout">Tanca la sessió</string>
   <string name="logout_done">S\'ha tancat la sessió correctament</string>
   <string name="main_tab_show_mitv">S\'ha trobat una Mi TV</string>
