@@ -8,7 +8,7 @@
   <string name="mibi_applock_dialog_ok">Configuració</string>
   <string name="mibi_applock_dialog_title">Configuració d\'un nou patró de bloqueig</string>
   <string name="mibi_balance_payment_title">Crèdit Mi</string>
-  <string name="mibi_balance_title">Saldo</string>
+  <string name="mibi_balance_title">Mi Credits disponibles</string>
   <string name="mibi_bill_delete_dialog_title">Suprimeix %1$s</string>
   <string name="mibi_bill_delete_message">Voleu suprimir \"%1$s\"?</string>
   <string name="mibi_bill_menu_delete_item">Elimina</string>
