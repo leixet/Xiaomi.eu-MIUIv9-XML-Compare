@@ -1606,7 +1606,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="st_antispam_bw_adress_add">Afegeix ubicacions</string>
   <string name="st_antispam_bw_choose_modes">Afegeix a la llista</string>
   <string name="st_antispam_bw_head_add">Afegeix un prefix</string>
-  <string name="st_antispam_bw_man_add">Afegeix un número de telèfon</string>
+  <string name="st_antispam_bw_man_add">Afegeix número de telèfon</string>
   <string name="st_antispam_bw_pick_add">Afegeix contactes</string>
   <string name="st_antispam_delete">Suprimeix</string>
   <string name="st_antispam_des_anti">Bloqueja</string>
@@ -1792,7 +1792,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="tc_diagnostic_repair_and_continue">Fixar i continuarà</string>
   <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'&gt;Diagnòstic complet, problemes d'ubicació solucionats.&lt;/font&gt;"</string>
   <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Diagnòstic complet, problemes d'ubicació i de l'operador solucionats.&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_repair_success_toast">Canviat correctament</string>
+  <string name="tc_diagnostic_repair_success_toast">S\'ha canviat amb èxit</string>
   <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Resultat: No s'ha pogut completar el diagnòstic&lt;br/&gt;&lt;br/&gt;Notifica sobre aquest tema per ajudar a millorar les eines de diagnòstic de MIUI&lt;/font&gt;"</string>
   <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Resultat: Ubicació incorrecta&lt;br/&gt;&lt;br/&gt;Estableix ubicació: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Ubicació actual: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
   <string name="tc_diagnostic_status_error_brand">"No s'ha trobat la xarxa de l'operador"</string>
