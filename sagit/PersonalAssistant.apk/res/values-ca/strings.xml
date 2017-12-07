@@ -407,7 +407,7 @@ Comproveu el número de seguiment."</string>
   <string name="express_setting_number">Número de telèfon</string>
   <string name="express_setting_number_invalid">"Assegureu-vos que heu introduït un número de telèfon vàlid"</string>
   <string name="express_setting_number_save">Verifica i desa</string>
-  <string name="express_setting_number_title">Afegeix un número de telèfon</string>
+  <string name="express_setting_number_title">Afegeix número de telèfon</string>
   <string name="express_setting_phone">Permet sol·licitar informació amb el número de telèfon</string>
   <string name="express_setting_request_failed">"La petició ha fallat. Codi d'error: %s."</string>
   <string name="express_setting_service_provider">Proveïdor de servei</string>
