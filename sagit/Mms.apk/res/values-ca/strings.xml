@@ -309,7 +309,7 @@
   <string name="mx_dspt">"Envieu SMS i MMS a altres dispositius MIUI sense incórrer en despeses quan s'està connectat a la Wi-Fi."</string>
   <string name="mx_dspt_listview">Envieu missatges a altres dispositius MIUI sense incórrer en despeses</string>
   <string name="mx_dspt_provision">Missatge Mi permet enviar i rebre SMS amb qualsevol usuari de MIUI sense incórrer en càrrecs d\'SMS. El vostre operador podria cobrar-li pel SMS usat per activar aquest servei.</string>
-  <string name="mx_dspt_provision_ex2">Política de privacitat</string>
+  <string name="mx_dspt_provision_ex2">Política de privadesa</string>
   <string name="mx_enable">Missatge Mi</string>
   <string name="mx_enable_ex">Missatge i Veu Mi</string>
   <string name="mx_enable_popup_msg">Envieu missatges a altres usuaris de MIUI de franc.</string>
