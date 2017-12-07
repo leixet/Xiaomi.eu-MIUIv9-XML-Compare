@@ -112,6 +112,12 @@
   <string name="card_bookall_train_started">Surt de l\'estació</string>
   <string name="card_detail">Guia</string>
   <string name="card_example">Targeta</string>
+  <string name="card_expand_note_clear">Neteja</string>
+  <string name="card_expand_note_dialog_button">D\'acord</string>
+  <string name="card_expand_note_dialog_title">S\'estan desant les notes</string>
+  <string name="card_expand_note_toast_clear_null">S\'ha netejat amb èxit</string>
+  <string name="card_expand_note_toast_save_done">S\'ha desat a Notes</string>
+  <string name="card_expand_note_toast_save_dup">S\'ha desat amb èxit</string>
   <string name="card_hint_noteboard">Premeu aquí per prendre una nota.</string>
   <string name="card_menu_edit">Edita</string>
   <string name="card_menu_setting">Configuració</string>
@@ -203,6 +209,7 @@
   <string name="didi_price">Tarifa</string>
   <string name="didi_price_unit">EUR</string>
   <string name="didi_target">Destinació     </string>
+  <string name="didi_taximeter">Calcula la tarifa de taxi</string>
   <string name="didi_trip">Taxi</string>
   <string name="didi_trip_content">Calcula la tarifa i truca a un taxi</string>
   <string name="didi_trip_content_detail">Calcula la tarifa de taxi aproximada i truca a un taxi.</string>
@@ -453,6 +460,8 @@ Comproveu el número de seguiment."</string>
   <string name="favorite_important">Importants</string>
   <string name="favorite_label">Preferits</string>
   <string name="favorite_main">Historial</string>
+  <string name="favorite_title_limit">Introduïu fins a 40 caràcters</string>
+  <string name="favorite_title_modify">Modifica</string>
   <string name="feedback_cancel">Cancel·la</string>
   <string name="feedback_ok">D\'acord</string>
   <string name="flow_open">Mostra targeta de dades mòbils</string>
