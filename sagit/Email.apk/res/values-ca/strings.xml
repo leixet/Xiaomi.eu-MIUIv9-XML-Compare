@@ -159,7 +159,7 @@
   <string name="account_sync_settings_settings">Sincronitza els contactes i els calendaris del compte</string>
   <string name="account_sync_settingstip_description">Sincronitzar la configuració</string>
   <string name="account_waiting_for_folders_msg">Carregant llista de carpetes</string>
-  <string name="actionbar_large_unread_count">%1$d no llegit</string>
+  <string name="actionbar_large_unread_count">%1$d per llegir</string>
   <string name="activity_folder_selection">Trieu carpeta</string>
   <string name="activity_mailbox_selection">Trieu compte</string>
   <string name="ad_merge">Publicitat i notificacions</string>
