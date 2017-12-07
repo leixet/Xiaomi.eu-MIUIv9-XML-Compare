@@ -213,7 +213,7 @@ Proveu el següent per solucionar el problema:
   <string name="device_brand">Marca</string>
   <string name="device_model">Model</string>
   <string name="device_responsed">El dispositiu ha respost</string>
-  <string name="device_shop_detail_bottom_title2">Carro de la compra</string>
+  <string name="device_shop_detail_bottom_title2">Carret de la compra</string>
   <string name="device_shop_dialog_loading">Un moment…</string>
   <string name="device_shop_favor_title">Preferits</string>
   <string name="device_shop_share_cancel">S\'ha cancel·lat la compartició</string>
@@ -1037,6 +1037,7 @@ Per canviar, premeu contínuament el botó d\'encesa del TV"</string>
   <string name="video_buy_vip">Compra una subscripció per Mi TV</string>
   <string name="video_comment_get_reply_failed">"获取评论失败, 点击重试"</string>
   <string name="video_comment_no_reply">暂无评论, 点击发表</string>
+  <string name="video_comment_reply_failed">"No s'ha pogut afegir el comentari"</string>
   <string name="video_count">Vídeos: %d</string>
   <string name="video_history_before_yestory">Fa 2 dies</string>
   <string name="video_history_earlier">Anteriorment</string>
