@@ -552,7 +552,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="list_filter_all_accounts">Tots els contactes</string>
   <string name="list_filter_all_starred">Favorits</string>
   <string name="list_filter_custom">Personalitzat</string>
-  <string name="list_filter_customize">Personalitzar</string>
+  <string name="list_filter_customize">Personalitza</string>
   <string name="list_filter_phones">Tots els contactes amb números de telèfon</string>
   <string name="list_filter_single">Contacte</string>
   <string name="loading_accounts">Un moment&#8230;</string>
