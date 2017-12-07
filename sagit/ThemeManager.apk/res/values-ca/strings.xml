@@ -92,8 +92,8 @@
   <string name="gift_use_confirmation_dlg_title">Voleu enviar aquest regal?</string>
   <string name="gift_use_fail_dlg_title">Alguna cosa va anar malament</string>
   <string name="gift_used">Enviat</string>
-  <string name="hide_free">Amaga els de franc </string>
-  <string name="hide_incompatible">Amaga els incompatibles </string>
+  <string name="hide_free">Oculta %1$s de franc</string>
+  <string name="hide_incompatible">Oculta %1$s incompatibles</string>
   <string name="home_apply_failured">"No es pot aplicar el fons de la pantalla d'inici"</string>
   <string name="home_apply_success">S\'ha aplicat el fons de pantalla d\'inici</string>
   <string name="in_the_end">No hi ha més</string>
