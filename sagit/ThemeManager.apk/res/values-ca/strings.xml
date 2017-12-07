@@ -423,7 +423,7 @@
   <string name="theme_user_agreement_content1">"En utilitzar aquest producte accepteu els termes establerts en les nostres "</string>
   <string name="theme_user_agreement_content2">Acord d\'usuari</string>
   <string name="theme_user_agreement_content3">" i "</string>
-  <string name="theme_user_agreement_content4">Política de privacitat</string>
+  <string name="theme_user_agreement_content4">Política de privadesa</string>
   <string name="theme_user_agreement_content5">". Aquesta aplicació necessita connectar-se a internet per funcionar amb normalitat "</string>
   <string name="theme_user_agreement_exit">Tanca</string>
   <string name="theme_user_agreement_remind_again">Mostra les condicions d\'ús</string>
