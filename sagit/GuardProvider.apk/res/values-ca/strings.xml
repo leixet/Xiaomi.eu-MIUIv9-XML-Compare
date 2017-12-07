@@ -3,7 +3,7 @@
 <resources>
   <string name="app_name">Components de seguretat MIUI</string>
   <string name="avast_dialog_header">"Aquesta característica xifra i carrega l'ID de dispositiu als servidors d'Avast (%s)."</string>
-  <string name="avast_dialog_policy">mostra la política de privacitat</string>
+  <string name="avast_dialog_policy">mostra la política de privadesa</string>
   <string name="avast_dialog_title">"Política de privacitat d'Avast"</string>
   <string name="avast_dialog_url">http://api.sec.miui.com/policy/proxy?p=avast&amp;l=ca_ES</string>
   <string name="avast_virus_type_adware_description">El virus és un adware. Processa anuncis automàticament.</string>
