@@ -712,7 +712,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_password_req_notice">La contrasenya ha de tenir de 8 a 16 caràcters i incloure números i lletres (sensible a majúscules).</string>
   <string name="passport_phone_num_hint_text">Número de telèfon</string>
   <string name="passport_prev">Anterior</string>
-  <string name="passport_privacy_policy">Política de privacitat</string>
+  <string name="passport_privacy_policy">Política de privadesa</string>
   <string name="passport_pwd_generate_failure">"No s'ha pogut generar una contrasenya"</string>
   <string name="passport_pwd_generating">S\'està generant&#8230;</string>
   <string name="passport_quick_login_dialog_step2_title">Verificació en dues etapes</string>
@@ -773,7 +773,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_user_agreement_p1">D\'acord amb&#160;</string>
   <string name="passport_user_agreement_p2">Acord d\'usuari</string>
   <string name="passport_user_agreement_p3">i</string>
-  <string name="passport_user_agreement_p4">Política de privacitat</string>
+  <string name="passport_user_agreement_p4">Política de privadesa</string>
   <string name="passport_vcode_notification_title">La verificació del vostre d\'inici de sessió no s\'ha completat</string>
   <string name="passport_vcode_prompt_long">Introduïu el codi de verificació</string>
   <string name="passport_vcode_sms_send_prompt">Envia el codi de verificació a %s</string>
@@ -804,7 +804,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="press_to_continue_match">Premeu per continuar</string>
   <string name="press_to_match">Premeu per vincular</string>
   <string name="prev_remote">Control remot anterior</string>
-  <string name="privacy_content">Llegiu la &lt;a href=http://www.miui.com/res/doc/privacy/en.html&gt;Política de privacitat&lt;/a&gt; de Xiaomi i el &lt;a href=http://www.miui.com/res/doc/eula/en.html&gt;Contracte d\'usuari&lt;/a&gt; abans d\'utilitzar Control Mi. Cal tenir accés a internet i als serveis d\'ubicació perquè l\'aplicació funcioni amb normalitat.</string>
+  <string name="privacy_content">\"Llegiu la \"&lt;a href=\"http://www.miui.com/res/doc/privacy/en.html\"&gt;política de privadesa de Xiaomi &lt;/a&gt; i &lt;a href=\"http://www.miui.com/res/doc/eula/en.html\"&gt;L\'acord d\'usuari&lt;/a&gt; abans d\'utilitzar el Control Mi. L\'accés a Internet i als serveis d\'ubicació són obligatoris perquè l\'aplicació funcioni amb normalitat.</string>
   <string name="privacy_nohit">"No ho mostris més"</string>
   <string name="privacy_title">Termes i condicions</string>
   <string name="program_booking_book_filter_book_status">Estat de programació</string>
@@ -1026,7 +1026,7 @@ directament des de la vostra pantalla de bloqueig"</string>
   <string name="upgrade_loading">S\'està baixant&#8230;</string>
   <string name="upgrade_log">"Novetats"</string>
   <string name="upgrade_now">Actualitza</string>
-  <string name="upgrading">S\'està actualitzant&#8230;</string>
+  <string name="upgrading">S\'està actualitzant…</string>
   <string name="use_tv_power_key">"Utilitzeu el botó d\'encesa de %1$s
 Per canviar, premeu contínuament el botó d\'encesa del TV"</string>
   <string name="user_title">Perfil</string>
