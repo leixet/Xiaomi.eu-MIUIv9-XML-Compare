@@ -1161,7 +1161,7 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="registration_status_server_unreachable">Registre del compte no realitzat: Comproveu el nom del servidor.</string>
   <string name="registration_status_still_trying">Encara s\'està intentant&#8230;</string>
   <string name="reject_via_sms">Respostes ràpides</string>
-  <string name="reject_via_sms_summary">Edita missatges predefinits</string>
+  <string name="reject_via_sms_summary">Mostra els botons per finalitzar la trucada i enviar SMS</string>
   <string name="reject_via_sms_title">Respostes ràpides</string>
   <string name="remaining_length_format">Falten %1$s</string>
   <string name="remove">Treu</string>
