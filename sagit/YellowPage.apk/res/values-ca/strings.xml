@@ -7,7 +7,7 @@
   <string name="account_order">Historial de comandes</string>
   <string name="account_title">Perfil</string>
   <string name="account_type_name">Compte Mi</string>
-  <string name="account_updating_device">S\'està actualitzant&#8230;</string>
+  <string name="account_updating_device">S\'està actualitzant…</string>
   <string name="account_updating_device_failed">"No s'ha pogut iniciar sessió"</string>
   <string name="account_verify_password">"Ja esteu utilitzant aquest servei en un altre dispositiu. Per seguretat, heu de verificar el vostre compte Mi en aquest dispositiu."</string>
   <string name="account_yellowpage_favorite">Favorits</string>
