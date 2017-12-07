@@ -806,6 +806,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_action">Cancel·la</string>
   <string name="cancel_alert">Voleu descartar els canvis?</string>
+  <string name="cancel_button">Cancel·la</string>
   <string name="cancel_download_buton_text">Cancel·la</string>
   <string name="cant_sync_dialog_message">S\'ha desactivat la sincronització d\'aquest element. Per canviar-ho, activeu temporalment les dades en segon pla i la sincronització automàtica.</string>
   <string name="cant_sync_dialog_title">No es pot sincronitzar manualment</string>
@@ -4664,7 +4665,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_display_options_name">Nom</string>
   <string name="wifi_display_options_title">Opcions de la pantalla sense fil</string>
   <string name="wifi_display_pause">Pausa</string>
-  <string name="wifi_display_resume">Repren</string>
+  <string name="wifi_display_resume">Reprèn</string>
   <string name="wifi_display_session_info">Informació de la sessió</string>
   <string name="wifi_display_settings_empty_list_wifi_display_disabled">"No es pot utilitzar la pantalla sense fils quan s'ha desactivat el Wi-Fi"</string>
   <string name="wifi_display_settings_title">Emissió de la pantalla</string>
