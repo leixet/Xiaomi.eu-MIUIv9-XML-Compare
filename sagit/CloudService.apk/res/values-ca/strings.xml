@@ -71,7 +71,7 @@ Per obtenir més espai d\'emmagatzematge, visiteu mi.com/micloud."</string>
   <string name="enable_cloud_service_notification">Necessites activar Mi Cloud</string>
   <string name="enable_find_device_error">"No es pot activar la recerca del dispositiu. %1$s"</string>
   <string name="enable_find_device_success">Trobar dispositiu encès</string>
-  <string name="enable_micloud">Inicia sessió o crea un compte</string>
+  <string name="enable_micloud">Inicieu sessió per utilitzar Mi Cloud</string>
   <string name="enable_sync">Activar</string>
   <string name="enable_sync_dspt">"La sincronització està desactivada"</string>
   <string name="error_data_in_transfer">Les teves dades s\'estan transferint. Si us plau, espereu %s hores.</string>
