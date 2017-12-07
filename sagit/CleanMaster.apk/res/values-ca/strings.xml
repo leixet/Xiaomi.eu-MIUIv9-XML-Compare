@@ -291,7 +291,7 @@
   <string name="msg_update_error_code_success">Fet</string>
   <string name="msg_update_error_code_unknown_error">Error desconegut</string>
   <string name="name_debuglog_dir">Registre de depuració Bsp</string>
-  <string name="name_optimizer">Política de Privacitat</string>
+  <string name="name_optimizer">Política de privadesa</string>
   <string name="nb_clear_set">Neteja de la ROM, veure la bateria i informació de la llista de bloqueig a l\'àrea de notificacions</string>
   <string name="network_not_available">"No es pot connectar a la xarxa"</string>
   <string name="news_change">Canvia</string>
