@@ -1424,7 +1424,7 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="tty_mode_not_allowed_video_call">"No es pot canviar el mode TTY durant una videotrucada"</string>
   <string name="tty_mode_option_summary">Estableix mode TTY</string>
   <string name="tty_mode_option_title">Mode TTY</string>
-  <string name="turnover_mute_summary">Quan el telèfon s\'hagi girat horitzontalment, poseu-lo cap per vall per silenciar les trucades. Aquesta opció no s\'activa si ja teniu activada la vibració per les trucades entrants.</string>
+  <string name="turnover_mute_summary">Quan el telèfon està en una superfície horitzontal amb la pantalla cap amunt, torneu-lo a fer per silenciar les trucades.</string>
   <string name="turnover_mute_title">Gira per silenciar la trucada</string>
   <string name="undefined">Cap</string>
   <string name="unknown">Desconegut</string>
