@@ -282,7 +282,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_phone_num_hint_text">Número de telèfon</string>
   <string name="passport_phone_ticket_login">Inicia la sessió amb SMS</string>
   <string name="passport_prev">Torna</string>
-  <string name="passport_privacy_policy">Política de Privacitat</string>
+  <string name="passport_privacy_policy">Política de privadesa</string>
   <string name="passport_pwd_generate_failure">"No s'ha pogut generar una contrasenya"</string>
   <string name="passport_pwd_generating">Generant&#8230;</string>
   <string name="passport_querying_phone_info">S\'està sol·licitant la informació del compte…</string>
