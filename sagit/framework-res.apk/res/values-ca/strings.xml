@@ -33,7 +33,7 @@
   <string name="SetupCallDefault">Voleu acceptar la trucada?</string>
   <string name="ThreeWCMmi">Trucada a tres bandes</string>
   <string name="VideoView_error_button">D\'acord</string>
-  <string name="VideoView_error_text_invalid_progressive_playback">"Aquest vídeo no es vàlid per transmetre's en aquest dispositiu."</string>
+  <string name="VideoView_error_text_invalid_progressive_playback">"Aquest vídeo no es vàlid per transmetre'l en aquest dispositiu."</string>
   <string name="VideoView_error_text_unknown">"No es pot reproduir el vídeo."</string>
   <string name="VideoView_error_title">Problema amb el vídeo</string>
   <string name="accept">D\'acord</string>
