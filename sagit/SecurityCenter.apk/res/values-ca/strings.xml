@@ -844,7 +844,7 @@
   <string name="label_mi_stats">Anàlisi Mi</string>
   <string name="last_check_canceled">L\'escaneig de virus previ va ser cancel·lat </string>
   <string name="later">稍后处理</string>
-  <string name="legal_workday">Feiners</string>
+  <string name="legal_workday">Dies feiners</string>
   <string name="legal_workday_invalidate">Dll-Dv (informació de feiners caducada)</string>
   <string name="legal_workday_invalidate_message">Premi per actualitzar la informació de dies laborables.</string>
   <string name="legal_workday_message">(Omet els festius)</string>
