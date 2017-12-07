@@ -70,7 +70,7 @@
   <string name="add_pwa_to_homescreen">Voleu afegir aquesta web a la pantalla d\'inici?</string>
   <string name="add_ql_bm_title">Desa</string>
   <string name="add_quicklink_to_popular">Afegeix a la pàgina d\'inici</string>
-  <string name="add_quicklinks">Afegeix a la pàgina d\'inici</string>
+  <string name="add_quicklinks">Afegeix</string>
   <string name="add_shortcut">Afegeix una drecera</string>
   <string name="add_shortcut_success">S\'ha afegit la drecera</string>
   <string name="add_to_bookmark">Marcadors</string>
@@ -178,6 +178,7 @@
   <string name="color_picker_dialog_title">Seleccioneu el color</string>
   <string name="color_picker_hue">Tonalitat</string>
   <string name="color_picker_saturation">Saturació</string>
+  <string name="color_picker_value">Valor</string>
   <string name="comment_app_menu">Comentari</string>
   <string name="comment_description">Comentari</string>
   <string name="comment_hint">Comentari</string>
