@@ -465,7 +465,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="pref_summary_sync_display_photo_on_wifi_only">"Sincronitzar imatges de perfil de contactes només quan estiguis connectat per Wi-Fi"</string>
   <string name="pref_title_sync_contacts_title">Sincronitzar contactes</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Utilitza només Wi-Fi per sincronitzar fotos</string>
-  <string name="privacy_policy">Política de Privacitat</string>
+  <string name="privacy_policy">Política de privadesa</string>
   <string name="recommend_open_all_sync">Sincronitza tots els elements</string>
   <string name="remind_later">Més tard</string>
   <string name="restoreSync">Sincronitzar ara</string>
