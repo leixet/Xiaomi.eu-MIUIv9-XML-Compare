@@ -49,6 +49,7 @@
   <string name="date_time_picker_dialog_title">Estableix la data i l\'hora</string>
   <string name="dateformat">dd/LL/yyyy</string>
   <string name="day">dia</string>
+  <string name="del">SUPR</string>
   <string name="deleteDesc">elimina</string>
   <string name="description_content">A més de les seves característiques bàsiques, la calculadora també funciona com convertidor multifuncional, hipoteca i calculadora d\'imposts. Assegureu-vos que podeu prescindir d\'aquestes funcions abans de desinstal·lar l\'aplicació.</string>
   <string name="description_title">Quant a la Calculadora</string>
