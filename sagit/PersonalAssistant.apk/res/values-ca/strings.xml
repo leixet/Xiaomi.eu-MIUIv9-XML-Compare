@@ -440,6 +440,7 @@ Comproveu el número de seguiment."</string>
   <string name="fav_category_shopping">De compres</string>
   <string name="fav_category_video">Vídeos</string>
   <string name="fav_detail_nodata">No s\'ha pogut trobar la informació</string>
+  <string name="fav_download">Voleu baixar i instal·lar aquesta aplicació?</string>
   <string name="fav_init_guide_title">Quant als preferits</string>
   <string name="fav_label">Preferits</string>
   <string name="fav_more">Tots els preferits</string>
@@ -450,6 +451,7 @@ Comproveu el número de seguiment."</string>
   <string name="fav_success">S\'ha afegit als preferits amb èxit</string>
   <string name="fav_support_introduce">Gestioneu els preferits per a aplicacions individuals</string>
   <string name="fav_support_label">Aplicacions preferides</string>
+  <string name="fav_support_more">Totes les aplicacions compatibles</string>
   <string name="fav_support_not_title">"Els preferits no apareixeran a la llista"</string>
   <string name="fav_support_title">Els preferits apareixeran a la llista</string>
   <string name="favorite">Preferits</string>
