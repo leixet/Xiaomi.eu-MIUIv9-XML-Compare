@@ -636,7 +636,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="miprofile_alertdialog_title">Introduir nom</string>
   <string name="miprofile_bind_account_alertdialog_message">"Has d'afegir el número de telèfon d'aquest dispositiu al teu compte Mi per utilitzar això."</string>
   <string name="miprofile_bind_account_alertdialog_positive">Afegir número</string>
-  <string name="miprofile_bind_account_alertdialog_title">Afegir número de telèfon </string>
+  <string name="miprofile_bind_account_alertdialog_title">Afegeix número de telèfon</string>
   <string name="miprofile_contact_add">Afegir</string>
   <string name="miprofile_contact_added">Afegit</string>
   <string name="miprofile_contact_header">Contactes amb targeta de contacte</string>
