@@ -58,8 +58,8 @@
     <item quantity="one">%1$d mensaje reportat com a spam</item>
   </plurals>
   <plurals name="conversation_spammed">
-    <item quantity="other">%1$d marcats com a spam</item>
-    <item quantity="one">%1$d marcat com a spam</item>
+    <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; marcats com a correu brossa</item>
+    <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; marcat com a correu brossa</item>
   </plurals>
   <plurals name="day">
     <item quantity="other">%d dies</item>
@@ -90,8 +90,8 @@
     <item quantity="one">Mou conversa</item>
   </plurals>
   <plurals name="new_incoming_messages_many">
-    <item quantity="other">Mostrar %1$d nous missatges.</item>
-    <item quantity="one">Mostrar %1$d nou mensaje.</item>
+    <item quantity="other">Mostra %1$d missatges nous.</item>
+    <item quantity="one">Mostra %1$d missatge nou.</item>
   </plurals>
   <plurals name="num_selected">
     <item quantity="other">%d seleccionats</item>
