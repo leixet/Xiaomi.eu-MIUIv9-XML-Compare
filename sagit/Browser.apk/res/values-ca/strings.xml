@@ -262,7 +262,7 @@ està a punt de passar»</string>
   <string name="download_default_path_txt">Recorda aquesta elecció</string>
   <string name="download_dialog_default_path_invalid">"La ubicació de baixada que heu triat no és vàlida. S'està desant a la ubicació per defecte…"</string>
   <string name="download_dialog_file_length_hint_txt">"Mida del fitxer: "</string>
-  <string name="download_dialog_file_length_lessthan1kb">menys de 1kB</string>
+  <string name="download_dialog_file_length_lessthan1kb">Menys d\'1KB</string>
   <string name="download_dialog_file_length_nolength_error_txt">"No s'ha pogut baixar"</string>
   <string name="download_dialog_file_length_nolength_txt">Un moment&#8230;</string>
   <string name="download_failed">"No s'ha pogut completar la baixada"</string>
@@ -383,7 +383,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="license_activity_title">Llicències WebView del sistema</string>
   <string name="loading_tips">Llisqueu cap avall per actualitzar</string>
   <string name="login_failed_toast">"No s'ha pogut iniciar la sessió, actualitzeu i proveu-ho de nou"</string>
-  <string name="low_memory_error">"No es pot completar l'operació anterior perquè hi ha poca memòria"</string>
+  <string name="low_memory_error">"No es pot completar l'operació anterior perquè hi ha poca memòria."</string>
   <string name="low_memory_toast">"No es pot fer servir el Navegador perquè hi ha poca memòria"</string>
   <string name="max_tabs_warning">"No es poden obrir més pestanyes"</string>
   <string name="maximum_input_alert">"No es poden introduir més de 2.048 caràcters"</string>
