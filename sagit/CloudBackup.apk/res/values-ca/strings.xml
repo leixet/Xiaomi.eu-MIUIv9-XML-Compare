@@ -67,8 +67,8 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="cloud_backup_detail_frequence_day">Copia cada %1$s</string>
   <string name="cloud_backup_detail_manage">Administra còpies</string>
   <string name="cloud_backup_detail_manage_summary">%1$s còpies, mida: %2$s</string>
-  <string name="cloud_backup_detail_state">Còpia de seguretat del Mi Cloud</string>
-  <string name="cloud_backup_detail_state_summary">Aplicacions, pantalla d\'inici i configuració del sistema</string>
+  <string name="cloud_backup_detail_state">Còpies de seguretat automàtiques</string>
+  <string name="cloud_backup_detail_state_summary">Crea còpies de seguretat de Mi Cloud automàticament quan estigueu connectat a la Wi-Fi.</string>
   <string name="cloud_backup_detail_time">Darrera còpia: %1$s</string>
   <string name="cloud_backup_detail_title">Pantalla d\'inici, aplicacions i configuració.</string>
   <string name="cloud_backup_have_data">S\'ha trobat una còpia al Mi Cloud</string>
@@ -110,7 +110,7 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="error_unknown">Quelcom ha fallat</string>
   <string name="lack_of_storage">No hi ha prou espai</string>
   <string name="latest_backup_time_loading">S\'està carregant&#8230;</string>
-  <string name="managespace_delete_backup">Esborra còpia de seguretat</string>
+  <string name="managespace_delete_backup">Elimina</string>
   <string name="menu_item_managespace">Gestiona l\'espai</string>
   <string name="menu_item_sort">Ordena per</string>
   <string name="menu_item_sort_name">Nom</string>
