@@ -4012,7 +4012,7 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="tether_and_hotspot_title">Connexió compartida d\'Internet</string>
   <string name="tether_devices_management_title">Gestió de dispositius</string>
   <string name="tether_devices_max_number">Límit de dispositius connectats</string>
-  <string name="tether_settings_disabled">S\'ha desactivat el punt d\'accés personal</string>
+  <string name="tether_settings_disabled">S\'ha desactivat el punt d\'accés portàtil</string>
   <string name="tether_settings_disabled_on_data_saver">No es pot compartir la xarxa ni utilitzar punts d\'accés Wi-Fi mentre l\'estalvi de dades està activat</string>
   <string name="tether_settings_launch_title">Punt d\'accés mòbil</string>
   <string name="tether_settings_title_all">Connexió compartida d\'Internet</string>
@@ -4908,7 +4908,7 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="wifi_tether_failed_subtext">Error del punt d\'accés Wi-Fi portàtil</string>
   <string name="wifi_tether_first_use_message">Configura el punt d\'accés Wi-Fi al primer ús</string>
   <string name="wifi_tether_setting_title">Configuració</string>
-  <string name="wifi_tether_settings_title">Punt d\'accés personal</string>
+  <string name="wifi_tether_settings_title">Punt d\'accés portàtil</string>
   <string name="wifi_tether_starting">S\'està engegant el punt d\'accés&#8230;</string>
   <string name="wifi_tether_stopping">S\'està apagant el punt d\'accés&#8230;</string>
   <string name="wifi_type_approval_dialog_title">Informació de regulació</string>
