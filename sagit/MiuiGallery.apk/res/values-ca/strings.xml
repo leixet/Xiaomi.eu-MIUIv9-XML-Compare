@@ -418,7 +418,7 @@
   <string name="error_not_synced_tip">"La informació no està sincronitzada."</string>
   <string name="error_over_quota_tip">Hi ha massa sol·licituds. Espereu un minut o dos i torneu-ho a provar.</string>
   <string name="error_repeat_apply">Aquest àlbum ja ha estat compartit</string>
-  <string name="error_share_not_support">"Aquesta característica encara no està en funcionament"</string>
+  <string name="error_share_not_support">"Aquesta funció encara no és compatible"</string>
   <string name="error_share_with_creator">Aquest àlbum ja se us ha compartit</string>
   <string name="error_socket_timeout">S\'ha excedit el temps de connexió a la xarxa</string>
   <string name="error_socket_timeout_action">Seleccioneu una xarxa</string>
@@ -453,6 +453,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="face_album_not_named">Sense nom</string>
   <string name="face_album_pending_enable_tip">S\'ordenaran les fotos quan el dispositiu estigui connectat a la Wi-Fi</string>
   <string name="face_album_rename_hint">Introduïu el nom</string>
+  <string name="face_album_title">Fotos amb %s</string>
   <string name="face_album_use_tip">Ordena automàticament les fotos per les persones que hi apareixen.</string>
   <string name="face_albumset_loading_data">S\'estan carregant les dades&#8230;</string>
   <string name="face_choose_tip">Trieu-la d\'un àlbum existent</string>
