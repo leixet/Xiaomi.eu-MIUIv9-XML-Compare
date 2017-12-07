@@ -839,7 +839,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="search_feedback_task_request_award_failed">"No s'ha pogut rebre la recompensa. Torneu-ho a provar més tard."</string>
   <string name="search_feedback_task_requesting_award">S\'està rebent la recompensa…</string>
   <string name="search_feedback_user_notice">"He llegit i he acceptat %s."</string>
-  <string name="search_feedback_user_policy">Política de privacitat de l\'algoritme del programa Galeria MI AIUI</string>
+  <string name="search_feedback_user_policy">Política de privadesa de l\'algoritme del programa Galeria MI AIUI</string>
   <string name="search_hint">Cerca d\'imatges</string>
   <string name="search_image_result_title">Resultats de la cerca</string>
   <string name="search_login_now">Inicia la sessió</string>
