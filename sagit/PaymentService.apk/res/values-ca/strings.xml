@@ -370,7 +370,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_password_req_notice">La contrasenya ha de tenir de 8 a 16 caràcters i incloure números i lletres (sensible a majúscules).</string>
   <string name="passport_phone_num_hint_text">Número de telèfon</string>
   <string name="passport_prev">Enrere</string>
-  <string name="passport_privacy_policy">Polítiques de privadesa</string>
+  <string name="passport_privacy_policy">Política de privadesa</string>
   <string name="passport_pwd_generate_failure">"No s'ha pogut generar una contrasenya"</string>
   <string name="passport_pwd_generating">S\'està generant&#8230;</string>
   <string name="passport_quick_login_dialog_step2_title">Verificació en dues passes</string>
@@ -431,7 +431,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_user_agreement_p1">D\'acord amb&#160;</string>
   <string name="passport_user_agreement_p2">Acord d\'usuari</string>
   <string name="passport_user_agreement_p3">i</string>
-  <string name="passport_user_agreement_p4">Política de privacitat</string>
+  <string name="passport_user_agreement_p4">Política de privadesa</string>
   <string name="passport_vcode_notification_title">La verificació del vostre d\'inici de sessió no s\'ha completat</string>
   <string name="passport_vcode_prompt_long">Introduïu el codi de verificació</string>
   <string name="passport_vcode_sms_send_prompt">Envia el codi de verificació a %s</string>
