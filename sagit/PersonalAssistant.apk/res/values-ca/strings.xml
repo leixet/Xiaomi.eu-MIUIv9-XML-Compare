@@ -673,6 +673,8 @@ Comproveu el número de seguiment."</string>
   <string name="payment_pref_source_mms_title">SMS</string>
   <string name="payment_pref_source_wechat_summary">Obteniu informació de pagament del WeChat</string>
   <string name="payment_pref_source_wechat_title">WeChat</string>
+  <string name="payment_privacy_dialog_message">"«Els meus pagaments» us permet recollir els comptes de les principals aplicacions de pagament en un sol lloc. Tota la informació de pagament serà xifrada i emmagatzemada de manera segura al vostre dispositiu. No se sincronitzarà amb Mi Cloud ni es carregarà a cap altre servidor. Podeu desactivar «Els meus pagaments» a la Configuració o simplement treure aquesta targeta de la volta de l'aplicació per deixar d'utilitzar aquest servei. Hi esteu d'acord?"</string>
+  <string name="payment_privacy_dialog_title">Política de privadesa dels «Meus pagaments»</string>
   <string name="payment_record_add">Afegeix un pagament</string>
   <string name="payment_record_delete">Elimina dels pagaments</string>
   <string name="payment_record_empty">Encara no hi ha pagaments</string>
@@ -841,6 +843,7 @@ Comproveu el número de seguiment."</string>
   <string name="spending_setting_brief">Detalls del pagament</string>
   <string name="sport">Esport</string>
   <string name="sport_open">Mostra la targeta Mi Fit</string>
+  <string name="step_cal_unit">cal.</string>
   <string name="step_km">km</string>
   <string name="step_setting_tip">Font d\'informació de passos</string>
   <string name="step_vip_action_bar">Passos</string>
@@ -868,6 +871,7 @@ Comproveu el número de seguiment."</string>
   <string name="stock_web_bottom_btn">Obre</string>
   <string name="stock_web_bottom_text">Obriu el client per veure més informació</string>
   <string name="stock_web_lable">Accions</string>
+  <string name="study_parent">Estudis</string>
   <string name="system_favorite_dialog_link">Seguretat i privadesa</string>
   <string name="system_favorite_dialog_message">Afegiu els vostres preferits d\'altres aplicacions aquí.</string>
   <string name="system_favorite_dialog_negative">Cancel·la</string>
@@ -902,7 +906,6 @@ Comproveu el número de seguiment."</string>
   <string name="trip_quick">Conductor</string>
   <string name="trip_taxi">Taxi</string>
   <string name="try_again">Torna-ho a provar</string>
-  <string name="understandassistant">Quant l\'Assistent intel·ligent</string>
   <string name="uninstall">No està instal·lat</string>
   <string name="unusual_weather">Alertes meteorològiques</string>
   <string name="unusual_weather_open">Activa les alertes meteorològiques</string>
@@ -927,10 +930,12 @@ Comproveu el número de seguiment."</string>
   <string name="widget_more">Mostra\'n més</string>
   <string name="widget_no_data">Encara no hi ha preferits.</string>
   <string name="widget_title">Afegit recentment</string>
+  <string name="wx_aa">Reparteix la despesa</string>
   <string name="wx_collectioncode">Rebeu el pagament</string>
   <string name="wx_name">La meva targeta</string>
   <string name="wx_parent">WeChat</string>
   <string name="wx_paycode">Pagament</string>
+  <string name="wx_photo">Foto</string>
   <string name="wx_scan">Escàner</string>
   <string name="wx_timeline">Moments</string>
   <string name="xiaomi_search_label">Cerca</string>
