@@ -442,7 +442,7 @@ Comproveu el número de seguiment."</string>
   <string name="fav_more">Tots els preferits</string>
   <string name="fav_network_error">Error de xarxa</string>
   <string name="fav_nodata_tip">No hi ha preferits</string>
-  <string name="fav_search_nodata_tip">Sense resultats</string>
+  <string name="fav_search_nodata_tip">No s\'ha pogut trobar resultats</string>
   <string name="fav_success">S\'ha afegit als preferits amb èxit</string>
   <string name="favorite">Preferits</string>
   <string name="favorite_add_home">Afegeix a la pantalla d\'inici</string>
@@ -568,14 +568,14 @@ Comproveu el número de seguiment."</string>
   <string name="miuishare_account_need_activate">La participació Weibo requereix que el vostre compte Weibo estigui enllaçat al compte de Xiaomi, que no està activat actualment. Voleu activar el vostre compte?</string>
   <string name="miuishare_account_need_login">La participació de Weibo requereix que el vostre compte Weibo estigui enllaçat al compte Xiaomi, que actualment està iniciat. Voleu iniciar sessió per compartir-la?</string>
   <string name="miuishare_app_name">MiuiShare</string>
-  <string name="miuishare_no_network">"Sense xarxa per compartir"</string>
+  <string name="miuishare_no_network">"No s'ha pogut connectar a la xarxa."</string>
   <string name="miuishare_publish">Envia</string>
   <string name="miuishare_qzone_title">Qzone</string>
-  <string name="miuishare_share_done">S\'ha enviat el contingut compartit.</string>
+  <string name="miuishare_share_done">S\'ha compartit amb èxit</string>
   <string name="miuishare_share_editor_title">Comparteix</string>
   <string name="miuishare_title_more">Més</string>
   <string name="miuishare_title_share">Comparteix</string>
-  <string name="miuishare_wechat_timeline_title">Cronologia de WeChat</string>
+  <string name="miuishare_wechat_timeline_title">Moments de WeChat</string>
   <string name="month_day_format">dd/MM</string>
   <string name="month_day_hour_minute_format_en">dd/MM HH:mm</string>
   <string name="month_format_en">dd/MM</string>
@@ -640,6 +640,7 @@ Comproveu el número de seguiment."</string>
   <string name="order_type_recharge">Recarrega</string>
   <string name="pay_card_pack">Mi Pay</string>
   <string name="paycode_sdk_parent">Drecera de pagament</string>
+  <string name="paycode_sdk_parent_title">Drecera de pagament</string>
   <string name="payment">Els meus pagaments</string>
   <string name="payment_app_name">Els meus pagaments</string>
   <string name="payment_card_title">Els meus pagaments</string>
@@ -737,7 +738,7 @@ Comproveu el número de seguiment."</string>
   <string name="search_category_video">Vídeos</string>
   <string name="search_change_header">Substitueix la imatge de portada</string>
   <string name="search_clear_header">Elimina la imatge de la portada</string>
-  <string name="search_hint">Cerca elements al dispositiu i en línia</string>
+  <string name="search_hint">Cerca als preferits</string>
   <string name="search_label">S\'està cercant…</string>
   <string name="search_setting_description">Títols als favorits</string>
   <string name="search_tip">S\'està cercant…</string>
@@ -827,7 +828,7 @@ Comproveu el número de seguiment."</string>
   <string name="sms_passenger">Passatger</string>
   <string name="sms_phone">Telèfon</string>
   <string name="sms_platform">Plataforma</string>
-  <string name="sms_session">Hora</string>
+  <string name="sms_session">Projecció</string>
   <string name="sms_start_date">Data</string>
   <string name="sms_start_time">Hora</string>
   <string name="sms_ticket">Bitllet</string>
