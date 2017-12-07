@@ -171,7 +171,6 @@
   <string name="cta_negative">Tanca</string>
   <string name="cta_positive">Detalls</string>
   <string name="cta_text5">El servei també requereix de connexió a Internet i accés als serveis d\'ubicació. Voleu acceptar?</string>
-  <string name="cta_title">Deixeu que l\'assistent intel·ligent us ajudi</string>
   <string name="currency_china">EUR</string>
   <string name="daily_greeting">Salutacions diàries</string>
   <string name="data_error">S\'ha produït un error. Espereu uns minuts i torneu-ho a intentar</string>
