@@ -257,7 +257,7 @@ està a punt de passar»</string>
   <string name="dont_remind_again">Recorda aquesta elecció</string>
   <string name="download_btn_select_all">Selecciona-ho tot</string>
   <string name="download_btn_select_none">Desselecciona-ho tot</string>
-  <string name="download_complete">S\'ha baixat correctament</string>
+  <string name="download_complete">S\'ha baixat amb èxit</string>
   <string name="download_completed">Baixat</string>
   <string name="download_default_path_txt">Recorda aquesta elecció</string>
   <string name="download_dialog_default_path_invalid">"La ubicació de baixada que heu triat no és vàlida. S'està desant a la ubicació per defecte…"</string>
@@ -731,7 +731,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="root_folder_lable">Cap</string>
   <string name="router_download_exist">Aquest fitxer ja existeix</string>
   <string name="router_download_failed">"No s'ha pogut baixar"</string>
-  <string name="router_download_success">S\'ha baixat correctament</string>
+  <string name="router_download_success">S\'ha baixat amb èxit</string>
   <string name="same_bookmarks_warning">"Ja heu afegit aquesta pàgina als marcadors"</string>
   <string name="same_folder_name_warning">Ja existeix un grup amb el mateix nom</string>
   <string name="save_button_text">Desa</string>
@@ -828,12 +828,12 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="suggest_access_item_app_size">%.2f MB</string>
   <string name="suggest_access_item_app_update">Actualització: %s</string>
   <string name="suggest_access_item_book_mark">LLIBRE</string>
-  <string name="suggest_access_item_mina_mark">SERVEI DIRECTE</string>
+  <string name="suggest_access_item_mina_mark">APLICACIONS INSTANTÀNIES</string>
   <string name="suggest_access_item_music_mark">MÚSICA</string>
   <string name="suggest_access_item_singer_albums">%d àlbums</string>
   <string name="suggest_access_item_singer_pop">%d cançons populars</string>
   <string name="suggest_access_item_site_mark">LLOCS</string>
-  <string name="suggest_access_item_video_mark">VÍDEO</string>
+  <string name="suggest_access_item_video_mark">VÍDEOS</string>
   <string name="suggest_access_item_yellow_mark">PÀGINES GROGUES</string>
   <string name="suggest_access_music">Música Mi</string>
   <string name="suggest_item_delete_text">Elimina</string>
@@ -899,10 +899,10 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="video_activity_name">Favorits</string>
   <string name="video_buffering_percent">"S'està omplint la memòria intermèdia "</string>
   <string name="video_buffering_percent_string">"S'està omplint la memòria intermèdia "</string>
-  <string name="video_collect_cancel">Elimina de Preferits</string>
+  <string name="video_collect_cancel">Elimina dels preferits</string>
   <string name="video_collect_success">S\'ha agregat als favorits</string>
   <string name="video_doenload_complete">S\'ha baixat el vídeo amb èxit</string>
-  <string name="video_download_complete">Baixada completa.</string>
+  <string name="video_download_complete">S\'ha baixat amb èxit</string>
   <string name="video_download_empty">No hi ha vídeos</string>
   <string name="video_download_error">Error</string>
   <string name="video_download_error_http_gone">"No s'ha trobat el fitxer"</string>
@@ -912,7 +912,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="video_download_finding_address">S\'està obtenint l\'URL de baixada</string>
   <string name="video_download_pause">En pausa</string>
   <string name="video_download_start">S\'està baixant&#8230;</string>
-  <string name="video_download_success">Completat</string>
+  <string name="video_download_success">S\'ha baixat amb èxit</string>
   <string name="video_download_unknown_name">Nom desconegut</string>
   <string name="video_download_unknown_size">Mida desconeguda</string>
   <string name="video_download_unsupport">No suportat</string>
