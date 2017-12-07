@@ -196,7 +196,7 @@ necessiteu carregar les dades en dispositius antics a l\'iCloud"</string>
   <string name="local_select_video">Vídeos</string>
   <string name="login">Inicia una sessió</string>
   <string name="login_failed">"No s'ha pogut iniciar la sessió. Torneu-ho a intentar."</string>
-  <string name="logining">iniciant la sessió…</string>
+  <string name="logining">S\'està iniciant sessió…</string>
   <string name="miliao_account_guide">Utilitzeu el Compte Mi per iniciar sessió al Mi Cloud, a la botiga de temes MIUI i als serveis Mi, des d\'arreu.</string>
   <string name="miliao_account_login">Inicia la sessió amb Mi Talk</string>
   <string name="mms_title">Missatgeria multimèdia</string>
