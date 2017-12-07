@@ -912,7 +912,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="recent_contacts_label">Recents</string>
   <string name="recent_number">Recents</string>
   <string name="recent_updates">Actualitzacions recents</string>
-  <string name="redirect_calls_to_vm_confirm_message"> Abans de configurar la teva bústia de correu, revisi els termes i condicions del seu contracte amb el proveïdor de xarxa mòbil.</string>
+  <string name="redirect_calls_to_vm_confirm_message">Abans de configurar la bústia de correu, reviseu els termes i condicions del vostre contracte amb el proveïdor de xarxa mòbil.</string>
   <string name="redirect_calls_to_vm_confirm_text">D\'acord</string>
   <string name="refresh">Actualitza</string>
   <string name="relationLabelsGroup">Relació</string>
