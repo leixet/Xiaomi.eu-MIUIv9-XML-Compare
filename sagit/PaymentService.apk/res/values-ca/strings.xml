@@ -130,7 +130,7 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="mibi_giftcard_record">Les meves targetes regal</string>
   <string name="mibi_giftcard_title">Targeta regal Mi Credit</string>
   <string name="mibi_giftcard_will_expire">Caduca al %1$s</string>
-  <string name="mibi_giftcard_with_num">%1$s Cupó Mi Credit disponible</string>
+  <string name="mibi_giftcard_with_num">&lt;Data&gt;&amp;lt;font color=#FF7700&amp;gt;&amp;lt;xliff:g id=value&amp;gt;%1$d&amp;lt;/xliff:g&amp;gt; Cupó Mi Credit disponible&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="mibi_header_network_error">"No s'ha pogut connectar a la xarxa."</string>
   <string name="mibi_illegal_intent">Intent de sol·licitud il·legal</string>
   <string name="mibi_is_what">Què puc comprar amb Mi Credits?</string>
