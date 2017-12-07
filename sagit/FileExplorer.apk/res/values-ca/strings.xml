@@ -412,7 +412,7 @@
   <string name="phone">Emmagatzematge intern</string>
   <string name="phone_bind_skip">Saltar</string>
   <string name="phone_bind_tip">Afegir número telefònic per participar en els rànquings i guanyar premis</string>
-  <string name="phone_bind_title">Afegir número telefònic</string>
+  <string name="phone_bind_title">Afegeix número de telèfon</string>
   <string name="phone_code_err">Número telefònic o codi de verificació són incorrectes</string>
   <string name="phone_code_et_hint">Entrar codi de verificació</string>
   <string name="phone_get_code_tip">Massa intents per obtenir el codi avui</string>
