@@ -272,7 +272,6 @@
   <string name="express_company_phone_prefix">"Contacte: "</string>
   <string name="express_company_pricing_details">Detall dels preus</string>
   <string name="express_complete">Acceptat</string>
-  <string name="express_complete_flag">3</string>
   <string name="express_contact_address">Introduïu una adreça</string>
   <string name="express_contact_address_finding">S\'està ubicant…</string>
   <string name="express_contact_label">Informació per al servei de recollida</string>
@@ -283,7 +282,6 @@
   <string name="express_copy_number">Copia</string>
   <string name="express_delete_order">Elimina</string>
   <string name="express_delivery">Lliurant-se</string>
-  <string name="express_delivery_flag">5</string>
   <string name="express_dest_city_label">Destinació</string>
   <string name="express_detailed_address">Adreça</string>
   <string name="express_field_empty">Buit</string>
@@ -291,7 +289,6 @@
   <string name="express_goods_detail">Detalls de la comanda</string>
   <string name="express_icon_tip">Recupera la informació de seguiment de l\'enviament urgent mitjançant el vostre número de telèfon i informació de la comanda.</string>
   <string name="express_icon_tip_link">Seguretat i privadesa</string>
-  <string name="express_info_divider">" / "</string>
   <string name="express_inqiury_select_logistics">Servei de missatgeria</string>
   <string name="express_inquiry">Seguiment</string>
   <string name="express_inquiry_and_send">Seguiment i enviament</string>
@@ -490,7 +487,6 @@ Comproveu el número de seguiment."</string>
   <string name="home_and_company">Casa i treball</string>
   <string name="http_stock_error">No s\'ha pogut carregar la informació</string>
   <string name="immediate_recommendation">Recomanacions</string>
-  <string name="info_divider">|</string>
   <string name="item_type_custom">Personalitza</string>
   <string name="item_type_suggestion">Suggeriments</string>
   <string name="just_now">Ara mateix</string>
