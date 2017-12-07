@@ -305,7 +305,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_reg_recycle_account_yes">Sí</string>
   <string name="passport_reg_success">S\'ha creat el compte</string>
   <string name="passport_reg_success_summary">%1$s s\'ha unit al vostre compte. Podeu utilitzar-lo per iniciar la sessió o per restablir la contrasenya.</string>
-  <string name="passport_reg_type_email">Utilitza adreça de correu electrònic</string>
+  <string name="passport_reg_type_email">Adreça de correu</string>
   <string name="passport_reg_using_other_phone">Utilitza número de telèfon alternatiu</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Crea un compte nou usant "</string>
   <string name="passport_reg_using_phone_number_prompt">Crear un compte utilitzant el número de telèfon</string>
