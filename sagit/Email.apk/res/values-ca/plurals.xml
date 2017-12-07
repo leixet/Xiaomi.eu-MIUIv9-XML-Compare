@@ -26,12 +26,12 @@
     <item quantity="one">%d seleccionat</item>
   </plurals>
   <plurals name="conversation_archived">
-    <item quantity="other">%1$d arxivats</item>
-    <item quantity="one">%1$d arxivat</item>
+    <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; arxivades.</item>
+    <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; arxivada.</item>
   </plurals>
   <plurals name="conversation_deleted">
-    <item quantity="other">S\'ha eliminat %1$d converses.</item>
-    <item quantity="one">S\'ha eliminat %1$d conversa.</item>
+    <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; suprimides.</item>
+    <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; suprimida.</item>
   </plurals>
   <plurals name="conversation_folder_changed">
     <item quantity="other">Carpetes canviades.</item>
@@ -42,20 +42,20 @@
     <item quantity="one">… %1$d persona</item>
   </plurals>
   <plurals name="conversation_muted">
-    <item quantity="other">%1$d silenciades.</item>
-    <item quantity="one">%1$d silenciada.</item>
+    <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; silenciades.</item>
+    <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; silenciada.</item>
   </plurals>
   <plurals name="conversation_not_important">
-    <item quantity="other">%1$d missatges eliminats de la carpeta \'important\'</item>
-    <item quantity="one">%1$d eliminada de la carpeta \'important\'</item>
+    <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt;\" eliminats de la carpeta «important»\"</item>
+    <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt;\" eliminat de la carpeta «important»\"</item>
   </plurals>
   <plurals name="conversation_not_spam">
-    <item quantity="other">%1$d eliminats de la carpeta \'spam\'</item>
-    <item quantity="one">%1$d eliminat de la carpeta \'spam\'</item>
+    <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt;\" eliminats de la carpeta de «correu brossa»\"</item>
+    <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt;\" eliminat de la carpeta de «correu brossa»\"</item>
   </plurals>
   <plurals name="conversation_phished">
-    <item quantity="other">%1$d missatges reportats com a spam</item>
-    <item quantity="one">%1$d mensaje reportat com a spam</item>
+    <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; notificats com a correu brossa</item>
+    <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; notificat com a correu brossa</item>
   </plurals>
   <plurals name="conversation_spammed">
     <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; marcats com a correu brossa</item>
