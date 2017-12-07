@@ -658,7 +658,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_copy_message_vcode">Copia el codi</string>
   <string name="passport_delete_account">Tanca la sessió</string>
   <string name="passport_downlink_reg">Crea un compte utilitzant el número de telèfon</string>
-  <string name="passport_email">Adreça de correu electrònic</string>
+  <string name="passport_email">Adreça de correu</string>
   <string name="passport_email_or_id_hint_text">Adreça de correu electrònic o identificador del compte Mi</string>
   <string name="passport_email_reg_success_summary">S\'ha vinculat %1$s al vostre compte. Podeu utilitzar-lo per iniciar la sessió o per restablir la contrasenya.</string>
   <string name="passport_error_device_id">"No es pot obtenir la identitat del dispositiu"</string>
