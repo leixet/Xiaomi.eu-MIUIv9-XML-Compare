@@ -400,9 +400,9 @@
   <string name="theme_empty_redirect">Torna a la botiga de temes</string>
   <string name="theme_favorite_add_fail">"No es pot afegir el tema als favorits"</string>
   <string name="theme_favorite_add_success">Tema afegit als favorits</string>
-  <string name="theme_favorite_delete">Elimina dels favorits</string>
-  <string name="theme_favorite_delete_fail">"No es pot eliminar dels favorits"</string>
-  <string name="theme_favorite_delete_success">Tema eliminat dels favorits</string>
+  <string name="theme_favorite_delete">Elimina dels preferits</string>
+  <string name="theme_favorite_delete_fail">"No es pot eliminar dels preferits"</string>
+  <string name="theme_favorite_delete_success">Eliminat dels preferits</string>
   <string name="theme_favorite_list_empty">"No s'ha afegit als favorits cap tema."</string>
   <string name="theme_favorite_waiting">Un moment&#8230;</string>
   <string name="theme_fresh_man_notifaction">Nous temes disponibles</string>
