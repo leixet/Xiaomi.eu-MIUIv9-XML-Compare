@@ -187,7 +187,7 @@
   <string name="dialog_delete_cancel">Cancel·la</string>
   <string name="dialog_delete_delete">Elimina</string>
   <string name="dialog_delete_desc">Voleu eliminar-lo dels preferits?</string>
-  <string name="dialog_delete_title">Elimina-ho dels preferits</string>
+  <string name="dialog_delete_title">Elimina dels preferits</string>
   <string name="dialog_font_background">Segon pla</string>
   <string name="dialog_font_light">Brillantor</string>
   <string name="dialog_mark_like">S\'ha marcat com a important</string>
