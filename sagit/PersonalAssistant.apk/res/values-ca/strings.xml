@@ -462,6 +462,7 @@ Comproveu el número de seguiment."</string>
   <string name="favorite_main">Historial</string>
   <string name="favorite_title_limit">Introduïu fins a 40 caràcters</string>
   <string name="favorite_title_modify">Modifica</string>
+  <string name="favorite_title_modify_success">S\'ha modificat amb èxit</string>
   <string name="feedback_cancel">Cancel·la</string>
   <string name="feedback_ok">D\'acord</string>
   <string name="flow_open">Mostra targeta de dades mòbils</string>
@@ -549,6 +550,8 @@ Comproveu el número de seguiment."</string>
   <string name="map_suggestion_positive">Afegeix</string>
   <string name="map_suggestion_title">Suggeriments del mapa</string>
   <string name="map_title">Informació de trànsit</string>
+  <string name="memory_clear_nothing_result">No hi ha res per esborrar a la memòria cau</string>
+  <string name="memory_clear_result">%1$sB netejats</string>
   <string name="menu_new">Afegeix</string>
   <string name="mi_agenda">Esdeveniments del calendari</string>
   <string name="mi_basketball">Bàsquet</string>
@@ -904,6 +907,10 @@ Comproveu el número de seguiment."</string>
   <string name="unusual_weather_open">Activa les alertes meteorològiques</string>
   <string name="unusual_weather_setting_brief">Rep alertes meteorològiques en cas d\'apropar-se una situació de perill.</string>
   <string name="unusual_weather_setting_tip">Les ciutats utilitzades per emetre alertes es poden canviar a l\'aplicació El temps.</string>
+  <string name="upgrade_being">S\'està instal·lant, l\'escriptori està a punt de reiniciar-se</string>
+  <string name="upgrade_find">S\'ha trobat una versió nova</string>
+  <string name="upgrade_later">Instal·la més tard</string>
+  <string name="upgrade_now">Instal·la ara</string>
   <string name="uploads_disabled">"No es poden pujar els arxius"</string>
   <string name="user_id">ID d\'usuari: %s</string>
   <string name="user_notice_title">Atenció</string>
