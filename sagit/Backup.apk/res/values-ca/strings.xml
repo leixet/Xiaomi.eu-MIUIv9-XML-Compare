@@ -124,7 +124,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="err_unknown">Error no identificat</string>
   <string name="err_version_too_old">El fitxer de la còpia de seguretat és massa antic.</string>
   <string name="err_version_unsupported">"La versió de la còpia de seguretat no és compatible."</string>
-  <string name="error_permissions">"Ha fallat els permisos del calendari de lectura i escriptura, comproveu el permís a la configuració"</string>
+  <string name="error_permissions">"Aquesta aplicació no té els permisos necessaris perquè accedeixi al Calendari. Aneu a la Configuració i comproveu els permisos per continuar."</string>
   <string name="every_day">Cada dia</string>
   <string name="exchange_account">Canvia de compte</string>
   <string name="fail">S\'ha produït un error</string>
@@ -160,9 +160,9 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="hsa_verify_retry">Tornar a intentar</string>
   <string name="hsa_verify_shutdown">Desactiva</string>
   <string name="icloud_backup_tip">Accediu a l\'ID d\'iCloud del dispositiu Apple anterior</string>
-  <string name="icloud_how_to_backup_tip_steps">"1. Accediu a la configuració del dispositiu iOS i, a continuació, seleccioneu iCloud.
-2. Activeu els contactes.
-3. Seleccioneu fotos i activeu la biblioteca de fotos d\'iCloud."</string>
+  <string name="icloud_how_to_backup_tip_steps">"1. Obriu la Configuració al dispositiu iOS i seleccioneu iCloud.
+2. Canvieu els commutadors de contactes i altres elements.
+3. Seleccioneu Fotos i activeu el commutador de la biblioteca de fotos d\'iCloud. "</string>
   <string name="icloud_how_to_backup_tip_summary">Per importar les dades d\'iOS, heu de carregar les dades en dispositius antics a iCloud.</string>
   <string name="icloud_how_to_backup_tip_title">Consells:</string>
   <string name="icloud_login_title">Inicia sessió a l\'iCloud</string>
