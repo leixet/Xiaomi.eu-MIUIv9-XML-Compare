@@ -210,7 +210,7 @@
   <string name="didi_price_unit">EUR</string>
   <string name="didi_target">Destinació     </string>
   <string name="didi_taximeter">Calcula la tarifa de taxi</string>
-  <string name="didi_trip">Taxi</string>
+  <string name="didi_trip">Truca a un taxi</string>
   <string name="didi_trip_content">Calcula la tarifa i truca a un taxi</string>
   <string name="didi_trip_content_detail">Calcula la tarifa de taxi aproximada i truca a un taxi.</string>
   <string name="drive">Condueix</string>
@@ -345,6 +345,7 @@ Comproveu el número de seguiment."</string>
   <string name="express_num_setting_title">Accés a la informació de la comanda</string>
   <string name="express_number_txt">Número de comanda:</string>
   <string name="express_open">Mostra targetes de seguiment d\'entrega</string>
+  <string name="express_open_locker">Obre</string>
   <string name="express_open_txt">Obre</string>
   <string name="express_order_confirmation">Confirmació de la comanda</string>
   <string name="express_order_failed">Ha fallat</string>
@@ -469,6 +470,7 @@ Comproveu el número de seguiment."</string>
   <string name="focus">Segueix l\'estat</string>
   <string name="focus_stocks">Les meves empreses</string>
   <string name="function_not_support">"Aquesta funció no és compatible amb aquest dispositiu"</string>
+  <string name="function_open_error_title">"No es pot obrir «%s»"</string>
   <string name="function_qq_title">QQ</string>
   <string name="go_to_school">Per a i des del treball o l\'escola</string>
   <string name="greeting_open">Activa les salutacions diàries</string>
