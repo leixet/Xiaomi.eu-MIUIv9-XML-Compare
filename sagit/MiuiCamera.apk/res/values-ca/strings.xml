@@ -205,6 +205,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_flashmode_entry_on">Activat</string>
   <string name="pref_camera_flashmode_entry_torch">Fix</string>
   <string name="pref_camera_flashmode_title">Mode de flaix</string>
+  <string name="pref_camera_focus_shoot_summary">Toqueu per enfocar i, tot seguit, toqueu de nou per fer una foto.</string>
   <string name="pref_camera_focus_shoot_title">Enfoca i dispara</string>
   <string name="pref_camera_focusmode_entry_auto">Automàtic</string>
   <string name="pref_camera_focusmode_entry_infinity">Infinit</string>
