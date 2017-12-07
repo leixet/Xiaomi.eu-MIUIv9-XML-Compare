@@ -197,7 +197,7 @@
   <string name="contactSavedErrorToast">"No es poden desar els canvis del contacte"</string>
   <string name="contactSavedToast">Contacte guardat</string>
   <string name="contact_clear_search_history">Esborra l\'historial</string>
-  <string name="contact_delete_toast">Contacte eliminat</string>
+  <string name="contact_delete_toast">Contacte eliminat amb èxit</string>
   <string name="contact_detail_action_item_calllog">Historial de trucades</string>
   <string name="contact_detail_action_item_nocalllog">No hi ha historial</string>
   <string name="contact_detail_calllog_call_note_tips">Notes</string>
@@ -431,7 +431,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="export_to_sim2">Exporta a SIM 2</string>
   <string name="export_to_sim_prepare_title">S\'està preparant&#8230;</string>
   <string name="export_to_sim_title">Exportant&#8230;</string>
-  <string name="export_vcard_description">"Exporta vCard a la memòria interna del telèfon"</string>
+  <string name="export_vcard_description">"Exporta la vCard a l'emmagatzematge del telèfon"</string>
   <string name="exporting_contact_failed_message">No s\'ha pogut exportar dades del contacte. Motiu: \"%s\"\"</string>
   <string name="exporting_contact_failed_title">"No es pot exportar"</string>
   <string name="exporting_contact_list_message">Exportant a %s.</string>
@@ -524,7 +524,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="import_to_xiaomi_account_progress_message">S\'està important&#8230;</string>
   <string name="import_to_xiaomi_account_progress_title">Importar contactes al compte Mi</string>
   <string name="import_to_xiaomi_account_title">Importar a compte Mi</string>
-  <string name="import_vcard_description">"Importar contactes de la memòria interna del telèfon"</string>
+  <string name="import_vcard_description">"Importa contactes des de l'emmagatzematge del telèfon"</string>
   <string name="import_vcard_dialog_message">Importar vCard?</string>
   <string name="importing_sim_contacts_miui">Importar contactes de la targeta SIM&#8230;</string>
   <string name="importing_sim_contacts_miui_prepare">S\'estan preparant els contactes&#8230;</string>
@@ -741,7 +741,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="no_contacts_dialog_message">"Els contactes poden estar emmagatzemats a la targeta SIM. Intenta importar-los des de la teva targeta SIM a la memòria interna del telèfon i torna a provar."</string>
   <string name="no_contacts_dialog_title">"No es poden trobar contactes"</string>
   <string name="no_contacts_selected">No hi ha contactes seleccionats.</string>
-  <string name="no_sdcard_message">Emmagatzematge no va ser trobat.</string>
+  <string name="no_sdcard_message">No s\'ha trobat cap targeta SD.</string>
   <string name="non_phone_add_to_contacts">Afegeix a contactes</string>
   <string name="non_phone_caption">Número de telèfon</string>
   <string name="non_phone_close">Tancar</string>
@@ -965,7 +965,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="search_simple_mode">Pantalla;informació;fotos;Contactes</string>
   <string name="search_smart_group_title">Contactes;Pantalla</string>
   <string name="search_wipe_data">Organitza;Contactes</string>
-  <string name="searching_vcard_message">Cercant vCard a l\'emmagatzematge&#8230;</string>
+  <string name="searching_vcard_message">S\'està cercant dades vCard a la targeta SD…</string>
   <string name="select_all">Selecciona-ho tot</string>
   <string name="select_all_exceed">"Seleccioneu no més de %1$d, no podeu seleccionar-ho tot"</string>
   <string name="select_exceed">Seleccioneu no més de %1$d</string>
