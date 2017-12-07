@@ -305,7 +305,7 @@ Si no s\'actualitza, és possible que les aplicacions duals no funcionin correct
   <string name="wating">Un moment&#8230;</string>
   <string name="weibo_send">Envia al Weibo</string>
   <string name="weixin_pay">Pagament WeChat</string>
-  <string name="weixin_share">Pagament WeChat</string>
+  <string name="weixin_share">Comparteix a Moments</string>
   <string name="xpsace_guide_button">Crea</string>
   <string name="xspace_account">Comptes d\'aplicacions duals</string>
   <string name="xspace_chocie">Suport d\'aplicacions duals</string>
