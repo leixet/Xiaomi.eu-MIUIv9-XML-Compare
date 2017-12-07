@@ -677,7 +677,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="pref_volume_key_action">Desplaça utilitzant els botons de volum</string>
   <string name="private_browsing_warning">"Aquesta funció no està implementada en aquesta versió d'Android."</string>
   <string name="profiler_error_toast">"No s'ha pogut iniciar el gestor de perfils"</string>
-  <string name="profiler_no_storage_toast">"No es pot iniciar el gestor de perfils perquè l'emmagatzematge extern no està a punt"</string>
+  <string name="profiler_no_storage_toast">"No es pot iniciar el perfil perquè l'emmagatzematge extern no està a punt."</string>
   <string name="profiler_started_toast">Gestor de perfils iniciat</string>
   <string name="profiler_stopped_toast">El gestor de perfils ha finalitzat. Els resultats són a %1$s.</string>
   <string name="progress_dialog_setting_wallpaper">S\'està establint el fons de pantalla&#8230;</string>
@@ -786,7 +786,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="send_comment_title">Comentari</string>
   <string name="senddesktop">Pantalla d\'inici</string>
   <string name="sendstartpage">Pàgina d\'inici</string>
-  <string name="sequence_bookmark_description">Canvia la seqüència d\'adreces d\'interès</string>
+  <string name="sequence_bookmark_description">Premeu i mantingueu premut per reordenar els marcadors</string>
   <string name="share_image_text">Estic gaudint d\'una imatge molt meravellosa</string>
   <string name="share_page_text">Estic gaudint 【%1$s】 | %2$s</string>
   <string name="show_check_security_url_check_tip_dialog_description">Per millorar-ne la seguretat i rebre recomanacions rellevants, permeteu al navegador accedir a aquests elements:</string>
