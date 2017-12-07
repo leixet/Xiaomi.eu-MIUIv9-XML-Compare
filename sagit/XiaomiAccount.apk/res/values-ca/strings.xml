@@ -234,12 +234,14 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_error_invalid_phone_num">Número de telèfon no vàlid</string>
   <string name="passport_error_login">"No s'ha pogut obrir sessió"</string>
   <string name="passport_error_network">"No es pot connectar a la xarxa"</string>
+  <string name="passport_error_no_password_user">"Encara no heu definit la contrasenya. Inicieu sessió amb un SMS."</string>
   <string name="passport_error_phone_error">Número de telèfon no vàlid</string>
   <string name="passport_error_server">Error de servidor</string>
   <string name="passport_error_sim_not_ready">"No es troba la targeta SIM"</string>
   <string name="passport_error_ssl_hand_shake">"No s'ha pogut connectar al servidor."</string>
   <string name="passport_error_unknown">"No es pot obrir sessió"</string>
   <string name="passport_error_user_name">El nom d\'usuari que heu introduït no és vàlid.</string>
+  <string name="passport_error_verify_activator_phone_message">Assegureu-vos que el vostre servei de la targeta SIM està activat i el dispositiu està connectat a la xarxa.</string>
   <string name="passport_failed_to_send_activate_email">"No s'ha pogut enviar el correu d'activació"</string>
   <string name="passport_find_password_on_web_msg">Visiteu account.mi.com per restaurar la vostra contrasenya.</string>
   <string name="passport_forget_password">Contrasenya oblidada</string>
