@@ -414,7 +414,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="ubifocus_capture_warning_message">Per obtenir millors resultats, la seva imatge ha de contenir objectes propers (menys d\'1 metre de la lent) i llunyans</string>
   <string name="user_agree">Accepta</string>
   <string name="user_agreement2">Condicions del servei</string>
-  <string name="user_agreement4">Política de privacitat</string>
+  <string name="user_agreement4">Política de privadesa</string>
   <string name="user_notice_identify_summary_format">"Utilitzant aquest servei accepteu les %1$s i %2$s de Xiaomi."</string>
   <string name="user_notice_title">Termes i condicions</string>
   <string name="video_camera_label">Càmera de vídeo</string>
