@@ -789,7 +789,14 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="sequence_bookmark_description">Premeu i mantingueu premut per reordenar els marcadors</string>
   <string name="share_image_text">Estic gaudint d\'una imatge molt meravellosa</string>
   <string name="share_page_text">Estic gaudint 【%1$s】 | %2$s</string>
-  <string name="show_check_security_url_check_tip_dialog_description">Per millorar-ne la seguretat i rebre recomanacions rellevants, permeteu al navegador accedir a aquests elements:</string>
+  <string name="show_check_security_url_check_tip_dialog_description">"Recollirem i utilitzarem les vostres dades personals si voleu utilitzar els nostres serveis.
+A continuació, es detallen les dades que recollirem:
+1. URLs segurs: recollirem les URL dels llocs web que visiteu mentre utilitzeu els nostres serveis.
+2. Dades d\'ubicació: accedirem a la vostra informació d\'ubicació.
+Així és com utilitzem les dades que recopilem:
+1. Seguretat: utilitzem les vostres dades quan protegim el vostre dispositiu contra el frau i els virus, així com per motius d\'emmagatzematge i còpia de seguretat.
+2. Contingut: les vostres dades ens ajuden a proporcionar contingut rellevant de notícies localitzat.
+El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'acceptar el nostre %2$s i %1$s per poder utilitzar el Navegador. "</string>
   <string name="show_security_tip_dialog_title">Política de privadesa</string>
   <string name="sign_in_to" formatted="false">Inicia una sessió al %s1 \"%s2\"</string>
   <string name="skip_button_label">Omet</string>
