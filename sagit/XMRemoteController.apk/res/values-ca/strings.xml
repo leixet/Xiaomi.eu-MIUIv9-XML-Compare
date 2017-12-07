@@ -306,6 +306,7 @@ Proveu el següent per solucionar el problema:
   <string name="epg_no_program_data">No hi ha dades de la programació</string>
   <string name="epg_no_search_result">No hi ha resultats de la cerca</string>
   <string name="epg_no_sys_notification">Temporalment no hi ha sistema de notificació</string>
+  <string name="epg_no_video_tips">"No s'ha pogut trobar cap resultat. Torneu-ho a provar més tard."</string>
   <string name="epg_not_booked_program_time_left">预约 (还有%1$s播出)</string>
   <string name="epg_program_comment">Escriu un comentari</string>
   <string name="epg_program_share">Comparteix %1$s</string>
@@ -1039,6 +1040,8 @@ Per canviar, premeu contínuament el botó d\'encesa del TV"</string>
   <string name="video_comment_no_reply">暂无评论, 点击发表</string>
   <string name="video_comment_reply_failed">"No s'ha pogut afegir el comentari"</string>
   <string name="video_count">Vídeos: %d</string>
+  <string name="video_favor">Preferits</string>
+  <string name="video_history">Històric</string>
   <string name="video_history_before_yestory">Fa 2 dies</string>
   <string name="video_history_earlier">Anteriorment</string>
   <string name="video_history_title">Historial</string>
