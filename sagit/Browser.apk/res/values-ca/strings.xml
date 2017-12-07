@@ -790,7 +790,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="share_image_text">Estic gaudint d\'una imatge molt meravellosa</string>
   <string name="share_page_text">Estic gaudint 【%1$s】 | %2$s</string>
   <string name="show_check_security_url_check_tip_dialog_description">Per millorar-ne la seguretat i rebre recomanacions rellevants, permeteu al navegador accedir a aquests elements:</string>
-  <string name="show_security_tip_dialog_title">Condicions del servei</string>
+  <string name="show_security_tip_dialog_title">Política de privadesa</string>
   <string name="sign_in_to" formatted="false">Inicia una sessió al %s1 \"%s2\"</string>
   <string name="skip_button_label">Omet</string>
   <string name="skip_current_version">Omet aquesta versió</string>
@@ -827,7 +827,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="suggest_access_item_app_mark">APLICACIÓ</string>
   <string name="suggest_access_item_app_size">%.2f MB</string>
   <string name="suggest_access_item_app_update">Actualització: %s</string>
-  <string name="suggest_access_item_book_mark">LLIBRE</string>
+  <string name="suggest_access_item_book_mark">LLIBRES</string>
   <string name="suggest_access_item_mina_mark">APLICACIONS INSTANTÀNIES</string>
   <string name="suggest_access_item_music_mark">MÚSICA</string>
   <string name="suggest_access_item_singer_albums">%d àlbums</string>
