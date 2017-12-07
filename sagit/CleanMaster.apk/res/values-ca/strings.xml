@@ -299,7 +299,7 @@
   <string name="no_network_btn">Torneu-ho a provar</string>
   <string name="notification_summary_after_auto_cleanup">%s netejats.</string>
   <string name="notification_summary_of_garbage_cleanup">Toqueu aquí per alliberar espai.</string>
-  <string name="notification_title_of_garbage_cleanup">Mida de la brossa</string>
+  <string name="notification_title_of_garbage_cleanup">%s de fitxers brossa</string>
   <string name="notify_when">Notificar quan la mida de la brossa arribi als 100 MB</string>
   <string name="ok">D\'acord</string>
   <string name="open">Activa</string>
@@ -447,7 +447,7 @@
   <string name="total_clean">Total netejat: %s</string>
   <string name="total_clean_text">Netejat</string>
   <string name="update_date_format">dd/MM/yyyy</string>
-  <string name="virus_scan">Anàlisi de virus</string>
+  <string name="virus_scan">Escaneig de seguretat</string>
   <string name="wechat_cache_files">Memòria cau del WeChat</string>
   <string name="wechat_chat_clean_done">Tot sembla correcte</string>
   <string name="wechat_chat_data_type_cache">Memòria cau del WeChat</string>
