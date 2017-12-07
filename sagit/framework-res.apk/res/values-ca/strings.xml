@@ -90,6 +90,7 @@
   <string name="app_upgrading_toast">%1$s s\'està actualitzant…</string>
   <string name="audit_safemode_notification">Restableix les dades de fàbrica del dispositiu per utilitzar-lo sense restriccions</string>
   <string name="audit_safemode_notification_details">Premeu per obtenir més informació.</string>
+  <string name="autofill_postal_code">Codi postal</string>
   <string name="autofill_this_form">Emplenament automàtic</string>
   <string name="back_button_label">Enrere</string>
   <string name="badPin">"El codi PIN antic que heu introduït no és correcte."</string>
