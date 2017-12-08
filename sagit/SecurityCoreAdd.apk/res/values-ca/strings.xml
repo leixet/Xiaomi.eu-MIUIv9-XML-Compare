@@ -198,7 +198,7 @@ Dos espais. Un dispositiu."</string>
   <string name="scanner_fingerprint_tips_desc">"Seleccioneu una empremta existent per entrar al Segon espai. No podreu utilitzar-la en el Primer espai."</string>
   <string name="scanner_fingerprint_tips_title">Entrar al Segon espai utilitzant una empremta existent</string>
   <string name="scanner_second_space_fingerprint">Escanejar empremta del Segon espai</string>
-  <string name="sdcardfs_dialog_message">Desactiveu l\'«Optimització de la targeta SD simulada» a les opcions del desenvolupador abans d\'entrar al segon espai.</string>
+  <string name="sdcardfs_dialog_message">MIUI 9 té un nou sistema de fitxers. Les dades antigues podrien ser incompatibles amb ell. Per solucionar aquest problema, seguiu els passos per instal·lar una actualització. El dispositiu es reiniciarà dues vegades durant aquesta actualització.</string>
   <string name="sdcardfs_dialog_title">Actualització important</string>
   <string name="sdcradfs_dialog_in_owner_message">"MIUI 9 té un nou sistema de fitxers. Les dades antigues poden ser incompatibles amb ell. Per actualitzar, moveu elements del segon espai, reinicieu el dispositiu i creeu el segon espai de nou.
 Si no s\'actualitza, és possible que les aplicacions duals no funcionin correctament. "</string>
