@@ -176,7 +176,7 @@
   <string name="no_detail_page">No hi ha pàgina de detalls</string>
   <string name="no_space_toast">Sense espai</string>
   <string name="normal_wallpaper">Fons de pantalla</string>
-  <string name="notification_installed">S\'ha instal·lat correctament</string>
+  <string name="notification_installed">S\'ha instal·lat amb èxit</string>
   <string name="notification_open_button">Obre</string>
   <string name="online_wallpaper">En línia</string>
   <string name="out_of_space">No queda més espai en aquesta pantalla</string>
