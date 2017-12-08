@@ -45,7 +45,7 @@ Per esborrar l\'historial del Navegador, feu servir la configuració del Navegad
   <string name="google_search_description">Suggeriments de la Cerca de Google</string>
   <string name="google_search_hint">Cerca de Google</string>
   <string name="google_settings_category_title">Cerca de Google</string>
-  <string name="loading">Un moment&#8230;</string>
+  <string name="loading">Un moment…</string>
   <string name="local_app">Aplicacions</string>
   <string name="local_setting">Configuració</string>
   <string name="menu_help">Ajuda</string>
