@@ -508,7 +508,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="hidden_album_display_name">Àlbum ocult</string>
   <string name="home_menu_cleaner">Allibera espai</string>
   <string name="home_menu_collage">Collage</string>
-  <string name="home_menu_photo_movie">Mirada enrere</string>
+  <string name="home_menu_photo_movie">Clip</string>
   <string name="home_menu_print">Imprimeix fotos</string>
   <string name="home_page_empty_action">Fes una foto</string>
   <string name="home_page_label">Fotos</string>
@@ -601,7 +601,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="need_to_turn_on_network">"El dispositiu no està connectat a Internet"</string>
   <string name="need_to_turn_on_sync">Activa la sincronització amb Mi Cloud</string>
   <string name="need_to_turn_on_sync_first">Cal que primer activeu la sincronització amb Mi Cloud</string>
-  <string name="need_to_turn_on_wlan">Cal que primer us connecteu a la Wi-Fi</string>
+  <string name="need_to_turn_on_wlan">Connecteu-vos primer a una Wi-Fi</string>
   <string name="network_connected_rescan">"No es pot connectar a la xarxa"</string>
   <string name="new_album_invalid_char">"Els noms no poden contenir \"%s\". Introduïu una lletra o un número."</string>
   <string name="new_album_invalid_name">\"%s\" és un àlbum del sistema, escolliu un altre nom.</string>
@@ -724,6 +724,9 @@ Feu més fotos als vostres amics!"</string>
   <string name="photo_print_menu_loading">S\'està carregant el connector…</string>
   <string name="photo_print_package_finish">S\'ha carregat amb èxit</string>
   <string name="photo_print_package_installing">S\'està carregant el connector…</string>
+  <string name="photomovie_delete_disable">Necessiteu com a mínim 3 fotografies per crear un clip.</string>
+  <string name="photomovie_item_name">Clip</string>
+  <string name="photomovie_saving">S\'està creant el clip…</string>
   <string name="pick_from_contact">Trieu dels contactes</string>
   <string name="pick_too_many_recipients">Massa destinataris</string>
   <string name="picker_cancel_download">Cancel·la la baixada</string>
