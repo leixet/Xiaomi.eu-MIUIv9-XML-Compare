@@ -827,7 +827,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="qq_login_webview">S\'està iniciant sessió al correu QQ a través de la pagina web. Introduïu la contrasenya.</string>
   <string name="qq_next_generation_auth_toast">Completeu la sol·licitud de protecció de contrasenya de segona generació a través del navegador</string>
   <string name="qq_uthentication_failed">"Error d'autenticació, inicieu sessió una altra vegada"</string>
-  <string name="qq_webview_loading">S\'està ometen, espereu…</string>
+  <string name="qq_webview_loading">Un moment…</string>
   <string name="questionnair_body_invisibility">"No es mostren els missatges"</string>
   <string name="questionnair_confirm_delete">Eliminar</string>
   <string name="questionnair_instability">Aplicació inestable, reinicis</string>
@@ -1035,7 +1035,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="too_large_to_attach_single">"No es poden adjuntar fitxers més grans que %1$s."</string>
   <string name="topic_merge">Combina temes</string>
   <string name="topic_merge_summary">Mode organitzat per fil</string>
-  <string name="translation_loading">S\'està carregant&#8230;</string>
+  <string name="translation_loading">Un moment…</string>
   <string name="translation_no_result">No s\'han trobat resultats</string>
   <string name="translation_pronunciation_am">ArE</string>
   <string name="translation_pronunciation_other">Màquina</string>
@@ -1065,7 +1065,7 @@ Voleu aturar-ho?"</string>
   <string name="upload_log_title">Pujar els registres ara?</string>
   <string name="upload_log_yes">Pujar</string>
   <string name="upload_logs">Puja els registres</string>
-  <string name="uploading_logs">Un moment&#8230;</string>
+  <string name="uploading_logs">Un moment…</string>
   <string name="validation_failed_prompt">"Error de validació, si us plau configureu el servidor %s"</string>
   <string name="via_domain">mitjançant %1$s</string>
   <string name="view_more_conversations">Veure més converses</string>
