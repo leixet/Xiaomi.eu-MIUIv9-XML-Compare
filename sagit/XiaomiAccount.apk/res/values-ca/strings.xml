@@ -215,7 +215,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_copy_message_text_success">S\'ha copiat correctament</string>
   <string name="passport_copy_message_vcode">Codi de còpia</string>
   <string name="passport_delete_account">Tanca la sessió</string>
-  <string name="passport_downlink_reg">Crea un compte utilitzant el número de telèfon</string>
+  <string name="passport_downlink_reg">Número de telèfon</string>
   <string name="passport_email">Adreça de correu electrònic</string>
   <string name="passport_email_or_id_hint_text">Adreça de correu electrònic o identificador de compte Mi</string>
   <string name="passport_email_reg_success_summary">%1$s s\'ha afegit al vostre compte. Podeu utilitzar-lo per iniciar la sessió o per restablir la contrasenya.</string>
@@ -242,6 +242,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_error_unknown">"No es pot obrir sessió"</string>
   <string name="passport_error_user_name">El nom d\'usuari que heu introduït no és vàlid.</string>
   <string name="passport_error_verify_activator_phone_message">Assegureu-vos que el vostre servei de la targeta SIM està activat i el dispositiu està connectat a la xarxa.</string>
+  <string name="passport_error_verify_activator_phone_title">"No s'ha pogut comprovar el número de telèfon"</string>
   <string name="passport_failed_to_send_activate_email">"No s'ha pogut enviar el correu d'activació"</string>
   <string name="passport_find_password_on_web_msg">Visiteu account.mi.com per restaurar la vostra contrasenya.</string>
   <string name="passport_forget_password">Contrasenya oblidada</string>
