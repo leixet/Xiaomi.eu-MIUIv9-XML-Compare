@@ -70,7 +70,7 @@
   <string name="hint_cannot_view_hidden_note_content">"No es pot veure el contingut de les notes ocultes"</string>
   <string name="hint_foler_name">Nom</string>
   <string name="info_note_enter_desktop">Afegit a la pantalla d\'inici</string>
-  <string name="loading_text">Un moment&#8230;</string>
+  <string name="loading_text">Un moment…</string>
   <string name="login_sync">Entrar i sincronitzar</string>
   <string name="menu_add_description">Afegeix nota</string>
   <string name="menu_add_folder">Afegeix a la carpeta</string>
@@ -197,6 +197,6 @@
 Per obtenir més informació, visiteu
 http://www.miui.com/forum.php?lang=1
 "</string>
-  <string name="widget_content_loading">Un moment&#8230;</string>
+  <string name="widget_content_loading">Un moment…</string>
   <string name="widget_havenot_content">No s\'ha trobat nota associada. Toqui per crear una nota associada. Per redimensionar premi i arrossegui a una vora.</string>
 </resources>
