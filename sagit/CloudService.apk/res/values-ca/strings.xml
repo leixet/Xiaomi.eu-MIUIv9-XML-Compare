@@ -327,7 +327,7 @@ Toca el botó de configuració de sincronització per veure més opcions\"</stri
   <string name="micloud_main_title_sync_fail">"No es pot sincronitzar"</string>
   <string name="micloud_main_title_sync_off">Sincronització parada</string>
   <string name="micloud_main_title_sync_on_wifi">Utilitzar Wi-Fi</string>
-  <string name="micloud_main_update_space">actualitzi la mida d\'emmagatzematge</string>
+  <string name="micloud_main_update_space">Aconsegueix més espai d\'emmagatzematge.</string>
   <string name="micloud_main_wait_charge">S\'està esperant la connexió del carregador</string>
   <string name="micloud_main_wait_charge_sleep">S\'està esperant la connexió del carregador i apagar la pantalla</string>
   <string name="micloud_main_wait_wlan">S\'està esperant una connexió Wi-Fi</string>
@@ -335,7 +335,7 @@ Toca el botó de configuració de sincronització per veure més opcions\"</stri
   <string name="micloud_main_wait_wlan_charge_sleep">S\'està esperant una connexió Wi-Fi, s\'està connectant el carregador i apagar la pantalla</string>
   <string name="micloud_main_wlan_sync_data_count">Elements esperant la sincronització: %d</string>
   <string name="micloud_member">Membre Mi Cloud</string>
-  <string name="micloud_member_advantage">Obtenir més espai d\'emmagatzematge.</string>
+  <string name="micloud_member_advantage">Aconsegueix més espai d\'emmagatzematge.</string>
   <string name="micloud_member_buy_content" formatted="false">"Vàlid fins al %s-%s-%s
 
 %s Mi Credits"</string>
@@ -409,8 +409,8 @@ Toca el botó de configuració de sincronització per veure més opcions\"</stri
   <string name="micloud_title_dspt_remain">%s restants</string>
   <string name="micloud_title_full_dspt">"Has arribat al teu límit d'emmagatzematge!"</string>
   <string name="micloud_unlogin_for_time_title">Activar Mi Cloud</string>
-  <string name="micloud_upgrade_member">Aconsegueix més espai d\'emmagatzematge</string>
-  <string name="micloud_upgrade_space">Aconsegueix més espai d\'emmagatzematge</string>
+  <string name="micloud_upgrade_member">Aconsegueix més emmagatzematge</string>
+  <string name="micloud_upgrade_space">Aconsegueix més emmagatzematge</string>
   <string name="micloud_user_space_title">Espai d\'emmagatzematge</string>
   <string name="micloud_user_space_usage">Espai d\'emmagatzematge</string>
   <string name="micloud_warn_full_sum">"Els nous elements no seran sincronitzats amb Mi Cloud."</string>
