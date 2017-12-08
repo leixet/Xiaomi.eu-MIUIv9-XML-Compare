@@ -1763,7 +1763,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="incoming_call_breathing_light_freq_title">Freqüència de parpelleig del LED per trucades</string>
   <string name="incoming_call_volume_title">To de trucada</string>
   <string name="infinity_display_settings">Pantalla completa</string>
-  <string name="infinity_display_slogan">Creixement continuat en tecnologia inexplorada</string>
+  <string name="infinity_display_slogan">Innovació a pantalla completa</string>
   <string name="infinity_display_title">Pantalla completa</string>
   <string name="information_dialog_button_text">Ja està!</string>
   <string name="input_method">Teclat</string>
@@ -2029,8 +2029,8 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="lock_screen_secure_after_timeout_title">Cal contrasenya</string>
   <string name="lock_screen_signature_summary">La signatura es mostrarà a la pantalla de bloqueig</string>
   <string name="lock_screen_signature_title">Signatura de la pantalla de bloqueig</string>
-  <string name="lock_screen_unlock_show">Salta\'t la pantalla de bloqueig</string>
-  <string name="lock_screen_unlock_show_summary">Vés directament a la pantalla d\'inici o introducció de contrasenya</string>
+  <string name="lock_screen_unlock_show">Omet la pantalla de bloqueig</string>
+  <string name="lock_screen_unlock_show_summary">Obre la pantalla d\'inici o introduïu la contrasenya directament</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">Toca-ho per canviar-ho</string>
   <string name="lock_settings">Bloqueig de pantalla i contrasenya</string>
   <string name="lock_settings_common_title">Configuració de bloqueig</string>
@@ -3679,7 +3679,7 @@ Per fer-ho:
   <string name="single_key_use_summary">Utilitza el botó d\'inici per Enrere i Menú</string>
   <string name="skip_anyway_button_label">Omet de totes maneres</string>
   <string name="skip_label">Omet</string>
-  <string name="skip_lock_screen_confirm_msg">"Es desactivaran les següents funcions a la pantalla de bloqueig: notificacions, controls del reproductor de música, càmera i accés a Mi Home."</string>
+  <string name="skip_lock_screen_confirm_msg">"Les notificacions, els controls del reproductor de música i les dreceres no es mostraran a la pantalla de bloqueig."</string>
   <string name="skip_step">Omet</string>
   <string name="slot_number">(Slot%1$d)</string>
   <string name="slot_status_title">informació d\'IMEI</string>
