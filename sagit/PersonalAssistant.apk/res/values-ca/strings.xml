@@ -31,8 +31,8 @@
   <string name="agenda_settings_elecbill">Mostra les factures d\'electricitat i gas</string>
   <string name="agenda_settings_loan">Mostra informació del pagament de préstecs</string>
   <string name="agree">D\'acord</string>
-  <string name="alipay_init">S\'estan inicialitzant els serveis d\'Alipay…</string>
-  <string name="alipay_init_success">S\'han iniciat els serveis d\'Alipay amb èxit</string>
+  <string name="alipay_init">S\'estan inicialitzant l\'Alipay…</string>
+  <string name="alipay_init_success">L\'Alipay s\'ha inicialitzat amb èxit</string>
   <string name="alipay_scan">Escàner</string>
   <string name="alipay_sdk_minute_refresh">Actualitza-ho cada minut</string>
   <string name="alipay_sdk_payed_desc">Preu original: %1$s CNY | %2$s CNY d\'estalvi</string>
@@ -166,7 +166,9 @@
   <string name="corpus_description_apps">Aplicacions instal·lades</string>
   <string name="corpus_hint_apps">Cerca aplicacions</string>
   <string name="corpus_label_apps">Aplicacions</string>
-  <string name="cta_desc">"Obteniu suggeriments, informació sobre el trànsit, lliurament de l'entrega i molt més."</string>
+  <string name="cta_desc">"És ideal per als accessos directes, informació i funcions preferides"</string>
+  <string name="cta_dialog_negative">Surt</string>
+  <string name="cta_dialog_positive">D\'acord</string>
   <string name="cta_dialog_title">Termes i condicions</string>
   <string name="cta_negative">Tanca</string>
   <string name="cta_positive">Detalls</string>
@@ -710,7 +712,9 @@ Comproveu el número de seguiment."</string>
   <string name="payment_pref_source_mms_title">SMS</string>
   <string name="payment_pref_source_wechat_summary">Obteniu informació de pagament del WeChat</string>
   <string name="payment_pref_source_wechat_title">WeChat</string>
+  <string name="payment_privacy_dialog_cancel">Surt</string>
   <string name="payment_privacy_dialog_message">"«Els meus pagaments» us permet recollir els comptes de les principals aplicacions de pagament en un sol lloc. Tota la informació de pagament serà xifrada i emmagatzemada de manera segura al vostre dispositiu. No se sincronitzarà amb Mi Cloud ni es carregarà a cap altre servidor. Podeu desactivar «Els meus pagaments» a la Configuració o simplement treure aquesta targeta de la volta de l'aplicació per deixar d'utilitzar aquest servei. Hi esteu d'acord?"</string>
+  <string name="payment_privacy_dialog_ok">D\'acord</string>
   <string name="payment_privacy_dialog_title">Política de privadesa dels «Meus pagaments»</string>
   <string name="payment_record_add">Afegeix un pagament</string>
   <string name="payment_record_delete">Elimina dels pagaments</string>
