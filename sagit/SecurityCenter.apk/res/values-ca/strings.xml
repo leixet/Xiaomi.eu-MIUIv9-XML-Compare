@@ -659,7 +659,7 @@
   <string name="finger_remind_message">Bloqueig d\'aplicació suporta desbloqueig per empremta. Afegir empremta?</string>
   <string name="fingerprint_identify_msg">Escanegeu l\'empremta</string>
   <string name="fingerprint_not_identified_msg">"Per desbloquejar el dispositiu, introduïu la contrasenya."</string>
-  <string name="fingerprint_not_remind">"No preguntar de nou"</string>
+  <string name="fingerprint_not_remind">"No m'ho tornis a preguntar"</string>
   <string name="fingerprint_remind_dialog_title">Desbloqueig per empremta</string>
   <string name="fingerprint_to_lock">Desbloqueja amb empremta</string>
   <string name="fingerprint_verify_failed">"No s'ha pogut comprovar"</string>
@@ -2018,7 +2018,7 @@ Dades extres en ús"</string>
   <string name="virus_wait_network_dialog_message">"Les actualitzacions són grans. Connecteu-vos a la Wi-Fi per baixar-les"</string>
   <string name="vpn_disabled_by_user">La connexió de dades designada està desactivada</string>
   <string name="vpn_unbale_get_phonenum">"No es poden obtenir números de telèfon amb els plans de dades designats"</string>
-  <string name="wakepath_confirm_start_activity">Permetre a %1$s obrir %2$s?</string>
+  <string name="wakepath_confirm_start_activity">Voleu permetre a %1$s obrir %2$s?</string>
   <string name="website">Pàgina web</string>
   <string name="whitelist_prefix_add_hint">Afegeix tots els números amb prefix a les excepcions</string>
   <string name="wifi_exception_summary">Comprovar connexions de xarxa Wi-Fi disponibles</string>
