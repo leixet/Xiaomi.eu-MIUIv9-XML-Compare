@@ -3744,7 +3744,7 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="status_bar_screen_key_recent_apps">Tecla Aplicacions recents</string>
   <string name="status_bar_settings">Notificacions i barra d\'estat</string>
   <string name="status_bar_settings_advanced">Configuració avançada</string>
-  <string name="status_bar_settings_all_app_display_loading">Un moment&#8230;</string>
+  <string name="status_bar_settings_all_app_display_loading">Un moment…</string>
   <string name="status_bar_settings_app_notification_preferences">Configuració de l\'aplicació</string>
   <string name="status_bar_settings_basic_settings">Configuració bàsica</string>
   <string name="status_bar_settings_custom_carrier">Edita el nom de l\'operador</string>
