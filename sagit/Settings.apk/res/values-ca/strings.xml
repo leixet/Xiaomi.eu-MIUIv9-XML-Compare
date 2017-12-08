@@ -3679,7 +3679,7 @@ Per fer-ho:
   <string name="single_key_use_summary">Utilitza el botó d\'inici per Enrere i Menú</string>
   <string name="skip_anyway_button_label">Omet de totes maneres</string>
   <string name="skip_label">Omet</string>
-  <string name="skip_lock_screen_confirm_msg">Es desactivaran les següents funcions a la pantalla de bloqueig: notificacions, controls del reproductor de música, càmera i accés a Mi Home.</string>
+  <string name="skip_lock_screen_confirm_msg">"Es desactivaran les següents funcions a la pantalla de bloqueig: notificacions, controls del reproductor de música, càmera i accés a Mi Home."</string>
   <string name="skip_step">Omet</string>
   <string name="slot_number">(Slot%1$d)</string>
   <string name="slot_status_title">informació d\'IMEI</string>
