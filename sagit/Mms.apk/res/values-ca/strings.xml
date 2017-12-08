@@ -206,7 +206,7 @@
   <string name="hybrid_network_access_denied">S\'ha denegat l\'accés a la xarxa</string>
   <string name="hybrid_network_unavaliable">"No s'ha pogut connectar a la xarxa"</string>
   <string name="hybrid_pull_to_refresh_pull_label">Llisqueu per actualitzar&#8230;</string>
-  <string name="hybrid_pull_to_refresh_refreshing_label">Un moment&#8230;</string>
+  <string name="hybrid_pull_to_refresh_refreshing_label">Un moment…</string>
   <string name="hybrid_pull_to_refresh_release_label">Deixeu anar per actualitzar&#8230;</string>
   <string name="hybrid_service_unavailiable">"Servei no disponible"</string>
   <string name="hybrid_try_again">Torneu-ho a provar</string>
@@ -219,9 +219,9 @@
   <string name="invalid_private_contact">Contacte invàlid</string>
   <string name="invalid_recipient_message">"Corregiu els destinataris o no rebran el missatge."</string>
   <string name="layout_selector_title">"Disseny de la presentació "</string>
-  <string name="loading_all_messages">Un moment&#8230;</string>
-  <string name="loading_conversations">Un moment&#8230;</string>
-  <string name="loading_mms">Un moment&#8230;</string>
+  <string name="loading_all_messages">Un moment…</string>
+  <string name="loading_conversations">Un moment…</string>
+  <string name="loading_mms">Un moment…</string>
   <string name="manage_permission_app_label">Permisos del dispositiu</string>
   <string name="me">Jo</string>
   <string name="menu_add_black">Bloqueja aquest número</string>
