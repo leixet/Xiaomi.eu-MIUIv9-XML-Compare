@@ -168,6 +168,7 @@
   <string name="corpus_hint_apps">Cerca aplicacions</string>
   <string name="corpus_label_apps">Aplicacions</string>
   <string name="cta_desc">"Obteniu suggeriments, informació sobre el trànsit, lliurament de l'entrega i molt més."</string>
+  <string name="cta_dialog_title">Termes i condicions</string>
   <string name="cta_negative">Tanca</string>
   <string name="cta_positive">Detalls</string>
   <string name="cta_text5">El servei també requereix de connexió a Internet i accés als serveis d\'ubicació. Voleu acceptar?</string>
