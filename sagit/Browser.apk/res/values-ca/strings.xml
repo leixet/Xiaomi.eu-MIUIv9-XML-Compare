@@ -559,7 +559,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="page_info_address">Adreça:</string>
   <string name="page_info_view">Visualitza la informació de la pàgina</string>
   <string name="password">Contrasenya</string>
-  <string name="password_generation_popup_content_description">Mostra la finestra de generació de contrasenyes</string>
+  <string name="password_generation_popup_content_description">Mostra la finestra emergent de generació de contrasenyes…</string>
   <string name="pause_download">En pausa</string>
   <string name="paused_queued_for_wifi">S\'està esperant la connexió&#8230;</string>
   <string name="paused_unknown">En pausa</string>
