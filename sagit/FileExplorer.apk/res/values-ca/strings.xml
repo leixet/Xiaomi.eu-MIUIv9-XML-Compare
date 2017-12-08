@@ -252,7 +252,7 @@
   <string name="image_loading_error">"No s'ha pogut carregar la imatge"</string>
   <string name="input_memo_hint">Introduïu comentaris addicionals (opcional)</string>
   <string name="install_fail">"No s'ha pogut instal·lar"</string>
-  <string name="installing">Instal·lant&#8230;</string>
+  <string name="installing">S\'està instal·lant…</string>
   <string name="instruction">Introduïu la següent adreça en un client FTP:</string>
   <string name="instruction_pre_pad">Toqueu per iniciar el servidor FTP</string>
   <string name="instruction_pre_phone">Toqueu per iniciar el servidor FTP</string>
