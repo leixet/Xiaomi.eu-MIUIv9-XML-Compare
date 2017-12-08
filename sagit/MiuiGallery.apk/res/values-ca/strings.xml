@@ -911,7 +911,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="slim_now">Optimitza\'l ara</string>
   <string name="slim_result_size">S\'han alliberat %1$s</string>
   <string name="slim_result_title">Optimització completada</string>
-  <string name="slim_tip_msg">S\'optimitzaran les fotos quan el dispositiu estigui connectat a la Wi-Fi. Baixeu els elements a resolució completa tocant «Baixa la foto» als detalls de la foto.</string>
+  <string name="slim_tip_msg">Els fitxers s\'optimitzaran quan el dispositiu estigui connectat a la Wi-Fi. Baixeu els elements a resolució completa tocant «Baixa el fitxer original» als detalls de la foto.</string>
   <string name="slim_tip_title">S\'està optimitzant l\'emmagatzematge</string>
   <string name="slimming">S\'està optimitzant&#8230;</string>
   <string name="start_debug">Depuració de la galeria</string>
