@@ -233,7 +233,7 @@ necessiteu carregar les dades en dispositius antics a l\'iCloud"</string>
   <string name="notif_trans_sending_completed">Dades enviades correctament</string>
   <string name="notif_trans_sending_failed">"No s'han pogut enviar les dades"</string>
   <string name="notif_trans_wait_for_reconnecting">El dispositiu remot està desconnectat. Torneu-lo a connectar.</string>
-  <string name="page_loading">Un moment&#8230;</string>
+  <string name="page_loading">Un moment…</string>
   <string name="password">contrasenya</string>
   <string name="password_null">"La contrasenya no es pot deixar en blanc"</string>
   <string name="pause">Pausa</string>
@@ -309,7 +309,7 @@ Allibereu %s com a mínim"</string>
   <string name="start_backup">Fes la còpia de seguretat</string>
   <string name="start_restore">Restaura</string>
   <string name="state_mounting">S\'està accedint a l\'emmagatzematge de l\'encaminador&#8230;</string>
-  <string name="state_waiting">Un moment&#8230;</string>
+  <string name="state_waiting">Un moment…</string>
   <string name="succ_description">Amb èxit</string>
   <string name="succeed">Fet</string>
   <string name="summary_err_backup_encrypting">Inicieu la sessió al Compte Mi.</string>
@@ -416,7 +416,7 @@ Premeu [Sóc un receptor] per crear el codi QR"</string>
 A continuació, premeu [Torna a connectar] per crear un codi QR."</string>
   <string name="trans_operate_reconnect_old_tips">"Espereu fins que aparegui «Dispositiu desconnectat».
 A continuació, premeu [Torna a connectar] per escanejar el codi QR."</string>
-  <string name="trans_please_waiting">Un moment&#8230;</string>
+  <string name="trans_please_waiting">Un moment…</string>
   <string name="trans_progress_subdescript_br_receiver">S\'està restaurant %1$s, %2$s completat</string>
   <string name="trans_progress_subdescript_br_sender">S\'està copiant %1$s, %2$s completat</string>
   <string name="trans_progress_subdescript_br_sender_finish">S\'ha copiat %s, s\'està esperant per enviar&#8230;</string>
