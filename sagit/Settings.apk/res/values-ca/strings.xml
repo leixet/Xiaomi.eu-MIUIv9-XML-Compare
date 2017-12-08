@@ -1501,7 +1501,7 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="failed_to_shut_down_find_device_title">"No s'ha pogut desactivar Localitza el dispositiu"</string>
   <string name="fcc_equipment_id">ID de l\'equip</string>
   <string name="file_privacy_password_role_instruction">Els vostres fitxers privats es desaran aquí.</string>
-  <string name="filter">Filtres</string>
+  <string name="filter">Filtre</string>
   <string name="filter_all_apps">Totes les aplicacions</string>
   <string name="filter_apps_all">Totes</string>
   <string name="filter_apps_cached">A la memòria cau</string>
