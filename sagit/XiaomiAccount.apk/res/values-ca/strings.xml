@@ -61,7 +61,7 @@
   <string name="action_add_phone">Afegeix número de telèfon</string>
   <string name="action_update_phone">Canvia el número de telèfon</string>
   <string name="activate_email_notice">Assegureu-vos d\'activar el vostre compte abans de 24 hores</string>
-  <string name="activity_not_found_notice">"No es pot trobar l'app"</string>
+  <string name="activity_not_found_notice">"No es pot trobar l'aplicació"</string>
   <string name="add_account">Vincula compte</string>
   <string name="app_name">Compte Mi</string>
   <string name="auth_fail_warning">La sessió ha expirat, torneu a iniciar la sessió més tard</string>
@@ -427,7 +427,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="sina_weibo">Sina WeiBo</string>
   <string name="sms_send_success">Enviat</string>
   <string name="sns_access_token_expired_warning">L\'inici de sessió del compte ha caducat. Inicieu sessió de nou per tornar a connectar aquest compte.</string>
-  <string name="talkback_scan_barcode">escaneja el codi QR</string>
+  <string name="talkback_scan_barcode">Escaneja el codi QR</string>
   <string name="trusted_browsers">Navegadors de confiança</string>
   <string name="trusted_browsers_prompt">El navegador no serà de confiança si suprimiu les galetes.</string>
   <string name="turn_off_find_device_failed_title">"No es pot desactivar Troba el dispositiu"</string>
