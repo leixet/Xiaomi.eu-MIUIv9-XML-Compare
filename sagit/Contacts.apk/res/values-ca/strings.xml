@@ -175,7 +175,7 @@
   <string name="cloud_antispam_title">Identificar números desconeguts</string>
   <string name="cloud_recommend_msg">Tocar per sincronitzar contactes amb Mi Cloud.</string>
   <string name="cloud_state_disabled">La sincronització amb Mi Cloud està apagada</string>
-  <string name="cloud_state_loading">Un moment&#8230;</string>
+  <string name="cloud_state_loading">Un moment…</string>
   <string name="cloud_state_sync_finished">Sincronitzat amb Mi Cloud</string>
   <string name="cloud_state_syncing">Sincronitzat amb Mi Cloud</string>
   <string name="combined_title_and_miprofile_swaped_huge_mode">«%1$s
@@ -368,7 +368,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="dialer_addAnotherCall">Afegeix trucada</string>
   <string name="dialer_copy_view_delete_description">Esborra el número copiat</string>
   <string name="dialer_digits_copy_number_label">Número copiat</string>
-  <string name="dialer_empty_text_loading">Un moment&#8230;</string>
+  <string name="dialer_empty_text_loading">Un moment…</string>
   <string name="dialer_empty_text_no_call_log">No hi ha contactes recents</string>
   <string name="dialer_empty_text_no_search_result">No s\'han trobat els contactes</string>
   <string name="dialer_menu_description">Mostra marcador</string>
@@ -555,10 +555,10 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="list_filter_customize">Personalitza</string>
   <string name="list_filter_phones">Tots els contactes amb números de telèfon</string>
   <string name="list_filter_single">Contacte</string>
-  <string name="loading_accounts">Un moment&#8230;</string>
-  <string name="loading_group_members">Un moment&#8230;</string>
-  <string name="loading_groups">Un moment&#8230;</string>
-  <string name="loading_recent">Un moment&#8230;</string>
+  <string name="loading_accounts">Un moment…</string>
+  <string name="loading_group_members">Un moment…</string>
+  <string name="loading_groups">Un moment…</string>
+  <string name="loading_recent">Un moment…</string>
   <string name="local_invisible_directory">Altres</string>
   <string name="local_profile_title">El meu perfil local</string>
   <string name="local_search_label">Tots els contactes</string>
@@ -886,7 +886,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="profile_name">El meu perfil</string>
   <string name="profile_name_photo">Foto</string>
   <string name="pull_to_refresh_pull_label">Arrossegueu per refrescar…</string>
-  <string name="pull_to_refresh_refreshing_label">Un moment&#8230;</string>
+  <string name="pull_to_refresh_refreshing_label">Un moment…</string>
   <string name="pull_to_refresh_release_label">Deixeu anar per refrescar…</string>
   <string name="qr_card_card">Codi QR</string>
   <string name="qrcode_card_title">Targeta en codi QR</string>
@@ -1027,7 +1027,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="smart_group_frequency_4">Fa més de 6 mesos</string>
   <string name="smart_group_frequency_label">Per més recents</string>
   <string name="smart_group_label">Grups intel·ligents</string>
-  <string name="smart_group_loading">Un moment&#8230;</string>
+  <string name="smart_group_loading">Un moment…</string>
   <string name="smart_group_location_label">Per ubicació</string>
   <string name="smart_group_location_unavailable">Sense direcció</string>
   <string name="sms">Missatge de text</string>
