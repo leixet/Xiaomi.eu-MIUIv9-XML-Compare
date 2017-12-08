@@ -159,7 +159,7 @@
   <string name="onscreenEndCallText">Final</string>
   <string name="onscreen_add_call_text">Afegeix trucada</string>
   <string name="onscreen_audio_mode_conference">Conferència</string>
-  <string name="onscreen_audio_mode_handset">Mans lliures</string>
+  <string name="onscreen_audio_mode_handset">Auricular</string>
   <string name="onscreen_audio_mode_headset">Auriculars</string>
   <string name="onscreen_audio_mode_speaker">Altaveu</string>
   <string name="onscreen_call_record">Enregistra</string>
