@@ -320,13 +320,13 @@ Si no s\'actualitza, és possible que les aplicacions duals no funcionin correct
   <string name="xspace_header">Aplicacions duals</string>
   <string name="xspace_install_completed">S\'ha afegit una icona a la pantalla d\'inici</string>
   <string name="xspace_install_failed">"No s'ha pogut crear"</string>
-  <string name="xspace_installing">S\'està instal·lant&#8230;</string>
+  <string name="xspace_installing">S\'està instal·lant…</string>
   <string name="xspace_introduce">Recomanat</string>
   <string name="xspace_label">Aplicacions duals</string>
   <string name="xspace_loading_msg">S\'estan carregant les aplicacions&#8230;</string>
   <string name="xspace_setting_label">Configuració de les aplicacions duals</string>
-  <string name="xspace_uninstall_completed">Aplicació dual desinstal·lada satisfactòriament</string>
+  <string name="xspace_uninstall_completed">Aplicació dual desinstal·lada amb èxit</string>
   <string name="xspace_uninstall_dialog_content">La desinstal·lació d\'una aplicació dual n\'eliminarà totes les seves dades.</string>
   <string name="xspace_uninstall_dialog_title">Desinstal·lar aplicació dual</string>
-  <string name="xspace_uninstalling">Desinstal·lant&#8230;</string>
+  <string name="xspace_uninstalling">S\'està desinstal·lant…</string>
 </resources>
