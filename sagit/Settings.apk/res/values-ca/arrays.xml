@@ -157,7 +157,7 @@
     <item>Separat</item>
   </string-array>
   <string-array name="status_bar_show_carrier_entries">
-    <item>Mostra només a la pantalla de bloqueig i al tauler de notificacions</item>
+    <item>Mostra\'l només a la pantalla de bloqueig</item>
     <item>Mostra\'l només a la barra d\'estat</item>
     <item>No mostris mai el nom de l\'operador</item>
   </string-array>
