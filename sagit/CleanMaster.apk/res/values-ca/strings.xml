@@ -116,7 +116,7 @@
   <string name="connecting">S\'està connectant&#8230;</string>
   <string name="deep_clean_completed_tips">S\'ha netejat correctament</string>
   <string name="deep_clean_data_path_clean_title">Neteja l\'emmagatzematge intern</string>
-  <string name="deep_clean_uninstall_completed_tips">S\'ha desinstal·lat correctament</string>
+  <string name="deep_clean_uninstall_completed_tips">S\'ha desinstal·lat amb èxit</string>
   <string name="deepclean_1_k_clean">Neteja amb un botó</string>
   <string name="deepclean_apk_content">Esborra APK o aplicacions innecessàries</string>
   <string name="deepclean_apk_summary_empty">Tot pinta bé, no hi ha APKs a eliminar</string>
