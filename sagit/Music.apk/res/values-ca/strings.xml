@@ -234,7 +234,7 @@
   <string name="download_cloud_error_unknow">"No s'ha pogut connectar a Mi Cloud"</string>
   <string name="download_complete">Baixada completada</string>
   <string name="download_complete_btn">S\'ha instal·lat</string>
-  <string name="download_complete_start_install">S\'està instal·lant&#8230;</string>
+  <string name="download_complete_start_install">S\'està instal·lant…</string>
   <string name="download_completed">Baixat</string>
   <string name="download_confirm_button_text">Instal·la</string>
   <string name="download_confirm_text">Música Mi baixarà i instal·larà %s</string>
