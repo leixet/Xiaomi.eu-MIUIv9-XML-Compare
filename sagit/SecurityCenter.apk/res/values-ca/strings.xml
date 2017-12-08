@@ -795,7 +795,7 @@
   <string name="i_know">Entesos!</string>
   <string name="im">MI</string>
   <string name="info_and_call">Trucades i missatges</string>
-  <string name="info_antispam_close">AntiSpam desactivat</string>
+  <string name="info_antispam_close">La llista de bloqueig està desactivada</string>
   <string name="info_antispam_current_mode">%s</string>
   <string name="info_antispam_phone">Bloqueja les trucades</string>
   <string name="info_antispam_phone_sms">Bloqueja les trucades i SMS</string>
