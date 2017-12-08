@@ -132,7 +132,7 @@
   <string name="callrecordview_menu_paste">Enganxa</string>
   <string name="callrecordview_menu_recharge">Recarregar</string>
   <string name="callrecordview_menu_settings">Configuració</string>
-  <string name="callrecordview_menu_show">Filtrar</string>
+  <string name="callrecordview_menu_show">Filtre</string>
   <string name="callrecordview_menu_show_accepted">Trucades contestades</string>
   <string name="callrecordview_menu_show_all">Totes les trucades</string>
   <string name="callrecordview_menu_show_called">Trucades sortints</string>
