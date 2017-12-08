@@ -830,7 +830,7 @@
   <string name="keywords_auto_restart">Inici automàtic;Permisos;Inici automàtic; Automàtic;Gestiona l\'inici automàtic;Inici automàtic MIUI;Inici automàtic de l\'aplicació;Inicia automàticament aplicacions;Inici de la cadena,inici encadenat, inici provocat</string>
   <string name="keywords_buy_flow">dades;dades mòbils;compra dades;compra dades mòbils;recàrrega de dades;pla de dades</string>
   <string name="keywords_cleanmaster">Paperera;Neteja;Velocitat;Emmagatzematge;Memòria cau</string>
-  <string name="keywords_gamebooster">Joc;accelerador de velocitat;Glòria del rei;Mode rendiment;No molestis</string>
+  <string name="keywords_gamebooster">Joc;accelerador de velocitat;Glòria del rei;Mode rendiment;No molestis;Jocs;Velocitat de joc;augmenta</string>
   <string name="keywords_networkassistant_1">Dades;Trànsit</string>
   <string name="keywords_networkassistant_2">Dades;Calibrar</string>
   <string name="keywords_networkassistant_4">Connexió;Internet;Prova</string>
@@ -1728,7 +1728,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="summary_cleaner_cloudscan">Puja i comparar els noms de carpetes desconegudes amb definicions en línia</string>
   <string name="summary_cloud_account">Obtenir el màxim del seu dispositiu Mi</string>
   <string name="summary_cloud_service">Sincronitzeu fotos, contactes i altres entre tots els vostres dispositius</string>
-  <string name="summary_cloud_space_almost_full">Aconseguir més espai</string>
+  <string name="summary_cloud_space_almost_full">Aconsegueix més emmagatzematge</string>
   <string name="summary_cloud_space_full">Aconseguir més espai i accés a més funcionalitats</string>
   <string name="summary_cmcc_app_check">"Algunes aplicacions no van poder ser verificades"</string>
   <string name="summary_consume_power">S\'han trobat problemes de sobreescalfament que poden afectar la vida útil de la bateria</string>
