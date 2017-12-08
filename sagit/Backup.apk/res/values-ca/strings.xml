@@ -178,7 +178,7 @@ necessiteu carregar les dades en dispositius antics a l\'iCloud"</string>
 2.\u0009Aneu a la configuració de Mi Talk i seleccioneu \"Còpia de seguretat dels contactes al Compte Mi\""</string>
   <string name="import_from_xiaomi_account_hint2">Si ja teniu una còpia de seguretat, premeu Següent.</string>
   <string name="import_from_xiaomi_account_hint_title">Utilitzeu Mi Talk per fer còpies de seguretat dels contactes d\'altres dispositius.</string>
-  <string name="import_tip_summary">A causa de la compatibilitat, els contactes i les fotos només són compatibles. Heu de carregar les dades en dispositius antics primer a l\'iCloud.</string>
+  <string name="import_tip_summary">Degut a problemes de compatibilitat, només podeu transferir dades parcials de dispositius iOS. Assegureu-vos que creeu una còpia de seguretat d\'iCloud abans de començar la transferència.</string>
   <string name="import_tip_title">Consells:</string>
   <string name="loading_data">S\'estan carregant les dades</string>
   <string name="local_app_name">Còpia de seguretat</string>
