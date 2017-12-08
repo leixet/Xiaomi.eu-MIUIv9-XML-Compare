@@ -236,7 +236,7 @@
   <string name="jump_date_full">Vés a la data</string>
   <string name="life_assistant_group_title">Assistent de vida</string>
   <string name="load_more_hint">Actualitza els esdeveniments de %1$d</string>
-  <string name="loading">Un moment&#8230;</string>
+  <string name="loading">Un moment…</string>
   <string name="local_calendar_display_name">Calendari local</string>
   <string name="local_owner_account_name">Desat en aquest dispositiu</string>
   <string name="lunar_date">Data lunar</string>
@@ -425,7 +425,7 @@ També podeu afegir recordatoris perquè no us perdeu res important. "</string>
   <string name="travel_item_weather_now">Temps a la destinació</string>
   <string name="travel_load_failed">"No s'ha pogut carregar"</string>
   <string name="travel_loaded">Amb tecnologia de Veryzhun</string>
-  <string name="travel_loading">Un moment&#8230;</string>
+  <string name="travel_loading">Un moment…</string>
   <string name="travel_local">Destinació</string>
   <string name="travel_seat_number_text">Seient</string>
   <string name="travel_train_number_text">Tren</string>
