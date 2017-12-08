@@ -535,7 +535,7 @@
   <string name="set_pattern_btn">Aplica</string>
   <string name="set_pattern_msg">Establiu la vostra contrasenya una altra vegada. La contrasenya també protegeix fotos i missatges.</string>
   <string name="setting">Configuració</string>
-  <string name="setting_account_bind">Afegir compte</string>
+  <string name="setting_account_bind">Afegeix un compte</string>
   <string name="setting_message_notify">Notificacions</string>
   <string name="setting_shortcut">Afegeix drecera a la pantalla d\'inici</string>
   <string name="share_rank_card_tip">Comparteix el rànquing</string>
@@ -746,12 +746,12 @@
   <string name="video_upload_wechat_hint">Pugeu vídeos a WeChat per aconseguir més admiradors.</string>
   <string name="video_uploaded">Pujat</string>
   <string name="view_master_rank">Mostra el top de Youliao</string>
-  <string name="view_more_sticker">Veure més adhesius</string>
+  <string name="view_more_sticker">Mostra més adhesius</string>
   <string name="view_top_rank">Mostra el rànquing</string>
   <string name="wechat_video">Vídeo a %s</string>
   <string name="weibo_share_success">S\'ha compartit amb èxit</string>
   <string name="weixin_not_installed">"WeChat no està instal·lat"</string>
-  <string name="weixin_sticker_tag_str">Adhesius de WeChat</string>
+  <string name="weixin_sticker_tag_str">Adhesiu</string>
   <string name="wifi_state">Xarxa Wi-Fi</string>
   <string name="xiaomi_btn_bind">Compte Mi</string>
   <string name="xiaomi_login_btn_str">Compte Mi</string>
