@@ -515,7 +515,7 @@
   <string name="help_config">Configuració automàtica</string>
   <string name="hide_atts_remaining">Amaga %1$d adjunts</string>
   <string name="hide_elided">▼ Amaga el text citat</string>
-  <string name="hide_password">oculta la contrasenya</string>
+  <string name="hide_password">Oculta la contrasenya</string>
   <string name="hierarchical_folder_parent_top_ellip">%1$s∕&#8230;∕%2$s∕</string>
   <string name="hint_quick_reply_all">Respon a tots</string>
   <string name="imap_password_error">Contrasenya del servidor de correu entrant és incorrecta</string>
@@ -653,7 +653,7 @@
   <string name="move_to_selection_dialog_title">Es va mudar a una altra carpeta</string>
   <string name="multiple_new_message_notification_item">%1$s\"   %2$s\"</string>
   <string name="mute">Mut</string>
-  <string name="navigation_menu">menú de navegació</string>
+  <string name="navigation_menu">Menú de navegació</string>
   <string name="network_error">No hi ha connexió</string>
   <string name="network_invaild">"No s'ha pogut connectar a la xarxa"</string>
   <string name="network_not_available">"Connexió de xarxa no està disponible, si us plau intenti-ho més tard"</string>
@@ -973,7 +973,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="shortcut_name_title">Nom per drecera de carpeta</string>
   <string name="show_elided">▶ Mostra text citat</string>
   <string name="show_images">Baixa i mostra les imatges</string>
-  <string name="show_password">mostra la contrasenya</string>
+  <string name="show_password">Mostra la contrasenya</string>
   <string name="signature"> %s</string>
   <string name="silent_ringtone">Silenciós</string>
   <string name="single_new_message_notification_big_text">"%1$s 
@@ -1084,7 +1084,7 @@ Toqui \" Sincronitza ara per sincronitzar el correu una vegada, o Canviar la con
   <string name="wipe_account_fail_title">"No s'ha pogut eliminar la informació personal"</string>
   <string name="wrong_password">La contrasenya és incorrecta</string>
   <string name="yes">Sí</string>
-  <string name="you_are_in_mobile_network">Està utilitzant ara la xarxa mòbil</string>
+  <string name="you_are_in_mobile_network">Vols fer servir dades mòbils per penjar els registres?</string>
   <string name="youfuli">Promoció</string>
   <string name="zip_viewer_no_file">Buit</string>
 </resources>
