@@ -79,7 +79,7 @@
   <string name="app_install_dialog_positive_text">Instal·la</string>
   <string name="app_install_dialog_search_failed">"No s'han pogut trobar aplicacions"</string>
   <string name="app_install_dialog_searching">S\'està cercant aplicacions…</string>
-  <string name="app_installing">Instal·lant&#8230;</string>
+  <string name="app_installing">S\'està instal·lant…</string>
   <string name="app_lastest">Darrer</string>
   <string name="app_listitem_installing">S\'està instal·lant</string>
   <string name="app_listitem_waiting">S\'està esperant per la instal·lació</string>
@@ -407,8 +407,8 @@ Proveu el següent per solucionar el problema:
   <string name="install_failed">"No s'ha pogut instal·lar %s"</string>
   <string name="install_peel_content">Per activar la funció de guia de televisió, instal·leu Peel per al Control Mi.</string>
   <string name="install_peel_title">Instal·lació de Peel Mi Remote</string>
-  <string name="install_succed">S\'ha instal·lat correctament %s</string>
-  <string name="installing">Instal·lant&#8230;</string>
+  <string name="install_succed">S\'ha instal·lat %s amb èxit</string>
+  <string name="installing">S\'està instal·lant…</string>
   <string name="introduction">Introducció</string>
   <string name="ir_ac">" AC"</string>
   <string name="ir_device_add">Afegeix dispositiu</string>
@@ -1036,6 +1036,7 @@ Per canviar, premeu contínuament el botó d\'encesa del TV"</string>
   <string name="video_actor_label">"Repartiment: "</string>
   <string name="video_area_label">"País: "</string>
   <string name="video_buy_vip">Compra una subscripció per Mi TV</string>
+  <string name="video_category_filter">Filtre %s</string>
   <string name="video_comment_get_reply_failed">"获取评论失败, 点击重试"</string>
   <string name="video_comment_no_reply">暂无评论, 点击发表</string>
   <string name="video_comment_reply_failed">"No s'ha pogut afegir el comentari"</string>
