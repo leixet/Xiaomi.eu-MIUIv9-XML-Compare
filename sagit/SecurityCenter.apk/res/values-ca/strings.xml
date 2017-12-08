@@ -75,7 +75,7 @@
   <string name="after_the_lock_screen">L\'aplicació serà bloquejada juntament amb la pantalla, pot canviar això a la configuració del bloquejador d\'aplicacions.</string>
   <string name="all_address_choose_hint">Tots els números d\'aquesta província</string>
   <string name="already_close_gamebooster">L\'accelerador de velocitat dels jocs està desactivat</string>
-  <string name="anim_gamebooster_text">Un segon&#8230;</string>
+  <string name="anim_gamebooster_text">Un moment…</string>
   <string name="anti_disturb_msg_detail">Desactiva les notificacions excepte per a les trucades entrants</string>
   <string name="anti_disturb_msg_title">No molesteu</string>
   <string name="antispam_mode_details">detalls del mode d\'intercepció</string>
@@ -572,7 +572,7 @@
   <string name="delete_from_manual_item_white_list">Treure de les excepcions</string>
   <string name="deleted_apps">Aplicacions eliminades</string>
   <string name="descx_quick_scan_cancel">Escaneig cancel·lat</string>
-  <string name="descx_quick_scan_preparation">Un moment&#8230;</string>
+  <string name="descx_quick_scan_preparation">Un moment…</string>
   <string name="detail_app_button">Info de l\'aplicació</string>
   <string name="details_subtitle">Utilitza detalls</string>
   <string name="diagnostic_attention_dialog_message">"El diagnòstic per %1$s està en curs. Espereu que acabi i torneu a provar."</string>
@@ -1444,7 +1444,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="renew_ip">Reintentar</string>
   <string name="renew_now">Renova</string>
   <string name="repair">Reparar</string>
-  <string name="repair_loading_text">Un moment&#8230;</string>
+  <string name="repair_loading_text">Un moment…</string>
   <string name="repeated_marked_number_summary">"No bloquegis una segona trucada des del mateix número notificat quan hagin passat menys de 3 minuts de la primera"</string>
   <string name="repeated_marked_number_title">"No bloquegis trucades repetides des de números notificats"</string>
   <string name="replace_dns">Substitueix DNS automàticament</string>
@@ -1992,7 +1992,7 @@ Dades extres en ús"</string>
   <string name="updating_diagnostic_botton">Analitzant dades&#8230;</string>
   <string name="usage_sorted_activity_lable">Ús de dades</string>
   <string name="usage_sorted_empty_text">Buit</string>
-  <string name="usage_sorted_loading_text">Un moment&#8230;</string>
+  <string name="usage_sorted_loading_text">Un moment…</string>
   <string name="usage_type_audio">Àudio</string>
   <string name="usage_type_cpu">Total de la CPU</string>
   <string name="usage_type_cpu_foreground">​​CPU en primer pla</string>
