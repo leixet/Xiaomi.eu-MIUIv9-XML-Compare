@@ -66,7 +66,7 @@
   <string name="change_alert">Comproveu la connexió a la xarxa i torneu a provar-ho</string>
   <string name="city_exceeded_warning">Podeu afegir fins a 10 ciutats</string>
   <string name="commercial">Publicitat</string>
-  <string name="common_loading_text">Un moment&#8230;</string>
+  <string name="common_loading_text">Un moment…</string>
   <string name="connect_fail">"La connexió de xarxa és anormal. Torneu-ho a provar més tard."</string>
   <string name="content_desc_activity_main_add_city">Afegeix ciutat</string>
   <string name="content_desc_activity_main_add_city_manage">Gestió de la ciutat</string>
