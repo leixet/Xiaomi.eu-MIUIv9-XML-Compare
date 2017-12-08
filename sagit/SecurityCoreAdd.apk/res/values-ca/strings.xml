@@ -129,9 +129,9 @@ Dos espais. Un dispositiu."</string>
   <string name="invalid_qr_code">Codi QR no vàlid</string>
   <string name="list_empty_text">Buit</string>
   <string name="list_empty_text_xspace">Instal·leu WeChat/QQ/Weibo, creeu aplicacions duals i torneu-ho a provar.</string>
-  <string name="loading">Un moment&#8230;</string>
+  <string name="loading">Un moment…</string>
   <string name="loading_apps">S\'estan carregant les aplicacions&#8230;</string>
-  <string name="loading_space">Un moment&#8230;</string>
+  <string name="loading_space">Un moment…</string>
   <string name="loading_success">S\'ha carregat amb èxit</string>
   <string name="lock_screen_open_second_space">Entreu al Segon espai des de la pantalla de bloqueig</string>
   <string name="messageData">Missatges</string>
@@ -302,7 +302,7 @@ Si no s\'actualitza, és possible que les aplicacions duals no funcionin correct
   <string name="transferImage">Les fotos del Segon espai seran mogudes a l\'àlbum \"Segon espai\" en el Primer espai</string>
   <string name="transferMessage">Els missatges del Segon espai es mouran al Primer espai</string>
   <string name="tryNow">Proveu-ho ara</string>
-  <string name="wating">Un moment&#8230;</string>
+  <string name="wating">Un moment…</string>
   <string name="weibo_send">Envia al Weibo</string>
   <string name="weixin_pay">Pagament WeChat</string>
   <string name="weixin_share">Comparteix a Moments</string>
