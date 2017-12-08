@@ -280,7 +280,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="mock_location_app">Seleccioneu una aplicació per simular la ubicació</string>
   <string name="mock_location_app_not_set">Cap aplicació per simular ubicació seleccionada</string>
   <string name="mock_location_app_set">Aplicació d\'ubicació simulada: %1$s</string>
-  <string name="never_ask_again">"No ho preguntis més"</string>
+  <string name="never_ask_again">"No m'ho tornis a preguntar"</string>
   <string name="newPerms">Nou</string>
   <string name="new_permissions_category">Nous permisos</string>
   <string name="next">Següent</string>
@@ -304,7 +304,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="permission_review_warning_title_template_update">%1$s s\'ha actualitzat. Permeteu a %1$s accedir al que segueix?</string>
   <string name="permission_summary_enforced_by_policy">Imposat per la política</string>
   <string name="permission_title">%1$s permisos</string>
-  <string name="permission_warning_template">Voleu permetre %1$s a %2$s?</string>
+  <string name="permission_warning_template">Voleu permetre &lt;b&gt;%1$s&lt;/b&gt; a %2$s?</string>
   <string name="permlab_togglePermissions">commuta els permisos</string>
   <string name="picture_color_mode">Mode de color de la imatge</string>
   <string name="picture_color_mode_desc">Utilitza sRGB</string>
