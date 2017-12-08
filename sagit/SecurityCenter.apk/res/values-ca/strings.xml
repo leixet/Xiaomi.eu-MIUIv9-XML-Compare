@@ -1981,7 +1981,7 @@ Dades extres en ús"</string>
   <string name="unable_connect_internet">No hi ha connexió a internet</string>
   <string name="uninstall_app_dialog_msg">Si ho desinstal·leu, es suprimiran totes les dades de l\'aplicació.</string>
   <string name="uninstall_app_dialog_title">Voleu desinstal·lar-ho ara?</string>
-  <string name="uninstall_app_done">Desinstal·lació finalitzada</string>
+  <string name="uninstall_app_done">S\'ha desinstal·lat amb èxit</string>
   <string name="uninstall_danagerous_btn">Desinstal·la</string>
   <string name="uninstall_danagerous_desc">«%s» pot danyar el vostre dispositiu</string>
   <string name="uninstall_danagerous_msg">«%s» pot danyar el vostre dispositiu, reduir el rendiment o provocar reinicis.</string>
