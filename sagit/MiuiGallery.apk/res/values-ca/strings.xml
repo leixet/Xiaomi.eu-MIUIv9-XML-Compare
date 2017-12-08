@@ -360,7 +360,7 @@
   <string name="enable_face_album_summary">Ordena automàticament les fotos per les persones que hi apareixen</string>
   <string name="enable_face_album_title">Ordena per persones</string>
   <string name="enable_slim_title">Optimitza</string>
-  <string name="enabling_face_feature">Un moment&#8230;</string>
+  <string name="enabling_face_feature">Un moment…</string>
   <string name="enter_email_hint">Introduïu una adreça de correu electrònic</string>
   <string name="error_album_not_exist">"L'àlbum no existeix"</string>
   <string name="error_build_thumbnail_action">Baixa l\'arxiu original</string>
@@ -430,7 +430,7 @@
   <string name="exit_share_successfully">Heu sortit de %1$s</string>
   <string name="exit_video_play">Surt</string>
   <string name="expand_people">Mostra més persones</string>
-  <string name="face_album_detecting_tip">Un moment&#8230;</string>
+  <string name="face_album_detecting_tip">Un moment…</string>
   <string name="face_album_empty">"No hi ha prou fotos per reconèixer persones.
 Feu més fotos als vostres amics!"</string>
   <string name="face_album_empty_syncing">S\'estan sincronitzant les dades. Torneu d\'aquí una estona</string>
@@ -519,7 +519,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="hybrid_network_access_denied">S\'ha denegat l\'accés a la xarxa</string>
   <string name="hybrid_network_unavaliable">"No es pot connectar a la xarxa"</string>
   <string name="hybrid_pull_to_refresh_pull_label">Estireu per actualitzar&#8230;</string>
-  <string name="hybrid_pull_to_refresh_refreshing_label">Un moment&#8230;</string>
+  <string name="hybrid_pull_to_refresh_refreshing_label">Un moment…</string>
   <string name="hybrid_pull_to_refresh_release_label">Deixeu anar per actualitzar&#8230;</string>
   <string name="hybrid_service_unavailiable">Servei no disponible</string>
   <string name="hybrid_try_again">Torneu a provar-ho</string>
@@ -559,9 +559,9 @@ Feu més fotos als vostres amics!"</string>
   <string name="limit_width">L\'amplada ha de ser &gt; 0</string>
   <string name="load_complete">No hi ha més elements aquí</string>
   <string name="load_failed">"No s'ha pogut carregar la infirmació, toqueu per tornar-ho a provar"</string>
-  <string name="load_relations">Un moment&#8230;</string>
+  <string name="load_relations">Un moment…</string>
   <string name="loading">Un moment</string>
-  <string name="loading_dots">Un moment&#8230;</string>
+  <string name="loading_dots">Un moment…</string>
   <string name="loading_dual_tip">S\'està carregant la foto dual&#8230;</string>
   <string name="loading_fail">"No s'ha pogut baixar"</string>
   <string name="loading_fail_sync_off">Activa la sincronització amb Mi Cloud per baixar</string>
@@ -745,7 +745,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="picker_title_specify_format_one">Selecciona %d foto</string>
   <string name="picker_title_unlimit">Seleccioneu fotos</string>
   <string name="places_album_empty_title">Les fotos es poden ordenar segons la ubicació</string>
-  <string name="preparing_data">Un moment&#8230;</string>
+  <string name="preparing_data">Un moment…</string>
   <string name="projection_checkbox_text">Recorda aquesta pantalla</string>
   <string name="projection_device_connection_failed">"No es pot connectar el projector"</string>
   <string name="projection_local_mobile">Aquest telèfon</string>
