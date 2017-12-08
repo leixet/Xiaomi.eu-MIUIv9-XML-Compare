@@ -143,8 +143,8 @@
   <string name="launcher_not_exist">Inici s\'ha aturat, torneu a la pantalla inicial i proveu altre cop.</string>
   <string name="like">Preferit</string>
   <string name="liked">S\'ha agregat als favorits</string>
-  <string name="loading_desktop">Un moment&#8230;</string>
-  <string name="loading_wallpaper">Un moment&#8230;</string>
+  <string name="loading_desktop">Un moment…</string>
+  <string name="loading_wallpaper">Un moment…</string>
   <string name="local_wallpaper">Baixat</string>
   <string name="lock_screen">Pantalla de bloqueig</string>
   <string name="lock_screen_failed_message">"No es pot aplicar el fons de pantalla"</string>
