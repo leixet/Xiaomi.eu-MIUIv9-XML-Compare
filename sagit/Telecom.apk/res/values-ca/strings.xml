@@ -5,7 +5,7 @@
   <string name="accessibility_display_daltonizer_preference_subtitle">Aquesta característica és experimental i podria afectar el rendiment.</string>
   <string name="accessibility_display_daltonizer_preference_title">Correcció del color</string>
   <string name="accessibility_no_wifi">Wi-Fi desconnectada.</string>
-  <string name="accessibility_speakerphone_enabled">Altaveu activat.</string>
+  <string name="accessibility_speakerphone_enabled">L\'altaveu està activat</string>
   <string name="accessibility_wifi_off">Wi-Fi desactivada.</string>
   <string name="accessibility_wifi_one_bar">Una barra de senyal Wi-Fi.</string>
   <string name="accessibility_wifi_signal_full">Senyal de WiFi màxima.</string>
@@ -14,7 +14,7 @@
   <string name="adb_keys_warning_message">Voleu revocar l\'accés a la depuració USB des de tots els ordinadors que prèviament heu autoritzat?</string>
   <string name="adb_warning_message">La depuració USB està pensada només per desenvolupament. Utilitzeu-la per copiar dades entre l\'ordinador i el vostre dispositiu, per instal·lar aplicacions al vostre dispositiu sense avisos i per llegir dades de registre.</string>
   <string name="adb_warning_title">Voleu permetre la depuració USB?</string>
-  <string name="add_blocked_dialog_body">Bloqueja trucades i missatges provinents de</string>
+  <string name="add_blocked_dialog_body">Bloqueja trucades i missatges de</string>
   <string name="add_blocked_number_hint">Número de telèfon</string>
   <string name="add_vm_number_str">Afegeix número</string>
   <string name="allow_mock_location">Permet les ubicacions simulades</string>
@@ -38,7 +38,7 @@
   <string name="block_number">Afegeix un número</string>
   <string name="blocked_numbers">Números bloquejats</string>
   <string name="blocked_numbers_block_emergency_number_message">"No es pot bloquejar el número d'emergència."</string>
-  <string name="blocked_numbers_butter_bar_body">Després que truqueu o envieu un missatge a un número d\'emergències, el bloqueig es desactivarà per garantir que els serveis d\'emergència us puguin contactar.</string>
+  <string name="blocked_numbers_butter_bar_body">Després que truqueu o envieu un missatge a un número d\'emergències, la llista de bloqueig es desactivarà per garantir que els serveis d\'emergència us puguin contactar.</string>
   <string name="blocked_numbers_butter_bar_button">Torna a activar</string>
   <string name="blocked_numbers_butter_bar_title">La llista de bloqueig està desactivada</string>
   <string name="blocked_numbers_msg">"No rebreu trucades o missatges de números bloquejats."</string>
