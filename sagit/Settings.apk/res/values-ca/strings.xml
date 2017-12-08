@@ -3405,7 +3405,7 @@ Per fer-ho:
   <string name="search_vpn_enable">VPN</string>
   <string name="search_vpn_settings_password">Contrasenya VPN</string>
   <string name="search_vpn_settings_title">VPN;Afegeix VPN;Inicia VPN</string>
-  <string name="search_wakeup_for_keyguard_notification_title">Activació de la pantalla de bloqueig per a les notificacions</string>
+  <string name="search_wakeup_for_keyguard_notification_title">Activa la pantalla de bloqueig per a les notificacions;activa la pantalla;activa el dispositiu;activa el telèfon</string>
   <string name="search_wallpaper_settings_title">Fons de pantalla;Pantalla inicial;Pantalla de bloqueig</string>
   <string name="search_wfd_settings_title">Pantalla sense fils;Activació de la pantalla sense fils</string>
   <string name="search_wifi_advanced_ip_address_title">Adreça IP</string>
@@ -4554,7 +4554,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="vr_listeners_title">Serveis d\'ajuda per a la realitat virtual</string>
   <string name="wait_for_debugger">Espereu el depurador</string>
   <string name="wait_for_debugger_summary">Abans d\'executar-se, l\'aplicació de depuració espera que es connecti el depurador</string>
-  <string name="wakeup_for_keyguard_notification_title">Activa la pantalla en rebre notificacions</string>
+  <string name="wakeup_for_keyguard_notification_title">Activa la pantalla de bloqueig en rebre notificacions</string>
   <string name="wallpaper_attributions">Fons de pantalla</string>
   <string name="wallpaper_attributions_values">"Proveïdors d\'imatges per satèl·lit:
 ©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
