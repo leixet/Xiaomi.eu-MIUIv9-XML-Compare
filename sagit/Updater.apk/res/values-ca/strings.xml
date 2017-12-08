@@ -33,7 +33,7 @@ Les dades no es netejaran.\"</string>
   <string name="menu_title_pick_rom_file">Selecciona el paquet d\'actualització</string>
   <string name="menu_title_recovery">Reinicia en mode de recuperació</string>
   <string name="message">%1$s</string>
-  <string name="message_checkbox">Amaga els missatges futurs de l\'equip de Xioami.eu</string>
+  <string name="message_checkbox">Oculta els missatges futurs de l\'equip de Xioami.eu</string>
   <string name="message_title">NOTA!</string>
   <string name="new_version">S\' ha trobat una nova versió!</string>
   <string name="no_info">No hi ha informació disponible.</string>
