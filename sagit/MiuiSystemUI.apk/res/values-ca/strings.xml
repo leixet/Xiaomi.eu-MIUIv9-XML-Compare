@@ -475,7 +475,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="screenshot_saving_ticker">S\'està desant la captura de pantalla…</string>
   <string name="screenshot_saving_title">S\'està desant la captura de pantalla…</string>
   <string name="screenshot_send">Envia</string>
-  <string name="search_hint">Cerqueu llocs web, aplicacions, contactes, vídeos...</string>
+  <string name="search_hint">Cerqueu llocs web, aplicacions, contactes i vídeos</string>
   <string name="select_application">Seleccioneu l\'aplicació</string>
   <string name="select_logd_size_dialog_title">Selecciona la mida Logger de la memòria intermèdia</string>
   <string name="select_logd_size_title">Mides memòria intermèdia Logger</string>
