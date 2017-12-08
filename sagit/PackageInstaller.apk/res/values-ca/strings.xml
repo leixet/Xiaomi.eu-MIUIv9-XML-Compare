@@ -217,7 +217,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="install_failed_incompatible">"Aquesta aplicació no és compatible amb el dispositiu."</string>
   <string name="install_failed_invalid_apk">El paquet sembla estar malmès.</string>
   <string name="install_failed_msg">"%1$s no s'ha pogut instal·lar."</string>
-  <string name="installing">S\'està instal·lant&#8230;</string>
+  <string name="installing">S\'està instal·lant…</string>
   <string name="keep_screen_on">Mantén-la activa</string>
   <string name="keep_screen_on_summary">La pantalla no entra mai en mode d\'espera si el dispositiu s\'està carregant</string>
   <string name="launch">Obre</string>
@@ -416,7 +416,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="uninstall_update_text">Voleu substituir aquesta aplicació amb la versió original?</string>
   <string name="uninstall_update_text_multiuser">Voleu substituir aquesta aplicació per la versió de fàbrica? S\'eliminaran totes les dades. Això afecta a tots els usuaris d\'aquest dispositiu, inclosos els que tenen perfils laborals.</string>
   <string name="uninstall_update_title">Desinstal·la l\'actualització</string>
-  <string name="uninstalling">S\'està desinstal·lant&#8230;</string>
+  <string name="uninstalling">S\'està desinstal·lant…</string>
   <string name="unknown">Desconegut</string>
   <string name="unknown_apps_admin_dlg_text">"L'administrador no permet la instal·lació d'aplicacions obtingudes de fonts desconegudes."</string>
   <string name="unknown_apps_dlg_text">Per seguretat, el telèfon està configurat per bloquejar la instal·lació d\'aplicacions obtingudes de fonts desconegudes.</string>
