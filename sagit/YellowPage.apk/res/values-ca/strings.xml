@@ -193,7 +193,7 @@
   <string name="phone_event_setting_notice_text_with_contacts_permission">"En utilitzar aquesta característica, accepteu les nostres %1$s i %2$s. Cal accedir als vostres contactes."</string>
   <string name="photo_count">%d en total</string>
   <string name="pull_to_refresh_pull_label">Llisqueu per actualitzar&#8230;</string>
-  <string name="pull_to_refresh_refreshing_label">Un moment&#8230;</string>
+  <string name="pull_to_refresh_refreshing_label">Un moment…</string>
   <string name="pull_to_refresh_release_label">Deixeu anar per actualitzar&#8230;</string>
   <string name="quick_yellow_page_tab_call_log">Registre de trucades</string>
   <string name="quick_yellow_page_tab_phones">Telèfon</string>
