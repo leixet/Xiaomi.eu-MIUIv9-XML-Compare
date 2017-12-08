@@ -39,7 +39,7 @@
   <string name="component_title_wallpaper">Fons de pantalla</string>
   <string name="current_using_desktop_wallpaper_text">Pantalla d\'inici</string>
   <string name="current_using_lockscreen_wallpaper_text">Pantalla de bloqueig</string>
-  <string name="current_version_incompatible">Versió d\'incompatibilitat</string>
+  <string name="current_version_incompatible">Aquest tema és incompatible</string>
   <string name="deleting">S\'està suprimint&#8230;</string>
   <string name="description_author">Autor</string>
   <string name="description_designer">Dissenyador</string>
@@ -145,8 +145,8 @@
   <string name="online_precust_scenery">Paisatge</string>
   <string name="online_precust_tiny">Diminut</string>
   <string name="online_search_hint">Cerca recursos en línia</string>
-  <string name="present_local_themes">Baixats</string>
-  <string name="present_official_themes">Selecció oficial</string>
+  <string name="present_local_themes">Els meus temes</string>
+  <string name="present_official_themes">Les nostres opcions</string>
   <string name="present_online_themes">Aconsegueix més temes de franc</string>
   <string name="provision_default_theme_title">Per defecte</string>
   <string name="provision_loading_tips">Un moment&#8230;</string>
@@ -155,7 +155,7 @@
   <string name="purchased_list">Comprats</string>
   <string name="purchased_list_legacy">Temes heretats</string>
   <string name="recently_used">Utilitzats recentment</string>
-  <string name="region_not_support">"Els temes no són compatibles amb la vostra zona."</string>
+  <string name="region_not_support">"Els temes no són compatibles amb la vostra regió."</string>
   <string name="reload">Torneu a provar-ho</string>
   <string name="resource_account_abnormal_state">Error en el compte. Espereu un o dos minuts i torneu-ho a provar.</string>
   <string name="resource_account_fail_to_add">"No es pot afegir el compte"</string>
