@@ -144,7 +144,7 @@ Si canvies de targeta SIM s\'enviarà un altre SMS automàticament per reactivar
   <string name="ks_update_success">S\'ha actualitzat amb èxit</string>
   <string name="ks_update_wait">Un moment…</string>
   <string name="license_host_unreachable">"No s'ha pogut connectar a la xarxa. Per veure aquesta informació ara, aneu a %s."</string>
-  <string name="loading">Un moment&#8230;</string>
+  <string name="loading">Un moment…</string>
   <string name="loading_hint">Carregant</string>
   <string name="master_alert_notif_content">"%d dades no se sincronitzen."</string>
   <string name="master_alert_notif_dspt_add">Elements esperant la sincronització: %s</string>
