@@ -266,7 +266,7 @@
   <string name="monthly_on_day">Mensualment (el mateix dia)</string>
   <string name="monthly_on_day_count">Mensualment (%1$s %2$s)</string>
   <string name="network_not_available">"No es pot connectar a la xarxa"</string>
-  <string name="new_event_description">nou</string>
+  <string name="new_event_description">Nou</string>
   <string name="new_event_dialog_label">Nou esdeveniment</string>
   <string name="new_event_dialog_option">Nou esdeveniment</string>
   <string name="no_contact_birthday_hint">No hi ha aniversaris a importar</string>
@@ -274,9 +274,9 @@
   <string name="no_network">No hi ha xarxa. Intenteu actualitzar la xarxa de nou :)</string>
   <string name="no_network_btn">Torneu-ho a provar</string>
   <string name="no_title_label">(Sense títol)</string>
-  <string name="no_visiable_calendar_message">Cal que seleccioneu un compte de calendari. Premeu Selecciona el compte per continuar.</string>
-  <string name="no_visiable_calendar_select_account">Seleccioneu un compte</string>
-  <string name="no_visiable_calendar_title">Seleccioneu un compte de calendari</string>
+  <string name="no_visiable_calendar_message">Cal que seleccioneu un compte de calendari. Premeu Afegeix el compte per continuar.</string>
+  <string name="no_visiable_calendar_select_account">Afegeix un compte</string>
+  <string name="no_visiable_calendar_title">Afegeix un compte</string>
   <string name="not_synced">sense sincronitzar</string>
   <string name="olympic_vs">CONTRA</string>
   <string name="online_reminder_header_text">Recorda</string>
@@ -353,7 +353,7 @@
   <string name="response_yes">Sí</string>
   <string name="rest_day_indication">:)</string>
   <string name="saving_event">S\'ha desat l\'esdeveniment</string>
-  <string name="saving_event_with_guest">S\'enviaran els canvis</string>
+  <string name="saving_event_with_guest">S\'estan enviant actualitzacions…</string>
   <string name="search">Cerca</string>
   <string name="search_calendar">"Calendari;Agenda;Recordatori"</string>
   <string name="search_calendar_edit_event">Reunió;Recordatori;Agenda</string>
