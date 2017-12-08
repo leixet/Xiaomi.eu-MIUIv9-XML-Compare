@@ -174,7 +174,7 @@
   <string name="jump_rank_hint">"Feu una ullada a les classificacions de les baixades d'avui &gt;"</string>
   <string name="keep_queued_download">Mantenir</string>
   <string name="load_finish_hint">Podeu continuar veient-lo demà</string>
-  <string name="loading">Un moment&#8230;</string>
+  <string name="loading">Un moment…</string>
   <string name="media_filter">MITJA</string>
   <string name="member_cost">Anual</string>
   <string name="menu_all_task_pause">Pausa-ho tot</string>
@@ -327,7 +327,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="sniff_search_install">Instal·la</string>
   <string name="sniff_shortcut_cloudconfig_btn">D\'acord</string>
   <string name="sniff_shortcut_cloudconfig_context">S\'està actualitzant la font&#8230;</string>
-  <string name="sniff_shortcut_cloudconfig_title">Un moment&#8230;</string>
+  <string name="sniff_shortcut_cloudconfig_title">Un moment…</string>
   <string name="sniff_shortcut_create">Drecera creada</string>
   <string name="sniff_shortcut_exist">La drecera ja existeix</string>
   <string name="sniff_shortcut_failed">"No s'ha pogut crear la drecera"</string>
