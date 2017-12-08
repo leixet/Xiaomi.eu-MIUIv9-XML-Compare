@@ -142,8 +142,8 @@
   <string name="identity">Identificació</string>
   <string name="input_email_address_notice">"Utilitzarem aquest correu per verificar el vostre compte"</string>
   <string name="io_error_title">Confirmeu la vostra xarxa</string>
-  <string name="just_a_second">Un moment&#8230;</string>
-  <string name="loading_micloud_sync_data">Un moment&#8230;</string>
+  <string name="just_a_second">Un moment…</string>
+  <string name="loading_micloud_sync_data">Un moment…</string>
   <string name="local_device">(aquest dispositiu)</string>
   <string name="locating_current_location">Localitzant</string>
   <string name="location_service_not_working">El servei d\'ubicació no funciona</string>
@@ -443,7 +443,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="update_phone_number_notice_message">Us cal verificar la identitat abans que pugueu actualitzar el número de telèfon.</string>
   <string name="updated_nothing">Actualitzat</string>
   <string name="user_avatar_update_title">Actualitza imatge del perfil</string>
-  <string name="user_avatar_uploading">Un moment&#8230;</string>
+  <string name="user_avatar_uploading">Un moment…</string>
   <string name="verified_apps">Aplicacions verificades</string>
   <string name="verified_devices">Dispositius verificats</string>
   <string name="verify_phone_prompt">Seleccioneu el número de telèfon a verificar</string>
