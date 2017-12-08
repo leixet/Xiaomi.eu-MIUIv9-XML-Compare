@@ -74,7 +74,7 @@
   <string name="category_type_other">Altres</string>
   <string name="category_video">Vídeos</string>
   <string name="category_zip">Fitxers</string>
-  <string name="change_sticker">Seleccioneu un altre emoticona</string>
+  <string name="change_sticker">Seleccioneu un altre adhesiu</string>
   <string name="choose_report_comment_reason">Per què esteu enviant aquest comentari?</string>
   <string name="choose_report_reason">Per què reporta aquest clip de vídeo?</string>
   <string name="clean_hint">Tocar per alliberar espai</string>
@@ -243,7 +243,7 @@
   <string name="homepage_tab_file_view_phone">Emmagatzematge</string>
   <string name="homepage_tab_recent">Recents</string>
   <string name="hot_comments">Comentaris populars</string>
-  <string name="hot_sticker">Emoticones</string>
+  <string name="hot_sticker">Adhesius</string>
   <string name="hot_topic_str">Temes populars</string>
   <string name="hot_video">Vídeos populars</string>
   <string name="hot_video_load_more">Més &gt;</string>
@@ -263,7 +263,7 @@
   <string name="like_toast_2">Veure els vídeos que us han agradat en el vostre perfil.</string>
   <string name="like_toast_3">Inicieu sessió per veure els vídeos que us han agradat en el vostre perfil.</string>
   <string name="load_more">Veure més</string>
-  <string name="load_sticker_fail">"No s'ha pogut carregar el emoticona"</string>
+  <string name="load_sticker_fail">"No s'ha pogut carregar l'adhesiu"</string>
   <string name="loading">Un moment&#8230;</string>
   <string name="local_image">Fotos</string>
   <string name="local_music">Música</string>
@@ -560,8 +560,8 @@
   <string name="shared_sticker_str">Compartits per fans de Mi</string>
   <string name="shared_sticker_suffix">Adhesiu a %s</string>
   <string name="shared_sticker_use_tip">"Podeu enviar els adhesius que heu desat a converses de WeChat igual que envieu imatges.
-(Els GIFs es poden afegir a Personalitzats en els adhesius de WeChat)."</string>
-  <string name="shared_sticker_use_tip_title">Com utilitzar adhesius</string>
+(Els GIF es poden afegir a Personalitzats en els adhesius de WeChat)."</string>
+  <string name="shared_sticker_use_tip_title">Com s\'utilitzen els adhesius</string>
   <string name="shared_str">Compartit per %s</string>
   <string name="shortcut_exists">La drecera ja existeix</string>
   <string name="shortcut_hotvideos">Vídeos populars</string>
