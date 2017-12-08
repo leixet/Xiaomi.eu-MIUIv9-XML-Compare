@@ -1454,7 +1454,7 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="vm_change_pin_error_too_weak">El PIN nou és massa feble. Una contrasenya segura no hauria de tenir seqüències contínues o dígits repetits.</string>
   <string name="vm_change_pin_new_pin">PIN nou</string>
   <string name="vm_change_pin_old_pin">PIN antic</string>
-  <string name="vm_change_pin_progress_message">Espereu si us plau.</string>
+  <string name="vm_change_pin_progress_message">Un moment…</string>
   <string name="vm_changed">S\'ha canviat el número de la bústia de veu.</string>
   <string name="voice_number_setting_primary_user_only">La configuració de la bústia de trucades de veu només pot ser modificat per l\'usuari principal.</string>
   <string name="voice_privacy">Privacitat de veu</string>
