@@ -169,7 +169,7 @@
   <string name="email_install_hint">El correu s\'ha desinstal·lat. En reinstal·lar-lo, podeu restaurar les dades del compte del calendari o afegir-ne un de nou.</string>
   <string name="email_picker_label">Envia un correu amb</string>
   <string name="email_subject_prefix">"Re: "</string>
-  <string name="empty_event">No s\'ha creat l\'esdeveniment buit</string>
+  <string name="empty_event">"No s'ha creat l'esdeveniment buit"</string>
   <string name="english_premium_league">English Premium League</string>
   <string name="event_account">Compte</string>
   <string name="event_action_delete">Elimina</string>
