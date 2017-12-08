@@ -33,7 +33,7 @@
   <string name="file_already_downlaoded">Fitxer desat a \"%1$s\"</string>
   <string name="file_change_btn_download">Baixa el fitxer</string>
   <string name="file_change_btn_upload">Puja el fitxer</string>
-  <string name="file_loading">Un moment&#8230;</string>
+  <string name="file_loading">Un moment…</string>
   <string name="file_name_empty">Heu d\'introduir un nom.</string>
   <string name="file_name_invalid">"Els noms dels fitxers no poden contenir els següents caràcters: /\\:*?&lt;&gt;"</string>
   <string name="file_name_too_long">El nom del fitxer que heu introduït és massa llarg.</string>
