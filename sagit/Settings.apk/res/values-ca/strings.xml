@@ -3360,7 +3360,7 @@ Per fer-ho:
   <string name="search_screen_saver_settings">Salvapantalles</string>
   <string name="search_screen_timeout">Son;Pantalla de bloqueig automàtica</string>
   <string name="search_screenshot">Captura de pantalla</string>
-  <string name="search_second_space">Segon espai</string>
+  <string name="search_second_space">Segon espai;Dos espais;2 espais;Oculta aplicacions;Oculta fitxers;Oculta fotos;Bloqueja la pantalla;Contrasenya de la pantalla de bloqueig;Privadesa;Mode de privadesa;Mode privat;Privat;Mode convidat;Sessió del convidat;Accés als convidats;Compte de convidat;Convidat</string>
   <string name="search_security_encryption_title">Xifrar el dispositiu usant la contrasenya de bloqueig de pantalla</string>
   <string name="search_security_passwords_title">Contrasenya</string>
   <string name="search_security_privacy_settings_title">Privadesa;Seguretat;Fonts desconegudes;Mostra contrasenya;Signatura de l\'aplicació;Signatures de les aplicacions;Esborra credencials;Esborra credencial</string>
