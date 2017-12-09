@@ -1511,7 +1511,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="save_energy_title">Optimitza la bateria</string>
   <string name="sc_allow_network_dialog_message">Cal permetre a aquesta aplicació connectar-se a internet perquè funcioni normalment.</string>
   <string name="sc_allow_network_dialog_tiltle">"No es pot fer servir l'Estalvi de dades"</string>
-  <string name="sc_system_risk_fix_info_xspace">"El risc no es pot corregir en xspace, canvieu a l'espai del propietari per arreglar-lo."</string>
+  <string name="sc_system_risk_fix_info_xspace">"Això no es pot resoldre en el segon espai. Torneu-ho a provar al primer espai."</string>
   <string name="scan_installed_games">S\'està comprovant els jocs instal·lats…</string>
   <string name="scan_status_risk">Arriscat</string>
   <string name="scan_status_safe">Segur</string>
