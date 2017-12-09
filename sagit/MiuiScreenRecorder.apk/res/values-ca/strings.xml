@@ -18,7 +18,7 @@
   <string name="cannot_record">"No s'ha pogut enregistrar, torneu-ho a provar més tard."</string>
   <string name="description_content">L\'enregistrament de la pantalla ofereix capacitats de gravació a nivell de sistema. Aquesta acció significa que descartaràs la funció de gravació de la pantalla. Confirmeu tocant Continua.</string>
   <string name="description_title">Quant a l\'enregistrament de pantalla</string>
-  <string name="deselect_all">Anul·la tota la selecció</string>
+  <string name="deselect_all">Desselecciona-ho tot</string>
   <string name="error_open_file_failed_no_app_found">"No s'ha pogut trobar una aplicació per obrir aquest fitxer"</string>
   <string name="frames">Taxa de fotogrames</string>
   <string name="frames_summary">Les taxes de fotogrames més altes redueixen la difuminació del moviment</string>
