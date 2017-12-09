@@ -56,7 +56,7 @@
     <item>Ordena per la mida</item>
     <item>Freqüència d\'ús</item>
     <item>Emmagatzematge utilitzat</item>
-    <item>Ús de dades</item>
+    <item>Data d\'instal·lació</item>
     <item>Podeu desinstal·lar aquestes aplicacions</item>
   </string-array>
   <string-array name="sort_title">
