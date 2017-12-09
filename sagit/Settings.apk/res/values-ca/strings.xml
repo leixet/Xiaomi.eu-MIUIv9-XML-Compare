@@ -142,7 +142,7 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
   <string name="add_fingerprint_edge_instruction_title">Moveu el dit una mica</string>
   <string name="add_fingerprint_failed_retry_text">"No s'ha pogut llegir l'empremta, torneu-ho a provar"</string>
   <string name="add_fingerprint_finished_button_text">Fet</string>
-  <string name="add_fingerprint_instruction_msg">Desbloqueja el dispositiu o valida el pagament amb l\'empremta.</string>
+  <string name="add_fingerprint_instruction_msg">El sensor d\'empremtes està integrat al botó Inici del dispositiu.</string>
   <string name="add_fingerprint_instruction_title">Afegiu una empremta</string>
   <string name="add_fingerprint_name_suggest_text">Nom de l\'empremta dactilar</string>
   <string name="add_fingerprint_put_finger_edge_msg">Traieu el dit i torneu-lo a posar a sobre del lector.</string>
