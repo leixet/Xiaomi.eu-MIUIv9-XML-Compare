@@ -2014,7 +2014,7 @@ Dades extres en ús"</string>
   <string name="user_define_title">Afegeix criteris</string>
   <string name="virus_ad_icon_text">Anunci</string>
   <string name="virus_auto_update_engine">Actualització automàtica:%s</string>
-  <string name="virus_update_tips_title">Connecteu-vos a la Wi-Fi</string>
+  <string name="virus_update_tips_title">Advertència</string>
   <string name="virus_wait_network_dialog_message">"El telèfon no està connectat a la xarxa Wi-Fi. Voleu utilitzar la connexió de dades mòbils?"</string>
   <string name="vpn_disabled_by_user">La connexió de dades designada està desactivada</string>
   <string name="vpn_unbale_get_phonenum">"No es poden obtenir números de telèfon amb els plans de dades designats"</string>
