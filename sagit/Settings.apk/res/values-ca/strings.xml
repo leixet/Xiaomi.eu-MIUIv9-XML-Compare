@@ -152,7 +152,7 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
   <string name="add_fingerprint_success_msg">S\'ha afegit correctament</string>
   <string name="add_fingerprint_text">Afegeix una empremta</string>
   <string name="add_fingerprint_toast_text">Poseu el dit al lector</string>
-  <string name="add_front_fingerprint_instruction_msg">El sensor d\'empremtes està a la part posterior del dispositiu.</string>
+  <string name="add_front_fingerprint_instruction_msg">El sensor d\'empremtes dactilars està al botó Inici del dispositiu.</string>
   <string name="add_new">Afegeix</string>
   <string name="add_rule">Afegeix regles</string>
   <string name="add_virtual_keyboard">Gestiona els teclats</string>
