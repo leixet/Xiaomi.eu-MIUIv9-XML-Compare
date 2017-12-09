@@ -355,7 +355,7 @@
   <string name="over_max_mms_size">L\'MMS és massa gran.</string>
   <string name="overwrite_edited_content">"Es sobreescriurà el contingut editat."</string>
   <string name="phrase_confirm_delete_message">Aquesta resposta s\'eliminarà.</string>
-  <string name="phrase_empty">No hi ha resposta</string>
+  <string name="phrase_empty">Sense respostes</string>
   <string name="phrase_from">Des de %1s</string>
   <string name="phrase_list_title">Respostes ràpides</string>
   <string name="pick_too_many_recipients">Hi ha massa destinataris</string>
