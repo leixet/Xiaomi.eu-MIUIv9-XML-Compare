@@ -63,7 +63,7 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="hints_loading_text">Un moment…</string>
   <string name="important_warning">Avís</string>
   <string name="invalid_size_value">"No s'ha pogut obtenir la mida del paquet."</string>
-  <string name="lasttime_applist_cloud">Última actualització de la llista d\'aplicacions:</string>
+  <string name="lasttime_applist_cloud">Aplicacions actualitzades:</string>
   <string name="lasttime_feature_cloud">Característiques actualitzades:</string>
   <string name="location_disable_description">Les aplicacions en segon pla només poden accedir als serveis d\'ubicació per períodes curts de temps, mentre que l\'accés permanent està restringit</string>
   <string name="location_disable_title">Limitar</string>
