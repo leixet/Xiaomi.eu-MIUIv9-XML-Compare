@@ -52,7 +52,7 @@
   <string name="receiver_file_cancel">Transferència de %1$s interrompuda</string>
   <string name="receiver_in_progress_summary">Espera fins que la transferència actual hagi finalitzat per enviar nous fitxers</string>
   <string name="receiver_in_progress_title">Enviant fitxer(s)&#8230;</string>
-  <string name="receiver_insufficient_storage">No hi ha prou espai</string>
+  <string name="receiver_insufficient_storage">No hi ha prou espai d\'emmagatzematge.</string>
   <string name="receiver_insufficient_storage_cannot_send">"No es pot enviar: no hi ha prou espai"</string>
   <string name="receiver_interrupt_summary">"No apaguis el Wi-Fi mentre reps fitxers"</string>
   <string name="receiver_interrupt_summary_v21">"No apaguis el punt d'accés Wi-Fi mentre reps fitxers"</string>
