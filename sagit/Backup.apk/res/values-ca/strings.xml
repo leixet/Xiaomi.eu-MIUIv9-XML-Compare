@@ -195,7 +195,7 @@ necessiteu carregar les dades en dispositius antics a l\'iCloud"</string>
   <string name="local_select_userapp">Aplicacions</string>
   <string name="local_select_video">Vídeos</string>
   <string name="login">Inicia una sessió</string>
-  <string name="login_failed">"No s'ha pogut iniciar la sessió. Torneu-ho a intentar."</string>
+  <string name="login_failed">"No s'ha pogut iniciar sessió. Torneu-ho a provar."</string>
   <string name="logining">S\'està iniciant sessió…</string>
   <string name="miliao_account_guide">Utilitzeu el Compte Mi per iniciar sessió al Mi Cloud, a la botiga de temes MIUI i als serveis Mi, des d\'arreu.</string>
   <string name="miliao_account_login">Inicia la sessió amb Mi Talk</string>
@@ -219,9 +219,9 @@ necessiteu carregar les dades en dispositius antics a l\'iCloud"</string>
   <string name="notif_icloud_import_title">Importa les dades des de l\'iCloud</string>
   <string name="notif_icloud_loaded_summary">S\'està esperant…</string>
   <string name="notif_icloud_loading_summary">S\'estan carregant les dades…</string>
-  <string name="notif_icloud_logining">S\'està iniciant sessió a l\'ID d\'iCloud del dispositiu Apple anterior…</string>
+  <string name="notif_icloud_logining">S\'està iniciant sessió a l\'iCloud del dispositiu iOS anterior…</string>
   <string name="notif_icloud_need_wifi_summary">A l\'espera de Wi-Fi</string>
-  <string name="notif_icloud_saved_summary">Importació finalitzada</string>
+  <string name="notif_icloud_saved_summary">S\'ha importat amb èxit</string>
   <string name="notif_icloud_saving_summary">S\'estan restaurant dades…</string>
   <string name="notif_restore_complete_title">Restauració completada</string>
   <string name="notif_restore_content">S\'estan restaurant les dades d\'usuari</string>
@@ -234,10 +234,10 @@ necessiteu carregar les dades en dispositius antics a l\'iCloud"</string>
   <string name="notif_trans_sending_failed">"No s'han pogut enviar les dades"</string>
   <string name="notif_trans_wait_for_reconnecting">El dispositiu remot està desconnectat. Torneu-lo a connectar.</string>
   <string name="page_loading">Un moment…</string>
-  <string name="password">contrasenya</string>
+  <string name="password">Contrasenya</string>
   <string name="password_null">"La contrasenya no es pot deixar en blanc"</string>
   <string name="pause">Pausa</string>
-  <string name="platform_chooser_item_android">Importa des de l\'Android</string>
+  <string name="platform_chooser_item_android">Importa des d\'un dispositiu Android</string>
   <string name="platform_chooser_item_ios">Importa des d\'un dispositiu Apple</string>
   <string name="platform_chooser_title">Trieu un dispositiu antic</string>
   <string name="progress_backup_hint">S\'està fent una còpia de seguretat&#8230;</string>
@@ -270,7 +270,7 @@ necessiteu carregar les dades en dispositius antics a l\'iCloud"</string>
 Les dades restants necessiten ser importades de nou"</string>
   <string name="saving_data">"S\'estan important les dades de l\'iCloud
 No desactiveu ni canvieu la Wi-Fi"</string>
-  <string name="saving_data_no_time">S\'estan restaurant les dades</string>
+  <string name="saving_data_no_time">S\'estan restaurant dades…</string>
   <string name="saving_data_space_low">"No hi ha prou espai
 Allibereu %s com a mínim"</string>
   <string name="sc_bad_request">Sol·licitud no vàlida</string>
