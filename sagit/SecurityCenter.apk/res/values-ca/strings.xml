@@ -151,7 +151,7 @@
   <string name="app_manager_comuting_size">S\'està calculant…</string>
   <string name="app_manager_copy_pkg_to_clip">S\'ha copiat al porta-retalls</string>
   <string name="app_manager_data_size">Dades d\'usuari</string>
-  <string name="app_manager_default_cleared">netejat</string>
+  <string name="app_manager_default_cleared">Netejat</string>
   <string name="app_manager_default_close_summary">No s\'ha establert els predeterminats.</string>
   <string name="app_manager_default_open_summary">S\'ha definit aquesta aplicació com a predeterminada per fer algunes accions.</string>
   <string name="app_manager_default_open_title">Suprimeix els predeterminats</string>
@@ -160,7 +160,7 @@
   <string name="app_manager_details_storage_title">Emmagatzematge</string>
   <string name="app_manager_details_traffic_title">Ús de dades mòbils</string>
   <string name="app_manager_disable">"No ho permetis"</string>
-  <string name="app_manager_disable_dlg_text">Si desactiveu aquesta aplicació, és possible que altres aplicacions deixin de funcionar com espereu.</string>
+  <string name="app_manager_disable_dlg_text">Si desactiveu aquesta aplicació, és possible que altres aplicacions no funcionin correctament.</string>
   <string name="app_manager_disable_dlg_title">Voleu desactivar l\'aplicació del sistema?</string>
   <string name="app_manager_disable_text">Desactiva</string>
   <string name="app_manager_disabled">Desactivada</string>
@@ -278,7 +278,7 @@
   <string name="apps_item_summary_system_rooted">Se li ha permès accés root, restaurar a la configuració per defecte per evitar riscos de seguretat!</string>
   <string name="apps_item_summary_system_update">Alguns errors van ser corregits en la versió nova de fer pagaments més segura.</string>
   <string name="apps_item_title_system">Actualització del sistema</string>
-  <string name="apps_item_virus_cleanup_success">Netejat correctament!</string>
+  <string name="apps_item_virus_cleanup_success">S\'ha netejat amb èxit</string>
   <string name="apps_item_virus_cleanup_text">Esborra</string>
   <string name="apps_item_virus_summary_installed">Aplicació instal·lada</string>
   <string name="apps_item_virus_summary_uninstalled">Apk</string>
