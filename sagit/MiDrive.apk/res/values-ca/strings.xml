@@ -56,7 +56,7 @@
   <string name="need_get_accounts_permission">Mi Drive requereix de permisos per accedir al compte per funcionar normalment.</string>
   <string name="never_notify">"No tornis a mostrar-ho"</string>
   <string name="no_app_found_to_open_file">No s\'ha trobat cap aplicació per processar aquesta acció.</string>
-  <string name="no_more_space">No hi ha prou espai.</string>
+  <string name="no_more_space">No hi ha prou espai d\'emmagatzematge.</string>
   <string name="no_network">"No s'ha pogut connectar a la xarxa. Comproveu la connexió i torneu-ho a provar."</string>
   <string name="no_tasks">No hi ha tasques</string>
   <string name="open_changed_file_message">"El fitxer que esteu intentant obrir ha estat modificat. 
