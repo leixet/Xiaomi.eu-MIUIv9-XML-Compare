@@ -355,7 +355,7 @@ Toca el botó de configuració de sincronització per veure més opcions\"</stri
   <string name="micloud_notif_content_depend_wifi">Connectar a Wi-Fi per sincronitzar.</string>
   <string name="micloud_notif_content_dirty_data">Detalls</string>
   <string name="micloud_notif_content_master_depend_wifi">Connectar a Wi-Fi primer.</string>
-  <string name="micloud_notif_content_memory_low">No hi ha prou espai.</string>
+  <string name="micloud_notif_content_memory_low">No hi ha prou espai d\'emmagatzematge.</string>
   <string name="micloud_notif_content_multi_user_error">Vostè ha iniciat sessió amb el mateix compte que en el primer espai.</string>
   <string name="micloud_notif_content_sync_finish">Compte</string>
   <string name="micloud_notif_content_sync_not_finish">Detall</string>
