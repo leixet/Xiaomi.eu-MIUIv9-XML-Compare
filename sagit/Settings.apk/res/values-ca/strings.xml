@@ -2591,9 +2591,9 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="open_miui_optimization_warning_message">El dispositiu tornarà a arrencar per aplicar els canvis.</string>
   <string name="open_personal_assistant_dialog_btn_cancel">Cancel·la</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Tanca</string>
-  <string name="open_personal_assistant_dialog_desc">"No podreu fer servir l'assistent intel·ligent i rebre les seves actualitzacions. Voleu desactivar-lo ara?"</string>
-  <string name="open_personal_assistant_dialog_title">Desactiva l\'assistent intel·ligent</string>
-  <string name="open_personal_assistant_title">Activa l\'assistent intel·ligent</string>
+  <string name="open_personal_assistant_dialog_desc">"No podreu fer servir el cofre d'aplicacions i rebre les seves actualitzacions. Voleu desactivar-lo ara?"</string>
+  <string name="open_personal_assistant_dialog_title">Desactiva el cofre d\'aplicacions</string>
+  <string name="open_personal_assistant_title">Activa el cofre d\'aplicacions</string>
   <string name="open_sdcard_optimization_title">obre l\'emulador optimitzat de sdcard</string>
   <string name="open_sdcard_optimization_warning_message">Per aplicar aquest canvi el dispositiu es reiniciarà.</string>
   <string name="open_wifi_connect_summary">Premeu per veure els detalls.</string>
