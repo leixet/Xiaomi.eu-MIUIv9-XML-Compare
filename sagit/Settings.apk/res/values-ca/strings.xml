@@ -3524,7 +3524,7 @@ Per fer-ho:
   <string name="settings_backup">Còpia de seguretat de la configuració</string>
   <string name="settings_backup_summary">Còpia de seguretat de la configuració</string>
   <string name="settings_button">Configuració</string>
-  <string name="settings_forbidden_message">Aquest paràmetre està desactivat</string>
+  <string name="settings_forbidden_message">Aquesta configuració està restringida</string>
   <string name="settings_label">Configuració</string>
   <string name="settings_label_launcher">Configuració</string>
   <string name="settings_license_activity_loading">S\'està carregant…</string>
