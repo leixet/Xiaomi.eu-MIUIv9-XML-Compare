@@ -804,7 +804,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="skip_current_version">Omet aquesta versió</string>
   <string name="snapshot">Local</string>
   <string name="snapshot_failed">"No s'ha pogut desar per llegir-la fora de línia"</string>
-  <string name="snapshot_successed">Desa per una lectura fora de línia</string>
+  <string name="snapshot_successed">Obre els marcadors i l\'historial -&gt; LOCAL per veure la pàgina</string>
   <string name="soft_toast_see_view">Mostra</string>
   <string name="ssl_bad_clock_date_settings">Configuració de data</string>
   <string name="ssl_bad_clock_warning" formatted="false">"No es pot establir una connexió privada a %s1 perquè la data i l'hora (%s2) del dispositiu són incorrectes."</string>
@@ -967,7 +967,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="voice_title">Digueu les vostres ordres&#8230;</string>
   <string name="voice_title_distinguish">En procés&#8230;</string>
   <string name="voice_title_listening">Escoltant&#8230;</string>
-  <string name="voice_title_please">Comenceu a parlar&#8230;</string>
+  <string name="voice_title_please">Comenceu a parlar…</string>
   <string name="voice_title_speech_again">"No se us pogut entendre"</string>
   <string name="weather_location_confirm_message">Apagant aquesta característica es podria afectar l\'ús.</string>
   <string name="webpage_title">Marcadors i historial</string>
