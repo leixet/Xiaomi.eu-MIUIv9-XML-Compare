@@ -1225,7 +1225,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="device_admin_status">Aquest administrador és actiu i permet que l\'aplicació %1$s faci les operacions següents:</string>
   <string name="device_admin_title">Administració del dispositiu</string>
   <string name="device_admin_warning">Aquest administrador és actiu i permet que l\'aplicació %1$s faci les operacions següents:</string>
-  <string name="device_available_memory">Memòria disponible</string>
+  <string name="device_available_memory">Emmagatzematge disponible</string>
   <string name="device_battery">Bateria</string>
   <string name="device_build_id">Número de versió</string>
   <string name="device_complete_parameters">Complet</string>
