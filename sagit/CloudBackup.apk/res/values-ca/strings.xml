@@ -107,7 +107,7 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="download_settings">S\'està baixant la configuració de la pantalla d\'inici: %s%%</string>
   <string name="download_settings_fail">"No s'ha pogut baixar la configuració de la pantalla d'inici"</string>
   <string name="error_unknown">Quelcom ha fallat</string>
-  <string name="lack_of_storage">No hi ha prou espai</string>
+  <string name="lack_of_storage">No hi ha prou espai d\'emmagatzematge</string>
   <string name="latest_backup_time_loading">S\'està carregant&#8230;</string>
   <string name="managespace_delete_backup">Elimina</string>
   <string name="menu_item_managespace">Gestiona l\'espai</string>
