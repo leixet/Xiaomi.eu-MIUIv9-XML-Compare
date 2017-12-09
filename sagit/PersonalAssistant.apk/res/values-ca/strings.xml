@@ -26,8 +26,8 @@
   <string name="agenda_assistant_tail_num">Número</string>
   <string name="agenda_no_title">Sense títol</string>
   <string name="agenda_open">Activa els recordatoris</string>
-  <string name="agenda_setting_brief">Esdeveniments, recordatoris d\'aniversari i altres fets</string>
-  <string name="agenda_setting_brief_detail">Mostra actes previstos i recordatoris d\'aniversari.</string>
+  <string name="agenda_setting_brief">Esdeveniments, recordatoris de pagaments i molt més</string>
+  <string name="agenda_setting_brief_detail">Mostra esdeveniments planificats, rep recordatoris sobre factures de targetes de crèdit i reemborsament de préstecs.</string>
   <string name="agenda_settings_account">Gestiona els comptes del calendari</string>
   <string name="agenda_settings_birthday">Mostra els recordatoris d\'aniversari</string>
   <string name="agenda_settings_credit">Mostra els rebuts de la targeta de crèdit</string>
@@ -61,7 +61,7 @@
   <string name="ball_basketball_title">Bàsquet</string>
   <string name="ball_basketball_total_rank">Estadístiques</string>
   <string name="ball_dialog_confirm">Instal·la</string>
-  <string name="ball_dialog_content">Per utilitzar aquesta opció cal que instal·leu HuPu Sports. Voleu instal·lar-la?</string>
+  <string name="ball_dialog_content">Per utilitzar aquesta característica cal que instal·leu %s. Voleu instal·lar-la?</string>
   <string name="ball_dialog_tip">No tornis a mostrar-ho</string>
   <string name="ball_dialog_title">Cal que instal·leu l\'aplicació.</string>
   <string name="ball_football_news">Notícies</string>
