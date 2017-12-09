@@ -169,7 +169,7 @@
   <string name="no_network_btn">Actualitza</string>
   <string name="no_network_title">"No es pot connectar a la xarxa."</string>
   <string name="no_phone">Cap número de telèfon</string>
-  <string name="no_response_retry">No hi ha resposta, torneu-ho a provar.</string>
+  <string name="no_response_retry">Sense resposta, torneu-ho a provar.</string>
   <string name="no_sim_card_or_unactivated">"La targeta SIM no està instal·lada o activada"</string>
   <string name="nobind">No connectat</string>
   <string name="notify_network_restricted_content_bg_network">"L'accés a internet del compte Mi està restringit. Premeu per permetre."</string>
