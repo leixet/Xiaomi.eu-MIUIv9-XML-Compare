@@ -150,7 +150,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="hsa_sending">S\'està enviant…</string>
   <string name="hsa_tip_message">"1.Un missatge que conté el codi de verificació s\'enviarà al telèfon enllaçat a iCloud
 2.Desactiveu l\'autenticació de dos factors si no es verifica."</string>
-  <string name="hsa_tip_message_shutdown_hsa">com desactivar l\'autenticació de dos factors</string>
+  <string name="hsa_tip_message_shutdown_hsa">Com desactivar l\'autenticació de dos factors</string>
   <string name="hsa_tip_message_with_device">"1.Un missatge que conté el codi de verificació s\'ha enviat al telèfon %s enllaçat a iCloud
 2. Desactiveu l\'autenticació de dos factors si no es verifica."</string>
   <string name="hsa_tip_title">Consells:</string>
@@ -159,16 +159,16 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="hsa_verify_failed_message">L\'autenticació de dos factors ha fallat. Podeu tornar-ho a intentar o desactiveu l\'autenticació de dos factors.</string>
   <string name="hsa_verify_retry">Tornar a intentar</string>
   <string name="hsa_verify_shutdown">Desactiva</string>
-  <string name="icloud_backup_tip">Accediu a l\'ID d\'iCloud del dispositiu Apple anterior</string>
+  <string name="icloud_backup_tip">Inicieu sessió al compte d\'iCloud del vostre dispositiu iOS antic</string>
   <string name="icloud_how_to_backup_tip_steps">"1. Obriu la Configuració al dispositiu iOS i seleccioneu iCloud.
 2. Canvieu els commutadors de contactes i altres elements.
 3. Seleccioneu Fotos i activeu el commutador de la biblioteca de fotos d\'iCloud. "</string>
-  <string name="icloud_how_to_backup_tip_summary">Per importar les dades d\'iOS, heu de carregar les dades en dispositius antics a iCloud.</string>
+  <string name="icloud_how_to_backup_tip_summary">Per importar dades d\'iOS, heu de crear una còpia de seguretat d\'iCloud.</string>
   <string name="icloud_how_to_backup_tip_title">Consells:</string>
   <string name="icloud_login_title">Inicia sessió a l\'iCloud</string>
   <string name="icloud_need_sync">"Per importar dades d\'iOS
 necessiteu carregar les dades en dispositius antics a l\'iCloud"</string>
-  <string name="icloud_need_wifi_message">"La Wi-Fi no està connectada actualment. Per importar dades d'iCloud, cal utilitzar Wi-Fi per iniciar la sessió i baixar-ne les dades."</string>
+  <string name="icloud_need_wifi_message">"No esteu connectats a la Wi-Fi. Per importar dades d'iCloud, cal que us connecteu."</string>
   <string name="icloud_need_wifi_title">Es requereix d\'una connexió Wi-Fi</string>
   <string name="import_again">Importa de nou</string>
   <string name="import_data_from_icloud">Importa les dades des de l\'iCloud</string>
