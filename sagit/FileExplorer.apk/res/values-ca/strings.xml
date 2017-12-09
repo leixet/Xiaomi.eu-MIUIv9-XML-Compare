@@ -191,7 +191,7 @@
   <string name="exo_controls_previous_description">Cançó anterior</string>
   <string name="exo_controls_rewind_description">Rebobina</string>
   <string name="exo_controls_stop_description">Atura</string>
-  <string name="extended_storage_file_can_not_open">"No es va poder obrir el fitxer. Copiï el fitxer a l'emmagatzematge intern primer."</string>
+  <string name="extended_storage_file_can_not_open">"No es pot obrir el fitxer. Copieu el fitxer a l'emmagatzematge intern."</string>
   <string name="extract">Extreure</string>
   <string name="fail_to_create_folder_unknown">"No es pot crear la carpeta"</string>
   <string name="favorite_photo">Fotos</string>
@@ -276,7 +276,7 @@
   <string name="login_account_bind_wb">Compte Weibo</string>
   <string name="login_account_bind_wx">Usar WeChat</string>
   <string name="login_account_bind_xm">Usar Compte Mi</string>
-  <string name="login_expired">Sessió expirada, connectar-se de nou</string>
+  <string name="login_expired">La sessió ha expirat. Torneu-la a iniciar.</string>
   <string name="login_failed_tip">"No s'ha pogut iniciar sessió, intentar de nou"</string>
   <string name="login_success_tip">Connectat satisfactòriament</string>
   <string name="make_private">Amaga</string>
@@ -315,7 +315,7 @@
   <string name="msg_set_password">Establir contrasenya primer</string>
   <string name="mtp_device">Dispositiu multimèdia (MTP)</string>
   <string name="my_follows">Els meus canals</string>
-  <string name="name_empty">Has d\'introduir un nom.</string>
+  <string name="name_empty">Introduïu un nom</string>
   <string name="need_login">Inicieu la sessió primer</string>
   <string name="need_read_storage_permission">"L'Explorador necessita accedir a la memòria interna del dispositiu per funcionar com va ser dissenyat."</string>
   <string name="network_dialog_checkbox_tip">"No tornar a mostrar"</string>
