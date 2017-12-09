@@ -1371,7 +1371,7 @@ La transmissió de dades s\'ha baixat a %2$d Kb/s"</string>
   <string name="throttle_data_usage">Ús de dades</string>
   <string name="throttle_data_usage_subtext">%1$s (%2$d٪) de %3$s, el màxim del període</string>
   <string name="throttle_help">Més informació</string>
-  <string name="throttle_help_subtext">"Més informació sobre la política d'us de dades de la xarxa mòbil del vostre operador"</string>
+  <string name="throttle_help_subtext">"Més informació sobre la política d'ús de dades mòbils del vostre operador"</string>
   <string name="throttle_rate">Política de velocitat de dades</string>
   <string name="throttle_rate_subtext">La velocitat de les dades es reduirà a %1$d Kb/s, si es supera la limitació d\'ús</string>
   <string name="throttle_status_subtext">"%1$s (%2$d٪) de %3$s, el màxim per període
