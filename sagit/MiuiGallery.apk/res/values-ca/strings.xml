@@ -847,7 +847,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="search_retry">Torna-ho a provar</string>
   <string name="search_select_network">Seleccioneu una xarxa</string>
   <string name="search_set_network_connection">Configuració de xarxa</string>
-  <string name="search_setting_sub_title">Cerca d\'imatges millorada</string>
+  <string name="search_setting_sub_title">Cerca persones, llocs i objectes a les vostres fotos.</string>
   <string name="search_setting_sub_title_open">S\'ha aprovat. Espereu un temps abans de començar.</string>
   <string name="search_setting_title">Troba fotos a la galeria</string>
   <string name="search_syncing">S\'estan sincronitzant les dades, retornarà en una estona</string>
