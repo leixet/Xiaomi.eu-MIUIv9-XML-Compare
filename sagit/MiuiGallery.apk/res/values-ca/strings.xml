@@ -990,7 +990,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="too_many_recipients">"No es poden afegir més de %2$s destinataris (N'heu afegit %1$s)."</string>
   <string name="trash_bin">Paperera</string>
   <string name="trash_bin_summary">Navegueu per les fotos copiades que s\'han eliminat recentment</string>
-  <string name="try_again_later">torneu-ho a provar més tard.</string>
+  <string name="try_again_later">Torneu-ho a provar més tard.</string>
   <string name="try_to_send">Envia</string>
   <string name="turn_off_and_move">Desactiva i mou</string>
   <string name="turn_on_and_remove">Activa i mou</string>
