@@ -173,6 +173,7 @@
   <string name="cta_desc">"És ideal per als accessos directes, informació i funcions preferides"</string>
   <string name="cta_dialog_negative">Surt</string>
   <string name="cta_dialog_positive">D\'acord</string>
+  <string name="cta_dialog_text_all">Per utilitzar el cofre d\'aplicacions, haureu de llegir i acceptar l\' %1$s «Acord d\'usuari» %2$s i la %3$s «Política de privadesa» %4$s. El servei també requereix de connexió a Internet i accés als serveis d\'ubicació. Hi esteu d\'acord?</string>
   <string name="cta_dialog_title">Termes i condicions</string>
   <string name="cta_negative">Tanca</string>
   <string name="cta_positive">Detalls</string>
