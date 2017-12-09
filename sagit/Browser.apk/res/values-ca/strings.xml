@@ -691,7 +691,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="quicklink_cannot_save_url">"Aquest URL no es pot afegir."</string>
   <string name="quicklink_folder_text">Aplicacions més importants</string>
   <string name="quicklink_not_saved">"No s'ha pogut afegir a la pàgina d'inici"</string>
-  <string name="quicklink_push_confirm_message">"Si desactiveu aquesta opció afectareu el retorn a la pàgina d'inici."</string>
+  <string name="quicklink_push_confirm_message">"El vostre mur no rebrà actualitzacions després de desactivar aquesta funció. Voleu desactivar-la?"</string>
   <string name="quicklink_saved">S\'ha desat a la pàgina d\'inici</string>
   <string name="quicklink_saved_before">Ja s\'ha afegit aquest lloc</string>
   <string name="quicklink_user_define_webpage_title">Nom</string>
