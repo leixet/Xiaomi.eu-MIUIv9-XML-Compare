@@ -116,6 +116,7 @@
   <string name="card_example">Targeta</string>
   <string name="card_expand_note_clear">Neteja</string>
   <string name="card_expand_note_dialog_button">D\'acord</string>
+  <string name="card_expand_note_dialog_message">Es crearà una nova nota cada cop que toqueu el botó «Desa» al cofre d\'aplicacions.</string>
   <string name="card_expand_note_dialog_title">S\'estan desant les notes</string>
   <string name="card_expand_note_toast_clear_null">S\'ha netejat amb èxit</string>
   <string name="card_expand_note_toast_save_done">S\'ha desat a Notes</string>
@@ -176,6 +177,7 @@
   <string name="cta_negative">Tanca</string>
   <string name="cta_positive">Detalls</string>
   <string name="cta_text5">El servei també requereix de connexió a Internet i accés als serveis d\'ubicació. Voleu acceptar?</string>
+  <string name="cta_title">Manteniu les coses importants al cofre d\'aplicacions</string>
   <string name="currency_china">EUR</string>
   <string name="daily_greeting">Salutacions diàries</string>
   <string name="data_error">S\'ha produït un error. Espereu uns minuts i torneu-ho a intentar</string>
@@ -663,7 +665,7 @@ Comproveu el número de seguiment."</string>
   <string name="notification_content_fail_stay_longer">Quedeu-vos en la pàgina de pagament durant almenys 1 segon</string>
   <string name="notification_content_success">%2$s pagament en CNY %1$s</string>
   <string name="notification_express_app_open">Activa</string>
-  <string name="notification_express_content">Seguiment de comandes utilitzant l\'assistent intel·ligent</string>
+  <string name="notification_express_content">Seguiment de comandes utilitzant el cofre d\'aplicacions</string>
   <string name="notification_express_title">Activa les targetes de les aplicacions de compres</string>
   <string name="notification_title">S\'ha agregat als favorits</string>
   <string name="notification_title_fail">"No s'ha pogut afegir el pagament"</string>
@@ -716,7 +718,7 @@ Comproveu el número de seguiment."</string>
   <string name="payment_pref_source_wechat_summary">Obteniu informació de pagament del WeChat</string>
   <string name="payment_pref_source_wechat_title">WeChat</string>
   <string name="payment_privacy_dialog_cancel">Surt</string>
-  <string name="payment_privacy_dialog_message">"«Els meus pagaments» us permet recollir els comptes de les principals aplicacions de pagament en un sol lloc. Tota la informació de pagament serà xifrada i emmagatzemada de manera segura al vostre dispositiu. No se sincronitzarà amb Mi Cloud ni es carregarà a cap altre servidor. Podeu desactivar «Els meus pagaments» a la Configuració o simplement treure aquesta targeta de la volta de l'aplicació per deixar d'utilitzar aquest servei. Hi esteu d'acord?"</string>
+  <string name="payment_privacy_dialog_message">"«Els meus pagaments» us permet recollir els comptes de les principals aplicacions de pagament en un sol lloc. Tota la informació de pagament serà xifrada i emmagatzemada de manera segura al vostre dispositiu. No se sincronitzarà amb Mi Cloud ni es carregarà a cap altre servidor. Podeu desactivar «Els meus pagaments» a la Configuració o simplement treure aquesta targeta del cofre d'aplicacions per deixar d'utilitzar aquest servei. Hi esteu d'acord?"</string>
   <string name="payment_privacy_dialog_ok">D\'acord</string>
   <string name="payment_privacy_dialog_title">Política de privadesa dels «Meus pagaments»</string>
   <string name="payment_record_add">Afegeix un pagament</string>
@@ -760,6 +762,8 @@ Comproveu el número de seguiment."</string>
   <string name="preferences_label">Preferències</string>
   <string name="qq_new">Nou estat</string>
   <string name="qq_qzone">Qzone</string>
+  <string name="quickstart_accessibility_description">"El cofre d'aplicacions proporciona dreceres per a les aplicacions de tercers seleccionades. Aquestes dreceres no funcionaran si desactiveu aquesta funció."</string>
+  <string name="quickstart_accessibility_service">Cofre d\'aplicacions</string>
   <string name="recharge_flow">Compra dades mòbils</string>
   <string name="recharge_tel">Carrega el saldo del telèfon</string>
   <string name="recharge_title_monthused">Usats aquest mes</string>
@@ -863,6 +867,7 @@ Comproveu el número de seguiment."</string>
   <string name="share_title">Comparteix l\'URL amb</string>
   <string name="shortcut">Dreceres</string>
   <string name="show_more">Mostra\'n més</string>
+  <string name="smart_assistant_enter_tip">Cofre d\'aplicacions</string>
   <string name="sms_address">Adreça</string>
   <string name="sms_airline">Aerolínia</string>
   <string name="sms_button_add_calendar">Afegeix al Calendari</string>
@@ -950,6 +955,7 @@ Comproveu el número de seguiment."</string>
   <string name="trip_quick">Conductor</string>
   <string name="trip_taxi">Taxi</string>
   <string name="try_again">Torna-ho a provar</string>
+  <string name="understandassistant">Quant al cofre d\'aplicacions</string>
   <string name="uninstall">No està instal·lat</string>
   <string name="unusual_weather">Alertes meteorològiques</string>
   <string name="unusual_weather_open">Activa les alertes meteorològiques</string>
