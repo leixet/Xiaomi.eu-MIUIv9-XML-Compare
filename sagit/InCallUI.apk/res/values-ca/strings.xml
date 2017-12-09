@@ -38,7 +38,7 @@
   <string name="call_extension_conference_mode">Mode conferència</string>
   <string name="call_record_wait_label">S\'està esperant</string>
   <string name="call_recording_deny_permission_msg">"Vau denega el permís d'enregistrament, no es pot enregistrar."</string>
-  <string name="call_recording_error_low_storage">No hi ha prou espai a la targeta SD</string>
+  <string name="call_recording_error_low_storage">No hi ha prou espai a l\'emmagatzematge.</string>
   <string name="call_recording_error_privacy">"No és pot enregistrar mentre esteu en mode de Convidat"</string>
   <string name="call_recording_error_sd_access">"No es pot accedir a la targeta SD"</string>
   <string name="call_recording_error_sd_unmounted">Enregistrament aturat: targeta SD no muntada.</string>
