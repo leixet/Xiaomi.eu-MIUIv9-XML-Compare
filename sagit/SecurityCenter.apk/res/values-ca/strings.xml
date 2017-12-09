@@ -1593,7 +1593,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="sp_settings_check_item_title_update">Actualització del sistema</string>
   <string name="sp_settings_check_item_title_virus_exception">Excepcions de virus</string>
   <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
-  <string name="sp_settings_exception_count_zero">Cap element</string>
+  <string name="sp_settings_exception_count_zero">Sense elements</string>
   <string name="sp_settings_group_title_check_item">Comprova múltiples configuracions</string>
   <string name="sp_settings_info_input_method">Utilitzant el mètode d\'entrada del sistema en aplicacions de pagament</string>
   <string name="sp_settings_info_monitor">Monitoritzar l\'entorn del sistema quan s\'inicien les aplicacions de pagament</string>
