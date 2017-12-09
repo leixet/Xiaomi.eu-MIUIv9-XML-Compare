@@ -898,7 +898,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="low_memory_warning_dialog_ok_button">Neteja</string>
   <string name="low_memory_warning_dialog_title">No hi ha prou espai</string>
   <string name="main_activity_content_summary_root">Accés de superusuari</string>
-  <string name="main_activity_content_summary_update">Actualitzar sistema</string>
+  <string name="main_activity_content_summary_update">Actualització del sistema</string>
   <string name="main_alert_message_no_imsi">SIM no detectada</string>
   <string name="main_alert_message_open_traffic_ctrl">Li recomanem la restricció de l\'ús de dades</string>
   <string name="main_bill_remained">Saldo del telèfon</string>
