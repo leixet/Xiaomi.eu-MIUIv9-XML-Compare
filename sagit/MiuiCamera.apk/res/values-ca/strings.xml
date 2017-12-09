@@ -340,7 +340,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_qc_focus_position_title">Enfocament</string>
   <string name="pref_retain_camera_mode_summary">Canvia la càmera al mode usat anteriorment en obriu l\'aplicació.</string>
   <string name="pref_retain_camera_mode_title">Desa el mode anterior</string>
-  <string name="pref_scan_qrcode_summary">Només la càmera posterior pot escanejar codis QR</string>
+  <string name="pref_scan_qrcode_summary">La càmera posterior només pot escanejar codis QR en el mode «Fotografia».</string>
   <string name="pref_scan_qrcode_title">Escaneig de codis QR</string>
   <string name="pref_setting_title">Configuració</string>
   <string name="pref_simple_hdr_entry_off">Apagat</string>
@@ -393,7 +393,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="simple_mode_button_text_scene">Desactiva el mode escena</string>
   <string name="simple_mode_button_text_slow_video">Desactiva la càmera ràpida</string>
   <string name="simple_mode_button_text_square">Desactiva el mode quadrat</string>
-  <string name="simple_mode_button_text_stereo_mode">Desactiva el mode estèreo</string>
+  <string name="simple_mode_button_text_stereo_mode">Desactiva l\'ajust del focus</string>
   <string name="simple_mode_button_text_tilt_shift">Desactiva l\'efecte maqueta</string>
   <string name="simple_mode_button_text_ubifocus">Desactiva el reenfocament</string>
   <string name="snap_cancel">Cancel·la</string>
