@@ -726,6 +726,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="photo_print_package_finish">S\'ha carregat amb èxit</string>
   <string name="photo_print_package_installing">S\'està carregant el connector…</string>
   <string name="photomovie_delete_disable">Necessiteu com a mínim 3 fotografies per crear un clip.</string>
+  <string name="photomovie_download_without_wifi_title">Avís d\'ús de dades</string>
   <string name="photomovie_item_name">Clip</string>
   <string name="photomovie_saving">S\'està creant el clip…</string>
   <string name="pick_from_contact">Trieu dels contactes</string>
