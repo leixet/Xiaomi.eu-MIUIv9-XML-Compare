@@ -193,7 +193,7 @@
   <string name="group_message">Missatge de grup</string>
   <string name="group_resend_message">Reenvia (%d)</string>
   <string name="group_verification_codes_summary">Agrupa automàticament les contrasenyes úniques</string>
-  <string name="group_verification_codes_title">Grup de missatges OTP</string>
+  <string name="group_verification_codes_title">Agrupació de les contrasenyes úniques</string>
   <string name="guild_add_attachments">Toqueu per afegir emoticones i altre contingut</string>
   <string name="guild_add_recipients">Toqueu per afegir destinataris de la llibreta d\'adreces</string>
   <string name="guild_msim_switcher">Toqueu per intercanviar les targetes SIM</string>
@@ -252,7 +252,7 @@
   <string name="message_number">Número de telèfon:</string>
   <string name="message_pending">S\'està enviant</string>
   <string name="message_queued">"Ara no es pot enviar el missatge. S'enviarà quan el servei estigui disponible."</string>
-  <string name="message_queued_second_space">"Ara mateix no es pot enviar el missatge. Activeu la xarxa de dades."</string>
+  <string name="message_queued_second_space">"No s'ha pogut enviar el missatge. Activeu les dades mòbils per enviar-lo."</string>
   <string name="message_readed">Llegit</string>
   <string name="message_received">Rebut</string>
   <string name="message_rejected">Rebutjat</string>
@@ -349,8 +349,8 @@
   <string name="notification_multiple">%s missatges sense llegir</string>
   <string name="notification_multiple_title">Nous missatges</string>
   <string name="number_add_hint">Introduïu el número de telèfon</string>
-  <string name="open_audio_record_panel">Obre el panell d\'enregistrament d\'àudio</string>
-  <string name="open_edit_sms_panel">Obre el panel d\'edició d\'SMS</string>
+  <string name="open_audio_record_panel">Obriu el tauler per enregistrar àudio</string>
+  <string name="open_edit_sms_panel">Obriu el tauler per editar missatges</string>
   <string name="open_url_with_web">Voleu obrir aquesta URL al navegador?</string>
   <string name="over_max_mms_size">L\'MMS és massa gran.</string>
   <string name="overwrite_edited_content">"Es sobreescriurà el contingut editat."</string>
@@ -566,8 +566,8 @@
   <string name="sp_category_bank">Missatges de notificació del banc</string>
   <string name="sp_conversation_title">Notificacions</string>
   <string name="sp_mark_as_read_menu_title">Marca com a llegit</string>
-  <string name="sqlite_disk_full">La base de dades o el disc estan plens</string>
-  <string name="sqlite_low_memory">Poca memòria</string>
+  <string name="sqlite_disk_full">L\'espai d\'emmagatzematge del dispositiu està ple.</string>
+  <string name="sqlite_low_memory">No hi ha prou espai d\'emmagatzematge</string>
   <string name="status_failed">Sense èxit</string>
   <string name="status_label">"Estat: "</string>
   <string name="status_pending">Pendent</string>
