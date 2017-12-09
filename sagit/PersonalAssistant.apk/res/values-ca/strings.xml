@@ -3,6 +3,7 @@
 <resources>
   <string name="access_select">S\'ha seleccionat %s</string>
   <string name="access_unselect">S\'ha anul·lat la selecció de %s</string>
+  <string name="accessibility_title">Cofre d\'aplicacions</string>
   <string name="accordingto_position">Reconeix ubicacions freqüents amb el GPS</string>
   <string name="account_address">Adreça</string>
   <string name="add_stock">Afegeix</string>
@@ -43,7 +44,7 @@
   <string name="alipay_sdk_payed_success">S\'ha pagat correctament</string>
   <string name="alipay_sdk_tiemout">La sessió ha expirat. Torneu-la a iniciar.</string>
   <string name="already">Completat:</string>
-  <string name="app_label">Targeta ràpida</string>
+  <string name="app_label">Cofre d\'aplicacions</string>
   <string name="apps">Suggeriments d\'aplicacions</string>
   <string name="apps_label">Aplicacions</string>
   <string name="arrive">Aterratge</string>
