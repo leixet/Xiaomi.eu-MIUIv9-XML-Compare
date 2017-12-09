@@ -361,7 +361,7 @@
   <string name="enable_face_album_title">Ordena per persones</string>
   <string name="enable_slim_title">Optimitza</string>
   <string name="enabling_face_feature">Un moment…</string>
-  <string name="enter_email_hint">Introduïu una adreça de correu electrònic</string>
+  <string name="enter_email_hint">Introduïu l\'adreça de correu</string>
   <string name="error_album_not_exist">"L'àlbum no existeix"</string>
   <string name="error_build_thumbnail_action">Baixa l\'arxiu original</string>
   <string name="error_build_thumbnail_msg">"No s'ha pogut baixar la miniatura. Intenteu baixar l'arxiu original."</string>
@@ -534,7 +534,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="image_quota_fulfiled">Massa imatges. Esborreu-ne algunes i torneu a provar-ho.</string>
   <string name="impunity_declaration_settings">Notificació de connexió a Internet</string>
   <string name="impunity_declaration_summary">Mostra una notificació de connexió a Internet cada vegada que s\'obre l\'aplicació Galeria</string>
-  <string name="initializing_cloud">S\'està inicialitzant&#8230;</string>
+  <string name="initializing_cloud">S\'està inicialitzant…</string>
   <string name="input_a_name">Introduïu el nom</string>
   <string name="input_baby_name">Introduïu el nom</string>
   <string name="input_baby_nick_name">Introduïu un sobrenom</string>
