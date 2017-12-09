@@ -302,6 +302,7 @@ Proveu el següent per solucionar el problema:
   <string name="epg_more_comment_list_title">Més comentaris principals (%1$d)</string>
   <string name="epg_name">Programes de televisió</string>
   <string name="epg_no_booking_data">No hi ha dades de la programació</string>
+  <string name="epg_no_favorite_program">No hi ha cap element</string>
   <string name="epg_no_more_latest_comment">"No hi ha més comentaris"</string>
   <string name="epg_no_program_data">No hi ha dades de la programació</string>
   <string name="epg_no_search_result">No hi ha resultats de la cerca</string>
