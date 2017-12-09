@@ -217,7 +217,7 @@ necessiteu carregar les dades en dispositius antics a l\'iCloud"</string>
   <string name="notif_icloud_canceled_summary">Cancel·lat</string>
   <string name="notif_icloud_canceling_summary">S\'està cancel·lant…</string>
   <string name="notif_icloud_import_title">Importa les dades des de l\'iCloud</string>
-  <string name="notif_icloud_loaded_summary">A l\'espera per baixar les dades</string>
+  <string name="notif_icloud_loaded_summary">S\'està esperant…</string>
   <string name="notif_icloud_loading_summary">S\'estan carregant les dades…</string>
   <string name="notif_icloud_logining">S\'està iniciant sessió a l\'ID d\'iCloud del dispositiu Apple anterior…</string>
   <string name="notif_icloud_need_wifi_summary">A l\'espera de Wi-Fi</string>
@@ -296,7 +296,7 @@ Allibereu %s com a mínim"</string>
   <string name="select_item_notes">Notes</string>
   <string name="select_item_photos">Fotos</string>
   <string name="select_item_summary_loading">S\'estan carregant les dades…</string>
-  <string name="select_item_summary_wait">Espereu a que es carreguin les dades</string>
+  <string name="select_item_summary_wait">S\'està esperant…</string>
   <string name="select_storage_location">Selecciona una ubicació per a la còpia de seguretat</string>
   <string name="service_stoped">El servei s\'ha aturat</string>
   <string name="settings_summary">Configuració del telèfon i missatgeria</string>
@@ -329,7 +329,7 @@ Allibereu %s com a mínim"</string>
   <string name="task_failed_local">Còpia de seguretat incompleta (%s)</string>
   <string name="task_finished">"S'ha copiat correctament "</string>
   <string name="task_local_backup_cancel_dialog">"La còpia de seguretat no ha acabat. La voleu cancel·lar?"</string>
-  <string name="task_pending">S\'està esperant&#8230;</string>
+  <string name="task_pending">S\'està esperant…</string>
   <string name="task_post_running">S\'està copiant&#8230;</string>
   <string name="task_pre_running">S\'està iniciant&#8230;</string>
   <string name="task_progress">Progrés</string>
@@ -367,7 +367,7 @@ Allibereu %s com a mínim"</string>
   <string name="trans_device_auto_reconnecting">Dispositiu desconnectat. S\'està tornant a connectar automàticament…</string>
   <string name="trans_device_disconnected">S\'ha desconnectat el dispositiu</string>
   <string name="trans_device_wait_for_reconnecting">Dispositiu desconnectat. Torneu-lo a connectar.</string>
-  <string name="trans_disconnected_tips_message">El dispositiu remot està desconnectat. Torneu-lo a connectar a mà. Podeu cancel·lar la tasca actual si és necessari.</string>
+  <string name="trans_disconnected_tips_message">S\'ha desconnectat el dispositiu remot. Torneu-lo a connectar manualment o cancel·leu la transferència.</string>
   <string name="trans_disconnected_tips_title">El dispositiu remot està desconnectat</string>
   <string name="trans_generate_qr_code_failed">"No s'ha pogut crear el codi QR"</string>
   <string name="trans_intro_desc_1">"En un telèfon Mi, connecteu-vos a la xarxa Wi-Fi i toqueu «Sóc el destinatari\". Seleccioneu el vostre dispositiu iOS, inicieu sessió a l'iCloud i importeu les dades."</string>
