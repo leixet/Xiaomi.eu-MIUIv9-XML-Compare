@@ -308,7 +308,7 @@
   <string name="callFailed_simError">Sense SIM o error de SIM</string>
   <string name="callFailed_switching_equipment_congestion">Congestió d\'equips de commutació</string>
   <string name="callFailed_tempopary_failure">Fallada temporal</string>
-  <string name="callFailed_timedOut">No hi ha resposta, temps excedit</string>
+  <string name="callFailed_timedOut">Sense resposta, temps excedit</string>
   <string name="callFailed_unobtainable_number">Número no vàlid</string>
   <string name="callFailed_userBusy">Línia ocupada</string>
   <string name="callFailed_user_not_member_of_CUG">L\'usuari no és membre del CUG</string>
