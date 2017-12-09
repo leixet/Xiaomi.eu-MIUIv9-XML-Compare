@@ -62,7 +62,7 @@
   <string name="delete">Elimina</string>
   <string name="delete_screen">Elimina la pantalla</string>
   <string name="delete_wallpaper_message">Voleu eliminar %1$d fons de pantalla?</string>
-  <string name="deselect_all">Anul·la tota la selecció</string>
+  <string name="deselect_all">Desselecciona-ho tot</string>
   <string name="disable_wallpaper_scroll">Desactiva el desplaçament lateral</string>
   <string name="download_action">Baixa</string>
   <string name="edit_folder_title">Edita el nom de la carpeta</string>
