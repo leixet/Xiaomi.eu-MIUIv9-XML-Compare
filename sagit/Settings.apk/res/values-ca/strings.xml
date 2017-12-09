@@ -2023,8 +2023,8 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="lock_screen_notifications_summary_show">Mostra tot el contingut de les notificacions</string>
   <string name="lock_screen_notifications_summary_show_profile">Mostra tot el contingut de notific. professionals</string>
   <string name="lock_screen_notifications_title">Amb el dispositiu bloquejat</string>
-  <string name="lock_screen_secure_after_timeout_immediately_never">Mai cal contrasenya.</string>
-  <string name="lock_screen_secure_after_timeout_immediately_summary">Cal la contrasenya.</string>
+  <string name="lock_screen_secure_after_timeout_immediately_never">Mai cal la contrasenya</string>
+  <string name="lock_screen_secure_after_timeout_immediately_summary">Cal la contrasenya</string>
   <string name="lock_screen_secure_after_timeout_summary">Cal la contrasenya en %1$s</string>
   <string name="lock_screen_secure_after_timeout_title">Cal contrasenya</string>
   <string name="lock_screen_signature_summary">La signatura es mostrarà a la pantalla de bloqueig</string>
@@ -2476,7 +2476,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="nfc_quick_toggle_summary">Permet l\'intercanvi de dades quan el telèfon toca un altre dispositiu</string>
   <string name="nfc_se_route_title">Posició d\'element segur</string>
   <string name="nfc_se_wallet_title">Portamonedes predeterminat</string>
-  <string name="no_account_found">"Cap aplicació permet afegir comptes"</string>
+  <string name="no_account_found">"No s'ha pogut trobar cap aplicació que pugui afegir comptes"</string>
   <string name="no_application">Res</string>
   <string name="no_applications">Cap aplicació.</string>
   <string name="no_battery_summary">Cap ús de la bateria des de l\'última càrrega completa</string>
@@ -2694,7 +2694,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="phone_info_label">Informació del telèfon</string>
   <string name="phone_language">Idioma</string>
   <string name="physical_keyboard_title">Teclat físic</string>
-  <string name="pick_up_gesture_wakeup_title">Trieu un gest per despertar</string>
+  <string name="pick_up_gesture_wakeup_title">Aixequeu el dispositiu per despertar-lo</string>
   <string name="picture_color_mode">Mode de color de la imatge</string>
   <string name="picture_color_mode_desc">Utilitza sRGB</string>
   <string name="pin_failed">Hi ha hagut un problema en l\'operació del PIN de la SIM!</string>
@@ -3240,7 +3240,7 @@ Per fer-ho:
   <string name="se_wallet_ese">Mi Wallet permet pagar amb Mi Pay i sistemes NFC.</string>
   <string name="se_wallet_hce">Utilitza HCE Wallet</string>
   <string name="se_wallet_uicc">Utilitza el SIM%1$s Wallet</string>
-  <string name="search_about_settings">Quant al telèfon;Número de model;Versió d\'Android;Versió MIUI;CPU;Memòria RAM;Memòria interna;Versió de banda base;Versió del nucli;Número de compilació</string>
+  <string name="search_about_settings">Quan al telèfon;Número de model;Versió d\'Android;Versió MIUI;CPU;RAM;Memòria interna;Memòria;Emmagatzematge;Emmagatzematge intern;Versió de la banda base;Versió del nucli;Número de compilació</string>
   <string name="search_accelerometer_title">Orientació automàtica de la pantalla;Orientació de la pantalla;Orientació:Retrat;Apaïsada</string>
   <string name="search_access_control">Configuració de privadesa;Seguretat de la privadesa;Convidat;Mode de convidat</string>
   <string name="search_accessibility_captioning_title">Subtítols</string>
