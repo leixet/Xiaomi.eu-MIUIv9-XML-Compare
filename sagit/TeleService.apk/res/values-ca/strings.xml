@@ -598,7 +598,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="enable_disable_local_weather">Clima local</string>
   <string name="enable_disable_lodgings">Allotjaments</string>
   <string name="enable_disable_maintenance">Manteniment</string>
-  <string name="enable_disable_mhh">Medicina, salut i hospitals</string>
+  <string name="enable_disable_mhh">Metge, salut i hospitals</string>
   <string name="enable_disable_multi_category">Categoria múltiple</string>
   <string name="enable_disable_national">Nacional</string>
   <string name="enable_disable_regional">Regional</string>
@@ -805,8 +805,8 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="messageCFNRy">Número quan no contestin</string>
   <string name="messageCFU">Utilitza sempre aquest número</string>
   <string name="message_decode_error">Hi ha hagut un error en descodificar el missatge.</string>
-  <string name="mhh_disable">Medicina, Hospitals i Salut desactivat</string>
-  <string name="mhh_enable">Medicina, Hospitals i Salut activat</string>
+  <string name="mhh_disable">Metge, salut i hospitals desactivat</string>
+  <string name="mhh_enable">Metge, salut i hospitals activat</string>
   <string name="mi_sim_settings_summary">Utilització de dades mòbils sense targeta SIM</string>
   <string name="mi_sim_settings_title">SIM Mi</string>
   <string name="mismatchPin">"Els PIN que heu introduït no coincideixen. Torneu-ho a provar."</string>
