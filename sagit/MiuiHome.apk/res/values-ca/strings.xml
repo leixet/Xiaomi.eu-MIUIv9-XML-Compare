@@ -48,9 +48,9 @@
   <string name="cloud_app_restore_title">Pendent</string>
   <string name="configure_wallpaper">Configuració</string>
   <string name="confirm_btn_label">D\'acord</string>
-  <string name="confirm_uninstall_dialog_contain_xspace_app_msg">En desinstal·lar aquestes aplicacions, les seves duplicades també s\'eliminaran.</string>
+  <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Les aplicacions duals es desinstal·laran juntament amb aquestes.</string>
   <string name="confirm_uninstall_dialog_has_xspace_app_msg">En desinstal·lar aquesta aplicació, la seva duplicada també s\'eliminarà.</string>
-  <string name="confirm_uninstall_dialog_title">S\'eliminaran les aplicacions duplicades corresponents.</string>
+  <string name="confirm_uninstall_dialog_title">Es desinstal·laran les aplicacions duals</string>
   <string name="current_preview">Visualització prèvia</string>
   <string name="current_wallpaper">Actual</string>
   <string name="custom_wallpaper_picker">Navega</string>
