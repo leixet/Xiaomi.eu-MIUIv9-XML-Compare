@@ -731,7 +731,7 @@
   <string name="game_setting">Configuració del joc</string>
   <string name="gamebooster_lowbattery_notification_summary">Carregueu el dispositiu abans de desactivar-lo.</string>
   <string name="gamebooster_lowbattery_notification_title">La bateria està per sota del 5%%</string>
-  <string name="gamebooster_main_activity_back">Torna a l\'accelerador de velocitat dels jocs</string>
+  <string name="gamebooster_main_activity_back">Enrere</string>
   <string name="gamebooster_network_dialog_message">Voleu permetre a la seguretat connectar-se a la xarxa per poder utilitzar totes les funcions de l\'accelerador de velocitat dels jocs?</string>
   <string name="gamebooster_network_dialog_title">"Algunes característiques no estan disponibles"</string>
   <string name="gateway_exception_summary">Comprovi el seu router i torneu a provar.</string>
