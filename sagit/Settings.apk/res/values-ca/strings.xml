@@ -1241,7 +1241,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="device_info_label">Informació del dispositiu</string>
   <string name="device_info_not_available">No està disponible</string>
   <string name="device_info_settings">Estat del telèfon</string>
-  <string name="device_internal_memory">Memòria interna</string>
+  <string name="device_internal_memory">Emmagatzematge intern</string>
   <string name="device_miui_more">Mostra\'n més</string>
   <string name="device_miui_version">Versió MIUI</string>
   <string name="device_miui_version_update">Actualització de MIUI disponible</string>
@@ -1260,7 +1260,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»</string>
   <string name="device_status">Estat</string>
   <string name="device_status_activity_title">Estat</string>
   <string name="device_status_summary">Número de telèfon, senyal, etc.</string>
-  <string name="device_total_memory">Memòria total</string>
+  <string name="device_total_memory">Emmagatzematge total</string>
   <string name="dial_application_title">Marca</string>
   <string name="dial_pad_tones_title">Tons del teclat</string>
   <string name="dialog_content_login">Per a actualitzar, inicieu la sessió del compte Mi</string>
@@ -1782,7 +1782,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="install_applications_title">Permet tots els orígens de les aplicacions</string>
   <string name="install_no_market_app_summary">Permet la instal·lació d\'aplicacions d\'origen desconegut</string>
   <string name="install_no_market_app_title">Orígens desconeguts</string>
-  <string name="install_preinstall_app">S\'estan carregant les aplicacions…</string>
+  <string name="install_preinstall_app">S\'està canviat la regió…</string>
   <string name="install_text">Instal·la</string>
   <string name="install_unknown_applications">Permet la instal·lació d\'aplicacions d\'origen desconegut</string>
   <string name="install_unknown_applications_title">Permet instal·lar aplicacions d\'orígens desconeguts</string>
