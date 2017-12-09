@@ -887,7 +887,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="user_defined_webpage">Afegeix a la pàgina d\'inici</string>
   <string name="user_defined_webpage_title">Afegeix a la pàgina d\'inici</string>
   <string name="username">Nom</string>
-  <string name="v5_deselect_all">Desselecciona tot</string>
+  <string name="v5_deselect_all">Desselecciona-ho tot</string>
   <string name="v5_edit_mode_title_empty">0 seleccionats</string>
   <string name="v5_select_all">Selecciona-ho tot</string>
   <string name="version_check_button_checking">Comprovant&#8230;</string>
