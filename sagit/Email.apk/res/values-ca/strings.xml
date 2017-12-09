@@ -79,7 +79,7 @@
   <string name="account_setup_basics_email_label">Adreça de correu electrònic</string>
   <string name="account_setup_basics_login_gmail_without_proxy">Utilitza la connexió de xarxa actual</string>
   <string name="account_setup_basics_manual_setup_action">Configuració manual</string>
-  <string name="account_setup_basics_mi_mail_login_help">Inici de sessió del Correu Mi correcte, comproveu els SMS, activeu l\'enllaç per enviar i rebre correu Oh!</string>
+  <string name="account_setup_basics_mi_mail_login_help">És possible que hageu de verificar el vostre compte mitjançant un SMS per rebre correus</string>
   <string name="account_setup_basics_password_label">Contrasenya</string>
   <string name="account_setup_basics_title">Afegeix un compte</string>
   <string name="account_setup_check_settings_check_incoming_msg">Validant la configuració del servidor…</string>
@@ -367,7 +367,7 @@
   <string name="dialog_gmail_proxy_server_is_error">Error de servidor intermediari de Gmail.</string>
   <string name="dialog_insufficient_space_on_external">"No es pot acabar de baixar. No hi ha prou espai d'emmagatzematge extern."</string>
   <string name="dialog_insufficient_space_on_internal">No hi ha prou espai en l\'emmagatzematge intern.</string>
-  <string name="dialog_system_auto_sync_account_no_open">La sincronització de compte no està activada i els missatges no es poden sincronitzar automàticament</string>
+  <string name="dialog_system_auto_sync_account_no_open">Activeu la sincronització del compte per rebre correus automàticament</string>
   <string name="dialog_system_auto_sync_master_no_open">La sincronització del sistema no està activada i els missatges no es poden sincronitzar automàticament</string>
   <string name="disable_admin_warning">"ATENCIÓ: Si desactiveu els permisos de l'aplicació Email per administrar el dispositiu, s'eliminaran tots els comptes de correu que els necessiten, així com els seus missatges, contactes, esdeveniments de calendari i altres dades."</string>
   <string name="discard">Descarta</string>
@@ -546,7 +546,7 @@
   <string name="long_press_to_select_tip">Toqueu sense deixar anar per seleccionar una conversa, a continuació toqui una altra per seleccionar més.</string>
   <string name="mail">Correu</string>
   <string name="mail_body_turncated">Aquest e-mail és massa gran per carregar i només es mostra part d\'ell, per visualitzar-lo complet utilitzeu un PC</string>
-  <string name="mail_description_content">El correu és un client de correu que pot administrar diverses bústies, admet enviar i rebre, etiquetar correu i proporcionar serveis com a mode de sessió, correu de facturació, classificació de correu i altres serveis. Després de desinstal·lar el correu, les dades de correu s\'eliminaran.</string>
+  <string name="mail_description_content">El correu és un client de correu que pot gestionar diversos comptes, enviar i rebre missatges de correu, així com sincronitzar la informació i contactes del vostre calendari. Assegureu-vos que podeu fer sense aquestes funcions abans de desinstal·lar l\'aplicació. Els contactes d\'Exchange i la informació del calendari també se suprimiran.</string>
   <string name="mail_description_title">Introducció al correu</string>
   <string name="mail_header_network_not_available">"No té connexió de xarxa."</string>
   <string name="mailbox_list_account_selector_combined_view">Compte combinat</string>
