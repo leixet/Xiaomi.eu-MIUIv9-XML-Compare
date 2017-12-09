@@ -254,7 +254,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="recommend_open">Obre\'l</string>
   <string name="recommend_other_downloads">Recomanades</string>
   <string name="recommend_paused">En pausa</string>
-  <string name="recommend_prepare">Esperar</string>
+  <string name="recommend_prepare">S\'està esperant…</string>
   <string name="recommend_show_other_downloads">Mostrar recomanades</string>
   <string name="remove_download">Treu</string>
   <string name="restart_download">Reiniciar</string>
@@ -358,7 +358,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="subbt_downloading">S\'està baixant&#8230;</string>
   <string name="subbt_fail">Fallides</string>
   <string name="subbt_pause">En pausa</string>
-  <string name="subbt_wait">Esperant&#8230;</string>
+  <string name="subbt_wait">S\'està esperant…</string>
   <string name="subfile_list">Arxius</string>
   <string name="task_detail">Tasques</string>
   <string name="task_detail_notfound_confirm">D\'acord</string>
