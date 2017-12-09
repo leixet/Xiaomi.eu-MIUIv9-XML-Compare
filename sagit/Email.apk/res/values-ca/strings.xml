@@ -505,7 +505,7 @@
   <string name="gmail_acceleration">Utilitza servidor intermediari per compte de Gmail</string>
   <string name="gmail_login_confirm_to_use_proxy">Utilitzar servidor intermediari per accedir al teu compte de Gmail?</string>
   <string name="gmail_login_failed_non_proxy_title">"Accés fallit al servidor de Gmail"</string>
-  <string name="gmail_server_authorization_deleted">"No s'ha pogut autentificar compte. Prova a afegir aquest compte de nou."</string>
+  <string name="gmail_server_authorization_deleted">"No s'ha pogut autenticar el compte. Proveu a afegir aquest compte de nou."</string>
   <string name="gmail_web_login_go">D\'acord</string>
   <string name="gmail_web_login_required_message">Accedeix a Gmail</string>
   <string name="header_category_account">Configuració del compte</string>
@@ -705,7 +705,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="outbox_alert_button_resend">Reenvia</string>
   <string name="outbox_alert_certificate_error">"Excepció de certificat a email, si us plau actualitzi"</string>
   <string name="outbox_alert_description_auth_error">Causa: Error d\'autenticació del servidor durant la sincronització de la safata de sortida</string>
-  <string name="outbox_alert_description_cannot_authenticate">"No s'ha pogut autentificar %s."</string>
+  <string name="outbox_alert_description_cannot_authenticate">"No s'ha pogut autenticar %s."</string>
   <string name="outbox_alert_description_email_size_error">S\'ha arribat a la mida màxima d\'Email.</string>
   <string name="outbox_alert_description_fail_authentication">L\'usuari o la contrasenya no són vàlids.</string>
   <string name="outbox_alert_description_fail_network">"No s'ha pogut connectar a la xarxa."</string>
