@@ -16,7 +16,7 @@
   <string name="accessibility_setting_button">Botó d\'ajustaments addicionals</string>
   <string name="accessibility_shutter_button">Botó de l\'obturador</string>
   <string name="accessibility_skin_beautify_button">Botó de l\'embellidor</string>
-  <string name="accessibility_stereo_button">Mode de càmera dual</string>
+  <string name="accessibility_stereo_button">Ajust del focus</string>
   <string name="accessibility_video_capture_button">Botó de captura de vídeo</string>
   <string name="accessibility_video_pause_button">Botó de pausar vídeo</string>
   <string name="accessibility_zoom_button">Mode zoom</string>
@@ -77,7 +77,7 @@
   <string name="dual_camera_lens_covered_toast">La lent està tapada.</string>
   <string name="dual_camera_lowlight_toast">"Sembla que és massa fosc."</string>
   <string name="dual_camera_too_close_toast">La càmera és massa a prop de l\'objecte.</string>
-  <string name="dual_camera_use_hint">"«El mode estèreo ajuda a entelar el fons. L'objecte no hauria de ser més lluny de 2 metres.»"</string>
+  <string name="dual_camera_use_hint">"Assegureu-vos que l'objecte no sigui a més de 2 metres."</string>
   <string name="edit_eye_large">Ulls grans</string>
   <string name="edit_face_ruddy">Rogenc</string>
   <string name="edit_face_slender">Esvelt</string>
@@ -295,7 +295,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"No es pot utilitzar el mode disparar ràpid mentre \"Activa amb els botons de volum\" estigui actiu."</string>
   <string name="pref_camera_sound_title">Sons de càmera</string>
   <string name="pref_camera_square_mode_title">Quadrat</string>
-  <string name="pref_camera_stereo_mode_title">Estèreo</string>
+  <string name="pref_camera_stereo_mode_title">Ajust del focus</string>
   <string name="pref_camera_tilt_shift_default">cercle</string>
   <string name="pref_camera_tilt_shift_entry_circle">Cercle</string>
   <string name="pref_camera_tilt_shift_entry_parallel">Paral·lel</string>
