@@ -610,7 +610,7 @@ Llavors responeu la pregunta"</string>
   <string name="none_apk_note">No hi ha c
 ap arxiu d\'instal·lació</string>
   <string name="not_login">No s\'ha iniciat sessió</string>
-  <string name="not_respond">Cap resposta</string>
+  <string name="not_respond">Sense resposta</string>
   <string name="not_updated_yet">"Encara no s'ha actualitzat"</string>
   <string name="notification_found_device_text">Intenteu controlar aquest dispositiu amb el vostre mòbil!</string>
   <string name="notification_found_device_title">S\'ha trobat un dispositiu nou: %1$s</string>
