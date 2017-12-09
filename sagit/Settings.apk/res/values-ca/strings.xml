@@ -2324,7 +2324,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_lab_taplus_desc">Premeu i mantingueu premut per activar les dreceres</string>
   <string name="miui_lab_taplus_title">Activador d\'aplicacions</string>
   <string name="miui_screen_config_title">Configuració de la pantalla inicial</string>
-  <string name="miui_updater">Actualitzador</string>
+  <string name="miui_updater">Actualització del sistema</string>
   <string name="mms_breathing_light_color_title">Color dels missatges</string>
   <string name="mms_breathing_light_freq_title">Freqüència de parpelleig del LED dels missatges</string>
   <string name="mms_privacy_password_role_instruction">Les converses amb contactes privats es desaran aquí.</string>
