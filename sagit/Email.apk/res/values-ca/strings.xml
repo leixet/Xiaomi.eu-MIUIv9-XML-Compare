@@ -990,7 +990,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="special_text_sender_zh">Remitent</string>
   <string name="storage">Emmagatzematge</string>
   <string name="str_select_all">Selecciona-ho tot</string>
-  <string name="str_select_none">Anul·la la selecció</string>
+  <string name="str_select_none">Desselecciona-ho tot</string>
   <string name="subject_hint">Assumpte</string>
   <string name="sync_contacts_fail_per_content">Toqueu per permetre l\'accés als contactes</string>
   <string name="sync_contacts_fail_per_title">"La sincronització de contactes ha fallat"</string>
