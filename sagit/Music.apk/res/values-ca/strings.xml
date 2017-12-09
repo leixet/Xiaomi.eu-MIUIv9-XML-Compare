@@ -160,7 +160,7 @@
   <string name="delete_file_start">Esborra els fitxers seleccionats</string>
   <string name="delete_the_downloaded_file">S\'eliminaran els fitxers baixats.</string>
   <string name="desc_online_personal_radio">Només per a vós</string>
-  <string name="deselect_all">Anul·la tota la selecció</string>
+  <string name="deselect_all">Desselecciona-ho tot</string>
   <string name="desktop_lyric_button_close">Tanca</string>
   <string name="desktop_lyric_button_lock">Bloca</string>
   <string name="desktop_lyric_dialog_msg">Activeu o desactiveu les lletres a la pàgina d\'inici a Música &gt; Configuració &gt; Configuració avançada</string>
@@ -737,7 +737,7 @@
   <string name="select_displayed_folders">Trieu les carpetes a mostrar</string>
   <string name="select_local_album">Trieu un àlbum</string>
   <string name="select_local_lyric">Trieu una lletra</string>
-  <string name="select_none">Anul·la la selecció</string>
+  <string name="select_none">Desselecciona-ho tot</string>
   <string name="select_operation_items">Seleccioneu elements</string>
   <string name="selected_count">Seleccionats %1$d de %2$d</string>
   <string name="send_to">Comparteix</string>
