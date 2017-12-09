@@ -2269,7 +2269,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="memory_media_usage">Multimèdia</string>
   <string name="memory_music_usage">Àudio (música, tons, podcasts, etc.)</string>
   <string name="memory_performance">Rendiment</string>
-  <string name="memory_rightvalue">Disponible: %s</string>
+  <string name="memory_rightvalue">Total: %s</string>
   <string name="memory_settings_title">Memòria</string>
   <string name="memory_size">Espai total</string>
   <string name="memory_summary">Mitjana de %1$s de %2$s de la memòria utilitzada</string>
@@ -4994,7 +4994,7 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="wrong_pin_code_pukked">El codi PIN de la SIM no és correcte. Heu de contactar amb l\'operador de telefonia mòbil per a desbloquejar el dispositiu.</string>
   <string name="xiaomi_account">Compte Mi</string>
   <string name="xiaomi_cloud_service">Cloud Mi</string>
-  <string name="xiaomi_cloud_service_description">El Mi Cloud sincronitza contactes i fotos, fa una còpia de seguretat de les aplicacions i configuracions i li ajuda a trobar el telèfon amb Cerca el dispositiu.</string>
+  <string name="xiaomi_cloud_service_description">El Mi Cloud sincronitza contactes, fotos i altres elements a través dels vostres dispositius. «Cerca el dispositiu» també requereix que Mi Cloud funcioni correctament.</string>
   <string name="xiaomi_cloud_service_disabled">Desactivat</string>
   <string name="xiaomi_cloud_service_unknown">Desconegut</string>
   <string name="xiaomi_money_service">Credit Mi</string>
