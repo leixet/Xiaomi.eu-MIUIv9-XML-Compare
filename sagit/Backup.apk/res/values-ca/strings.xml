@@ -370,7 +370,7 @@ Allibereu %s com a mínim"</string>
   <string name="trans_disconnected_tips_message">El dispositiu remot està desconnectat. Torneu-lo a connectar a mà. Podeu cancel·lar la tasca actual si és necessari.</string>
   <string name="trans_disconnected_tips_title">El dispositiu remot està desconnectat</string>
   <string name="trans_generate_qr_code_failed">"No s'ha pogut crear el codi QR"</string>
-  <string name="trans_intro_desc_1">"Al dispositiu Xiaomi, connecteu-vos per Wi-Fi. Toqueu «Sóc el destinatari» i, a continuació, seleccioneu «Dispositiu Apple». Inicieu sessió a l'iCloud i importeu-ne les dades."</string>
+  <string name="trans_intro_desc_1">"En un telèfon Mi, connecteu-vos a la xarxa Wi-Fi i toqueu «Sóc el destinatari\". Seleccioneu el vostre dispositiu iOS, inicieu sessió a l'iCloud i importeu les dades."</string>
   <string name="trans_intro_desc_3">El Mi Mover utilitza Wi-Fi per transferir fitxers. Per això, no es pot connectar a Internet mitjançant Wi-Fi en qualsevol dispositiu durant una transferència. Encara podeu utilitzar dades mòbils. Tanmateix, alguns dispositius més nous (per exemple, Mi 6) encara podrien connectar-se a Internet mitjançant Wi-Fi durant les transferències.</string>
   <string name="trans_intro_desc_4">"L'espai d'emmagatzematge en dispositius antics s'utilitza per crear paquets de transferència. Assegureu-vos que teniu almenys 500 Mb: 1 Gb d'emmagatzematge disponible al vostre telèfon anterior abans d'iniciar una transferència."</string>
   <string name="trans_intro_desc_5">Hi ha diverses raons per les quals això pot passar: problemes de compatibilitat amb la versió de l\'aplicació i del sistema, problemes de xarxa, problemes de compatibilitat específics d\'un dispositiu en particular, etc.</string>
@@ -468,8 +468,8 @@ S\'està esperant la transferència&#8230;"</string>
   <string name="trans_waiting_ensurance">"Comproveu que el dispositiu antic està engegat
 i s\'ha activat Mi Mover"</string>
   <string name="trans_waiting_for_sender">S\'està esperant al dispositiu antic per connectar&#8230;</string>
-  <string name="trans_wlan_tips_message">"No desactiveu ni canvieu la Wi-Fi durant la transferència de dades. En cas contrari, el gestor pot fallar."</string>
-  <string name="trans_wlan_tips_title">"No desactiveu ni canvieu la Wi-Fi"</string>
+  <string name="trans_wlan_tips_message">"No desactiveu ni canvieu de Wi-Fi durant la transferència. En cas contrari, Mi Mover no podrà transferir dades."</string>
+  <string name="trans_wlan_tips_title">"No desactiveu la Wi-Fi"</string>
   <string name="unknown_hint">Desconeguda</string>
   <string name="user_name">ID d\'Apple o correu</string>
   <string name="user_name_null">"El nom d'usuari no pot estar buit"</string>
