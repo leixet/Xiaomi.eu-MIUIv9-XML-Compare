@@ -141,7 +141,7 @@
   <string name="auto_record_yellowpage">Directori</string>
   <string name="auto_redial_pref_summary">Tornar a trucar automàticament si la línia està ocupada</string>
   <string name="auto_redial_pref_title">Tornar a trucar automàticament</string>
-  <string name="auto_retry_mode_summary">Activa el mode de reintent automàtic</string>
+  <string name="auto_retry_mode_summary">Torna a provar-ho automàticament</string>
   <string name="auto_retry_mode_title">Reintent automàtic</string>
   <string name="autoip">Marcatge automàtic d\'IP</string>
   <string name="autoip_add_zero_prefix">Afegeix prefix 0 per a mòbils</string>
@@ -328,7 +328,7 @@
   <string name="call_record_add_numbers">Afegeix números</string>
   <string name="call_record_auto_always">Tots els números</string>
   <string name="call_record_auto_scenario_title">Enregistra trucades des de</string>
-  <string name="call_record_auto_summary">"Els enregistraments es desaran a la carpeta MIUI/sound_recorder/call_rec de la memòria interna del vostre dispositiu"</string>
+  <string name="call_record_auto_summary">"Els enregistraments es desaran a la carpeta MIUI/sound_recorder/call_rec a l'emmagatzematge intern del dispositiu"</string>
   <string name="call_record_auto_title">Enregistrament automàtic de trucades</string>
   <string name="call_record_auto_unknown_number">Números desconeguts</string>
   <string name="call_record_auto_whitelist">Llista personalitzada</string>
@@ -378,7 +378,7 @@
   <string name="card_title_cugcall">Trucada CUG</string>
   <string name="card_title_deflectedcall">Trucada desviada</string>
   <string name="card_title_dialing">Marcatge</string>
-  <string name="card_title_forwardcheckreceived">S\'ha rebut la comprovació del desviament</string>
+  <string name="card_title_forwardcheckreceived">Trucada desviada verificada i rebuda</string>
   <string name="card_title_forwarded_MTcall">Trucada entrant reenviada</string>
   <string name="card_title_hanging_up">Penjar</string>
   <string name="card_title_in_call">Trucada en curs</string>
