@@ -369,7 +369,7 @@
   <string name="operation_delete">Elimina</string>
   <string name="operation_delete_confirm_message">Voleu eliminar-ho?</string>
   <string name="operation_delete_confirm_message_folder">"S'eliminarà tot el contingut de la carpeta. "</string>
-  <string name="operation_deleting">S\'està eliminant&#8230;</string>
+  <string name="operation_deleting">S\'està eliminant…</string>
   <string name="operation_favorite">Destaca</string>
   <string name="operation_hide_sys">"No mostrar fitxers ocults"</string>
   <string name="operation_info">Detalls</string>
