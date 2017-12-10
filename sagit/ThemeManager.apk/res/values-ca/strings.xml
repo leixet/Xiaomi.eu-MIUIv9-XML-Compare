@@ -40,7 +40,7 @@
   <string name="current_using_desktop_wallpaper_text">Pantalla d\'inici</string>
   <string name="current_using_lockscreen_wallpaper_text">Pantalla de bloqueig</string>
   <string name="current_version_incompatible">Aquest tema és incompatible</string>
-  <string name="deleting">S\'està suprimint&#8230;</string>
+  <string name="deleting">S\'està eliminant…</string>
   <string name="description_author">Autor</string>
   <string name="description_designer">Dissenyador</string>
   <string name="description_download">Baixat</string>
