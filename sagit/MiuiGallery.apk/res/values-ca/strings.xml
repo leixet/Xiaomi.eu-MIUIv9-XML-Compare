@@ -328,7 +328,7 @@
   <string name="delete_from_web">Àlbums web</string>
   <string name="delete_in_album">Quan s\'eliminen fotos o vídeos d\'un àlbum, també s\'eliminaran de:</string>
   <string name="delete_in_home_page">Quan s\'eliminen fotos o vídeos de la galeria, també s\'eliminaran de:</string>
-  <string name="delete_in_process">S\'està eliminant&#8230;</string>
+  <string name="delete_in_process">S\'està eliminant…</string>
   <string name="delete_origin">Elimina les imatges de l\'àlbum original</string>
   <string name="delete_other_shared_images">"No es poden eliminar les fotos compartides per altres"</string>
   <string name="delete_owner_and_other_shared_images_format">%1$d eliminades, %2$d desades</string>
