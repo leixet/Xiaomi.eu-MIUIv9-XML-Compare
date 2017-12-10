@@ -179,7 +179,7 @@ Dos espais. Un dispositiu."</string>
   <string name="remove_second_space_msg">Totes les dades d\'aplicacions del Segon espai es perdran quan suprimiu el Segon espai. Voleu suprimir el Segon espai ara?</string>
   <string name="remove_user_click_message">"*Si no teniu cap element important al Segon espai, %s"</string>
   <string name="remove_user_click_message_action">podeu eliminar el segon espai i reiniciar el dispositiu ara.</string>
-  <string name="removingSpace">S\'està suprimint&#8230;</string>
+  <string name="removingSpace">S\'està eliminant…</string>
   <string name="repeat_scanner_fingerprint">Afegir de nou</string>
   <string name="reset_passwd_success">Contrasenya restablerta amb èxit</string>
   <string name="restore_normal_show">"No mostrar els missatges privats"</string>
