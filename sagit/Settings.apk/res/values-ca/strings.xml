@@ -3005,9 +3005,9 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
 
  \"&lt;li&gt;Aplicacions desactivades&lt;/li&gt;\"
  \"&lt;li&gt;Notificacions d\'aplicacions desactivades&lt;/li&gt;\"
- \"&lt;li&gt;Aplicacions predeterminades&lt;/li&gt;\"
+ \"&lt;li&gt;Aplicacions per defecte per a accions&lt;/li&gt;\"
  \"&lt;li&gt;Restriccions de dades en segon pla per a aplicacions&lt;/li&gt;\"
- \"&lt;li&gt;Restriccions de permisos&lt;/li&gt;\"
+ \"&lt;li&gt;Qualsevol restricció de permisos&lt;/li&gt;\"
 
  No es perdran les dades de les aplicacions."</string>
   <string name="reset_app_preferences_title">Voleu reiniciar les preferències de l\'aplicació?</string>
