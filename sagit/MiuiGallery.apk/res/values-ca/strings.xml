@@ -81,6 +81,7 @@
   <string name="app_name_view_picture">Veure fotos</string>
   <string name="app_name_view_video">Reproducció de vídeos</string>
   <string name="apply">Aplica</string>
+  <string name="assistant_page_label">Assistent</string>
   <string name="associate_face_album">Trieu un àlbum</string>
   <string name="auto_backup_introduce">Fes una còpia de seguretat de fotos i vídeos automàticament (cal un compte Mi)</string>
   <string name="auto_download_media_title">Baixa fotos des de Mi Cloud automàticament</string>
@@ -342,6 +343,7 @@
   <string name="double_tap_to_higher_definition">Toqueu dues vegades novament per la vista prèvia en HD</string>
   <string name="download_canceled">Baixada cancel·lada</string>
   <string name="download_error_format">"No s'ha pogut baixar %s"</string>
+  <string name="download_error_tip">. S\'han interromput les baixades.</string>
   <string name="download_retry_message">"No s'han pogut baixar els fitxers. Comproveu la connexió de xarxa i torneu a intentar-ho"</string>
   <string name="download_retry_text">Torna-ho a provar</string>
   <string name="download_retry_title">"No s'han pogut baixar els fitxers"</string>
