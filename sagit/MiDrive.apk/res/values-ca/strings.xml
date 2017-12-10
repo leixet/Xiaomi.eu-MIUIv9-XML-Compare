@@ -75,7 +75,7 @@
   <string name="operation_delete_message_folder">S\'eliminarà tot el contingut de la carpeta.</string>
   <string name="operation_delete_selected_tasks">Voleu eliminar les tasques seleccionades?</string>
   <string name="operation_delete_title">Voleu eliminar-lo?</string>
-  <string name="operation_deleting">S\'està eliminant&#8230;</string>
+  <string name="operation_deleting">S\'està eliminant…</string>
   <string name="operation_deleting_detail">S\'està eliminant (%1$d/%2$d)</string>
   <string name="operation_download">Baixa</string>
   <string name="operation_move">Retalla</string>
