@@ -106,6 +106,7 @@
   <string name="date_calculate_days">Introduïu el número de dies</string>
   <string name="date_calculate_description">Coneixeu quina data és abans o després d\'un cert dia</string>
   <string name="date_calculate_direction">Direcció</string>
+  <string name="date_calculate_direction_content_description">La adreça actual és %1s</string>
   <string name="date_calculate_result">Resultat</string>
   <string name="date_calculate_tab">Calcula la data</string>
   <string name="date_calculate_today">0 dies</string>
