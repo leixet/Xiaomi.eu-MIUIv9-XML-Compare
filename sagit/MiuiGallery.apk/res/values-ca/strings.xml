@@ -83,6 +83,7 @@
   <string name="apply">Aplica</string>
   <string name="associate_face_album">Trieu un àlbum</string>
   <string name="auto_backup_introduce">Fes una còpia de seguretat de fotos i vídeos automàticament (cal un compte Mi)</string>
+  <string name="auto_download_media_title">Baixa fotos des de Mi Cloud automàticament</string>
   <string name="auto_update_face">Afegeix fotos automàticament</string>
   <string name="auto_update_face_summary">Troba i afegeix fotos a l\'àlbum de nadó automàticament</string>
   <string name="auto_update_off">Desactivat</string>
@@ -170,6 +171,7 @@
   <string name="camera_needs_auto_backup_tip">Cal fer una còpia de seguretat de les fotos de la càmera</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_baby_lock_wallpaper_confirm_msg">Voleu restablir el fons de pantalla de bloqueig per defecte?</string>
+  <string name="cancel_download_btn_text">Atura</string>
   <string name="cancel_hint">Operació cancel·lada</string>
   <string name="cannot_remove_creator">"No es pot eliminar el creador"</string>
   <string name="cannot_send_message">"No es pot enviar el missatge"</string>
