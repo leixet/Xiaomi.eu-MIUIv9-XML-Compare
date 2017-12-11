@@ -313,7 +313,8 @@ Proveu el següent per solucionar el problema:
   <string name="epg_program_share">Comparteix %1$s</string>
   <string name="epg_program_share_drama">Quedem per veure %3$s pel canal %1$s, que s\'emet a:.%2$s parlem dels protagonistes preferits, endevinem l\'argument, tot amb el comandament remot universal extern</string>
   <string name="epg_program_share_game">Mira amb mi: %3$s canal: %1$s, a les:%2$s.</string>
-  <string name="epg_search_box_hint">Programa de TV o canal que voleu cercar</string>
+  <string name="epg_program_updated_to">S\'ha reproduït l\'episodi %1$d</string>
+  <string name="epg_search_box_hint">Cerqueu programes o canals</string>
   <string name="epg_search_history">Historial de cerca</string>
   <string name="epg_search_hot_channel">Canals més cercats</string>
   <string name="epg_search_hot_program">Programes més cercats</string>
@@ -322,7 +323,7 @@ Proveu el següent per solucionar el problema:
   <string name="epg_stb_malfunction">Aquest control remot de descodificador no funciona correctament, torneu a afegir o seleccioneu un control remot diferent</string>
   <string name="epg_unbook_all">Cancel·la-ho tot</string>
   <string name="epg_unbooked_str">No programat</string>
-  <string name="epg_user_my_booked_events">Els meus esdeveniments programats</string>
+  <string name="epg_user_my_booked_events">Les meves reserves</string>
   <string name="epg_user_my_favorite_channel">Canals favorits</string>
   <string name="episode_intro_title_text">Resum d\'episodi</string>
   <string name="episode_title">Episodi %1$d</string>
@@ -362,7 +363,7 @@ Proveu el següent per solucionar el problema:
   <string name="fix_keys">Determina els botons</string>
   <string name="fix_keys_success">Reparació amb èxit!</string>
   <string name="fix_keys_tips">"Si alguns botons no funcionen, podeu intentar arreglar-los"</string>
-  <string name="from_share">Compartits per altres</string>
+  <string name="from_share">Compartit des de %1$s</string>
   <string name="gamepad">Teclat de joc</string>
   <string name="gamepad_rule">"No es pot utilitzar l'orientació horitzontal amb el teclat de joc activat"</string>
   <string name="gesture_pad_first_line_tips">Utilitzeu els botons de volum en el vostre dispositiu per ajustar el volum</string>
