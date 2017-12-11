@@ -720,7 +720,7 @@
   <string name="save">Desa</string>
   <string name="save_to_playlist">Desa com a llista de reproducció</string>
   <string name="search_album_and_lyric">Cerca àlbums i lletra per informació anterior</string>
-  <string name="search_empty">"Sense resultats. Proveu amb altres paraules"</string>
+  <string name="search_empty">"No s'ha pogut trobar resultats"</string>
   <string name="search_for_album">Àlbum</string>
   <string name="search_for_artist">Artista</string>
   <string name="search_hint">Cerca</string>
