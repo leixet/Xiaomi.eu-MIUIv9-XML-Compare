@@ -1416,6 +1416,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="privacy_prompt_upload">Pujar</string>
   <string name="process_mediaserver_label">Servidor de mitjans</string>
   <string name="promotion">Anunci</string>
+  <string name="prompt_all">Demana-ho tot</string>
   <string name="prompt_input_time_illegal">"No es pot establir aquesta hora, canvia-la i intenta-ho de nou"</string>
   <string name="protocol_exception_title">Diagnòstics de protocol de xarxa</string>
   <string name="protocol_loop_back_exception_summary">La prova de bucle local ha fallat de nou. Per informar sobre aquesta qüestió a MIUI, aneu a l\'aplicació d\'informe d\'errors i envia un registre del dispositiu.</string>
