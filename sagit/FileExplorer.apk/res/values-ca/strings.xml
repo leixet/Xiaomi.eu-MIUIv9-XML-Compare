@@ -164,7 +164,7 @@
   <string name="download_fail">"No s'ha pogut baixar"</string>
   <string name="downloaded_sticker_str">Baixat</string>
   <string name="downloading">S\'està baixant</string>
-  <string name="editor_commend">Editar</string>
+  <string name="editor_commend">Edita</string>
   <string name="empty_comment">"No es pot deixar el comentari en blanc"</string>
   <string name="enable_documentsui">Primer activi %s a Configuració &gt; Aplicacions instal·lades</string>
   <string name="enable_sd_card">Inserir la targeta SD o desactivar l\'emmagatzematge massiu USB.</string>
@@ -455,6 +455,7 @@
   <string name="prize_result_tip2">Les gemes van al vostre tresor</string>
   <string name="promot_enctypt_password">Introduïu la contrasenya utilitzada per desblocar el vostre dispositiu</string>
   <string name="qq_not_installed">"QQ no està instal·lat"</string>
+  <string name="recent_show">Recent</string>
   <string name="recommend">Recomanat</string>
   <string name="recommend_popup_title">Recomanacions</string>
   <string name="recommend_topic">Temes recomanades</string>
