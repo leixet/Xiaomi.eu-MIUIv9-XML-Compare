@@ -383,7 +383,7 @@ Proveu el següent per solucionar el problema:
   <string name="guide_title_three">Ús</string>
   <string name="guide_title_two">Podeu controlar el Mi TV/Mi Box a través de Wi-Fi</string>
   <string name="has_installed">Instal·lat</string>
-  <string name="hd_channel_preferred">Vídeo HD preferentment</string>
+  <string name="hd_channel_preferred">Descodificador HD</string>
   <string name="help">Utilitzeu l\'ajuda</string>
   <string name="history_none">"No n'heu vist cap de vídeo."</string>
   <string name="history_title">Historial</string>
@@ -445,8 +445,10 @@ Proveu el següent per solucionar el problema:
   <string name="just_used">Ara mateix</string>
   <string name="key_press_vibrate">Vibra en prèmer</string>
   <string name="ky_receive_audio_preferred">Reconeix els espectacles que escolteu automàticament</string>
+  <string name="ky_receive_audio_watching_tv">Esteu veient</string>
   <string name="last_bak_time">Darrera còpia de seguretat %1$s</string>
   <string name="last_use_frame">Fa %1$s</string>
+  <string name="launch_milive_tips">S\'està iniciant la transmissió en directe…</string>
   <string name="less_than_10m">&lt; 10 m</string>
   <string name="living_room">Sala d\'estar</string>
   <string name="loading_brand">Obtenint informació&#8230;</string>
@@ -569,6 +571,7 @@ Llavors responeu la pregunta"</string>
   <string name="mishopsdk_progress_loading">s\'està carregant...</string>
   <string name="mitv">TV Mi</string>
   <string name="mitv_assistant_setting_version">Versió de l\'assistent de TV Mi %1$s</string>
+  <string name="mitv_video">Mi TV en línia</string>
   <string name="mode">Mode</string>
   <string name="model_name">Model de dispositiu</string>
   <string name="month">Mes</string>
@@ -582,6 +585,7 @@ Llavors responeu la pregunta"</string>
   <string name="my_appointment">Les meves programacions</string>
   <string name="my_backup">Còpies de seguretat remotes</string>
   <string name="my_favorite">Protagonitzat per</string>
+  <string name="my_favorite_program">Programes preferits</string>
   <string name="my_notification">Notificacions</string>
   <string name="my_order">Les meves comandes</string>
   <string name="my_room">L\'habitació</string>
@@ -603,6 +607,7 @@ Llavors responeu la pregunta"</string>
   <string name="no_introduction">Sense descripció</string>
   <string name="no_ir_other_support">Encara podeu utilitzar el vostre dispositiu per controlar TV Mi o Descodificador Mi amb la Wi-Fi.</string>
   <string name="no_ir_support">No s\'han trobat dispositius IR</string>
+  <string name="no_milink_device">"No s'ha pogut trobar el dispositiu. Espereu un minut o dos i torneu-ho a provar."</string>
   <string name="no_network">"· Esteu connectat a internet"</string>
   <string name="no_program">Encara no hi ha res.</string>
   <string name="no_qq">Instal·leu primer QQ</string>
