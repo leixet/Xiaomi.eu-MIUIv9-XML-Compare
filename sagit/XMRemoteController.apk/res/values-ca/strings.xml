@@ -310,7 +310,7 @@ Proveu el següent per solucionar el problema:
   <string name="epg_no_video_tips">"No s'ha pogut trobar cap resultat. Torneu-ho a provar més tard."</string>
   <string name="epg_not_booked_program_time_left">预约 (还有%1$s播出)</string>
   <string name="epg_program_comment">Escriu un comentari</string>
-  <string name="epg_program_share">Comparteix %1$s</string>
+  <string name="epg_program_share">Comparteix %1$s amb un amic</string>
   <string name="epg_program_share_drama">Quedem per veure %3$s pel canal %1$s, que s\'emet a:.%2$s parlem dels protagonistes preferits, endevinem l\'argument, tot amb el comandament remot universal extern</string>
   <string name="epg_program_share_game">Mira amb mi: %3$s canal: %1$s, a les:%2$s.</string>
   <string name="epg_program_updated_to">S\'ha reproduït l\'episodi %1$d</string>
