@@ -24,10 +24,10 @@
   <string name="access_control_need_password">"%sBloqueig afegit amb èxit
   "</string>
   <string name="access_control_need_to_unlock_nofingerprint">Introduïu la contrasenya de desbloqueig</string>
-  <string name="action_button_text_100">Optimitza-ho</string>
+  <string name="action_button_text_100">Optimitza</string>
   <string name="action_button_text_60">Arregla</string>
   <string name="action_button_text_60_80">Arregla</string>
-  <string name="action_button_text_80_100">Optimitza-ho</string>
+  <string name="action_button_text_80_100">Optimitza</string>
   <string name="action_source_sms_title">SMS bloquejats</string>
   <string name="activity_title_antispam">Llista de bloqueig</string>
   <string name="activity_title_antivirus">Anàlisi de virus</string>
@@ -415,8 +415,8 @@
   <string name="btn_text_network_speed_detail">Connexió</string>
   <string name="btn_text_open_now">Activar</string>
   <string name="btn_text_optimize_extend_battery_time">Afegeix %s</string>
-  <string name="btn_text_optimize_manually">Optimitza-ho manualment</string>
-  <string name="btn_text_optimize_now">Optimitza-ho</string>
+  <string name="btn_text_optimize_manually">Optimitza manualment</string>
+  <string name="btn_text_optimize_now">Optimitza</string>
   <string name="btn_text_power_cleanup">Neteja intensiva</string>
   <string name="btn_text_quick_cleanup">Neteja</string>
   <string name="btn_text_quick_save_power">Refreda</string>
