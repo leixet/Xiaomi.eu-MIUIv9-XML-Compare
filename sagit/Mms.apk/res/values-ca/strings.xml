@@ -18,7 +18,7 @@
   <string name="add_smiley">Emoticona</string>
   <string name="add_timing">Programat</string>
   <string name="add_to_browser_favorite_failed">"No s'ha pogut afegir"</string>
-  <string name="add_to_browser_favorite_success">Afegit correctament</string>
+  <string name="add_to_browser_favorite_success">S\'ha afegit amb èxit</string>
   <string name="add_video">Afegeix vídeo</string>
   <string name="adding_attachments">Espereu mentre els elements s\'afegeixen a la presentació de diapositives.</string>
   <string name="adding_attachments_title">S\'estan afegint fitxers adjunts</string>
