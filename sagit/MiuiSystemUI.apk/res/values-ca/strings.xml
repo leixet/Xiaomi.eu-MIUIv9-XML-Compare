@@ -438,6 +438,8 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="recents_launch_disabled_message">"%s està desactivat en el mode segur."</string>
   <string name="recents_launch_error_message">"%s no s'ha pogut iniciar."</string>
   <string name="recents_multi_window_mode">Mode de pantalla dividida</string>
+  <string name="recents_multistack_add_stack_dialog_split_horizontal">Divideix horitzontalment</string>
+  <string name="recents_multistack_add_stack_dialog_split_vertical">Divideix verticalment</string>
   <string name="recents_stack_action_button_label">Esborra-ho tot</string>
   <string name="reject_call">Rebutjar trucada</string>
   <string name="remaining_length_format">Falten %1$s</string>
