@@ -277,9 +277,9 @@ Proveu el següent per solucionar el problema:
   <string name="epg_channel_operation_tip">Premeu el canal per editar-lo o afegir-lo als preferits</string>
   <string name="epg_channel_search_hint">Afegiur el nom/número de canal a cercar</string>
   <string name="epg_comment_action_bar_title">Comentari: %1$s</string>
-  <string name="epg_comment_agree_user">Com jo</string>
+  <string name="epg_comment_agree_user">us ha agradat</string>
   <string name="epg_comment_list_title">Comentaris (%1$d)</string>
-  <string name="epg_comment_no_reply">"Puntuació baixa, no ha rebut cap comentari positiu"</string>
+  <string name="epg_comment_no_reply">"Encara no heu rebut cap comentari."</string>
   <string name="epg_comment_reply">Respon</string>
   <string name="epg_detail_title_text">Descripció</string>
   <string name="epg_details_episode">Episodi %1$s</string>
