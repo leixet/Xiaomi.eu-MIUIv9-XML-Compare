@@ -65,7 +65,7 @@ Per esborrar l\'historial del Navegador, feu servir la configuració del Navegad
   <string name="recent_delete_negative">Cancel·la</string>
   <string name="recent_delete_positive">D\'acord</string>
   <string name="recent_delete_title">Amaga aplicacions</string>
-  <string name="recent_edit">Edició</string>
+  <string name="recent_edit">Edita</string>
   <string name="recent_edit_done">Fet</string>
   <string name="recent_filter_functions">Característiques desactivades</string>
   <string name="recent_function">Característiques</string>
