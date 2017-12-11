@@ -650,7 +650,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="miprofile_error_unknown">Error desconegut</string>
   <string name="miprofile_find_miprofile_title">Afegir perfil</string>
   <string name="miprofile_find_profile_batch_add">Afegir tots els perfils</string>
-  <string name="miprofile_find_profile_batch_finish">Acabar</string>
+  <string name="miprofile_find_profile_batch_finish">Finalitza</string>
   <string name="miprofile_find_profile_batch_request_failed">"No s'ha pogut afegir el perfil"</string>
   <string name="miprofile_find_profile_loading">Carregant&#8230;</string>
   <string name="miprofile_find_profile_no_recommend">No hi ha perfils recomanats</string>
