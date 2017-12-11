@@ -168,7 +168,7 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="particulate_matter_serious_exceeded">Molt alta</string>
   <string name="precipitation_degree_five">tempesta</string>
   <string name="precipitation_degree_four">intensa</string>
-  <string name="precipitation_degree_one">sense pluja</string>
+  <string name="precipitation_degree_one">Cap</string>
   <string name="precipitation_degree_three">moderada</string>
   <string name="precipitation_degree_two">lleugera</string>
   <string name="pressure_connect">%1$s mbar</string>
