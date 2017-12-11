@@ -604,10 +604,10 @@ Llavors responeu la pregunta"</string>
   <string name="no_ir_other_support">Encara podeu utilitzar el vostre dispositiu per controlar TV Mi o Descodificador Mi amb la Wi-Fi.</string>
   <string name="no_ir_support">No s\'han trobat dispositius IR</string>
   <string name="no_network">"· Esteu connectat a internet"</string>
-  <string name="no_program">Aquí no hi ha contingut</string>
+  <string name="no_program">Encara no hi ha res.</string>
   <string name="no_qq">Instal·leu primer QQ</string>
   <string name="no_save_brand_service">Afegeix altra vegada aquest comandament</string>
-  <string name="no_video">"No s'ha pogut trobar el contingut que voleu"</string>
+  <string name="no_video">"No s'ha pogut trobar resultats"</string>
   <string name="none">Buit</string>
   <string name="none_apk_note">No hi ha c
 ap arxiu d\'instal·lació</string>
@@ -734,7 +734,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_reg_using_other_phone">Register using other phone number</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Register using other phone number"</string>
   <string name="passport_reg_using_phone_number_prompt">Register with phone number</string>
-  <string name="passport_reg_via_sms_alert">La vostra companyia podria cobrar el missatge SMS usat per activar aquest servei.</string>
+  <string name="passport_reg_via_sms_alert">És possible que es requereixi un SMS sortint per activar aquest servei. El vostre operador li cobrarà per aquest missatge.</string>
   <string name="passport_reging">Creant compte&#8230;</string>
   <string name="passport_register">Crea un compte</string>
   <string name="passport_register_account_goto_email">Ves a la safata d\'entrada</string>
