@@ -46,7 +46,7 @@
   <string name="bind_phone_dialog_tip">"El teu vídeo pot participar en rànquings i guanyar premis. En el cas que guanyis alguna cosa, no podrem contactar-te fins que hagis posat el teu número de telèfon."</string>
   <string name="bind_phone_failed_tip">"No hem pogut afegir el teu número de telèfon"</string>
   <string name="bind_phone_success_tip">Número de telèfon afegit correctament</string>
-  <string name="bind_success_tip">Agregat amb èxit</string>
+  <string name="bind_success_tip">S\'ha afegit amb èxit</string>
   <string name="black_list">"Esteu blocat. Envieu el vostre comentari al fòrum de MIUI per conèixer el motiu."</string>
   <string name="can_not_send_with_too_many">"No es poden enviar tots aquests elements"</string>
   <string name="cancel">Cancel·la</string>
