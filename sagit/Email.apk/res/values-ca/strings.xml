@@ -1039,7 +1039,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="translation_no_result">No s\'han trobat resultats</string>
   <string name="translation_pronunciation_am">ArE</string>
   <string name="translation_pronunciation_other">Màquina</string>
-  <string name="translation_query_failure">"La cerca ha fallat"</string>
+  <string name="translation_query_failure">"No s'ha pogut trobar resultats"</string>
   <string name="translation_technology_support">Suport tècnic proveït per PowerWord</string>
   <string name="trash_folder_selection_title">Seleccioneu la carpeta d\'escombraries del servidor per %s</string>
   <string name="try_exchange_login">Iniciar sessió amb EXCHANGE</string>
