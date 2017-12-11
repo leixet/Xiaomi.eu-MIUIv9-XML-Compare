@@ -208,7 +208,7 @@
   <string name="resource_comment_upload_not_logined">Heu d\'iniciar la sessió primer</string>
   <string name="resource_comment_upload_success">El vostre comentari es mostrarà després d\'una breu revisió.</string>
   <string name="resource_continue">Següent</string>
-  <string name="resource_data_empty">El contingut està buit.</string>
+  <string name="resource_data_empty">No hi ha cap element.</string>
   <string name="resource_default">To per defecte</string>
   <string name="resource_default_name">Recurs</string>
   <string name="resource_delete">Elimina</string>
