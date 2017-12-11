@@ -4422,6 +4422,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="vibrate_input_devices_summary">Si està connectat, redirigeix la vibració al controlador de jocs.</string>
   <string name="vibrate_on_touch_title">Vibrar en tocar</string>
   <string name="vibrate_when_ringing_title">Vibra amb el so de trucada</string>
+  <string name="vip_list">Permet trucades entrants</string>
   <string name="virtual_keyboard_category">Teclat virtual</string>
   <string name="virtual_sim_category_title">Itinerància Mi</string>
   <string name="virtual_sim_description">Servei d\'itinerància internacional fiable</string>
