@@ -36,7 +36,7 @@
   <string name="ad_setting">Configuració AD</string>
   <string name="add_music">Afegeix cançons</string>
   <string name="add_to_last_of_playlist">Afegeix al final de la llista de reproducció</string>
-  <string name="add_to_playlist_successful">S\'ha afegit correctament</string>
+  <string name="add_to_playlist_successful">S\'ha afegit amb èxit</string>
   <string name="added_next_play">S\'ha afegit per reproduir-lo a continuació</string>
   <string name="alaka_required">Aquesta cançó no està disponible.</string>
   <string name="album_label">Àlbum</string>
