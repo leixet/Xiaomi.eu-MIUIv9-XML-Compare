@@ -61,24 +61,34 @@
     <item>TV</item>
     <item>CCTV</item>
   </string-array>
+  <string-array name="epg_program_genre">
+    <item></item>
+    <item></item>
+    <item>Entertainment</item>
+    <item></item>
+    <item>Esports</item>
+    <item>Per als nens</item>
+    <item>Notícies</item>
+    <item>Lifestyle</item>
+  </string-array>
   <string-array name="epg_program_tab">
     <item>Popular</item>
     <item>Movies</item>
     <item>Entertainment</item>
     <item>Programes de televisió</item>
-    <item>Sports</item>
-    <item>For kids</item>
-    <item>News</item>
+    <item>Esports</item>
+    <item>Per als nens</item>
+    <item>Notícies</item>
     <item>Lifestyle</item>
   </string-array>
   <string-array name="epg_program_tab_actionbar">
     <item>Programes més cercats</item>
     <item>Movies</item>
-    <item>Entertainment programs</item>
+    <item>Programes d\'entreteniment</item>
     <item>Programes de televisió</item>
-    <item>Sports</item>
-    <item>For kids</item>
-    <item>News</item>
-    <item>Lifestyle programs</item>
+    <item>Esports</item>
+    <item>Per als nens</item>
+    <item>Notícies</item>
+    <item>Programes d\'estil de vida</item>
   </string-array>
 </resources>
