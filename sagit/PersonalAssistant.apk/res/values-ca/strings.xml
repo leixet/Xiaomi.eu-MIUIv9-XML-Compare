@@ -670,7 +670,7 @@ Comproveu el número de seguiment."</string>
   <string name="notification_express_title">Activa les targetes de les aplicacions de compres</string>
   <string name="notification_title">S\'ha agregat als favorits</string>
   <string name="notification_title_fail">"No s'ha pogut afegir el pagament"</string>
-  <string name="notification_title_success">S\'ha afegit un pagament correctament</string>
+  <string name="notification_title_success">S\'ha afegit un pagament amb èxit</string>
   <string name="open_installed_app">Obre</string>
   <string name="opened">Activat</string>
   <string name="order_date_label">Data de la comanda: %1$s</string>
