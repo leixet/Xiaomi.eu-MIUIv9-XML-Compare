@@ -149,7 +149,7 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
   <string name="add_fingerprint_put_finger_msg">Poseu el dit en el lector fins que noteu una vibració.</string>
   <string name="add_fingerprint_put_finger_title">Afegiu una empremta</string>
   <string name="add_fingerprint_similar_fingerprint_input_error_msg">Moveu el dit una mica</string>
-  <string name="add_fingerprint_success_msg">S\'ha afegit correctament</string>
+  <string name="add_fingerprint_success_msg">S\'ha afegit amb èxit</string>
   <string name="add_fingerprint_text">Afegeix una empremta</string>
   <string name="add_fingerprint_toast_text">Poseu el dit al lector</string>
   <string name="add_front_fingerprint_instruction_msg">El sensor d\'empremtes dactilars està al botó Inici del dispositiu.</string>
