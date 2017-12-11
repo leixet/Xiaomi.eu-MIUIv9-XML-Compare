@@ -300,7 +300,7 @@ Proveu el següent per solucionar el problema:
   <string name="epg_load_more_latest_comment">Aconseguint més comentaris</string>
   <string name="epg_loading_hint">Canvieu els canals del descodificador utilitzant el telèfon</string>
   <string name="epg_more_comment_list_title">Més comentaris principals (%1$d)</string>
-  <string name="epg_name">Programes de televisió</string>
+  <string name="epg_name">Televisió en directe</string>
   <string name="epg_no_booking_data">No hi ha dades de la programació</string>
   <string name="epg_no_favorite_program">No hi ha cap element</string>
   <string name="epg_no_more_latest_comment">"No hi ha més comentaris"</string>
@@ -997,6 +997,7 @@ directament des de la vostra pantalla de bloqueig"</string>
   <string name="timer">Temporitzador</string>
   <string name="timer_turn_off">Programa l\'hora d\'aturada</string>
   <string name="timer_turn_on">Programa l\'hora d\'encesa</string>
+  <string name="title_hot_links">Enllaços populars</string>
   <string name="title_nodata_feedback">"No s'ha pogut obtenir la informació del dispositiu"</string>
   <string name="to_be_used_in_these_modes">&lt;%1$s &gt; només es pot utilitzar en mode %2$s</string>
   <string name="to_qq">Obriu QQ i uniu-vos al nostre grup</string>
@@ -1009,7 +1010,7 @@ directament des de la vostra pantalla de bloqueig"</string>
   <string name="turn_on">Engega</string>
   <string name="turn_on_timeing_time_tip">L\'AC s\'engegarà a les %1$s</string>
   <string name="tv_broadcast">TV i ràdio</string>
-  <string name="tv_live">Programes de televisió</string>
+  <string name="tv_live">Televisió en directe</string>
   <string name="tv_mirror">Mostra els controls</string>
   <string name="tv_mirror_intro">Mostra els controls de pantalla en mode horitzontal</string>
   <string name="tv_noresponse_tips">"El dispositiu no va respondre. Espereu un minut o dos i torneu-ho a provar."</string>
