@@ -458,7 +458,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="face_choose_tip">Trieu-la d\'un àlbum existent</string>
   <string name="face_confirm">Aquesta és la mateixa persona</string>
   <string name="face_move_dialog_title">Trieu un àlbum</string>
-  <string name="face_name_edit">Edició</string>
+  <string name="face_name_edit">Edita</string>
   <string name="face_name_input">Introduïu el nom</string>
   <string name="face_recommend">Recomanacions</string>
   <string name="fail_hint">"No s'ha pogut completar l'operació"</string>
@@ -698,7 +698,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="photo_editor_crop_rotation_format">%d°</string>
   <string name="photo_editor_doodle">Gargot</string>
   <string name="photo_editor_filter">Filtre</string>
-  <string name="photo_editor_label">Edició</string>
+  <string name="photo_editor_label">Edita</string>
   <string name="photo_editor_long_crop">Escapça</string>
   <string name="photo_editor_miui_beauty">Embellidor</string>
   <string name="photo_editor_miui_beauty_menu_eraser_blemish">Taques</string>
