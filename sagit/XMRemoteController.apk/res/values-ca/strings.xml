@@ -114,7 +114,7 @@
   <string name="bedroom">Dormitori</string>
   <string name="bind_stb">Continua vinculant el descodificador</string>
   <string name="bind_stb_dlg">Emparella el descodificador per canviar els canals</string>
-  <string name="bind_stb_dlg_2">Els descodificadors s\'ha de vincular</string>
+  <string name="bind_stb_dlg_2">Afegiu primer el descodificador</string>
   <string name="bind_stb_dlg_agree">Emparella</string>
   <string name="brand_search_box_hint">Selecciona fabricant</string>
   <string name="brand_title_all">Totes</string>
@@ -127,13 +127,14 @@
   <string name="by">"Amb el suport de "</string>
   <string name="by_position">Per ubicació</string>
   <string name="camera_shoot">Obturador</string>
-  <string name="cancel">Cancel·la</string>
+  <string name="cancel">Surt</string>
   <string name="cancel_select_all">Desselecciona</string>
   <string name="cancel_share">Deixa de compartir</string>
   <string name="cancel_share_done">S\'ha deixat de compartir</string>
   <string name="cancel_timer">Cancel·la temporitzador</string>
   <string name="cannot_be_used_in_current_mode">"No es pot utilitzar &lt;%1$s &gt; en el mode actual"</string>
   <string name="carrier_data">Informació del proveïdor</string>
+  <string name="cast_screen">TV Mi</string>
   <string name="catalyst_debugjs_off">Atura la depuració en Chrome</string>
   <string name="catalyst_element_inspector">Mostra l\'inspector</string>
   <string name="catalyst_element_inspector_off">Amaga l\'inspector</string>
@@ -159,6 +160,7 @@ Proveu el següent per solucionar el problema:
   <string name="catalyst_settings_title">Configuració del Catalyst Dev</string>
   <string name="catalyst_start_profile">Inicia el perfil</string>
   <string name="catalyst_stop_profile">Atura el perfil</string>
+  <string name="change_channel">Canvia el canal</string>
   <string name="change_to_channel">S\'està canviant [%1$s] %2$s</string>
   <string name="channel">Canal</string>
   <string name="channel_added_to_fav">%1$s afegit a preferits</string>
@@ -191,8 +193,8 @@ Proveu el següent per solucionar el problema:
   <string name="cool_mode">Tranquil</string>
   <string name="create_shortcut">Afegeix una drecera a la pàgina d\'inici</string>
   <string name="create_shortcut_cancel">No, gràcies</string>
-  <string name="create_shortcut_confirm">Crea</string>
-  <string name="create_shortcut_done">S\'ha creat correctament</string>
+  <string name="create_shortcut_confirm">Afegeix</string>
+  <string name="create_shortcut_done">S\'ha afegit amb èxit</string>
   <string name="create_shortcut_failed">"No s'ha pogut afegir la drecera. Assegureu-vos que el Control Mi té els permisos necessaris."</string>
   <string name="current_place">"Ubicació actual: "</string>
   <string name="current_play">Reproducció en curs:</string>
@@ -270,8 +272,9 @@ Proveu el següent per solucionar el problema:
   <string name="epg_bottom_subtitle_textview_str2">Premeu per veure el comandament</string>
   <string name="epg_bottom_title_textview_str">Premeu per emparellar el descodificador</string>
   <string name="epg_cancel_book_program">%1$s [%2$s] Anul·la</string>
-  <string name="epg_change_channel">Bescanvia canals</string>
+  <string name="epg_change_channel">Canvia el canal</string>
   <string name="epg_change_channel_casting">Canvia el canal (en emissió)</string>
+  <string name="epg_change_channel_expired">Canvia el canal (finalitzat)</string>
   <string name="epg_change_channel_not_casting">Canvia el canal (emès a %1$s)</string>
   <string name="epg_channel_group_open">Mostra-ho tot</string>
   <string name="epg_channel_operation_tip">Premeu el canal per editar-lo o afegir-lo als preferits</string>
