@@ -1554,7 +1554,7 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="fingerprint_unlock_set_unlock_pin">Empremta + PIN</string>
   <string name="fingerprint_usage_category_title">Ús de les empremtes per</string>
   <string name="finish_application">Força el tancament</string>
-  <string name="finish_button">finalitza</string>
+  <string name="finish_button">Finalitza</string>
   <string name="finish_button_label">Finalitza</string>
   <string name="firmware_version">Android</string>
   <string name="floating_window_switch_label">Activa les finestres flotants</string>
@@ -1813,7 +1813,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="key_gesture_function_dialog_message">%1$s és una drecera per a %2$s. Voleu reemplaça-la amb %3$s?</string>
   <string name="key_gesture_function_dialog_negative">Cancel·la</string>
   <string name="key_gesture_function_dialog_positive">Reemplaça</string>
-  <string name="key_gesture_function_optional">Gestos opcionals i botons</string>
+  <string name="key_gesture_function_optional">Gestos i botons opcionals</string>
   <string name="key_gesture_function_preview">Previsualitzacions de botons i gestos</string>
   <string name="key_gesture_function_shortcut">Dreceres funcionals</string>
   <string name="key_none">Cap</string>
@@ -2321,8 +2321,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_lab_gallery_search_title">Troba fotos a la galeria</string>
   <string name="miui_lab_settings">Laboratori MIUI</string>
   <string name="miui_lab_slogan">Aprèn. Explora. Descobreix.</string>
-  <string name="miui_lab_taplus_desc">Premeu i mantingueu premut per activar les dreceres</string>
-  <string name="miui_lab_taplus_title">Activador d\'aplicacions</string>
+  <string name="miui_lab_taplus_desc">Premeu i mantingueu premut per activar les accions</string>
   <string name="miui_screen_config_title">Configuració de la pantalla inicial</string>
   <string name="miui_updater">Actualització del sistema</string>
   <string name="mms_breathing_light_color_title">Color dels missatges</string>
@@ -2496,11 +2495,11 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="no_update_found">"S'està fent servir la darrera versió de MIUI"</string>
   <string name="no_updates_found">"S'està fent servir la darrera versió de MIUI"</string>
   <string name="no_updates_warning">El sistema ja està actualitzat</string>
-  <string name="no_updates_warning2">"No us amoïneu, ja us avisarem si hi ha alguna actualització :)"</string>
+  <string name="no_updates_warning2">"Us farem saber quan hi ha una actualització disponible."</string>
   <string name="no_vr_listeners">Cap aplicació instal·lada no ha sol·licitat que s\'executi com un servei d\'ajuda per a la realitat virtual.</string>
   <string name="noise_suppression">Supressió de soroll ambiental</string>
   <string name="normal">Normal</string>
-  <string name="normal_info">Tot el volum és normal</string>
+  <string name="normal_info">Tots els sons funcionaran normalment</string>
   <string name="normal_smartcover_title">Coberta frontal opaca</string>
   <string name="not_battery_optimizing">No s\'està fent servir l\'optimització de la bateria</string>
   <string name="not_installed">No s\'ha instal·lat per a aquest usuari</string>
@@ -2705,7 +2704,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="pointer_location_summary">Mostra les coordenades de toc</string>
   <string name="pointer_settings_category">Ratolí/ratolí tàctil</string>
   <string name="pointer_speed">Velocitat del punter</string>
-  <string name="popup_window">permet finestres emergents</string>
+  <string name="popup_window">Restringeix les notificacions flotants</string>
   <string name="power_autorun_apps_empty">Buit</string>
   <string name="power_autorun_empty">Buit</string>
   <string name="power_camera">Càmera</string>
