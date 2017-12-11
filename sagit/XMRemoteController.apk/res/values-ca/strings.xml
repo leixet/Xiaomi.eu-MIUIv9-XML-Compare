@@ -303,10 +303,10 @@ Proveu el següent per solucionar el problema:
   <string name="epg_name">Televisió en directe</string>
   <string name="epg_no_booking_data">No hi ha dades de la programació</string>
   <string name="epg_no_favorite_program">No hi ha cap element</string>
-  <string name="epg_no_more_latest_comment">"No hi ha més comentaris"</string>
+  <string name="epg_no_more_latest_comment">"Això és tot per ara"</string>
   <string name="epg_no_program_data">No hi ha dades de la programació</string>
   <string name="epg_no_search_result">No hi ha resultats de la cerca</string>
-  <string name="epg_no_sys_notification">Temporalment no hi ha sistema de notificació</string>
+  <string name="epg_no_sys_notification">Sense notificacions del sistema</string>
   <string name="epg_no_video_tips">"No s'ha pogut trobar cap resultat. Torneu-ho a provar més tard."</string>
   <string name="epg_not_booked_program_time_left">Reserva (comença en %1$s)</string>
   <string name="epg_program_comment">Afegeix un comentari</string>
