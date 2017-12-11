@@ -93,7 +93,7 @@
   <string name="comment_fail_banned_forever">"Heu estat expulsat de forma permanent per els comentaris inapropiats. Poseu-vos en contacte amb el nostre grup de QQ (374463568) per obtenir més informació."</string>
   <string name="comment_fail_banned_forever_positive">D\'acord</string>
   <string name="comment_fail_banned_temporary">"Heu estat expulsat de forma permanent per els comentaris inapropiats"</string>
-  <string name="comment_hint">Afegir comentari</string>
+  <string name="comment_hint">Afegiu un comentari</string>
   <string name="comment_reply">Resposta %1$s:&#160;</string>
   <string name="compress_fail">"No s'ha pogut comprimir. Ja existeix un fitxer amb el mateix nom."</string>
   <string name="compress_fail_unknown">"No s'ha pogut comprimir. Emmagatzematge complet o error desconegut."</string>
@@ -466,7 +466,7 @@
   <string name="repair_done">Restaurat</string>
   <string name="repair_error">"No s'ha pogut restaurar"</string>
   <string name="repair_file">Restaurar fitxers encriptats</string>
-  <string name="reply_success">Comentari afegit</string>
+  <string name="reply_success">S\'ha afegit un nou comentari</string>
   <string name="report_abuse">Abús</string>
   <string name="report_advertisement">Publicitat</string>
   <string name="report_other">Altres</string>
