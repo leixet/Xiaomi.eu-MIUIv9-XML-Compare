@@ -374,10 +374,10 @@ Proveu el següent per solucionar el problema:
   <string name="get_data_fail_tips">"No s'ha pogut obtenir dades, intenteu-ho de nou"</string>
   <string name="get_info_failed">"No s'ha pogut obtenir informació"</string>
   <string name="get_location_fail_tip">"No s'ha pogut determinar la ubicació, seleccioneu una ciutat"</string>
-  <string name="guid_one">· Connecta a la mateixa xarxa Wi-Fi que la del dispositiu de destinació</string>
-  <string name="guid_three">"· Alguns controls podrien no estar disponibles si el vostre televisor o descodificador no és compatible amb Android"</string>
-  <string name="guid_two">· Turn off router AP Isolation</string>
-  <string name="guid_zero">". El vostre dispositiu no és compatible amb dispositius d'IR."</string>
+  <string name="guid_one">Connecteu el dispositiu a la mateixa xarxa Wi-Fi que el telèfon.</string>
+  <string name="guid_three">"Alguns controls podrien no estar disponibles si el vostre televisor o descodificador no és compatible amb Android."</string>
+  <string name="guid_two">Els dispositius es detectaran i es mostraran en aquesta pàgina.</string>
+  <string name="guid_zero">"El dispositiu no admet els dispositius IR, però és compatible amb els controls remots Wi-Fi."</string>
   <string name="guide">Guia</string>
   <string name="guide_title_one">"El telèfon no pot controlar dispositius infrarojos"</string>
   <string name="guide_title_three">Ús</string>
