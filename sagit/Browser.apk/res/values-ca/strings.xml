@@ -573,7 +573,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="permissions_prompt_message">%s vol </string>
   <string name="popup_window_attempt">Voleu que aquest lloc pugui obrir una finestra emergent?</string>
   <string name="positive_confirm_message">Desactiva-ho de totes maneres</string>
-  <string name="pref_accept_quicklink_push">Retorna a la pàgina d\'inici</string>
+  <string name="pref_accept_quicklink_push">Servei de notícies</string>
   <string name="pref_accessibility">Accessibilitat</string>
   <string name="pref_accessibility_title">Accessibilitat</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Es poden introduir combinacions habituals de lletres totes de cop a la barra d\'adreces</string>
