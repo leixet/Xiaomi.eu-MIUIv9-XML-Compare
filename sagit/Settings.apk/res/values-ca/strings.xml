@@ -3725,8 +3725,8 @@ Per fer-ho:
 Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possible.»</string>
   <string name="stable_build">" | Estable"</string>
   <string name="standard">Silenci</string>
-  <string name="standard_info">No es permeten les trucades i les notificacions, només l\'alarma i la música</string>
-  <string name="start_silent_mode">Activa el Mode Silenciòs</string>
+  <string name="standard_info">Les trucades i les notificacions seran silenciades</string>
+  <string name="start_silent_mode">Activa el Mode silenci</string>
   <string name="starting_android">S\'està iniciant Android</string>
   <string name="status_awaiting_tap">Toca una etiqueta per escriure...</string>
   <string name="status_awake_time">Temps d\'activació</string>
@@ -3940,7 +3940,7 @@ Per a un millor rendiment, us recomanem que utilitzeu un ^1 més ràpid."</strin
   <string name="storageuse_settings_title">Ús de l\'emmagatzematge</string>
   <string name="strict_mode">Mode estricte activat</string>
   <string name="strict_mode_summary">Il·lumina la pantalla si les aplicacions fan tasques llargues en el procés principal</string>
-  <string name="suggest_unrestrict_max_aspect_ratio_title">Suggerim habilitar la relació d\'aspecte màxima</string>
+  <string name="suggest_unrestrict_max_aspect_ratio_title">Aquestes aplicacions funcionen millor en mode de pantalla completa</string>
   <string name="suggested_fingerprint_lock_settings_summary">Desbloqueig amb empremta</string>
   <string name="suggested_lock_settings_summary">Protegeix el dispositiu</string>
   <string name="suggested_lock_settings_title">Bloqueig de pantalla</string>
@@ -4046,6 +4046,7 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="three_gesture_down">Feu lliscar 3 dits cap avall</string>
   <string name="time_picker_title">Hora</string>
   <string name="time_zone_auto_stub">Selecciona el fus horari</string>
+  <string name="timed_titlei">Temporitzador %d</string>
   <string name="timer_switch_settings_title">Planificació d\'activació i desactivació</string>
   <string name="timezone_settings">Fus horari</string>
   <string name="title_color_calibration">Correcció predeterminada de color</string>
@@ -4080,7 +4081,7 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="track_frame_time">Perfil de la renderització de la GPU</string>
   <string name="trackball_settings">Punter</string>
   <string name="trackball_wake_title">Activació amb el punter</string>
-  <string name="traffic_balance">Estratègia de trànsit intel·ligent</string>
+  <string name="traffic_balance">Mode d\'ús de dades</string>
   <string name="transition_animation_scale_title">Escalat de l\'animació de transició</string>
   <string name="translation_contributors_title">Col·laboradors en la traducció</string>
   <string name="trusted_credentials">Certificats de confiança</string>
@@ -4225,7 +4226,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="unlock_set_unlock_summary">Configura un bloqueig de pantalla</string>
   <string name="unlock_setup_wizard_fingerprint_details">Quan hàgiu configurat un bloqueig de pantalla, també podeu configurar l\'empremta des de Configuració &gt; Seguretat.</string>
   <string name="unmount_inform_text">L\'emmagatzematge USB es desmuntarà.</string>
-  <string name="unrestrict_max_aspect_ratio_title">Compatibilitat amb la relació d\'aspecte màxima</string>
+  <string name="unrestrict_max_aspect_ratio_title">Aquestes aplicacions estan optimitzades per al mode de pantalla completa</string>
   <string name="unrestricted_app_summary">Permet dades sense restricció amb l\'estalvi de dades activat</string>
   <string name="unrestricted_app_title">Ús de dades sense restricció</string>
   <string name="unrestricted_data_saver">Accés a dades sense restricció</string>
