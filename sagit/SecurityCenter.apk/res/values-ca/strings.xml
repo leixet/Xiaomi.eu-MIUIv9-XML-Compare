@@ -21,8 +21,8 @@
   <string name="access_control_app_is_launching">L\'aplicació s\'està iniciant</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Es requereix la contrasenya per obrir aplicacions</string>
   <string name="access_control_fingerprint_not_identified_msg">"No s'ha pogut llegir l'empremta."</string>
-  <string name="access_control_need_password">"%sBloqueig afegit amb èxit
-  "</string>
+  <string name="access_control_need_password">"S\'ha afegit %s amb èxit
+"</string>
   <string name="access_control_need_to_unlock_nofingerprint">Introduïu la contrasenya de desbloqueig</string>
   <string name="action_button_text_100">Optimitza</string>
   <string name="action_button_text_60">Arregla</string>
