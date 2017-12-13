@@ -51,14 +51,6 @@
     <item>Quan el dispositiu està bloquejat o després de sortir de l\'aplicació</item>
     <item>Quan el dispositiu està bloquejat o un minut després de sortir de l\'aplicació</item>
   </string-array>
-  <string-array name="sort_type">
-    <item>Ordena pel nom</item>
-    <item>Ordena per la mida</item>
-    <item>Freqüència d\'ús</item>
-    <item>Emmagatzematge utilitzat</item>
-    <item>Data d\'instal·lació</item>
-    <item>Podeu desinstal·lar aquestes aplicacions</item>
-  </string-array>
   <string-array name="sort_title">
     <item>Ordena per estat</item>
     <item>Ordena pel nom de l\'aplicació</item>
