@@ -132,7 +132,7 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="recover_miui_settings">Restaura la configuració del sistema</string>
   <string name="recover_settings_description">Manteniu el dispositiu encès</string>
   <string name="recovering">S\'està restaurant %s</string>
-  <string name="remove_again">Torneu-ho a provar</string>
+  <string name="remove_again">Torna-ho a provar</string>
   <string name="remove_task_in_process">S\'està eliminant&#8230;</string>
   <string name="remove_task_unfinished">Encara no s\'ha eliminat</string>
   <string name="remove_unfinished">S\'està eliminant, torneu-ho a provar més tard</string>
