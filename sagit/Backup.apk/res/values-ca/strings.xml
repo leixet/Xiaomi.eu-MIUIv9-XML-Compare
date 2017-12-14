@@ -263,7 +263,7 @@ necessiteu carregar les dades en dispositius antics a l\'iCloud"</string>
   <string name="restore_progress">S\'està restaurant&#8230;</string>
   <string name="restore_report">Detalls de la restauració</string>
   <string name="restore_telephony_hit">La restauració reiniciarà l\'aplicació Telèfon.</string>
-  <string name="retry">Torna-hi</string>
+  <string name="retry">Torna-ho a provar</string>
   <string name="reverse_all">Esborra-ho tot</string>
   <string name="router_backup_hint">No apagueu el dispositiu</string>
   <string name="save_finish_with_failing_items">"S\'ha interromput la importació. S\'han importat algunes dades
@@ -435,7 +435,7 @@ Mantingueu els dispositius propers l\'un de l\'altre."</string>
   <string name="trans_receiving_completed">S\'han rebut les dades correctament</string>
   <string name="trans_restoring">S\'està restaurant&#8230;</string>
   <string name="trans_restoring_no_items">S\'estan sincronitzant elements</string>
-  <string name="trans_retry">Torna-hi</string>
+  <string name="trans_retry">Torna-ho a provar</string>
   <string name="trans_scan_invalid_qrcode">Codi QR no vàlid</string>
   <string name="trans_scan_qr_code_tips">Escanegeu el codi QR amb el dispositiu nou</string>
   <string name="trans_security_tips_message">"Algunes aplicacions no admeten Mi Mover."</string>
