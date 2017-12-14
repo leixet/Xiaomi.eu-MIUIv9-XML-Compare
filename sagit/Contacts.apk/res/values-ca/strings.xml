@@ -494,7 +494,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="hybrid_locating_fail">"No s'ha pogut accedir a la seva ubicació"</string>
   <string name="hybrid_network_unavaliable">"No s'ha pogut accedir a la xarxa"</string>
   <string name="hybrid_service_unavailiable">Sense servei</string>
-  <string name="hybrid_try_again">Intenta-ho de nou</string>
+  <string name="hybrid_try_again">Torna-ho a provar</string>
   <string name="hybrid_webpage_not_available">Pàgina web no està disponible</string>
   <string name="ic_menu_back">Enrere</string>
   <string name="ic_menu_done">Fet</string>
