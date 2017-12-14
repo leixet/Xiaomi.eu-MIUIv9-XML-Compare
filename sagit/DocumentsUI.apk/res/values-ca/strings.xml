@@ -23,7 +23,7 @@
   <string name="button_copy">Copia</string>
   <string name="button_dismiss">Descarta</string>
   <string name="button_move">Mou</string>
-  <string name="button_retry">Torna a provar-ho</string>
+  <string name="button_retry">Tornar-ho a provar</string>
   <string name="button_select">Selecciona</string>
   <string name="clipboard_files_cannot_paste">No s\'han pogut enganxar els fitxers seleccionats en aquesta ubicació.</string>
   <string name="close">Tanca</string>
