@@ -207,7 +207,7 @@
   <string name="contact_detail_miprofile_accept">Intercanviar targetes de contacte</string>
   <string name="contact_detail_miprofile_accept_fail_toast">"No s'han pogut intercanviar les targetes de contacte"</string>
   <string name="contact_detail_miprofile_accept_success_toast">Targetes de contacte intercanviades</string>
-  <string name="contact_detail_miprofile_binded_label">Verificada</string>
+  <string name="contact_detail_miprofile_binded_label">Verificat</string>
   <string name="contact_detail_miprofile_exchange_closed">"No hi ha cap número de telèfon associat amb aquest compte Mi
 Les targetes de contacte estan apagades"</string>
   <string name="contact_detail_miprofile_privacy_settings">Sol·licitar permís per veure</string>
