@@ -274,7 +274,7 @@
   <string name="no_contact_birthday_hint">No hi ha aniversaris a importar</string>
   <string name="no_events_hint">Cap esdeveniment</string>
   <string name="no_network">No hi ha xarxa. Intenteu actualitzar la xarxa de nou :)</string>
-  <string name="no_network_btn">Torneu-ho a provar</string>
+  <string name="no_network_btn">Torna-ho a provar</string>
   <string name="no_title_label">(Sense títol)</string>
   <string name="no_visiable_calendar_message">Cal que seleccioneu un compte de calendari. Premeu Afegeix el compte per continuar.</string>
   <string name="no_visiable_calendar_select_account">Afegeix un compte</string>
