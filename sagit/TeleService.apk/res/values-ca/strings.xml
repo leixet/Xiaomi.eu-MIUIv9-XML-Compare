@@ -687,7 +687,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="gsm_umts_options">Opcions de GSM/UMTS</string>
   <string name="hac_mode_summary">Activa compatibilitat amb audiòfons</string>
   <string name="hac_mode_title">Audiòfons</string>
-  <string name="handon_ringer_summary">Redueix el volum del so de trucada entrant quan el telèfon es posi dret. Aquesta reducció no funcionarà amb la vibració per trucades entrants.</string>
+  <string name="handon_ringer_summary">Redueix el volum del timbre per a la trucada entrant en apujar el telèfon.</string>
   <string name="handon_ringer_title">Deixa de sonar quan s\'agafi</string>
   <string name="hdcp_checking_dialog_title">Estableix el comportament de la comprovació d\'HDCP</string>
   <string name="hdcp_checking_title">S\'està comprovant l\'HDCP</string>
