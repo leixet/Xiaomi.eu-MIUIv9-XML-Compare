@@ -639,7 +639,7 @@
   <string name="upload_notification_compress_progress">Comprimint %1$s%%</string>
   <string name="upload_notification_compress_title">Comprimint vídeo⤦</string>
   <string name="upload_notification_failed">"No es va poder pujar"</string>
-  <string name="upload_notification_failed_content">Intentar novament</string>
+  <string name="upload_notification_failed_content">Torna-ho a provar</string>
   <string name="upload_notification_progress">Pujant (%1$s)%%</string>
   <string name="upload_notification_success">Pujat amb èxit</string>
   <string name="upload_notification_success_content">"El teu vídeo ha de ser ressenyat abans de ser compartit amb altres persones"</string>
@@ -740,9 +740,9 @@
   <string name="video_upload_btn">Següent</string>
   <string name="video_upload_btn_hint">Els vídeos MP$ hauran de tenir de 3s~10min de durada</string>
   <string name="video_upload_kuaishou_hint">Pugeu vídeos a KuaiShou per aconseguir més admiradors.</string>
-  <string name="video_upload_retry_confirm">Intentar de nou</string>
+  <string name="video_upload_retry_confirm">Torna-ho a provar</string>
   <string name="video_upload_retry_message">"No s'ha pogut pujar, intentar de nou?"</string>
-  <string name="video_upload_retry_title">Intentar de nou</string>
+  <string name="video_upload_retry_title">Torna-ho a provar</string>
   <string name="video_upload_title">Seleccionar vídeo</string>
   <string name="video_upload_wechat_hint">Pugeu vídeos a WeChat per aconseguir més admiradors.</string>
   <string name="video_uploaded">Pujat</string>
