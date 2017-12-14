@@ -581,7 +581,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="menu_bar_group_add">Afegir</string>
   <string name="menu_bar_group_delete">Elimina</string>
   <string name="menu_bar_group_rename">Canviar el nom</string>
-  <string name="menu_bar_group_ringtone">To de trucada de grup</string>
+  <string name="menu_bar_group_ringtone">To de trucada</string>
   <string name="menu_bar_group_ringtone_largeui">To de trucada</string>
   <string name="menu_bar_group_sms">Grup SMS</string>
   <string name="menu_call">Trucar a contacte</string>
@@ -620,7 +620,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="menu_select_none">Desselecciona-ho tot</string>
   <string name="menu_sendSMS">Contacte de text</string>
   <string name="menu_sendTextMessage">Envia el missatge de text</string>
-  <string name="menu_set_ring_tone">Ajustar el to de trucada</string>
+  <string name="menu_set_ring_tone">Estableix el to de trucada</string>
   <string name="menu_settings">Configuració</string>
   <string name="menu_share">Comparteix</string>
   <string name="menu_show_all_calls">Mostra totes les trucades</string>
