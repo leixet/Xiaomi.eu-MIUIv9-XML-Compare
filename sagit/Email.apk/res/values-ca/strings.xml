@@ -998,7 +998,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="sync_contacts_req_per_ignored">Permeteu que el correu accedeixi als contactes per sincronitzar</string>
   <string name="sync_error">"No s'ha pogut sincronitzar."</string>
   <string name="sync_error_message">"El dispositiu no té prou espai d'emmagatzematge per sincronitzar."</string>
-  <string name="syncing_wait_restart">Feu clic a reintenta</string>
+  <string name="syncing_wait_restart">Torna-ho a provar</string>
   <string name="syncing_wait_restart_title">\"La connexió del servidor ha caducat 
   No es pot carregar el missatge\"</string>
   <string name="system_account_create_failed">"No s'ha pogut crear el compte. Tornar a provar."</string>
@@ -1074,7 +1074,7 @@ Toqui \" Sincronitza ara per sincronitzar el correu una vegada, o Canviar la con
   <string name="wait_for_sync_title">A l\'espera de sincronització</string>
   <string name="webview_logout">Podeu tornar a iniciar la sessió</string>
   <string name="webview_logout_cancel">No ho tornaré a provar</string>
-  <string name="webview_logout_sure">Prova-ho una vegada més</string>
+  <string name="webview_logout_sure">Torna-ho a provar</string>
   <string name="webview_sslerror_handle_cancel">Cancel·la</string>
   <string name="webview_sslerror_handle_continue">Continua</string>
   <string name="webview_sslerror_handle_hitmessage">Error de certificat! Voleu continuar en aquest lloc web (no recomanat)?</string>
