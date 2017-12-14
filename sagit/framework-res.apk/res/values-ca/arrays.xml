@@ -53,7 +53,7 @@
     <item>%s trucades Wi-Fi</item>
   </string-array>
   <string-array name="fingerprint_acquired_vendor">
-    <item>Torneu-ho a provar</item>
+    <item>Torna-ho a provar</item>
     <item></item>
     <item></item>
     <item>Cobriu el lector d\'empremtes per complet i apliqueu pressió</item>
