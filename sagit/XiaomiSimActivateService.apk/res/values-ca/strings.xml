@@ -110,7 +110,7 @@ Introduïu el número de telèfon associat amb la vostra targeta SIM nova per a 
   <string name="explain_send_sms_permission_button">Verifica</string>
   <string name="explain_send_sms_permission_msg">Per activar %s, el servei Framework de Xiaomi enviarà un SMS per verificar el vostre número de telèfon. Se us cobrarà per l\'SMS enviat segons les tarifes de la vostra companyia.</string>
   <string name="explain_send_sms_permission_title">Verifiqueu el vostre número de telèfon</string>
-  <string name="phone_get_processing">s\'està obtenint…</string>
+  <string name="phone_get_processing">S\'està obtenint…</string>
   <string name="phone_get_text">Voleu que %1$s obtingui el número de telèfon (%2$ss)?</string>
   <string name="phone_get_title">Permet a %1$s obtenir el número de telèfon</string>
   <string name="phone_verify_processing">s\'està verificant…</string>
