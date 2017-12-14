@@ -205,7 +205,7 @@
   <string name="contextmenu_share_image">Comparteix la imatge</string>
   <string name="contextmenu_sharelink">Comparteix l\'enllaç</string>
   <string name="contextmenu_view_image">Mostra la imatge</string>
-  <string name="contextmenu_webpage_capture">Desa com a captura de pantalla</string>
+  <string name="contextmenu_webpage_capture">Captura de pantalla</string>
   <string name="contextmenu_webpage_html">Desa com a fitxer HTML</string>
   <string name="contextmenu_webpage_snapshot">Desa la pàgina</string>
   <string name="copy_to_clipboard_failure_message">"No s'ha pogut copiar al porta-retalls"</string>
