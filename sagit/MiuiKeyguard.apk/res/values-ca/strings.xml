@@ -61,7 +61,7 @@
   <string name="fingerprint_not_identified_msg">Per desbloquejar el dispositiu, introduïu la contrasenya.</string>
   <string name="fingerprint_not_identified_title">Introduïu la contrasenya</string>
   <string name="fingerprint_try_again_msg">"No s'ha pogut verificar l'empremta, torneu-ho a provar."</string>
-  <string name="fingerprint_try_again_text">Torneu a provar-ho</string>
+  <string name="fingerprint_try_again_text">Torna-ho a provar</string>
   <string name="forget_password_string">He oblidat la contrasenya</string>
   <string name="incorrect_pincode">Codi PIN incorrecte</string>
   <string name="incorrect_pukcode">Codi PUK incorrecte</string>
