@@ -676,7 +676,7 @@
   <string name="radar_fail_by_noise">"Massa soroll per reconèixer cançons"</string>
   <string name="radar_listening_state">S\'està identificant&#8230;</string>
   <string name="radar_possible_result">Possibles resultats</string>
-  <string name="radar_retry">Torneu a provar-ho</string>
+  <string name="radar_retry">Torna-ho a provar</string>
   <string name="radar_searching_state">S\'està cercant&#8230;</string>
   <string name="radar_support_by">Desenvolupat per ACRCloud</string>
   <string name="really_pay">Voleu pagar ara?</string>
@@ -714,7 +714,7 @@
   <string name="resume_download">Reprèn</string>
   <string name="retry">Torna-ho a intentar</string>
   <string name="retry_after_network_available">"No es pot connectar a la xarxa. Comproveu la connexió de dades i torneu-ho a provar."</string>
-  <string name="retry_download">Torneu a provar-ho</string>
+  <string name="retry_download">Torna-ho a provar</string>
   <string name="ringtone_not_support">"Aquest format de cançó no és compatible"</string>
   <string name="root_downloads">Baixades</string>
   <string name="save">Desa</string>
