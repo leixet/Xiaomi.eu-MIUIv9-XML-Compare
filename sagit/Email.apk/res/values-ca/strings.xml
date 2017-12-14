@@ -46,7 +46,7 @@
   <string name="account_settings_mail_check_frequency_label">Freqüència de sincronització</string>
   <string name="account_settings_mibill_resolve_label">Analitzar declaracions email</string>
   <string name="account_settings_name_label">El seu nom</string>
-  <string name="account_settings_notifications">Configuració de les notificacions</string>
+  <string name="account_settings_notifications">Notifications</string>
   <string name="account_settings_notify_label">Notificacions de correu electrònic</string>
   <string name="account_settings_notify_summary">Envia una notificació quan arribi email</string>
   <string name="account_settings_param">Configuració del compte</string>
