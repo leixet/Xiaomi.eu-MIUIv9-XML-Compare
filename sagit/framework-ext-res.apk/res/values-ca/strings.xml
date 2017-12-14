@@ -57,7 +57,7 @@
   <string name="global_actions_shutdown">Apaga</string>
   <string name="global_actions_silent_mode">Mode silenci</string>
   <string name="group_name_contacts">Contactes</string>
-  <string name="group_name_coworkers">Companys</string>
+  <string name="group_name_coworkers">Companys de feina</string>
   <string name="group_name_family">Família</string>
   <string name="group_name_friends">Amics</string>
   <string name="handy_mode_enter_dlg_msg">Voleu accedir al mode operació amb una mà?</string>
