@@ -108,7 +108,7 @@
   <string name="download_speed">Velocitat de baixada:</string>
   <string name="download_spend_time">Temps</string>
   <string name="download_status_continue">Reprèn</string>
-  <string name="download_status_fail">Torneu a provar-ho</string>
+  <string name="download_status_fail">Torna-ho a provar</string>
   <string name="download_status_paused">Pausa</string>
   <string name="download_success">Completada</string>
   <string name="download_title">Baixades</string>
