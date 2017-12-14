@@ -1172,7 +1172,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="om_settings_memory_clean_lock_screen">Esborra la memòria cau quan s\'apagui la pantalla</string>
   <string name="om_settings_memory_occupy_notify">Memòria cau molt grossa</string>
   <string name="om_settings_memory_occupy_notify_never">Mai</string>
-  <string name="om_settings_notify_manage">Notifications</string>
+  <string name="om_settings_notify_manage">Notificacions</string>
   <string name="om_settings_speed_up_auto">Augment de velocitat automàtic</string>
   <string name="om_settings_title">Configuració d\'optimització</string>
   <string name="open_activity_err">No s\'ha trobat l\'aplicació</string>
