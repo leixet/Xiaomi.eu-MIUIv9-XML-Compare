@@ -211,7 +211,7 @@
   <string name="recharge_pay">Recarrega</string>
   <string name="recharge_pay_hint_license">Avís de recàrrega</string>
   <string name="recharge_payment_error">S\'ha tancat la comanda o hi ha hagut un error</string>
-  <string name="recharge_payment_result_failed_summary">Torneu a provar-ho</string>
+  <string name="recharge_payment_result_failed_summary">Torna-ho a provar</string>
   <string name="recharge_payment_result_failed_title">"No s'ha pogut recarregar"</string>
   <string name="recharge_payment_result_ok_summary">Confirmeu que aquesta quantitat es reflecteix en el vostre saldo.</string>
   <string name="recharge_payment_result_ok_title">S\'han afegit %s iuans</string>
@@ -253,7 +253,7 @@ Total: %3$s iuans"</string>
   <string name="smart_antispam">Identitat de trucada</string>
   <string name="toast_finish_delete_call_log">S\'ha eliminat el registre de trucades</string>
   <string name="toast_text_copied">S\'ha copiat el text</string>
-  <string name="try_again">Torna a provar-ho</string>
+  <string name="try_again">Torna-ho a provar</string>
   <string name="turn_off_hint_title">Voleu desactivat la identitat de trucades?</string>
   <string name="turn_off_phone_event_hint">"No podreu veure informació de números desconeguts."</string>
   <string name="turn_off_smart_antispam_hint">"No podreu veure informació de trucades de números desconeguts."</string>
