@@ -29,7 +29,7 @@
   <string name="card_data_request_error">Excepció de sol·licitud de dades, torneu-ho a provar més tard~</string>
   <string name="card_loading">Un moment…</string>
   <string name="card_no_network">"Ara no hi ha xarxa, connecteu-la i torneu-ho a intentar~"</string>
-  <string name="card_retry">Reintenta</string>
+  <string name="card_retry">Torna-ho a provar</string>
   <string name="change_host_hint">Canvia l\'amfitrió</string>
   <string name="change_wallpaper">Fons de pantalla</string>
   <string name="close">Tanca</string>
@@ -62,7 +62,7 @@
   <string name="find_more_wallpapers">Troba\'n més</string>
   <string name="gift_anonymous">Anònim</string>
   <string name="gift_operation_fail_dlg_abandon">Cancel·la</string>
-  <string name="gift_operation_fail_dlg_retry">Torneu a provar-ho</string>
+  <string name="gift_operation_fail_dlg_retry">Torna-ho a provar</string>
   <string name="gift_operation_waiting">Un moment…</string>
   <string name="gift_owned">Comprat</string>
   <string name="gift_present">Regala</string>
@@ -158,7 +158,7 @@
   <string name="purchased_list_legacy">Temes heretats</string>
   <string name="recently_used">Utilitzats recentment</string>
   <string name="region_not_support">"Els temes no són compatibles amb la vostra regió."</string>
-  <string name="reload">Torneu a provar-ho</string>
+  <string name="reload">Torna-ho a provar</string>
   <string name="resource_account_abnormal_state">Error en el compte. Espereu un o dos minuts i torneu-ho a provar.</string>
   <string name="resource_account_fail_to_add">"No es pot afegir el compte"</string>
   <string name="resource_account_login">Inicia la sessió</string>
