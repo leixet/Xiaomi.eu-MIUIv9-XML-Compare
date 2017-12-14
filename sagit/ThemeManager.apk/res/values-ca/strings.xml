@@ -96,13 +96,14 @@
   <string name="hide_incompatible">Oculta %1$s incompatibles</string>
   <string name="home_apply_failured">"No es pot aplicar el fons de la pantalla d'inici"</string>
   <string name="home_apply_success">S\'ha aplicat el fons de pantalla d\'inici</string>
-  <string name="in_the_end">No hi ha més</string>
+  <string name="in_the_end">No hi ha més elements a mostrar</string>
   <string name="incompatible_dialog_message">Aquest tema no és del tot compatible amb MIUI 8. Alguns elements es poden mostrar incorrectament.</string>
   <string name="incompatible_dialog_ok">D\'acord</string>
   <string name="incompatible_dialog_title">Problemes de compatibilitat</string>
   <string name="is_setting_wallpaper_message">S\'està establint el fons de pantalla&#8230;</string>
-  <string name="item_resource_audio_optional_color_ring">color de l\'anell</string>
-  <string name="item_resource_audio_optional_notification_ring">anell de notificació</string>
+  <string name="item_resource_audio_optional_alarm_ring">Alarmes</string>
+  <string name="item_resource_audio_optional_color_ring">To de retorn de trucada</string>
+  <string name="item_resource_audio_optional_notification_ring">Notificacions</string>
   <string name="live_wallpaper">Fons de pantalla animat</string>
   <string name="loading">Un moment…</string>
   <string name="loading_resource_detail_fail">"No es pot carregar el recurs"</string>
@@ -153,6 +154,7 @@
   <string name="provision_second_title">Seleccioneu un dels cinc temes per defecte</string>
   <string name="provision_title">Trieu un tema</string>
   <string name="purchased_list">Comprats</string>
+  <string name="purchased_list_current">Temes optimitzats</string>
   <string name="purchased_list_legacy">Temes heretats</string>
   <string name="recently_used">Utilitzats recentment</string>
   <string name="region_not_support">"Els temes no són compatibles amb la vostra regió."</string>
@@ -164,7 +166,7 @@
   <string name="resource_account_login_title">Inicia la sessió</string>
   <string name="resource_account_switch">Canvia</string>
   <string name="resource_alarm_default">Alarma</string>
-  <string name="resource_app_name">Explorador de recursos</string>
+  <string name="resource_app_name">Mostra els recursos</string>
   <string name="resource_apply">Aplica</string>
   <string name="resource_apply_trial">Prova-ho ara</string>
   <string name="resource_back">Torna</string>
