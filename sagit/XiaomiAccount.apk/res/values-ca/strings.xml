@@ -336,7 +336,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_restart">Torna a començar</string>
   <string name="passport_restart_register_prompt">Pot ser que sigui necessari un altre missatge de verificació per crear el vostre compte.</string>
   <string name="passport_restart_register_title">Crea un compte Mi</string>
-  <string name="passport_retry">Torneu-ho a provar</string>
+  <string name="passport_retry">Torna-ho a provar</string>
   <string name="passport_select_reg_ways_title">Altres vies per inscriure\'s</string>
   <string name="passport_select_the_login_account">Seleccioneu el compte per iniciar la sessió</string>
   <string name="passport_select_the_recycle_phone_login">Seleccioneu el vostre compte</string>
