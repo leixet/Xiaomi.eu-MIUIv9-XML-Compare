@@ -150,7 +150,7 @@
   <string name="backup_sync_dialog_confirm">Activa</string>
   <string name="backup_sync_dialog_tips">Activeu la sincronització amb Mi Cloud per canviar la configuració de les còpies de seguretat.</string>
   <string name="backup_sync_dialog_title">Sincronització desactivada</string>
-  <string name="backup_sync_error_btn_text">Torneu-ho a provar</string>
+  <string name="backup_sync_error_btn_text">Torna-ho a provar</string>
   <string name="backup_sync_error_desc">"No s'ha pogut connectar al Mi Cloud"</string>
   <string name="backup_sync_error_title">"No s'han pogut sincronitzar els elements"</string>
   <string name="backup_sync_off_btn_text">Activa</string>
@@ -534,7 +534,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="hybrid_pull_to_refresh_refreshing_label">Un moment…</string>
   <string name="hybrid_pull_to_refresh_release_label">Deixeu anar per actualitzar&#8230;</string>
   <string name="hybrid_service_unavailiable">Servei no disponible</string>
-  <string name="hybrid_try_again">Torneu a provar-ho</string>
+  <string name="hybrid_try_again">Torna-ho a provar</string>
   <string name="ignore_album">"No el mostris"</string>
   <string name="ignore_alert_title">"Voleu deixar de mostrar aquest àlbum? Premeu a dalt a la dreta per mostrar les fotos que heu ignorat."</string>
   <string name="ignore_face">Ignora aquesta persona</string>
