@@ -185,7 +185,7 @@
   <string name="michat_skillset_business_type_title">Seleccioneu un servei</string>
   <string name="michat_skillset_product_title">Seleccioneu un producte</string>
   <string name="michat_transfer_message">S\'està cercant a una persona per a que us ajudi&#8230;</string>
-  <string name="michat_try_again">Torneu a provar-ho</string>
+  <string name="michat_try_again">Torna-ho a provar</string>
   <string name="michat_type_list_null">"No s'ha pogut obtenir la informació, torneu-ho a provar més tard"</string>
   <string name="michat_type_picture">Imatge</string>
   <string name="michat_user_quit">Heu sortit del xat</string>
@@ -218,13 +218,13 @@
   <string name="modules">Trieu un element</string>
   <string name="multi_graph_more">Total d\'elements: %d</string>
   <string name="network_err">"No es pot connectar a la xarxa."</string>
-  <string name="network_errorbtntip_custom">Torneu a provar-ho</string>
+  <string name="network_errorbtntip_custom">Torna-ho a provar</string>
   <string name="network_errorbtntip_login">Inicia la sessió</string>
   <string name="network_errorbtntip_noconnection">Comproveu la configuració de xarxa</string>
-  <string name="network_errorbtntip_parse">Torneu a provar-ho</string>
-  <string name="network_errorbtntip_server">Torneu a provar-ho</string>
-  <string name="network_errorbtntip_timeout">Torneu a provar-ho</string>
-  <string name="network_errorbtntip_unknow">Torneu a provar-ho</string>
+  <string name="network_errorbtntip_parse">Torna-ho a provar</string>
+  <string name="network_errorbtntip_server">Torna-ho a provar</string>
+  <string name="network_errorbtntip_timeout">Torna-ho a provar</string>
+  <string name="network_errorbtntip_unknow">Torna-ho a provar</string>
   <string name="network_errortip_custom">Error de personalització</string>
   <string name="network_errortip_login">Inicieu la sessió primer</string>
   <string name="network_errortip_noconnection">"No s'ha pogut connectar a la xarxa, comproveu la configuració"</string>
@@ -303,7 +303,7 @@
   <string name="toast_screenshot_too_large">"No es poden penjar fitxers de més de 10 MB."</string>
   <string name="toast_third_packagename_required">Introduïu el nom de l\'aplicació</string>
   <string name="toast_title_required">Descriviu el problema</string>
-  <string name="try_again">Torneu a provar-ho</string>
+  <string name="try_again">Torna-ho a provar</string>
   <string name="upload_log_failed">"La pujada dels registres ha fallat"</string>
   <string name="warning_field_empty">Introduïu %1$s</string>
   <string name="warning_field_invalid">Seleccioneu un %1$s vàlid</string>
