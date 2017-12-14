@@ -280,7 +280,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="app_notification_visibility_override_title">A la pantalla de bloqueig</string>
   <string name="app_notifications_dialog_done">Fet</string>
   <string name="app_notifications_switch_label">Notificacions personalitzades</string>
-  <string name="app_notifications_title">Notificacions de les aplicacions</string>
+  <string name="app_notifications_title">Notificacions</string>
   <string name="app_ops_never_used">(No s\'ha fet servir mai)</string>
   <string name="app_ops_permiss_name">Accés a la xarxa de l\'aplicació</string>
   <string name="app_ops_running">S\'està executant</string>
