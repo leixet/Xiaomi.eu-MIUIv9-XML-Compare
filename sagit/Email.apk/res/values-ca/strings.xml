@@ -179,7 +179,7 @@
   <string name="archive">Fitxer</string>
   <string name="archived">Arxivat</string>
   <string name="att_download_failed_content">"No s'ha pogut baixar el fitxer adjunt d'aquest missatge."</string>
-  <string name="att_download_failed_network_slow">Xarxa lenta, si us plau descàrrega més tard</string>
+  <string name="att_download_failed_network_slow">La velocitat de connexió és massa lenta, torneu-ho a provar més tard</string>
   <string name="att_download_failed_permission_denied">"No tens autorització per accedir a emmagatzematge extern"</string>
   <string name="att_download_failed_title">"No s'ha pogut baixar l'adjunt"</string>
   <string name="att_file_not_exists">"No s'ha trobat %s"</string>
