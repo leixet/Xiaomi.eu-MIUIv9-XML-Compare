@@ -456,7 +456,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="battery_level_title">Nivell de la bateria</string>
   <string name="battery_light_summary">Activa el LED de notificació mentre el dispositiu s\'està carregant</string>
   <string name="battery_light_title">Activa el llum quan s\'està carregant</string>
-  <string name="battery_msg_unaccounted">L\'ús de la bateria és aproximat i no inclou totes les fonts de descàrrega. Hi pot haver diferències entre el consum real i el calculat.</string>
+  <string name="battery_msg_unaccounted">L\'ús de la bateria és una aproximació de l\'ús d\'energia i no inclou totes les fonts de drenatge de la bateria. Miscel·lània és la diferència entre l\'ús aproximat d\'energia calculada i el drenatge real observat a la bateria.</string>
   <string name="battery_saver">Estalvi de la bateria</string>
   <string name="battery_saver_desc_turn_on_auto_never">No ho activis mai automàticament</string>
   <string name="battery_saver_desc_turn_on_auto_pct">Activa-ho automàticament quan quedi un %1$s de bateria</string>
