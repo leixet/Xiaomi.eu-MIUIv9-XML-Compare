@@ -381,7 +381,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="total_speedup">Augment de velocitat (total)</string>
   <string name="turn_off_xunlei_message">Pot ser que la velocitat de baixada sigui baixa.</string>
   <string name="turn_off_xunlei_tips">L\'accelerador de baixades Xunlei està desactivat</string>
-  <string name="turn_off_xunlei_title">Desactivar motor de descàrrega Xunlei</string>
+  <string name="turn_off_xunlei_title">Desactiva el motor de baixada Xunlei</string>
   <string name="unbind_xunlei_2_success">Compte Xunlei afegida</string>
   <string name="unbind_xunlei_success">Sessió acabada en compte Xunlei</string>
   <string name="valid_in_this_month">Només vàlid aquest mes</string>
