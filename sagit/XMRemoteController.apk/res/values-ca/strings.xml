@@ -447,7 +447,7 @@ Proveu el següent per solucionar el problema:
   <string name="jump_to_mivideo">Visionat en un dispositiu mòbil</string>
   <string name="just_now">Ara mateix</string>
   <string name="just_used">Ara mateix</string>
-  <string name="key_press_vibrate">Vibra en prèmer</string>
+  <string name="key_press_vibrate">Vibra en prémer</string>
   <string name="ky_receive_audio_preferred">Reconeix els espectacles que escolteu automàticament</string>
   <string name="ky_receive_audio_watching_tv">Esteu veient</string>
   <string name="last_bak_time">Darrera còpia de seguretat %1$s</string>
