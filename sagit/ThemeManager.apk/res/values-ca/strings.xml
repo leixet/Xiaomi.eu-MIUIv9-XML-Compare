@@ -18,7 +18,7 @@
   <string name="audio_duration_seconds_format">%1$d segons</string>
   <string name="backup_theme_dialog_message">Voleu fer una còpia de seguretat del tema actual?</string>
   <string name="backup_theme_dialog_ok">Còpia de seguretat</string>
-  <string name="backup_theme_fail_trial_rights_message">"No es pot fer una còpia de seguretat dels recursos de prova"</string>
+  <string name="backup_theme_fail_trial_rights_message">"No es pot fer una còpia de seguretat dels elements de prova"</string>
   <string name="backup_theme_name">Còpia de seguretat del tema</string>
   <string name="backup_theme_progress_message">S\'està fent la còpia de seguretat&#8230;</string>
   <string name="backup_theme_success_message">S\'ha realitzat la còpia de seguretat del tema.</string>
@@ -26,9 +26,9 @@
   <string name="both_all_apply_success">S\'ha aplicat el fons de pantalla</string>
   <string name="browser_local_resource">Recursos locals</string>
   <string name="can_not_apply">No es pot aplicar</string>
-  <string name="card_data_request_error">Excepció de sol·licitud de dades, torneu-ho a provar més tard~</string>
+  <string name="card_data_request_error">Hi ha hagut un error. Espereu un minut o dos i torneu-ho a provar.</string>
   <string name="card_loading">Un moment…</string>
-  <string name="card_no_network">"Ara no hi ha xarxa, connecteu-la i torneu-ho a intentar~"</string>
+  <string name="card_no_network">"No s'ha pogut connectar a la xarxa. Comproveu la configuració i torneu-ho a provar."</string>
   <string name="card_retry">Torna-ho a provar</string>
   <string name="change_host_hint">Canvia l\'amfitrió</string>
   <string name="change_wallpaper">Fons de pantalla</string>
