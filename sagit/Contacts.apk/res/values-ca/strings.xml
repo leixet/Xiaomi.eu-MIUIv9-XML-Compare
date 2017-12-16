@@ -364,7 +364,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="dial">Marcar</string>
   <string name="dialerDialpadHintText">Marca per afegir una trucada</string>
   <string name="dialerIconLabel">Recents</string>
-  <string name="dialerKeyboardHintText">Utilitza teclat per marcar</string>
+  <string name="dialerKeyboardHintText">Utilitza el teclat per marcar</string>
   <string name="dialer_addAnotherCall">Afegeix trucada</string>
   <string name="dialer_copy_view_delete_description">Esborra el número copiat</string>
   <string name="dialer_digits_copy_number_label">Número copiat</string>
