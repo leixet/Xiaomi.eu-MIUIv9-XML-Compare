@@ -1475,8 +1475,8 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="erase_optional">Contingut</string>
   <string name="erase_personal_data">Tots el fitxers del telèfon</string>
   <string name="erase_personal_data_description">Esborra la informació del compte Mi, dades d\'aplicació i configuració del sistema</string>
-  <string name="erase_sd_data">Formata la targeta SD</string>
-  <string name="erase_sd_data_description">S\'esborraran tots els fitxers i dades de la targeta SD</string>
+  <string name="erase_sd_data">Formata la targeta SD simulada</string>
+  <string name="erase_sd_data_description">S\'esborraran totes les dades de la targeta SD</string>
   <string name="erase_sure">Dades personals</string>
   <string name="error_apn_empty">L\'APN no pot quedar buit.</string>
   <string name="error_mcc_not3">El camp MCC ha de tenir 3 dígits.</string>
@@ -1529,8 +1529,8 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="fingerprint_enable_keyguard_toggle_title">bloqueig de pantalla</string>
   <string name="fingerprint_enroll_button_add">Afegeix-ne un altre</string>
   <string name="fingerprint_enroll_button_next">Següent</string>
-  <string name="fingerprint_first_open_screen_password_face_tittle">Biometria (establiu la contrasenya de la pantalla de bloqueig abans d\'usar-la)</string>
-  <string name="fingerprint_first_open_screen_password_tittle">Empremta tàctil (cal utilitzar contrasenya a la pantalla de bloqueig)</string>
+  <string name="fingerprint_first_open_screen_password_face_tittle">Cara (primer cal establir la contrasenya de la pantalla de bloqueig)</string>
+  <string name="fingerprint_first_open_screen_password_tittle">Empremta (primer cal establir la contrasenya de la pantalla de bloqueig)</string>
   <string name="fingerprint_for_keyguard_disabled">La configuració de seguretat ha desactivat l\'empremta.</string>
   <string name="fingerprint_identify_input_password_msg">Introduïu la contrasenya</string>
   <string name="fingerprint_identify_msg">S\'està escanejant l\'empremta&#8230;</string>
@@ -1602,7 +1602,7 @@ Però ja no obtingué resposta, perquè el malalt greu acabava de morir d’una 
   <string name="font_size_summary1">"Si la mida de la lletra encara és massa petita, proveu de "</string>
   <string name="font_size_summary2">el mode bàsic.</string>
   <string name="forbidden_switch_apn_string">"La configuració de l'APN seleccionada no coincideix amb el tipus de xarxa actual"</string>
-  <string name="force_allow_on_external">Força permís d\'aplicacions a l\'emmagatzem. extern</string>
+  <string name="force_allow_on_external">Força a les aplicacions escriure en un emmagatzematge extern</string>
   <string name="force_allow_on_external_summary">Permet que qualsevol aplicació es pugui escriure en un dispositiu d’emmagatzematge extern, independentment dels valors definits</string>
   <string name="force_hw_ui">Força la renderització de la GPU</string>
   <string name="force_hw_ui_summary">Força l\'ús de la GPU per a dibuixos en 2D</string>
@@ -1675,7 +1675,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="gadget_sync">Sincronitza</string>
   <string name="gadget_title">Control d\'energia</string>
   <string name="gadget_toggle_bluetooth">S\'està actualitzant la configuració de Bluetooth</string>
-  <string name="gadget_toggle_wifi">S\'està actualitzant la configuració de Wi-Fi</string>
+  <string name="gadget_toggle_wifi">S\'està actualitzant la configuració Wi-Fi</string>
   <string name="gadget_wifi">Wi-Fi</string>
   <string name="gallery_privacy_password_role_instruction">Les fotos privades es desaran aquí.</string>
   <string name="game_controller_settings_category">Controlador de jocs</string>
