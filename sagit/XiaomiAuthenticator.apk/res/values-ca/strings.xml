@@ -115,7 +115,7 @@ Abans d\'eliminar-lo:
   <string name="remove_account_dialog_title">Voleu eliminar el compte?</string>
   <string name="rename">Reanomenar</string>
   <string name="rename_message">Reanomenar %1$s</string>
-  <string name="resetbtn_patternforgotten">Restablir</string>
+  <string name="resetbtn_patternforgotten">Restableix</string>
   <string name="save_key_message">Desar clau per</string>
   <string name="scan_barcode">Escanejar MiID</string>
   <string name="scan_barcode_info">Col·loqui i escanegi un codi de barres MiID dins d\'aquest visor.</string>
