@@ -2060,8 +2060,8 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="lockpassword_choose_your_password_header">Configura la contrasenya</string>
   <string name="lockpassword_choose_your_password_second_space">"Configura una contrasenya
  pel segon espai"</string>
-  <string name="lockpassword_choose_your_pattern_header">Dibuixa el patró</string>
-  <string name="lockpassword_choose_your_pin_header">Escolliu el PIN</string>
+  <string name="lockpassword_choose_your_pattern_header">Estableix el patró</string>
+  <string name="lockpassword_choose_your_pin_header">Estableix el PIN</string>
   <string name="lockpassword_choose_your_pin_header_second_space">«Configura el PIN 
  pel segon espai»</string>
   <string name="lockpassword_confirm_for_second_user">Confirma la contrasenya pel segon espai</string>
