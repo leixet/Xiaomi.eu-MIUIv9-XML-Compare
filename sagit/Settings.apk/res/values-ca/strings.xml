@@ -4011,7 +4011,7 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="terms_title">Termes i condicions</string>
   <string name="testing">S\'està provant</string>
   <string name="testing_phone_info">Informació del telèfon</string>
-  <string name="testing_sim_toolkit">Joc d\'eines de la SIM</string>
+  <string name="testing_sim_toolkit">Eines SIM</string>
   <string name="testing_usage_stats">Estadístiques d\'ús</string>
   <string name="testing_wifi_info">Informació del senyal Wi-Fi</string>
   <string name="tether_and_hotspot_title">Connexió compartida d\'Internet</string>
