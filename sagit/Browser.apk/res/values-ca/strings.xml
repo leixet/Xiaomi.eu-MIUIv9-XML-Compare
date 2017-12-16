@@ -613,7 +613,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="pref_extras_reset_default_summary">Restaura la configuració predeterminada</string>
   <string name="pref_extras_reset_default_title">Altres</string>
   <string name="pref_extras_send_feedback">Envia comentaris</string>
-  <string name="pref_extras_title">Avançat</string>
+  <string name="pref_extras_title">Configuració addicional</string>
   <string name="pref_extras_title_version">Informació de la versió</string>
   <string name="pref_file_downlaod_save_is_reset_default_settings">"Desa els fitxers a la ubicació predeterminada del navegador"</string>
   <string name="pref_file_downlaod_save_reset_default_settings">Restaura la ubicació predeterminada</string>
