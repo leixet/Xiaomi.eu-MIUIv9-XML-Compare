@@ -2938,7 +2938,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="radioInfo_service_off">Ràdio apagada</string>
   <string name="radioInfo_service_out">Sense servei</string>
   <string name="radioInfo_unknown">desconegut</string>
-  <string name="radio_controls_summary">Gestiona Wi-Fi, Bluetooth, Mode avió, xarxes mòbils i VPNs</string>
+  <string name="radio_controls_summary">Gestiona la Wi-Fi, Bluetooth, Mode avió, xarxes mòbils i les VPN</string>
   <string name="radio_controls_title">Més</string>
   <string name="radio_info_asdiv_switch_label">Estat de l\'ASDiv:</string>
   <string name="radio_info_band_mode_label">Seleccioneu la banda de ràdio</string>
@@ -3045,7 +3045,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="restriction_nfc_enable_summary">Permet l\'intercanvi de dades quan el telèfon toqui un altre dispositiu</string>
   <string name="restriction_nfc_enable_summary_config">Permet l\'intercanvi de dades quan %1$s toca un altre dispositiu NFC</string>
   <string name="restriction_settings_title">Restriccions</string>
-  <string name="restriction_wifi_config_summary">Permet la modificació de la configuració Wi‑Fi i mòbil</string>
+  <string name="restriction_wifi_config_summary">Permet modificar la configuració de la Wi-Fi i de la xarxa mòbil</string>
   <string name="restriction_wifi_config_title">Wi-Fi i xarxes mòbils</string>
   <string name="retry">Torna-ho a provar</string>
   <string name="ring_volume_option_title">Volum del so de la trucada</string>
@@ -3174,7 +3174,7 @@ Per fer-ho:
   <string name="screen_shot">Fes una captura de pantalla</string>
   <string name="screen_timeout">En repòs</string>
   <string name="screen_timeout_summary">Després de %1$s d\'inactivitat</string>
-  <string name="screen_timeout_title">Mode d\'espera</string>
+  <string name="screen_timeout_title">Mode suspensió</string>
   <string name="screen_zoom_conversation_message_1">Ei, Pau!</string>
   <string name="screen_zoom_conversation_message_2">Vols anar a fer el toc i parlem?</string>
   <string name="screen_zoom_conversation_message_3">I tant, ja sé on podem anar.</string>
