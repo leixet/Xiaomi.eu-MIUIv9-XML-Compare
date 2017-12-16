@@ -3518,7 +3518,7 @@ Per fer-ho:
   <string name="service_restarting">S\'està reiniciant</string>
   <string name="service_started_by_app">Iniciat per l\'aplicació.</string>
   <string name="service_stop">Atura</string>
-  <string name="service_stop_description">L\'aplicació ha començat a executar la tasca. Si l\'atureu hi pot haver errors.</string>
+  <string name="service_stop_description">L\'aplicació ha començat a executar el servei. Si l\'atureu hi pot haver errors.</string>
   <string name="services_subtitle">Tasques</string>
   <string name="set_data_limit">Estableix un límit de dades</string>
   <string name="set_data_time_range">Mostra l\'interval de temps</string>
@@ -3592,7 +3592,7 @@ Per fer-ho:
   <string name="show_mem_info_title">Mostra informació de la memòria</string>
   <string name="show_menu">Mostra el menú</string>
   <string name="show_non_rect_clip">Depura les operacions de retall no rectangulars</string>
-  <string name="show_owner_info_on_lockscreen_label">Mostra informació del propietari a la pantalla de bloqueig</string>
+  <string name="show_owner_info_on_lockscreen_label">Mostra la signatura a la pantalla de bloqueig</string>
   <string name="show_password">Mostra les contrasenyes</string>
   <string name="show_profile_info_on_lockscreen_label">Mostra informació del propietari a la pantalla de bloqueig</string>
   <string name="show_rounded_corners">Mostra les cantonades arrodonides</string>
@@ -3650,9 +3650,9 @@ Per fer-ho:
 És possible que el PIN sigui incorrecte»</string>
   <string name="sim_lock_off">Per a utilitzar el telèfon cal un PIN</string>
   <string name="sim_lock_on">Per a utilitzar el telèfon cal un PIN</string>
-  <string name="sim_lock_settings">Configuració del bloqueig SIM</string>
-  <string name="sim_lock_settings_category">Configura el bloqueig SIM</string>
-  <string name="sim_lock_settings_title">Bloqueig SIM</string>
+  <string name="sim_lock_settings">Configuració del bloqueig de la SIM</string>
+  <string name="sim_lock_settings_category">Configuració del bloqueig de la SIM</string>
+  <string name="sim_lock_settings_title">Bloqueig de la SIM</string>
   <string name="sim_management_title">Targetes SIM i xarxes mòbils</string>
   <string name="sim_management_title_cr_kolbi">Targetes SIM i xarxes mòbils</string>
   <string name="sim_multi_sims_summary">Trieu la SIM per a les dades mòbils.</string>
