@@ -2820,7 +2820,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="privacy_factory_reset_dlg_title">Còpia de seguretat de les dades</string>
   <string name="privacy_file">Fitxers</string>
   <string name="privacy_gallery">Fotos</string>
-  <string name="privacy_header_text_less_than_half">Molt poc espai per a aquesta aplicació. Arrossegueu més lluny el separador.</string>
+  <string name="privacy_header_text_less_than_half">Massa petit. Arrossegueu una mica més.</string>
   <string name="privacy_mms">Missatges</string>
   <string name="privacy_mode_dialog_message">Voleu amagar les trucades entrants, notes, fotos, missatges i configuració?</string>
   <string name="privacy_mode_dialog_title">Mode convidat</string>
