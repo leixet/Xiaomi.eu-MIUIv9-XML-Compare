@@ -336,7 +336,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="sniff_shortcut_tip2">Trobeu fonts per a les baixades des de la pantalla d\'inici.</string>
   <string name="sniff_sniffing_btn_text">S\'està cercant una font&#8230;</string>
   <string name="sniff_terms_agree">Acceptar</string>
-  <string name="sniff_terms_agree_new">Estic d\'acord</string>
+  <string name="sniff_terms_agree_new">D\'acord</string>
   <string name="sniff_terms_check_text">Acceptar termes del servei</string>
   <string name="sniff_terms_msg">Heu d\'acceptar les \"Condicions d\'ús\" per començar a utilitzar un motor de cerca de tercers.</string>
   <string name="sniff_terms_msg_a">Aquesta funció de cerca està proporcionada per un desenvolupador de tercers. Cal arribar a un acord amb els Termes d\'ús abans de poder utilitzar-la.</string>
