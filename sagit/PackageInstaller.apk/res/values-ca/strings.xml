@@ -364,7 +364,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="strict_mode">Mode estricte activat</string>
   <string name="strict_mode_summary">Il·lumina la pantalla si les aplicacions fan tasques llargues en el procés principal</string>
   <string name="system_warning">Si denegueu aquest permís, les característiques bàsiques del vostre dispositiu no funcionaran correctament.</string>
-  <string name="tether_settings_title_all">Ancoratge de xarxa i punt d\'accés portàtil</string>
+  <string name="tether_settings_title_all">Connexió compartida d\'Internet</string>
   <string name="tether_settings_title_bluetooth">Ancoratge Bluetooth</string>
   <string name="tether_settings_title_usb">Internet compartit per USB</string>
   <string name="tether_settings_title_usb_bluetooth">Connexió compartida</string>
