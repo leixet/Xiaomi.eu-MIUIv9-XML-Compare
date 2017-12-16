@@ -2111,7 +2111,7 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="lockpattern_confirm_button_text">Confirma</string>
   <string name="lockpattern_continue_button_text">Continua</string>
   <string name="lockpattern_need_to_confirm">Dibuixeu el patró novament per confirmar:</string>
-  <string name="lockpattern_need_to_unlock_wrong">Torneu a provar-ho:</string>
+  <string name="lockpattern_need_to_unlock_wrong">Torna-ho a provar:</string>
   <string name="lockpattern_pattern_confirmed_header">El nou patró de desbloqueig:</string>
   <string name="lockpattern_pattern_entered_header">S\'ha desat el patró</string>
   <string name="lockpattern_pattern_same_with_others">Hauria de ser diferent de la contrasenya de l\'altre espai</string>
@@ -2126,9 +2126,9 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="lockpattern_retry_button_text">Esborra</string>
   <string name="lockpattern_settings_change_lock_pattern">Canvia el patró de desbloqueig</string>
   <string name="lockpattern_settings_choose_lock_pattern">Defineix el patró de desbloqueig</string>
-  <string name="lockpattern_settings_enable_power_button_instantly_locks">El botó d\'engegar bloqueja la pantalla</string>
+  <string name="lockpattern_settings_enable_power_button_instantly_locks">El botó d\'encesa bloqueja la pantalla</string>
   <string name="lockpattern_settings_enable_summary">Cal dibuixar un patró per a desbloquejar la pantalla</string>
-  <string name="lockpattern_settings_enable_tactile_feedback_title">Vibra en prèmer</string>
+  <string name="lockpattern_settings_enable_tactile_feedback_title">Vibra en prémer</string>
   <string name="lockpattern_settings_enable_title">Cal un patró</string>
   <string name="lockpattern_settings_enable_visible_pattern_title">Fes el patró visible</string>
   <string name="lockpattern_settings_enable_visible_pattern_title_profile">Mostra el patró del perfil</string>
@@ -3403,7 +3403,7 @@ Per fer-ho:
   <string name="search_user_agreement">Termes del servei</string>
   <string name="search_user_dict_settings_title">Diccionari personal</string>
   <string name="search_vibrate_in_silent_title">Vibra en silenci</string>
-  <string name="search_vibrate_on_touch_title">Vibra en prèmer</string>
+  <string name="search_vibrate_on_touch_title">Activa Vibra en prémer;Vibra en prémer;vibra;vibració</string>
   <string name="search_vibrate_when_ringing_title">Vibra amb el so de trucada;vibra;vibració</string>
   <string name="search_virtual_sim">Dades mòbils internacionals;Itinerància de dades;Itinerància de dades mòbils</string>
   <string name="search_vpn_enable">VPN</string>
