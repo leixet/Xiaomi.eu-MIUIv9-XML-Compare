@@ -4210,7 +4210,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="unlock_set_unlock_biometric_weak_summary">Seguretat baixa, experimental</string>
   <string name="unlock_set_unlock_biometric_weak_title">Desbloqueig facial</string>
   <string name="unlock_set_unlock_disabled_summary">S\'ha desactivat per l\'administrador, política d\'encriptació o emmagatzematge de certificats</string>
-  <string name="unlock_set_unlock_launch_picker_change_summary">Canvia o desactiva el patró, PIN o contrasenya</string>
+  <string name="unlock_set_unlock_launch_picker_change_summary">Canvieu o desactiveu el patró, PIN o contrasenya</string>
   <string name="unlock_set_unlock_launch_picker_change_title">Canvi de la pantalla de bloqueig</string>
   <string name="unlock_set_unlock_launch_picker_enable_summary">Trieu un mètode per bloquejar la pantalla</string>
   <string name="unlock_set_unlock_launch_picker_title">Bloqueig de pantalla</string>
@@ -4224,7 +4224,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="unlock_set_unlock_off_title">Cap</string>
   <string name="unlock_set_unlock_password_summary">Per a desbloquejar-lo introduïu com a mínim 4 lletres o números</string>
   <string name="unlock_set_unlock_password_title">Contrasenya</string>
-  <string name="unlock_set_unlock_pattern_summary">Per a desbloquejar-lo traceu un patró</string>
+  <string name="unlock_set_unlock_pattern_summary">Dibuixeu un patró senzill amb el dit per desbloquejar el dispositiu</string>
   <string name="unlock_set_unlock_pattern_title">Patró</string>
   <string name="unlock_set_unlock_pin_summary">Per a desbloquejar-lo introduïu 4 números</string>
   <string name="unlock_set_unlock_summary">Configura un bloqueig de pantalla</string>
@@ -4326,11 +4326,11 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="user_add_user_item_summary">Els usuaris tenen les seves aplicacions i el seu contingut</string>
   <string name="user_add_user_item_title">Usuari</string>
   <string name="user_add_user_menu">Afegeix un usuari</string>
-  <string name="user_add_user_message_long">«Podeu compartir aquest dispositiu amb d\'altra gent creant usuaris addicionals. Cada usuari té el seu espai que pot personalitzar amb aplicacions, fons de pantalla... Tots els usuaris també poden configurar el Wi-Fi que afecta tothom.
+  <string name="user_add_user_message_long">"Podeu compartir aquest dispositiu amb d\'altra gent creant usuaris addicionals. Cada usuari té el seu espai que pot personalitzar amb aplicacions, fons de pantalla... Els usuaris també poden configurar el Wi-Fi que afecta tothom.
 
 Després de crear un nou usuari cada persona ha de configurar el seu espai.
 
-Qualsevol usuari pot acceptar una actualització de permisos d\'una aplicació en nom de tots els altres usuaris.»</string>
+Qualsevol usuari pot acceptar una actualització de permisos d\'una aplicació en nom de tots els altres usuaris."</string>
   <string name="user_add_user_message_short">«Després de crear un nou usuari cada persona ha de configurar el seu espai.
 
 Qualsevol usuari pot acceptar una actualització de permisos d\'una aplicació en nom de tots els altres usuaris.»</string>
@@ -4601,7 +4601,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_aggressive_handover">Transferència forçada des de Wi-Fi a mòbil</string>
   <string name="wifi_aggressive_handover_summary">En activar-se, la connexió canviarà a les dades mòbils de forma més activa quan el senyal Wi-Fi sigui baix.</string>
   <string name="wifi_allow_scan_with_traffic">Permet sempre cerca de Wi-Fi en ininerància</string>
-  <string name="wifi_allow_scan_with_traffic_summary">Permet/No permetis cerques de xarxes Wi-Fi en itinerància basades en la quantitat de dades presents a la interfície</string>
+  <string name="wifi_allow_scan_with_traffic_summary">Permet o restringeix cerques de xarxes Wi-Fi en itinerància basades en la quantitat de dades presents a la interfície.</string>
   <string name="wifi_and_mobile_skipped_message">\"Si ometeu la Wi‑Fi:
 
 \"El telèfon no tindrà connexió a Internet.\"
