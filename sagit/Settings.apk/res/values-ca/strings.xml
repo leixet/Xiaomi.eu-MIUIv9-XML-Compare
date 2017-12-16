@@ -3650,9 +3650,9 @@ Per fer-ho:
 És possible que el PIN sigui incorrecte»</string>
   <string name="sim_lock_off">Per a utilitzar el telèfon cal un PIN</string>
   <string name="sim_lock_on">Per a utilitzar el telèfon cal un PIN</string>
-  <string name="sim_lock_settings">Configuració del bloqueig de la targeta SIM</string>
-  <string name="sim_lock_settings_category">Configura el bloqueig de la targeta SIM</string>
-  <string name="sim_lock_settings_title">Bloqueig de la targeta SIM</string>
+  <string name="sim_lock_settings">Configuració del bloqueig SIM</string>
+  <string name="sim_lock_settings_category">Configura el bloqueig SIM</string>
+  <string name="sim_lock_settings_title">Bloqueig SIM</string>
   <string name="sim_management_title">Targetes SIM i xarxes mòbils</string>
   <string name="sim_management_title_cr_kolbi">Targetes SIM i xarxes mòbils</string>
   <string name="sim_multi_sims_summary">Trieu la SIM per a les dades mòbils.</string>
@@ -3706,7 +3706,7 @@ Per fer-ho:
   <string name="sort_max_use">Ordena per ús màxim</string>
   <string name="sort_order_alpha">Ordena pel nom</string>
   <string name="sort_order_size">Ordena per la mida</string>
-  <string name="sound_category_call_ringtone_vibrate_title">So de trucada i notificacions</string>
+  <string name="sound_category_call_ringtone_vibrate_title">Tons de trucada i sons de notificació</string>
   <string name="sound_category_sound_title">General</string>
   <string name="sound_category_system_title">Sistema</string>
   <string name="sound_effects_enable_title">Sons en tocar</string>
@@ -3804,7 +3804,7 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="status_wifi_mac_address">Adreça MAC del Wi-Fi</string>
   <string name="status_wimax_mac_address">Adreça MAC del 4G</string>
   <string name="status_write_success">Fet!</string>
-  <string name="statusbar_permission_desc">Els permisos només estan disponibles per a notificacions importants</string>
+  <string name="statusbar_permission_desc">Els permisos següents només són vàlids per a notificacions importants.</string>
   <string name="storage_detail_apps">Aplicacions</string>
   <string name="storage_detail_audio">Àudio</string>
   <string name="storage_detail_cached">Dades desades a la memòria cau</string>
@@ -3849,7 +3849,7 @@ Desplaça els fitxers multimèdia a un emmagatzematge alternatiu del dispositiu 
 
 \"Còpia de seguretat de les aplicacions\"
 Totes les aplicacions que hi hagi a ^1 es desinstal·laran i se n\'esborraran les dades. Per a conservar aquestes aplicacions, desplaça-les a un emmagatzematge alternatiu del dispositiu."</string>
-  <string name="storage_internal_title">Emmagatzematge del dispositiu</string>
+  <string name="storage_internal_title">Emmagatzematge que no sigui del sistema</string>
   <string name="storage_internal_unmount_details">\"Si expulseu ^1, les aplicacions que hi hagi instal·lades deixaran de funcionar i els fitxers multimèdia que contingui deixaran d\'estar disponibles fins que no es torni a inserir.\"
 
 ^1 està formatat per funcionar només en aquest dispositiu. No funcionarà en altres dispositius.\"</string>
@@ -3894,9 +3894,9 @@ Un cop formatat, aquest ^1 només funcionarà en aquest dispositiu.
 
 \"&lt;b&gt;La formatació esborrarà totes les dades emmagatzemades actualment al ^1.&lt;/b&gt;\" Per evitar la pèrdua de les dades, feu-ne una còpia.»</string>
   <string name="storage_wizard_format_confirm_next">Esborra i formata</string>
-  <string name="storage_wizard_format_confirm_public_body">«Cal que formateu ^.
+  <string name="storage_wizard_format_confirm_public_body">"Cal que formateu ^.
 
-\"&lt;b&gt;La formatació esborrarà totes les dades emmagatzemades actualment al ^1.&lt;/b&gt;\" Per evitar la pèrdua de les dades, feu-ne una còpia.»</string>
+\"&lt;b&gt;La formatació esborrarà totes les dades emmagatzemades actualment al ^1.&lt;/b&gt;\" Per evitar la pèrdua de les dades, feu-ne una còpia."</string>
   <string name="storage_wizard_format_confirm_public_title">Formatació com a emmagatzematge extraïble</string>
   <string name="storage_wizard_format_confirm_third_body">La ^1 is serà formatada</string>
   <string name="storage_wizard_format_confirm_title">Formatació com a emmagatzematge intern</string>
@@ -4166,7 +4166,7 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="unknown_app">Aplicació desconeguda</string>
   <string name="unlock_change_lock_password_title">Canvi de contrasenya de desbloqueig</string>
   <string name="unlock_change_lock_pattern_title">Canvi del patró de desbloqueig</string>
-  <string name="unlock_change_lock_pin_title">Canvi de PIN</string>
+  <string name="unlock_change_lock_pin_title">Canvia el PIN</string>
   <string name="unlock_disable_frp_warning_content_password">Les funcions de protecció del dispositiu no funcionaran sense la contrasenya.</string>
   <string name="unlock_disable_frp_warning_content_password_fingerprint">"Les funcions de protecció del dispositiu no funcionaran sense la contrasenya.
 
@@ -4207,7 +4207,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="unlock_set_do_later_title">Ara no</string>
   <string name="unlock_set_enter_system">Omet la pantalla de bloqueig</string>
   <string name="unlock_set_enter_system_summary">En sortir de repòs vés a la pàgina d\'inici</string>
-  <string name="unlock_set_unlock_biometric_weak_summary">Seguretat baixa, experimental</string>
+  <string name="unlock_set_unlock_biometric_weak_summary">Característica experimental amb baixa seguretat</string>
   <string name="unlock_set_unlock_biometric_weak_title">Desbloqueig facial</string>
   <string name="unlock_set_unlock_disabled_summary">S\'ha desactivat per l\'administrador, política d\'encriptació o emmagatzematge de certificats</string>
   <string name="unlock_set_unlock_launch_picker_change_summary">Canvieu o desactiveu el patró, PIN o contrasenya</string>
