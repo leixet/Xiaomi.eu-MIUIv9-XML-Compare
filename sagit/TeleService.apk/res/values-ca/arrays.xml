@@ -133,7 +133,7 @@
   <string-array name="debug_hw_overdraw_entries">
     <item>Desactivat</item>
     <item>Mostra les àrees sobreposades</item>
-    <item>Mostra les àrees amb Deuteranomaly</item>
+    <item>Mostra les àrees de deuteranomia</item>
   </string-array>
   <string-array name="app_process_limit_entries">
     <item>Límit estàndard</item>
@@ -178,7 +178,7 @@
     <item>LTE / GSM / UMTS</item>
   </string-array>
   <string-array name="clir_display_values">
-    <item>Network default</item>
+    <item>Per defecte de la xarxa</item>
     <item>Hide number</item>
     <item>Mostra el número</item>
   </string-array>
