@@ -649,6 +649,6 @@ d MMMM"</string>
   <string name="wifi_remembered">Desat</string>
   <string name="wifi_security_none">Cap</string>
   <string name="wifi_verbose_logging">Activa el registre Wi‑Fi detallat</string>
-  <string name="wifi_verbose_logging_summary">Augmenta nivell de registre Wi‑Fi i mostra\'l per SSID RSSI al Selector de Wi‑Fi</string>
+  <string name="wifi_verbose_logging_summary">Augmenta el nivell de registre Wi-Fi, mostra l\'RSSI per a cada SSID a la llista de xarxes Wi-Fi.</string>
   <string name="window_animation_scale_title">Escalat de l\'animació de finestres</string>
 </resources>
