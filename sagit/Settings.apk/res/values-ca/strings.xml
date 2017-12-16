@@ -2018,9 +2018,9 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="lock_screen_notifications_interstitial_title_profile">Notificacions del perfil</string>
   <string name="lock_screen_notifications_summary_disable">No mostris cap notificació</string>
   <string name="lock_screen_notifications_summary_disable_profile">No mostris cap notificació professional</string>
-  <string name="lock_screen_notifications_summary_hide">Amaga el contingut sensible de les notificacions</string>
+  <string name="lock_screen_notifications_summary_hide">Mostra totes les notificacions però amaga el contingut</string>
   <string name="lock_screen_notifications_summary_hide_profile">Amaga cont. confidencial de notif. professionals</string>
-  <string name="lock_screen_notifications_summary_show">Mostra tot el contingut de les notificacions</string>
+  <string name="lock_screen_notifications_summary_show">Mostra totes les notificacions i els seu contingut</string>
   <string name="lock_screen_notifications_summary_show_profile">Mostra tot el contingut de notific. professionals</string>
   <string name="lock_screen_notifications_title">Amb el dispositiu bloquejat</string>
   <string name="lock_screen_secure_after_timeout_immediately_never">Mai cal la contrasenya</string>
@@ -2036,7 +2036,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="lock_settings_common_title">Configuració de bloqueig</string>
   <string name="lock_settings_picker_fingerprint_message">Tria el mètode de còpia de seguretat de la pantalla de bloqueig</string>
   <string name="lock_settings_picker_settings">Configura el bloqueig de pantalla</string>
-  <string name="lock_settings_picker_title">Tria un bloqueig de pantalla</string>
+  <string name="lock_settings_picker_title">Trieu el bloqueig de pantalla</string>
   <string name="lock_settings_picker_title_profile">Tria bloq. profess.</string>
   <string name="lock_settings_profile_screen_lock_title">Bloqueig de pantalla del perfil professional</string>
   <string name="lock_settings_profile_title">Seguretat del perfil professional</string>
@@ -2053,10 +2053,10 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="lock_settings_title">Seguretat del dispositiu</string>
   <string name="lock_settings_with_fingerprint">Bloqueig de pantalla i contrasenya</string>
   <string name="lock_setup">S\'ha completat la configuració.</string>
-  <string name="lock_sounds_enable_title">Sons en bloquejar la pantalla</string>
+  <string name="lock_sounds_enable_title">Sons de la pantalla de bloqueig</string>
   <string name="lockpassword_cancel_label">Cancel·la</string>
   <string name="lockpassword_choose_for_second_user">Configura la contrasenya del segon espai</string>
-  <string name="lockpassword_choose_lock_generic_header">Tria un bloqueig de pantalla</string>
+  <string name="lockpassword_choose_lock_generic_header">Trieu el bloqueig de pantalla</string>
   <string name="lockpassword_choose_your_password_header">Configura la contrasenya</string>
   <string name="lockpassword_choose_your_password_second_space">"Configura una contrasenya
  pel segon espai"</string>
@@ -4144,7 +4144,7 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="turn_on_keyguard_password_alert_foget_ok_time">Entesos (%d segon)</string>
   <string name="turn_on_keyguard_password_alert_forget_content">"Recordeu la contrasenya de la vostra pantalla de bloqueig. Si la oblideu, haureu d'esborrar totes les dades del vostre dispositiu, incloses les fotos i els contactes i, a continuació, configurar-ne un de nova."</string>
   <string name="turn_on_keyguard_password_alert_forget_title">Si la oblideu, no podreu restaurar-la.</string>
-  <string name="turn_on_security_lock">Tria un bloqueig de pantalla</string>
+  <string name="turn_on_security_lock">Trieu el bloqueig de pantalla</string>
   <string name="turn_on_torch">Activa la llanterna</string>
   <string name="turn_on_wifi_dialog_text">La Wi-Fi es desactiva quan el punt d\'accés s\'activa. Per activar el Wi-Fi heu de desactivar el punt d\'accés.</string>
   <string name="turn_on_wifi_dialog_title">Activa la Wi-Fi</string>
