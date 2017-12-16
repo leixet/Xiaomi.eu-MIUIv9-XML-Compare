@@ -13,7 +13,7 @@
   <string name="accessibility_portrait_button">Mode retrat</string>
   <string name="accessibility_review_thumbnail">Foto més recent</string>
   <string name="accessibility_seek_bar_line">Botó lliscant</string>
-  <string name="accessibility_setting_button">Botó d\'ajustaments addicionals</string>
+  <string name="accessibility_setting_button">Botó de configuració addicional</string>
   <string name="accessibility_shutter_button">Botó de l\'obturador</string>
   <string name="accessibility_skin_beautify_button">Botó de l\'embellidor</string>
   <string name="accessibility_stereo_button">Ajust del focus</string>
