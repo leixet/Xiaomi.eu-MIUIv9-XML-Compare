@@ -843,8 +843,8 @@ Per afegir un contacte a la llista de favorits:
   <string name="preference_dial_pad_touch_tone_default">Per defecte</string>
   <string name="preference_dial_pad_touch_tone_human">Veu</string>
   <string name="preference_dial_pad_touch_tone_piano">Tecles piano</string>
-  <string name="preference_dial_pad_touch_tone_switch">Tons de teclat</string>
-  <string name="preference_dial_pad_touch_tone_title">Tons de teclat</string>
+  <string name="preference_dial_pad_touch_tone_switch">Tons del teclat</string>
+  <string name="preference_dial_pad_touch_tone_title">Tons del teclat</string>
   <string name="preference_display">Pantalla</string>
   <string name="preference_displayOptions">Opcions de visualització</string>
   <string name="preference_export">Exporta</string>
