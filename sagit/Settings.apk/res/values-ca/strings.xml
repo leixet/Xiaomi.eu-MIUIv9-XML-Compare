@@ -172,7 +172,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="advanced_apps">Avançat</string>
   <string name="advanced_section_header">Avançat</string>
   <string name="advanced_security_title">Avançat</string>
-  <string name="advanced_settings">Configuració avançada</string>
+  <string name="advanced_settings">Configuració addicional</string>
   <string name="advanced_settings_summary">Activa més opcions avançades</string>
   <string name="agps_roaming">A-GPS en itinerància</string>
   <string name="agps_roaming_dia">"L'ús d'A-GPS en itinerància pot augmentar l'ús de dades mòbils. Si excediu el límit contractat, el vostre operador us pot cobrar càrrecs addicionals."</string>
@@ -201,8 +201,8 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="always_running">Executa sempre (%s)</string>
   <string name="amber_alerts_summary">Rebre informacions sobre segrestos de nens</string>
   <string name="amber_alerts_title">Avisos AMBER</string>
-  <string name="android_beam_disabled_summary">Activa el NFC per a gaudir d\'aquesta opció</string>
-  <string name="android_beam_explained">Si feu tocar 2 dispositius entre ells, podreu transmetre una pàgina web, un vídeo o el contingut de la pantalla (normalment els 2 costats de darrere).</string>
+  <string name="android_beam_disabled_summary">Activeu l\'NFC per gaudir d\'aquesta característica</string>
+  <string name="android_beam_explained">Si apropeu 2 dispositius podreu transmetre una pàgina web, un vídeo o el contingut de la pantalla (normalment els 2 costats de darrere).</string>
   <string name="android_beam_label">Transmissió Android</string>
   <string name="android_beam_off_summary">L\'ús compartit de contingut NFC està desactivat</string>
   <string name="android_beam_on_summary">L\'ús compartit de contingut NFC està activat</string>
@@ -3748,7 +3748,7 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="status_bar_screen_key_menu">Tecla Menú</string>
   <string name="status_bar_screen_key_recent_apps">Tecla Aplicacions recents</string>
   <string name="status_bar_settings">Notificacions i barra d\'estat</string>
-  <string name="status_bar_settings_advanced">Configuració avançada</string>
+  <string name="status_bar_settings_advanced">Configuració addicional</string>
   <string name="status_bar_settings_all_app_display_loading">Un moment…</string>
   <string name="status_bar_settings_app_notification_preferences">Configuració de l\'aplicació</string>
   <string name="status_bar_settings_basic_settings">Configuració bàsica</string>
