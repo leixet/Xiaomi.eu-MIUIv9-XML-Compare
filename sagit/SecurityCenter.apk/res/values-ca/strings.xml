@@ -1375,7 +1375,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="pref_key_half_year_package_value">Mida del paquet</string>
   <string name="pref_manual_adjust">Estableix manualment les estadístiques d\'ús de dades</string>
   <string name="pref_mi_sim_settings">Configuració de la Mi SIM</string>
-  <string name="pref_more_settings">Configuració avançada</string>
+  <string name="pref_more_settings">Configuració addicional</string>
   <string name="pref_new_installed_preconfig_title">"Configuració per defecte per a noves aplicacions"</string>
   <string name="pref_normal_traffic_limit">Quan reviseu el pla de dades</string>
   <string name="pref_open_adjust_traffic">Sincronitza les estadístiques d\'ús de dades amb els servidors del seu operador</string>
@@ -1704,7 +1704,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="st_title_not_sim">Buit</string>
   <string name="st_title_open_antispam">Llista de bloqueig</string>
   <string name="st_title_other_group">Altres</string>
-  <string name="st_title_settings_other_group">Configuració avançada</string>
+  <string name="st_title_settings_other_group">Configuració addicional</string>
   <string name="st_title_show_antispam_notification">Notificacions de la llista de bloqueig</string>
   <string name="st_title_sim_card">%1$s - SIM %2$s</string>
   <string name="st_title_whitelist_numbers">Excepcions</string>
