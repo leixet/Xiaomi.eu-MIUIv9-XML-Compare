@@ -47,11 +47,11 @@
   </string-array>
   <string-array name="select_logd_size_summaries">
     <item>Desactivat</item>
-    <item>64KB per registre de memòria</item>
-    <item>256KB per registre de memòria</item>
-    <item>1MB per registre de memòria</item>
-    <item>4MB per registre de memòria</item>
-    <item>16MB per registre de memòria</item>
+    <item>64 KB per registre de memòria</item>
+    <item>256 KB per registre de memòria</item>
+    <item>1 MB per registre de memòria</item>
+    <item>4 MB per registre de memòria</item>
+    <item>16 MB per registre de memòria</item>
   </string-array>
   <string-array name="window_animation_scale_entries">
     <item>Sense animacions</item>
@@ -113,7 +113,7 @@
   <string-array name="debug_hw_overdraw_entries">
     <item>Apagat</item>
     <item>Mostra les àrees sobreposades</item>
-    <item>Mostra àrees per a deuteranomia</item>
+    <item>Mostra les àrees de deuteranomia</item>
   </string-array>
   <string-array name="app_process_limit_entries">
     <item>Límit estàndard</item>
