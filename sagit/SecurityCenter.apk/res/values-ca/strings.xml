@@ -1229,7 +1229,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="password_forget_pattern_confirm">Còpia de seguretat de les dades</string>
   <string name="password_forget_pattern_message">Feu una còpia de seguretat de les dades localment i després realitzeu un restabliment de dades de fàbrica. Després d\'això, podreu canviar la contrasenya.</string>
   <string name="password_forget_pattern_message_none">"Les aplicacions no estan blocades. Podeu restablir la vostra contrasenya."</string>
-  <string name="password_forget_pattern_reset">Reinicia</string>
+  <string name="password_forget_pattern_reset">Restableix</string>
   <string name="password_forget_pattern_title">Còpia de seguretat de les dades</string>
   <string name="password_promotion_not_login_xiaomi_account_message">El bloquejador d\'aplicacions està actualitzant la contrasenya de protecció de privacitat. Pot utilitzar el seu compte Mi per restablir-la. Afegeix el seu compte Mi per a poder fer-ho.</string>
   <string name="password_promotion_postbutton_text">Vés a la Configuració</string>
