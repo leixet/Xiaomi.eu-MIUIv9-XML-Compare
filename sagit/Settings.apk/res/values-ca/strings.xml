@@ -2066,7 +2066,7 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
  pel segon espai»</string>
   <string name="lockpassword_confirm_for_second_user">Confirma la contrasenya pel segon espai</string>
   <string name="lockpassword_confirm_passwords_dont_match">Les contrasenyes no coincideixen</string>
-  <string name="lockpassword_confirm_pins_dont_match">"Els codis PIN no coincideixen"</string>
+  <string name="lockpassword_confirm_pins_dont_match">"Els PIN no coincideixen"</string>
   <string name="lockpassword_confirm_workspace_password">Verifiqueu la contrasenya d\'espai de treball</string>
   <string name="lockpassword_confirm_your_lock_password_header">Confirmeu la contrasenya</string>
   <string name="lockpassword_confirm_your_lock_pattern_header">Confirmeu el patró</string>
@@ -2096,16 +2096,16 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="lockpassword_pattern_set_toast">S\'ha establert el patró</string>
   <string name="lockpassword_pin_contains_non_digits">El PIN només pot contenir números</string>
   <string name="lockpassword_pin_no_sequential_digits">No es permet una seqüència de dígits ascendents, descendents ni repetits</string>
-  <string name="lockpassword_pin_recently_used">"L'administrador del dispositiu no permet l'ús de codi PIN"</string>
+  <string name="lockpassword_pin_recently_used">"L'administrador del dispositiu no permet desbloquejar el PIN"</string>
   <string name="lockpassword_pin_set_toast">S\'ha definit el PIN</string>
   <string name="lockpassword_pin_too_long">El PIN ha de tenir menys de %d números</string>
   <string name="lockpassword_pin_too_short">El PIN ha de tenir com a mínim %d números</string>
-  <string name="lockpassword_strong_auth_required_reason_restart_device_password">Per continuar introduïu la contrasenya del dispositiu. Aquest pas és necessari després del reinici.</string>
-  <string name="lockpassword_strong_auth_required_reason_restart_device_pattern">Per continuar introduïu el patró del dispositiu. Aquest pas és necessari després del reinici.</string>
+  <string name="lockpassword_strong_auth_required_reason_restart_device_password">Per continuar, introduïu la contrasenya del dispositiu. Aquest pas és necessari després del reinici.</string>
+  <string name="lockpassword_strong_auth_required_reason_restart_device_pattern">Per continuar, introduïu el patró del dispositiu. Aquest pas és necessari després del reinici.</string>
   <string name="lockpassword_strong_auth_required_reason_restart_device_pin">Per continuar introduïu el PIN del dispositiu. Aquest pas és necessari després del reinici.</string>
-  <string name="lockpassword_strong_auth_required_reason_restart_work_password">Per continuar introduïu la contrasenya de la feina. Aquest pas és necessari després del reinici.</string>
-  <string name="lockpassword_strong_auth_required_reason_restart_work_pattern">Per continuar introduïu el patró de la feina. Aquest pas és necessari després del reinici.</string>
-  <string name="lockpassword_strong_auth_required_reason_restart_work_pin">Per continuar introduïu el PIN de la feina. Aquest pas és necessari després del reinici.</string>
+  <string name="lockpassword_strong_auth_required_reason_restart_work_password">Per continuar, introduïu la contrasenya de la feina. Aquest pas és necessari després del reinici.</string>
+  <string name="lockpassword_strong_auth_required_reason_restart_work_pattern">Per continuar, introduïu el patró de la feina. Aquest pas és necessari després del reinici.</string>
+  <string name="lockpassword_strong_auth_required_reason_restart_work_pin">Per continuar, introduïu el PIN de la feina. Aquest pas és necessari després del reinici.</string>
   <string name="lockpattern_change_lock_pattern_label">Canvia el patró de desbloqueig</string>
   <string name="lockpattern_change_lock_pin_label">Canvia el PIN</string>
   <string name="lockpattern_confirm_button_text">Confirma</string>
