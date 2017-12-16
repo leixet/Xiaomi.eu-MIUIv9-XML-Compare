@@ -4910,9 +4910,9 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="wifi_switch_to_gsm_title">Voleu utilitzar la GSM?</string>
   <string name="wifi_tether_checkbox_text">Punt d\'accés portàtil</string>
   <string name="wifi_tether_configure_ap_text">Configura un punt d\'accés Wi-Fi portàtil</string>
-  <string name="wifi_tether_configure_subtext">Punt d\'accés portàtil %1$s %2$s</string>
+  <string name="wifi_tether_configure_subtext">Portable %1$s %2$s</string>
   <string name="wifi_tether_enabled_subtext">S\'ha activat el punt d\'accés Wi-Fi portàtil %1$s</string>
-  <string name="wifi_tether_failed_subtext">Error del punt d\'accés Wi-Fi portàtil</string>
+  <string name="wifi_tether_failed_subtext">Error del punt d\'accés portàtil</string>
   <string name="wifi_tether_first_use_message">Configura el punt d\'accés Wi-Fi al primer ús</string>
   <string name="wifi_tether_setting_title">Configuració</string>
   <string name="wifi_tether_settings_title">Punt d\'accés portàtil</string>
@@ -4925,7 +4925,7 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="wifi_update">Actualitza les estadístiques</string>
   <string name="wifi_use_system_certs">Utilitza certificats del sistema</string>
   <string name="wifi_verbose_logging">Activa el registre Wi‑Fi detallat</string>
-  <string name="wifi_verbose_logging_summary">Augmenta nivell de registre Wi‑Fi i mostra\'l per SSID RSSI al Selector de Wi‑Fi</string>
+  <string name="wifi_verbose_logging_summary">Augmenta el nivell de registre Wi-Fi, mostra l\'RSSI per a cada SSID a la llista de xarxes Wi-Fi.</string>
   <string name="wifi_wapi_as_cert">Certificat AS</string>
   <string name="wifi_wapi_cert_cancel_button">Cancel·la</string>
   <string name="wifi_wapi_cert_create_subdir">Crea un directori</string>
@@ -4957,8 +4957,8 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="wifi_wps_failed_wep">La configuració de seguretat de l\'encaminador sense fils (WEP) no és compatible</string>
   <string name="wifi_wps_in_progress">WPS ja s\'està executant i pot trigar fins a dos minuts a acabar</string>
   <string name="wifi_wps_nfc_enter_password">Introdueix la contrasenya de la xarxa</string>
-  <string name="wifi_wps_onstart_pbc">Premeu el botó de configuració protegida Wi-Fi de l\'encaminador. Pot ser que s\'anomeni \"WPS\" o que estigui identificat amb aquest símbol:</string>
-  <string name="wifi_wps_onstart_pin">Introdueix el PIN %1$s a l\'encaminador Wi-Fi. La configuració pot trigar més de dos minuts a acabar.</string>
+  <string name="wifi_wps_onstart_pbc">Premeu el botó de configuració protegida Wi-Fi de l\'encaminador. Pot ser que s\'anomeni «WPS» o que estigui identificat amb aquest símbol:</string>
+  <string name="wifi_wps_onstart_pin">Introduïu el PIN %1$s a l\'encaminador Wi-Fi. La configuració pot trigar més de dos minuts a completar-se.</string>
   <string name="wifi_wps_overlap_error">S\'ha detectat una altra sessió Wi-Fi. Torneu-ho a provar d\'aquí a una estona.</string>
   <string name="wifi_wps_setup_msg">S\'esta engegant WPS&#8230;</string>
   <string name="wifi_wps_setup_title">Configuració de Wi-Fi protegida</string>
