@@ -428,7 +428,7 @@
   <string name="change_pin2">Canvia el PIN2</string>
   <string name="change_pin_cancel_label">Cancel·la</string>
   <string name="change_pin_confirm_pin_header">Confirmeu el vostre PIN</string>
-  <string name="change_pin_confirm_pins_dont_match">"Els codis PIN no coincideixen"</string>
+  <string name="change_pin_confirm_pins_dont_match">"Els PIN no coincideixen"</string>
   <string name="change_pin_continue_label">Continua</string>
   <string name="change_pin_enter_new_pin_header">Estableix un nou PIN</string>
   <string name="change_pin_enter_new_pin_hint">El PIN ha de tenir entre %1$d-%2$d dígits.</string>
@@ -613,10 +613,10 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="enable_in_progress">Configurant PIN&#8230;</string>
   <string name="enable_opengl_traces_title">Activa el seguiment d\'OpenGL</string>
   <string name="enable_pin">Activa/desactiva el PIN del SIM</string>
-  <string name="enable_pin_ok">PIN de la SIM activat.</string>
+  <string name="enable_pin_ok">S\'ha definit el PIN</string>
   <string name="enable_proximity_summary">"Apaga la pantalla automàticament quan tingueu el dispositiu a la vostra orella durant una trucada"</string>
   <string name="enable_proximity_title">Sensor de proximitat</string>
-  <string name="enable_sim_pin">Activa PIN de la SIM</string>
+  <string name="enable_sim_pin">Estableix el PIN de la SIM</string>
   <string name="enable_terminal_summary">Activa l\'aplicació de terminal que ofereix accés a l\'intèrpret d\'ordres local</string>
   <string name="enable_terminal_title">Terminal local</string>
   <string name="enable_video_calling_dialog_close">Tanca</string>
@@ -812,7 +812,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="mismatchPin">"Els PIN que heu introduït no coincideixen. Torneu-ho a provar."</string>
   <string name="mismatchPin2">"Els codis PIN2 no coincideixen. Torneu-ho a provar."</string>
   <string name="mismatch_password">"Les contrasenyes que heu introduït no coincideixen"</string>
-  <string name="mismatch_pin">"Els codis PIN no coincideixen."</string>
+  <string name="mismatch_pin">"Els PIN no coincideixen."</string>
   <string name="mismatch_pin2">"Els codis PIN2 no coincideixen. Torneu-ho a provar."</string>
   <string name="missed_call_notify_five_times">5 cops</string>
   <string name="missed_call_notify_none">No ho recordis</string>
