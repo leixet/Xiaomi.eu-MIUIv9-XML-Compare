@@ -63,9 +63,9 @@ Vegeu la política de privadesa del teclat seleccionat."</string>
   <string name="skip_underline">Omet aquest pas</string>
   <string name="summary_not_set">No s\'ha configurat</string>
   <string name="terms_of_use">Termes i condicions</string>
-  <string name="terms_of_use_label">"La vostra privadesa és cabdal per a nosaltres. Si us plau, llegiu les condicions del servei i la política de privadesa per entendre quina informació recollim, com la utilitzem i quines opcions podeu utilitzar.
+  <string name="terms_of_use_label">"La vostra privadesa és cabdal per a nosaltres. Llegiu les condicions del servei i la política de privadesa per entendre quina informació recollim, com la utilitzem i quines opcions podeu utilitzar.
 
-Abans de poder utilitzar MIUI, heu d\'acceptar els termes de servei i política de privadesa. Per activar els serveis de Mi Services, Find Device i Mi Home cal connexió a internet."</string>
+Heu d\'acceptar les nostres condicions del servei i la política de privadesa abans de poder utilitzar MIUI. Els serveis Mi, els serveis d\'activació de Mi SIM, els components de Mi Cloud, Cerca el dispositiu, Pantalla d\'inici, Centre de jocs, MAB i MSA, aplicacions web, targetes ràpides, estadístiques, targetes intel·ligents, Mi Link i el Compte Mi es connectaran a Internet i adquiriran la vostra ubicació."</string>
   <string name="title_fingerprint">Afegiu l\'empremta</string>
   <string name="user_agreement">Condicions del servei</string>
   <string name="welcome">Benvinguts</string>
