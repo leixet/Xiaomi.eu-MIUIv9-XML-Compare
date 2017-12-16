@@ -1716,7 +1716,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="header_category_connections">Connexions</string>
   <string name="header_category_device">Dispositiu</string>
   <string name="header_category_system">Sistema</string>
-  <string name="header_category_wireless_networks">Xarxes</string>
+  <string name="header_category_wireless_networks">Xarxa</string>
   <string name="header_data_and_synchronization">Dades i sincronització</string>
   <string name="heavy_weight_stop_description">Aquesta aplicació es pot aturar de forma segura. Si l\'atureu, podeu perdre part del treball actual.</string>
   <string name="help_feedback_label">Ajuda i suggeriments</string>
@@ -1749,7 +1749,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="ignore_optimizations_on">No ho optimitzis</string>
   <string name="ignore_optimizations_on_desc">És possible que la bateria es consumeixi més ràpidament</string>
   <string name="ignore_optimizations_title">Permetre a %s ignorar optimitzacions de la bateria?</string>
-  <string name="ime_security_warning">%1$s: aquest mètode d\'entrada pot gravar tot el que teclegeu, incloent contrasenyes, números de targeta de crèdit i altres dades personals.</string>
+  <string name="ime_security_warning">%1$s pot enregistrar tot el que escriu, incloses les contrasenyes, números de targetes de crèdit i altres dades personals.</string>
   <string name="imei_information_summary">Informació relativa a l\'IMEI</string>
   <string name="imei_information_title">Informació de l\'IMEI</string>
   <string name="immediately_destroy_activities">No mantinguis les activitats</string>
@@ -1828,7 +1828,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="keyboard_layout_dialog_switch_hint">Per canviar, premeu Ctrl + barra espaiadora</string>
   <string name="keyboard_layout_dialog_title">Seleccioneu un disseny de teclat</string>
   <string name="keyboard_layout_picker_title">Dissenys del teclat</string>
-  <string name="keyboard_settings_category">Teclat i mètodes d\'introducció</string>
+  <string name="keyboard_settings_category">Mètodes d\'entrada</string>
   <string name="keyboard_settings_title">Teclat Android</string>
   <string name="keyboard_shortcuts_helper">Auxiliar per a les tecles de drecera</string>
   <string name="keyboard_shortcuts_helper_summary">Mostra les dreceres disponibles</string>
@@ -1885,7 +1885,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="keywords_vibrate">Vibra;Vibració</string>
   <string name="keywords_voice_input">reconeixedor entrada veu parlar idioma mans lliures mans-lliures gratuït reconeixement paraula ofensiva àudio historial bluetooth auriculars</string>
   <string name="keywords_vr_listener">RV realitat virtual processador estèreo servei ajuda</string>
-  <string name="keywords_wifi">wifi wi-fi connexió xarxa</string>
+  <string name="keywords_wifi">wifi;wi-fi;WLAN;WLAN;wlan;WLAN</string>
   <string name="keywords_wifi_calling">wifi, wi-fi, trucada, trucar</string>
   <string name="keywords_write_settings">escriptura modificació configuració del sistema</string>
   <string name="label_global_roaming_settings">Configuració d\'itinerància</string>
