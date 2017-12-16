@@ -633,7 +633,7 @@ d MMMM"</string>
   <string name="wait_for_debugger_summary">Abans d\'executar-se, l\'aplicació de depuració espera que es connecti el depurador</string>
   <string name="weather_publish_time">Actualitzat %1$s</string>
   <string name="wifi_aggressive_handover">Transferència forçada des de Wi-Fi a mòbil</string>
-  <string name="wifi_aggressive_handover_summary">Si s\'activa, quan el senyal de Wi-Fi és baix es forçarà la transferència de dades des de Wi-Fi a mòbil</string>
+  <string name="wifi_aggressive_handover_summary">En activar-se, la connexió canviarà a les dades mòbils de forma més activa quan el senyal Wi-Fi sigui baix.</string>
   <string name="wifi_allow_scan_with_traffic">Permet sempre cerca de Wi-Fi en itinerància</string>
   <string name="wifi_allow_scan_with_traffic_summary">Permet/No permetis cerques de xarxes Wi-Fi en itinerància basades en la quantitat de dades presents a la interfície</string>
   <string name="wifi_connected_no_internet">Connectat, no hi ha Internet</string>
