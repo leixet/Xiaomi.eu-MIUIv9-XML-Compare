@@ -1847,7 +1847,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="text_button">D\'acord</string>
   <string name="thermal_tips_message">Jugar a jocs en mode de rendiment pot provocar problemes de sobreescalfament.</string>
   <string name="thermal_tips_title">Atenció</string>
-  <string name="third_application">Third party apps</string>
+  <string name="third_application">Aplicacions instal·lades</string>
   <string name="three_percent_total_pkg">%s (3%% de les dades mensuals)</string>
   <string name="tips_dialog_title">"No coneix el seu límit?"</string>
   <string name="tips_message">"Per veure els detalls del vostre pla, marqueu %2$s (%1$s)."</string>
