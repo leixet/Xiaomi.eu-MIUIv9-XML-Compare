@@ -594,7 +594,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="bluetooth_incoming_pairing_msg">Des de:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Voleu vincular-lo amb aquest dispositiu?</string>
   <string name="bluetooth_is_disconnect_question">Voleu desconnectar %1$s?</string>
   <string name="bluetooth_is_discoverable">Visible a tots els altres dispositius Bluetooth del voltant (%1$s)</string>
-  <string name="bluetooth_is_discoverable_always">Sempre visible a tots els dispositius Bluetooth del voltant</string>
+  <string name="bluetooth_is_discoverable_always">Fes que aquest dispositiu sigui visible a tots els dispositius Bluetooth propers</string>
   <string name="bluetooth_is_visible_message">%1$s és visible pels dispositius del voltant, mentre estigui activa la configuració de Bluetooth.</string>
   <string name="bluetooth_lock_voice_dialing">Bloqueja el marcatge per veu</string>
   <string name="bluetooth_lock_voice_dialing_summary">Desactiva el teclat de marcació per Bluetooth quan la pantalla estigui bloquejada</string>
@@ -609,7 +609,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="bluetooth_notif_message">Toca per vincular amb %1$s.</string>
   <string name="bluetooth_notif_ticker">Petició de vinculació Bluetooth</string>
   <string name="bluetooth_notif_title">Sol·licitud de vinculació</string>
-  <string name="bluetooth_on_time">Temps de connexió Wi-Fi</string>
+  <string name="bluetooth_on_time">Temps de Wi-Fi activat</string>
   <string name="bluetooth_only_visible_to_paired_devices">Només visible per a dispositius vinculats</string>
   <string name="bluetooth_opp_profile_summary_connected">S\'ha connectat al servidor de transferència de fitxers</string>
   <string name="bluetooth_opp_profile_summary_not_connected">No s\'ha connectat al servidor de transferència de fitxers</string>
@@ -854,7 +854,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="charge_length_format">Fa %1$s</string>
   <string name="charging_sounds_title">Sons de càrrega de la bateria</string>
   <string name="check_find_device_status_failure_confirm">D\'acord</string>
-  <string name="check_importance">Comprova la importància</string>
+  <string name="check_importance">Voleu marcar-ho com a important?</string>
   <string name="check_update">Comprova les actualitzacions</string>
   <string name="checkbox_notification_same_as_incoming_call">Utilitza el volum de les trucades entrants per a les notificacions</string>
   <string name="checking_decryption">S\'està comprovant&#8230;</string>
