@@ -9,7 +9,7 @@
   <string name="abc_activity_chooser_view_see_all">Mostra-les totes</string>
   <string name="abc_activitychooserview_choose_application">Trieu una aplicació</string>
   <string name="abc_capital_off">Desactivat</string>
-  <string name="abc_capital_on">Activat</string>
+  <string name="abc_capital_on">ACTIVAT</string>
   <string name="abc_search_hint">Cerca…</string>
   <string name="abc_searchview_description_clear">Esborra la consulta</string>
   <string name="abc_searchview_description_query">Cerca consulta</string>
@@ -1664,7 +1664,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="gadget_brightness_state_auto">Automàtic</string>
   <string name="gadget_brightness_state_full">Màxim</string>
   <string name="gadget_brightness_state_half">meitat</string>
-  <string name="gadget_brightness_state_off">Apagat</string>
+  <string name="gadget_brightness_state_off">apagat</string>
   <string name="gadget_brightness_template">Brillantor %1$s</string>
   <string name="gadget_location">Ubicació</string>
   <string name="gadget_picker_title">Trieu un giny</string>
@@ -1987,7 +1987,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="location_neighborhood_level_wifi">Ubicació determinada per Wi-Fi</string>
   <string name="location_network_based">Wi-Fi i xarxes mòbils</string>
   <string name="location_no_recent_apps">Cap aplicació no ha sol·licitat la ubicació recentment</string>
-  <string name="location_off_summary">Desactivat</string>
+  <string name="location_off_summary">DESACTIVAT</string>
   <string name="location_on_summary">Engegat / %1$s</string>
   <string name="location_scanning_bluetooth_always_scanning_description">Millora la ubicació permetent que les aplicacions i els serveis del sistema sempre detectin dispositius Bluetooth.</string>
   <string name="location_scanning_bluetooth_always_scanning_title">El Bluetooth està escanejant</string>
@@ -2337,6 +2337,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="mock_location_app">Selecciona aplicació per simular ubicació</string>
   <string name="mock_location_app_not_set">Cap aplicació per simular ubicació seleccionada</string>
   <string name="mock_location_app_set">Aplicació d\'ubicació simulades: %1$s</string>
+  <string name="mode_disable">Desactivat</string>
   <string name="model_name">Nom del model</string>
   <string name="model_number">Model</string>
   <string name="modify_instruction_password_settings">Estableix una contrasenya</string>
@@ -4415,7 +4416,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="user_summary_restricted_not_set_up">No s\'ha configurat el perfil amb restriccions</string>
   <string name="user_summary_restricted_profile">Perfil amb restriccions</string>
   <string name="user_you">Tu (%s)</string>
-  <string name="v7_preference_off">Desactivat</string>
+  <string name="v7_preference_off">DESACTIVA</string>
   <string name="v7_preference_on">Activat</string>
   <string name="verify_apps_over_usb_summary">Comprova les aplicacions instal·lades mitjançant ADB/ADT per detectar possibles comportaments perillosos.</string>
   <string name="verify_apps_over_usb_title">Verificació d\'aplicacions per USB</string>
