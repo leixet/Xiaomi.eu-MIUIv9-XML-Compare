@@ -32,7 +32,7 @@
   <string name="device_owner_error_installation_failed">"No s'ha pogut instal·lar l'aplicació d'administració"</string>
   <string name="device_owner_error_ok">D’acord</string>
   <string name="device_owner_error_package_invalid">"No es utilitzar l'aplicació d'administració perquè s'ha malmès o hi manquen components. Contacteu amb el Departament d'informàtica."</string>
-  <string name="device_owner_error_reset">REINICIALITZA</string>
+  <string name="device_owner_error_reset">Restableix</string>
   <string name="device_owner_error_wifi">"No s'ha pogut connectar al Wi-Fi"</string>
   <string name="device_owner_exists">Els perfils professionals no es poden configurar en un dispositiu gestionat</string>
   <string name="encrypt_device_launch_settings">XIFRATGE</string>
