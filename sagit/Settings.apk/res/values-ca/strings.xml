@@ -204,8 +204,8 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="android_beam_disabled_summary">Activa el NFC per a gaudir d\'aquesta opció</string>
   <string name="android_beam_explained">Si feu tocar 2 dispositius entre ells, podreu transmetre una pàgina web, un vídeo o el contingut de la pantalla (normalment els 2 costats de darrere).</string>
   <string name="android_beam_label">Transmissió Android</string>
-  <string name="android_beam_off_summary">S\'ha deixat de compartir contingut per NFC</string>
-  <string name="android_beam_on_summary">S\'ha activat compartir contingut per NFC</string>
+  <string name="android_beam_off_summary">L\'ús compartit de contingut NFC està desactivat</string>
+  <string name="android_beam_on_summary">L\'ús compartit de contingut NFC està activat</string>
   <string name="android_beam_settings_title">Transmissió Android</string>
   <string name="android_beam_tips">Assegureu-vos que els dos dispositius es toquen i premeu sobre el contingut que voleu transmetre.</string>
   <string name="android_beam_witch_label">Transmissió Android</string>
@@ -279,7 +279,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="app_notification_row_sensitive">Confidencial</string>
   <string name="app_notification_visibility_override_title">A la pantalla de bloqueig</string>
   <string name="app_notifications_dialog_done">Fet</string>
-  <string name="app_notifications_switch_label">Notificacions personalitzades</string>
+  <string name="app_notifications_switch_label">Notificació personalitzada</string>
   <string name="app_notifications_title">Notificacions</string>
   <string name="app_ops_never_used">(No s\'ha fet servir mai)</string>
   <string name="app_ops_permiss_name">Accés a la xarxa de l\'aplicació</string>
@@ -387,7 +387,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="backup_data_summary">Feu una còpia de seguretat de les dades de les aplicacions, contrasenyes de Wi-Fi i altres ajustos en els servidors de Google</string>
   <string name="backup_data_title">Feu una còpia de seguretat de les dades</string>
   <string name="backup_disabled">Còpia de seguretat desactivada</string>
-  <string name="backup_erase_dialog_message">Voleu aturar la còpia de seguretat de les contrasenyes Wi-Fi, marcadors, configuracions, dades de l\'aplicació i eliminar totes les còpies dels servidors de Google?</string>
+  <string name="backup_erase_dialog_message">Voleu aturar la còpia de seguretat de les contrasenyes Wi-Fi, marcadors, altres configuracions, dades de l\'aplicació i eliminar totes les còpies dels servidors de Google?</string>
   <string name="backup_inactive_title">S\'ha deshabilitat el servei de còpies de seguretat.</string>
   <string name="backup_pw_cancel_button_text">Cancel·la</string>
   <string name="backup_pw_set_button_text">Establiu la contrasenya de la còpia de seguretat</string>
@@ -497,8 +497,8 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="bind_xiaomi_account_dialog_summery">"Esteu a punto d'afegir el Compte Mi %s. Si oblideu la contrasenya, podeu utilitzar aquesta compte per restablir-la."</string>
   <string name="bind_xiaomi_account_success">El Compte Mi s\'afegit correctament</string>
   <string name="biometric_weak_improve_matching_title">Millora el reconeixement facial</string>
-  <string name="biometric_weak_liveliness_summary">Requereix parpelleig dels ulls en desbloquejar</string>
-  <string name="biometric_weak_liveliness_title">Comprovació de vida</string>
+  <string name="biometric_weak_liveliness_summary">Requereix parpellejar per desbloquejar</string>
+  <string name="biometric_weak_liveliness_title">Comprovació de persona real</string>
   <string name="ble_scan_notify_text">Per millorar la precisió de la ubicació, les aplicacions i serveis encara poden detectar els dispositius Bluetooth. Es pot configurar des de LINK_BEGINscanning settingsLINK_END.</string>
   <string name="block_list_connected_devices">Dispositius connectats</string>
   <string name="block_list_diaglog_cancle">Cancel·la</string>
