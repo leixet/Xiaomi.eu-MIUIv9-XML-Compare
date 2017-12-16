@@ -296,7 +296,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="ext_media_unmountable_notification_title">Targeta SD malmesa</string>
   <string name="float_incall_ignore">Ignorar</string>
   <string name="float_incall_message">Missatge</string>
-  <string name="force_allow_on_external">Força el permís d\'aplicacions a l\'emmagatzematge extern</string>
+  <string name="force_allow_on_external">Força a les aplicacions escriure en un emmagatzematge extern</string>
   <string name="force_allow_on_external_summary">Permet que qualsevol aplicació es pugui escriure en un dispositiu d’emmagatzematge extern, independentment dels valors definits</string>
   <string name="force_hw_ui">Força la renderització de la GPU</string>
   <string name="force_hw_ui_summary">Força l\'ús de la GPU per a dibuixos en 2D</string>
