@@ -877,7 +877,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="lockpattern_recording_incorrect_too_short">Connecteu almenys %d punts</string>
   <string name="lockpattern_recording_inprogress">"Treure el dit després que el patró és completi"</string>
   <string name="lockpattern_recording_intro_header">Connectar almenys 4 punts per crear un patró</string>
-  <string name="lockpattern_retry_button_text">Dibuixar novament</string>
+  <string name="lockpattern_retry_button_text">Torneu a dibuixar-ho</string>
   <string name="lockpattern_settings_help_how_to_record">Com dibuixar un patró</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Massa intents fallits!</string>
   <string name="lockpattern_tutorial_cancel_label">Cancel·la</string>
