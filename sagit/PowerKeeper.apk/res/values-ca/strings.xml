@@ -98,8 +98,8 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="power_checker_mobile_radio_title">%1$s accedeixen a la xarxa freqüentment</string>
   <string name="power_checker_multi_apps_title">%2$s aplicacions consumeixen energia</string>
   <string name="power_checker_notify_summary">Esborreu les aplicacions de consumo d\'energia anormal</string>
-  <string name="power_checker_partial_wakelock_multi_apps_title">%1$s impedeix la suspensió del sistema</string>
-  <string name="power_checker_partial_wakelock_title">%1$s impedeix la suspensió del sistema</string>
+  <string name="power_checker_partial_wakelock_multi_apps_title">%1$s impedeix que MIUI entri en mode suspensió</string>
+  <string name="power_checker_partial_wakelock_title">%1$s impedeix que MIUI entri en mode suspensió</string>
   <string name="power_checker_recent_btn_title">Configuració de l\'energia</string>
   <string name="power_checker_recent_group_title">Recentment</string>
   <string name="power_checker_running_btn_title">Atura el procés</string>
