@@ -718,7 +718,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="outbox_alert_edit_resend">Edita i envia de nou</string>
   <string name="outbox_alert_failed_edit_resend">"No s'ha pogut enviar. Editeu i torneu a provar.\""</string>
   <string name="outbox_alert_mailbox_not_found">Adreça de correu electrònic no trobada</string>
-  <string name="outbox_alert_rw_io_error">Excepció de lectura/escriptura en correu, si us plau intenti escriure i enviar de nou</string>
+  <string name="outbox_alert_rw_io_error">Hi ha hagut un error. Espereu un minut o dos i torneu-ho a provar.</string>
   <string name="outbox_alert_select_operation">Trieu una acció</string>
   <string name="outbox_alert_title_sent_failed">"No pot enviar correu"</string>
   <string name="outbox_no_mails">No hi ha missatges a la bústia de sortida</string>
