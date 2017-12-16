@@ -128,7 +128,7 @@ Sostingui el telèfon com si estigues contestant una trucada, parleu al micròfo
   <string name="cit_bluetooth_logging_confirm_info">aquest registre Bluetooth recopilarà les dades de protocol Bluetooth, només registrà les operacions actualitzades amb Bluetooth. També s\'inclouran les dades d\'informació de privadesa: Accés telefònic a Bluetooth/Historial de trucades telefòniques/SMS/MMS/Fitxers intercanviats / Metadades musicals, etc. Aquestes dades es limiten a la depuració interna de l\'empresa XiaoMi amb els usuaris, però no es poden utilitzar per a altres finalitats.</string>
   <string name="cit_bluetooth_logging_confirm_ng">Rebutja</string>
   <string name="cit_bluetooth_logging_confirm_notify">Accepteu habilitar el registre?</string>
-  <string name="cit_bluetooth_logging_confirm_ok">Accepta</string>
+  <string name="cit_bluetooth_logging_confirm_ok">D\'acord</string>
   <string name="cit_bluetooth_logging_confirm_title">Advertència de privadesa del registre de Bluetooth</string>
   <string name="cit_bluetooth_not_support">"Aquest dispositiu no és compatible amb Bluetooth"</string>
   <string name="cit_bluetooth_scan_retry">Explora de nou</string>
