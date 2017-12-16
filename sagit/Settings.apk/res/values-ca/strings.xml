@@ -3423,7 +3423,7 @@ Per fer-ho:
   <string name="search_wifi_setting_sleep_policy_title">Mantenir Wi-Fi durant el son</string>
   <string name="search_wifi_settings_title">Wi-Fi;WLAN;Configuració avançada;WLAN;Xarxes sense fils;Sense fils</string>
   <string name="search_wifi_tether_checkbox">Punt d\'accés mòbil;punt d\'accés;mòbil</string>
-  <string name="search_wifi_tether_configure_ap_text">Configura el punt d\'accés mòbil;Configura el punt d\'accés;afegeix un punt d\'accés</string>
+  <string name="search_wifi_tether_configure_ap_text">Configura el punt d\'accés portàtil;Configura el punt d\'accés;afegeix un punt d\'accés</string>
   <string name="search_wifi_tether_settings_title">Connexió compartida d\'Internet &amp;Punt d\'accés Wi-Fi;Internet compartit;Zona Wi-Fi,Punt d\'accés Wi-Fi</string>
   <string name="search_wifi_wapi_cert_install">Instal·la el certificat WAPI</string>
   <string name="search_wifi_wapi_cert_uninstall">Desinstal·la el certificat WAPI</string>
@@ -4775,7 +4775,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_p2p_wps_setup">Configuració WPS</string>
   <string name="wifi_password">Contrasenya</string>
   <string name="wifi_poor_network_detection">Només connexions estables</string>
-  <string name="wifi_poor_network_detection_summary">"No utilitzeu una xarxa Wi-Fi si no té una bona connexió a Internet"</string>
+  <string name="wifi_poor_network_detection_summary">"No utilitzeu una xarxa Wi-Fi tret que tingui una bona connexió"</string>
   <string name="wifi_priority_changed" formatted="false">Valor anterior %s | Valor nou %s</string>
   <string name="wifi_priority_label">Prioritat</string>
   <string name="wifi_priority_settings_label">Configuració de la prioritat</string>
@@ -4849,7 +4849,7 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="wifi_setup_title">Configuració Wi-Fi</string>
   <string name="wifi_setup_title_add_network">Afegeix una xarxa</string>
   <string name="wifi_setup_title_connected_network">S\'ha connectat a %s</string>
-  <string name="wifi_setup_title_connecting_network">S\'està connectant amb %s&#8230;</string>
+  <string name="wifi_setup_title_connecting_network">S\'està connectant amb %s…</string>
   <string name="wifi_setup_title_editing_network">S\'ha connectat a %s</string>
   <string name="wifi_setup_wizard_title">Selecció d\'una xarxa Wi-Fi</string>
   <string name="wifi_setup_wps">Configuració automàtica (WPS)</string>
@@ -4890,7 +4890,7 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="wifi_skip_anyway">Omet igualment</string>
   <string name="wifi_skipped_message">ADVERTIMENT: si ometeu la connexió Wi‑Fi, el telèfon utilitzarà només les dades mòbils per dur a terme les baixades inicials i les actualitzacions. Per evitar els possibles càrrecs per dades, connecteu-vos a la xarxa Wi‑Fi.</string>
   <string name="wifi_speed">Velocitat de l\'enllaç</string>
-  <string name="wifi_ssid_hint">Introdueix el SSID</string>
+  <string name="wifi_ssid_hint">Introduïu l\'SSID</string>
   <string name="wifi_starting">S\'està engegant el Wi-Fi&#8230;</string>
   <string name="wifi_state_disabled">S\'ha desactivat</string>
   <string name="wifi_state_disabling">S\'està desactivant</string>
@@ -4909,8 +4909,8 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="wifi_switch_to_gsm_message">S\'ha perdut la connexió Wi-Fi. Voleu utilitzar la connexió de dades mòbils?</string>
   <string name="wifi_switch_to_gsm_title">Voleu utilitzar la GSM?</string>
   <string name="wifi_tether_checkbox_text">Punt d\'accés portàtil</string>
-  <string name="wifi_tether_configure_ap_text">Configura un punt d\'accés Wi-Fi portàtil</string>
-  <string name="wifi_tether_configure_subtext">Portable %1$s %2$s</string>
+  <string name="wifi_tether_configure_ap_text">Configura un punt d\'accés portàtil</string>
+  <string name="wifi_tether_configure_subtext">Portàtil %1$s %2$s</string>
   <string name="wifi_tether_enabled_subtext">S\'ha activat el punt d\'accés Wi-Fi portàtil %1$s</string>
   <string name="wifi_tether_failed_subtext">Error del punt d\'accés portàtil</string>
   <string name="wifi_tether_first_use_message">Configura el punt d\'accés Wi-Fi al primer ús</string>
@@ -4963,7 +4963,7 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="wifi_wps_setup_msg">S\'esta engegant WPS&#8230;</string>
   <string name="wifi_wps_setup_title">Configuració de Wi-Fi protegida</string>
   <string name="wifiap_configure_ap_text">Configura Wi-Fi wifiap</string>
-  <string name="wifiap_configure_subtext">%1$s%2$s Wi-Fi wifiap portable</string>
+  <string name="wifiap_configure_subtext">%1$s%2$s Wi-Fi wifiap portàtil</string>
   <string name="wifiap_settings_desc">Wi-Fi wifiap pot compartir la connexió de dades d\'internet mitjantçant la Wi-Fi amb altres dispositius com ara PC o dispositius mòbils.</string>
   <string name="wifiap_settings_indication">Quan la Wi-Fi wifiap s\'ha activat, els altres dispositius podran connectar-se a internet seguint aquests passos:</string>
   <string name="wifiap_settings_indication_step1">1. Activant la Wi-Fi del propi dispositiu mòbil o PC.</string>
