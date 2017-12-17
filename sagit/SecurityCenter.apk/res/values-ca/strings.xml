@@ -1087,7 +1087,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="note_sms_none">Sense missatges</string>
   <string name="notification_battery_consume_abnormal_summary">La bateria s\'ha descarregat un %2$s en els darrers %1$d minuts</string>
   <string name="notification_battery_consume_abnormal_title">La bateria s\'està descarregant massa ràpid</string>
-  <string name="notification_exit_power_save_mode">Apaga l\'estalvi de bateria</string>
+  <string name="notification_exit_power_save_mode">Desactiva l\'estalvi de bateria</string>
   <string name="notification_exit_power_save_mode_subtitle">Bateria %s carregada.</string>
   <string name="notification_item">Protegir aplicacions seleccionades amb el bloquejador d\'aplicacions</string>
   <string name="notification_mask_summary">Oculta el contingut per les notificacions a la pantalla de bloqueig i a la barra notificacions</string>
@@ -1298,7 +1298,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="power_optimize_disable_gps">Desactiva el GPS</string>
   <string name="power_optimize_disable_start_other_app">Evita que les aplicacions obrin altres aplicacions</string>
   <string name="power_optimize_loading">S\'està carregant</string>
-  <string name="power_optimize_open_hide_mode">Activa el mode ocult</string>
+  <string name="power_optimize_open_hide_mode">Activa l\'estalvi de bateria</string>
   <string name="power_optimize_save_mode_not_opened">Estalvi de bateria desactivat</string>
   <string name="power_optimize_save_on_lockscreen">Estalvia energia quan el dispositiu està bloquejat</string>
   <string name="power_phone">Trucades de veu</string>
