@@ -51,7 +51,7 @@
   <string name="lockscreen_h5_refresh_btn_tv">Refresca</string>
   <string name="lockscreen_h5_refresh_tip">Comproveu la configuració de xarxa i torneu-ho a provar</string>
   <string name="lockscreen_magazine_summary">Categories</string>
-  <string name="lockscreen_magazine_system_title">Desconnectat</string>
+  <string name="lockscreen_magazine_system_title">Per defecte</string>
   <string name="lockscreen_magazine_title">Carrusel de fons de pantalla</string>
   <string name="lockscreen_wallpaper_changed">S\'ha actualitzat el fons de pantalla de bloqueig</string>
   <string name="minutes_15">15 minuts</string>
