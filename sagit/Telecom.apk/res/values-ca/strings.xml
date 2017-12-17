@@ -106,7 +106,7 @@
   <string name="change_default_dialer_dialog_affirmative">Estableix com a aplicació telefònica per defecte</string>
   <string name="change_default_dialer_dialog_negative">Cancel·la</string>
   <string name="change_default_dialer_dialog_title">Voleu establir %s com l\'aplicació telefònica per defecte?</string>
-  <string name="change_default_dialer_warning_message">%s podrà fer i controlar tots els aspectes de les trucades. Només s\'han d\'establir les aplicacions que confieu com l\'aplicació telefònica predeterminada.</string>
+  <string name="change_default_dialer_warning_message">%s podrà fer i controlar tots els aspectes de les trucades. Només s\'han d\'establir les aplicacions que confieu com l\'aplicació telefònica per defecte.</string>
   <string name="charge_length_format">Fa %1$s</string>
   <string name="choose_profile">Seleccioneu un perfil</string>
   <string name="clear_adb_keys">Revoca autoritzacions de depuració USB</string>
@@ -200,8 +200,8 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="incoming_call_failed_low_battery">La trucada entrant ha fallat pel baix nivell de la bateria.</string>
   <string name="keep_screen_on">Mantén-la activa</string>
   <string name="keep_screen_on_summary">La pantalla no entra mai en mode d\'espera si el dispositiu s\'està carregant</string>
-  <string name="launch_defaults_none">No s\'han establert els predeterminats</string>
-  <string name="launch_defaults_some">S\'han establert alguns predeterminats</string>
+  <string name="launch_defaults_none">No s\'ha establert els valors per defecte</string>
+  <string name="launch_defaults_some">S\'ha definit alguns valors per defecte</string>
   <string name="local_backup_password_summary_change">Toqueu per canviar o suprimir la contrasenya per a les còpies de seguretat completes de l\'ordinador</string>
   <string name="local_backup_password_summary_none">Actualment les còpies de seguretat completes de l\'escriptori no estan protegides</string>
   <string name="local_backup_password_title">Contrasenya de la còpia de segurerat de l\'escriptori</string>
@@ -331,7 +331,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="tts_lang_use_system">Utilitza l\'idioma del sistema</string>
   <string name="tts_play_example_summary">Reprodueix una demostració curta de la síntesi de veu</string>
   <string name="tts_play_example_title">Vull escoltar un exemple</string>
-  <string name="tts_reset_speech_pitch_summary">Restableix la velocitat de lectura del text al valor predeterminat.</string>
+  <string name="tts_reset_speech_pitch_summary">Restableix la velocitat de lectura del text al valor per defecte.</string>
   <string name="tts_reset_speech_pitch_title">Restableix la velocitat de la parla</string>
   <string name="tts_settings">Configuració de text-a-veu</string>
   <string name="tts_settings_title">Sortida de text-a-veu</string>
@@ -339,7 +339,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="tts_status_not_supported">%1$s no és compatible</string>
   <string name="tts_status_ok">%1$s és compatible</string>
   <string name="tts_status_requires_network">Cal connexió de xarxa per a %1$s</string>
-  <string name="tts_status_title">Configuració de l\'idioma predeterminat</string>
+  <string name="tts_status_title">Estat de l\'idioma predeterminat</string>
   <string name="unblock_button">Desbloqueja</string>
   <string name="unblock_dialog_body">Voleu desbloquejar %1$s?</string>
   <string name="unknown">Desconegut</string>
