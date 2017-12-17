@@ -143,7 +143,7 @@
     <item>El més ràpid</item>
   </string-array>
   <string-array name="color_mode_names">
-    <item>Vibrant (predeterminat)</item>
+    <item>Vibrant (per defecte)</item>
     <item>Natural</item>
     <item>Estàndard</item>
   </string-array>
@@ -215,7 +215,7 @@
   </string-array>
   <string-array name="entries_font_size">
     <item>Petita</item>
-    <item>Predeterminada</item>
+    <item>Per defecte</item>
     <item>Gran</item>
     <item>Molt gran</item>
   </string-array>
@@ -495,7 +495,7 @@
     <item>Reduït</item>
   </string-array>
   <string-array name="captioning_preset_selector_titles">
-    <item>Utilitza els valors predeterminats de l\'aplicació</item>
+    <item>Utilitza els valors per defecte de l\'aplicació</item>
     <item>Blanc sobre negre</item>
     <item>Negre sobre blanc</item>
     <item>Groc sobre negre</item>
