@@ -311,7 +311,7 @@
   <string name="eq_delete">Elimina</string>
   <string name="eq_delete_success">Fet</string>
   <string name="eq_electronic">Electrònica</string>
-  <string name="eq_flat">Pla</string>
+  <string name="eq_flat">Per defecte</string>
   <string name="eq_preset_create">Crea</string>
   <string name="eq_preset_format">Configuració per defecte de l\'usuari %d</string>
   <string name="eq_preset_hint">Nom valor per defecte</string>
