@@ -123,7 +123,7 @@ Torneu a provar-ho d\'aquí %d segons."</string>
  &amp;lt;/font&amp;gt; del dispositiu, incloses les fotos i els contactes i, a continuació, establiu una nova contrasenya de la pantalla de bloqueig.&lt;/Data&gt;</string>
   <string name="phone_locked_foget_password_method_next">Següent</string>
   <string name="phone_locked_foget_password_ok">D\'acord</string>
-  <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Apagueu el vostre dispositiu, llavors premeu contínuament i simultània els botons &amp;lt;font color=#a5220e&amp;gt;d\'engegada &amp;lt;/font&amp;gt; i &amp;lt;font color=#a5220e&amp;gt;d\'apujar el volum &amp;lt;/font&amp;gt;fins que veieu ml.&lt;/Data&gt;</string>
+  <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Apagueu el dispositiu, manteniu premut els botons &amp;lt;font color=#a5220e&amp;gt;d\'encesa&amp;lt;/font&amp;gt; i el &amp;lt;font color=#a5220e&amp;gt;d\'apujar el volum&amp;lt;/font&amp;gt; simultàniament fins que vegeu el logotip Mi.&lt;/Data&gt;</string>
   <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Seleccioneu &amp;lt;font color=#a5220e&amp;gt;\"Neteja iamp;amp; Restableix\"&amp;lt;/font&amp;gt; i espereu fins que el dispositiu es reiniciï.&lt;/Data&gt;</string>
   <string name="phone_locked_forget_password_suggesstions_title">Com esborrar les dades?</string>
   <string name="phone_locked_string">El telèfon ha estat bloquejat</string>
