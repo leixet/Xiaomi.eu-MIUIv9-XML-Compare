@@ -194,7 +194,7 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="set_lcd_mode">Mode de pantalla</string>
   <string name="settings_safetylegal_activity_loading">Un moment…</string>
   <string name="show_system_app">Mostra les aplicacions del sistema</string>
-  <string name="sleep_config_enhance_description">"MIUI millorarà l'espera nocturna"</string>
+  <string name="sleep_config_enhance_description">"Cada vegada que MIUI detecta que esteu dormint, tancarà aplicacions en segon pla, restringirà l'NFC, Bluetooth, GPS, dades mòbils i ús de Wi-Fi i farà que no s'activi la pantalla per a les notificacions."</string>
   <string name="sleep_config_enhance_description_non_nfc">"Cada vegada que MIUI detecta que esteu dormint, tancarà les aplicacions de fons, restringirà el Bluetooth, GPS, dades mòbils i l'ús de Wi-Fi i la pantalla no s'encendrà en rebre notificacions."</string>
   <string name="sleep_config_enhance_title">Mode suspensió</string>
   <string name="still">Imatge</string>
