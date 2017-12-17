@@ -32,7 +32,7 @@
   <string name="backup_cancel">"No copiïs"</string>
   <string name="backup_checkbox_msg">Copia automàticament</string>
   <string name="backup_confirm">Copia ara</string>
-  <string name="backup_success_cancel">Accepta</string>
+  <string name="backup_success_cancel">D\'acord</string>
   <string name="backup_success_confirm">Veure</string>
   <string name="backup_success_message">Copiat a %1$s</string>
   <string name="backup_success_title">Copiat</string>
