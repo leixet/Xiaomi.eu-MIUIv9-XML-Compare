@@ -310,7 +310,7 @@ Si no s\'actualitza, és possible que les aplicacions duals no funcionin correct
   <string name="xspace_account">Comptes d\'aplicacions duals</string>
   <string name="xspace_chocie">Suport d\'aplicacions duals</string>
   <string name="xspace_creating">S\'està creant l\'aplicació dual&#8230;</string>
-  <string name="xspace_default_app_summary">Estableix l\'aplicació predeterminada per als pagaments, l\'ús compartit, els preferits i molt més.</string>
+  <string name="xspace_default_app_summary">Estableix l\'aplicació per defecte per als pagaments, l\'ús compartit, els preferits i molt més.</string>
   <string name="xspace_default_app_title">Aplicació per defecte</string>
   <string name="xspace_default_setting_dialog_title">Per defecte</string>
   <string name="xspace_default_setting_label">Aplicació per defecte</string>
