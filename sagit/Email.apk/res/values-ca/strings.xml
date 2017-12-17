@@ -52,7 +52,7 @@
   <string name="account_settings_param">Configuració del compte</string>
   <string name="account_settings_policies">Polítiques de seguretat</string>
   <string name="account_settings_preference_add_account">Afegeix un compte de bústia</string>
-  <string name="account_settings_preference_att_save_path">Ubicació predeterminada per als fitxers adjunts</string>
+  <string name="account_settings_preference_att_save_path">Ubicació per defecte per als fitxers adjunts</string>
   <string name="account_settings_preference_head_icon">Fotos de perfil</string>
   <string name="account_settings_preference_notify">Avís</string>
   <string name="account_settings_retry_label">Intentar sincronitzar</string>
@@ -433,8 +433,8 @@
   <string name="feedback_user_edit_tag">De MIUI&#160;</string>
   <string name="fetch_bank_sender_list_failure">"No s'ha pogut obtenir la informació"</string>
   <string name="fetching_attachment">Afegint adjunt</string>
-  <string name="file_defailt_save_path">Els fitxers adjunts es desen a la carpeta %s de manera predeterminada. Podeu canviar la carpeta a la Configuració.</string>
-  <string name="file_default_save_path_title">Ubicació predeterminada per als fitxers adjunts</string>
+  <string name="file_defailt_save_path">Els fitxers adjunts es desen a la carpeta %s per defecte. Podeu canviar la carpeta a la Configuració.</string>
+  <string name="file_default_save_path_title">Ubicació per defecte per als fitxers adjunts</string>
   <string name="file_deleted_success">Fitxer eliminat</string>
   <string name="file_not_found">"No s'ha trobat el fitxer"</string>
   <string name="file_not_found_redownload">"No s'ha trobat el fitxer"</string>
