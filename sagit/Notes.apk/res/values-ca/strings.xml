@@ -49,7 +49,7 @@
   <string name="done">Fet</string>
   <string name="edit_header_done_description">Fet</string>
   <string name="edit_header_home_description">Enrere</string>
-  <string name="enable_sync">Sincronització</string>
+  <string name="enable_sync">Sincronitza</string>
   <string name="enable_sync_desc">Sincronitza les teves notes amb el teu compte de Mi (%1$s)?</string>
   <string name="error_contact_not_exist">"No existeix el contacte"</string>
   <string name="error_hide_empty_note">"No es pot ocultar una nota buida"</string>
