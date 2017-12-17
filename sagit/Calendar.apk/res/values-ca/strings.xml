@@ -314,7 +314,7 @@
   <string name="preferences_alerts_ringtone_title">So</string>
   <string name="preferences_alerts_vibrateWhen_title">Vibració</string>
   <string name="preferences_alerts_vibrate_title">Vibració i tons de trucada</string>
-  <string name="preferences_default_allday_reminder_title">Hora predeterminada de recordatori per tot el dia</string>
+  <string name="preferences_default_allday_reminder_title">Hora per defecte del recordatori per tot el dia</string>
   <string name="preferences_default_reminder_dialog">Temps de recordatori per defecte</string>
   <string name="preferences_default_reminder_title">Temps de recordatori per defecte</string>
   <string name="preferences_home_tz_title">Fus horari propi</string>
