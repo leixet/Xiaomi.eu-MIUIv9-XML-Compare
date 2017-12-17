@@ -237,7 +237,7 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="mibi_progress_warning_check_with_contact">El pagament encara no ha arribat al vostre compte. Ho tornarem a comprovar dintre de dos dies laborables. Centre d\'atenció al client: 400-100-5678</string>
   <string name="mibi_progress_warning_waiting">"El pagament encara no ha arribat al vostre compte."</string>
   <string name="mibi_prompt_info_button_hint">Atenció (%d)</string>
-  <string name="mibi_prompt_info_button_text">Accepta</string>
+  <string name="mibi_prompt_info_button_text">D\'acord</string>
   <string name="mibi_prompt_info_for_first_use">"El Mi Credit no es pot utilitzar per comprar maquinari a Mi.com."</string>
   <string name="mibi_prompt_info_title">Consells</string>
   <string name="mibi_push_register_fail">Error de registre en la tramesa automàtica.</string>
