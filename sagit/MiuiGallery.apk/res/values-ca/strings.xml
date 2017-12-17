@@ -717,7 +717,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="photo_editor_navigator_cancel">Cancel·la</string>
   <string name="photo_editor_navigator_download_network_metered_msg">La baixada de %s requereix aproximadament 4 Mb de dades mòbils. Voleu baixar-ho?</string>
   <string name="photo_editor_navigator_download_network_metered_title">Avís d\'ús de dades</string>
-  <string name="photo_editor_navigator_export">Finalitza</string>
+  <string name="photo_editor_navigator_export">Desa</string>
   <string name="photo_editor_navigator_module_download_failed">"No s'ha pogut baixar %s"</string>
   <string name="photo_editor_navigator_module_download_now">Baixa</string>
   <string name="photo_editor_navigator_module_download_success">S\'ha baixat amb èxit</string>
