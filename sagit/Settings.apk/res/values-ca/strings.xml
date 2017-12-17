@@ -1725,7 +1725,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="hide">Amaga</string>
   <string name="hide_screen_button">Amaga els botons de la pantalla</string>
   <string name="high_performance_notif_summary">El dispositiu es pot escalfar amb l\'ús exhaustiu.</string>
-  <string name="high_performance_notif_title">S\'ha activat el mode d\'alt rendiment</string>
+  <string name="high_performance_notif_title">S\'ha activat el mode rendiment</string>
   <string name="high_performance_title">"Sembla que està executant un test de referència. Per a millors resultats configureu la gestió de l'energia a \"Alt rendiment\""</string>
   <string name="high_power_apps">Optimització de la bateria</string>
   <string name="high_power_desc">No s\'aplica l\'optimització de la bateria. És possible que es consumeixi més ràpidament.</string>
@@ -4694,7 +4694,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_eap_user_cert">Certificat d\'usuari</string>
   <string name="wifi_empty_list_user_restricted">"No teniu permís per a canviar aquesta xarxa."</string>
   <string name="wifi_empty_list_wifi_off">Per veure les xarxes disponibles, activeu la Wi-Fi</string>
-  <string name="wifi_empty_list_wifi_on">S\'estan cercant xarxes Wi-Fi&#8230;</string>
+  <string name="wifi_empty_list_wifi_on">S\'estan cercant xarxes Wi-Fi…</string>
   <string name="wifi_enable">Wi-Fi</string>
   <string name="wifi_enable_data_and_wifi_roam">Canvia entre dades i Wi-Fi</string>
   <string name="wifi_enable_data_and_wifi_roam_summary">Si la connexió Wi-Fi no és gaire bona, manté les dades i el Wi-Fi activats.</string>
