@@ -225,7 +225,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="paused_waiting_for_network">A l\'espera de xarxa</string>
   <string name="paused_waiting_to_retry">Esperant per reintentar</string>
   <string name="period_of_validity">Validesa:</string>
-  <string name="pref_download_revert_default">Defecte</string>
+  <string name="pref_download_revert_default">Per defecte</string>
   <string name="pref_download_settings_title">Límit de mida de baixada</string>
   <string name="pref_download_storage_path">Crea una nova carpeta per les baixades</string>
   <string name="pref_sniff_shortcut">Crear accés directe</string>
@@ -261,7 +261,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="resume_download">Reprèn</string>
   <string name="retry_after_network_available">"No es pot connectar a la xarxa. Comproveu la seva connexió de dades i reinténta-ho"</string>
   <string name="retry_download">Reintentar</string>
-  <string name="revert_default">Restablir</string>
+  <string name="revert_default">Restableix la configuració per defecte</string>
   <string name="revert_download_path">Voleu utilitzar la ubicació de baixades per defecte?</string>
   <string name="save_path">"Desar les baixades a: "</string>
   <string name="save_text">Estalvieu %1$s €</string>
