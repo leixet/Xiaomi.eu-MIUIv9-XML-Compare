@@ -10,7 +10,7 @@
   <string name="account_duplicate_dlg_title">Compte duplicada</string>
   <string name="account_failure">Error del compte</string>
   <string name="account_name_toast">No s\'ha pogut crear el compte. Ja existeix un compte amb el mateix nom.\"</string>
-  <string name="account_options_sync_title">Configuració de sincronització</string>
+  <string name="account_options_sync_title">Sincronitza</string>
   <string name="account_password_spaces_error">"Aquesta contrasenya comença o acaba amb un o més
         espais en blanc. Molts servidors no admeten contrasenyes amb espais en blanc."</string>
   <string name="account_security_dialog_content_fmt">"%s requereix que actualitzi la configuració de
@@ -146,7 +146,7 @@
   <string name="account_setup_options_mail_window_all">Tot</string>
   <string name="account_setup_options_mail_window_auto">Automàtic</string>
   <string name="account_setup_options_mail_window_default">Utilitza compte per defecte</string>
-  <string name="account_setup_options_mail_window_label">Dies a sincronitzar</string>
+  <string name="account_setup_options_mail_window_label">Període de sincronització</string>
   <string name="account_setup_options_mail_window_label_imap_or_pop3">Mantenir per</string>
   <string name="account_setup_options_title">Configuració del compte</string>
   <string name="account_setup_outgoing_require_login_label">Necessites iniciar sessió</string>
@@ -157,7 +157,7 @@
   <string name="account_setup_username_password_toast">Introduïu una adreça electrònica i una contrasenya.</string>
   <string name="account_sync_off">Sincronització de compte esta apagada.</string>
   <string name="account_sync_settings_settings">Sincronitza els contactes i els calendaris del compte</string>
-  <string name="account_sync_settingstip_description">Sincronitzar la configuració</string>
+  <string name="account_sync_settingstip_description">Sincronitza</string>
   <string name="account_waiting_for_folders_msg">Carregant llista de carpetes</string>
   <string name="actionbar_large_unread_count">%1$d per llegir</string>
   <string name="activity_folder_selection">Trieu carpeta</string>
@@ -362,7 +362,7 @@
   <string name="device_admin_label">Correu electrònic</string>
   <string name="device_not_activiey_lint1">L\'administrador de dispositius no està activat</string>
   <string name="device_not_activiey_lint2">Servei de correu no funciona correctament exchange</string>
-  <string name="dialog_account_auto_sync_setting_no_open">No es poden rebre nous missatges. La sincronització està apagada.</string>
+  <string name="dialog_account_auto_sync_setting_no_open">Heu triat sincronitzar els correus manualment. Refresqueu per sincronitzar.</string>
   <string name="dialog_change_sync_lookback">Els correus rebuts fa %s s\'eliminaran automàticament. Premeu per canviar-ho.</string>
   <string name="dialog_gmail_proxy_server_is_error">Error de servidor intermediari de Gmail.</string>
   <string name="dialog_insufficient_space_on_external">"No es pot acabar de baixar. No hi ha prou espai d'emmagatzematge extern."</string>
