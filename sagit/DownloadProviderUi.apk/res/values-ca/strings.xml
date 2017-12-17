@@ -356,7 +356,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="storage_sd_card">Targeta SD</string>
   <string name="storage_usb">Emmagatzematge USB</string>
   <string name="subbt_downloading">S\'està baixant&#8230;</string>
-  <string name="subbt_fail">Fallides</string>
+  <string name="subbt_fail">Ha fallat</string>
   <string name="subbt_pause">En pausa</string>
   <string name="subbt_wait">S\'està esperant…</string>
   <string name="subfile_list">Arxius</string>
