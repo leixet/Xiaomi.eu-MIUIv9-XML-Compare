@@ -1420,7 +1420,7 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="tts_status_not_supported">%1$s no és compatible</string>
   <string name="tts_status_ok">%1$s és compatible</string>
   <string name="tts_status_requires_network">Cal connexió de xarxa per a %1$s</string>
-  <string name="tts_status_title">Configuració de l\'idioma predeterminat</string>
+  <string name="tts_status_title">Estat de l\'idioma per defecte</string>
   <string name="tty_mode_not_allowed_video_call">"No es pot canviar el mode TTY durant una videotrucada"</string>
   <string name="tty_mode_option_summary">Estableix mode TTY</string>
   <string name="tty_mode_option_title">Mode TTY</string>
