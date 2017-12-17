@@ -30,7 +30,7 @@
   <string name="device_owner_error_general">"No s'ha pogut configurar el vostre dispositiu. Contacteu amb el Departament d'informàtica."</string>
   <string name="device_owner_error_hash_mismatch">"No s'ha pogut utilitzar l'aplicació d'administració per un error de la suma de verificació. Contacteu amb el Departament d'informàtica."</string>
   <string name="device_owner_error_installation_failed">"No s'ha pogut instal·lar l'aplicació d'administració"</string>
-  <string name="device_owner_error_ok">D’acord</string>
+  <string name="device_owner_error_ok">D\'acord</string>
   <string name="device_owner_error_package_invalid">"No es utilitzar l'aplicació d'administració perquè s'ha malmès o hi manquen components. Contacteu amb el Departament d'informàtica."</string>
   <string name="device_owner_error_reset">Restableix</string>
   <string name="device_owner_error_wifi">"No s'ha pogut connectar al Wi-Fi"</string>
