@@ -163,7 +163,7 @@
     <item>El més ràpid</item>
   </string-array>
   <string-array name="color_mode_names">
-    <item>Vibrant (predeterminat)</item>
+    <item>Vibrant (per defecte)</item>
     <item>Natural</item>
     <item>Estàndard</item>
   </string-array>
