@@ -247,7 +247,7 @@
   <string name="message_details_title">Detalls del missatge</string>
   <string name="message_download_failed_title">Missatge no baixat</string>
   <string name="message_expired">Caducat</string>
-  <string name="message_failed">Fallit</string>
+  <string name="message_failed">Ha fallat</string>
   <string name="message_failed_body">Toqueu per revisar el missatge i torneu-ho a provar.</string>
   <string name="message_number">Número de telèfon:</string>
   <string name="message_pending">S\'està enviant</string>
