@@ -771,7 +771,7 @@ La transmissió és mitjançant Bluetooth de baixa potència."</string>
   <string name="button_text_login">Inicia la sessió</string>
   <string name="button_text_next_step">Següent</string>
   <string name="button_text_next_step_timer">Següent pas (%d)</string>
-  <string name="button_text_ok">D’acord</string>
+  <string name="button_text_ok">D\'acord</string>
   <string name="button_text_ok_timer">D\'acord(%d)</string>
   <string name="button_text_reboot_now">Reinicia</string>
   <string name="button_text_reject">Rebutja</string>
@@ -4871,7 +4871,7 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="wifi_share_login_summary">Si és una xarxa pública, podeu compartir-la amb altres usuaris de MIUI.</string>
   <string name="wifi_share_notification_summary">S\'ha connectat a una xarxa Wi-Fi pública mitjançant MIUI.</string>
   <string name="wifi_share_other_network">Altres xarxes</string>
-  <string name="wifi_share_qrcode_finish">D’acord</string>
+  <string name="wifi_share_qrcode_finish">D\'acord</string>
   <string name="wifi_share_qrcode_summary">Escaneja el codi QR i comparteix el Wi-Fi.</string>
   <string name="wifi_share_qrcode_title">Comparteix una xarxa Wi-Fi</string>
   <string name="wifi_share_show_network">Mostra xarxes</string>
