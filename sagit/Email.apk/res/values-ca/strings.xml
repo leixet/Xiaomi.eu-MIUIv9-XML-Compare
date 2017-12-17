@@ -1003,8 +1003,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="sync_error">"No s'ha pogut sincronitzar."</string>
   <string name="sync_error_message">"El dispositiu no té prou espai d'emmagatzematge per sincronitzar."</string>
   <string name="syncing_wait_restart">Torna-ho a provar</string>
-  <string name="syncing_wait_restart_title">\"La connexió del servidor ha caducat 
-  No es pot carregar el missatge\"</string>
+  <string name="syncing_wait_restart_title">La connexió del servidor va esgotar el temps d\'espera</string>
   <string name="system_account_create_failed">"No s'ha pogut crear el compte. Tornar a provar."</string>
   <string name="system_folders_sent_dlg">"Seleccioneu la carpeta d'elements enviats del seu servidor"</string>
   <string name="system_folders_sent_summary">"Seleccioneu la carpeta d'elements enviats del seu servidor"</string>
@@ -1037,8 +1036,8 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="too_large_to_attach_additional">"No s'ha adjuntat. %1$s de límit assolit."</string>
   <string name="too_large_to_attach_multiple">"Un o més fitxers no adjuntats. Límit de %1$s."</string>
   <string name="too_large_to_attach_single">"No es poden adjuntar fitxers més grans que %1$s."</string>
-  <string name="topic_merge">Combina temes</string>
-  <string name="topic_merge_summary">Mode organitzat per fil</string>
+  <string name="topic_merge">Mostra la configuració</string>
+  <string name="topic_merge_summary">Agrupa per tema</string>
   <string name="translation_loading">Un moment…</string>
   <string name="translation_no_result">No s\'han trobat resultats</string>
   <string name="translation_pronunciation_am">ArE</string>
@@ -1060,7 +1059,7 @@ Voleu aturar-ho?"</string>
   <string name="unsent_messages_in_outbox">%1$s no enviats a %2$s</string>
   <string name="unzip_file_failed">"No s'ha pogut descomprimir el fitxer"</string>
   <string name="update_date_format_templete">HH:mm aa, dd MMMM</string>
-  <string name="update_to_wps_mail">Per funcions més avançades, actualitzeu a WPS-mail</string>
+  <string name="update_to_wps_mail">Gaudiu de més funcions amb WPS Mail</string>
   <string name="updated_at">Última actualització %1$s</string>
   <string name="upload_log">Pujar registres</string>
   <string name="upload_log_failed">"La pujada dels registres ha fallat"</string>
