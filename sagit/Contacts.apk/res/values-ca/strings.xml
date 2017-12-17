@@ -165,7 +165,7 @@
   <string name="clearFrequentsConfirmation_title">Esborrar la llista de contactes freqüents?</string>
   <string name="clearFrequentsProgress_title">Esborrant contactes freqüents&#8230;</string>
   <string name="clear_copy_number_description">Esborra el número copiat</string>
-  <string name="clear_default">Desmarcar com a número per defecte</string>
+  <string name="clear_default">Esborra els valors per defecte</string>
   <string name="clear_digits">Elimina numero telefònic</string>
   <string name="click_close">Tocar per tancar</string>
   <string name="clip_dialog_title">Marcar número copiat?</string>
@@ -981,7 +981,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="service_provider">Agenda</string>
   <string name="service_provider_detail">Detalls de la guia</string>
   <string name="set_data_package">Estableix el pla de dades primer</string>
-  <string name="set_default">Marca com a número per defecte</string>
+  <string name="set_default">Defineix per defecte</string>
   <string name="set_photo_failed_msg">"No s'ha pogut assignar una imatge."</string>
   <string name="share_error">"Aquest contacte no es pot compartir"</string>
   <string name="share_over_limit">"Per sobre del límit, no pot compartir"</string>
