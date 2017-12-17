@@ -239,7 +239,7 @@
   <string name="download_confirm_button_text">Instal·la</string>
   <string name="download_confirm_text">Música Mi baixarà i instal·larà %s</string>
   <string name="download_done_btn">Baixat</string>
-  <string name="download_error">Error</string>
+  <string name="download_error">Ha fallat</string>
   <string name="download_error_insufficient_space">No hi ha prou espai</string>
   <string name="download_fail_to_fetch_info">"No s'ha pogut baixar, torneu-ho a provar"</string>
   <string name="download_filesize_unknown">Desconegut</string>
