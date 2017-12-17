@@ -2774,8 +2774,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="preferred_network_type_summary">LTE (opció recomanada)</string>
   <string name="preferred_network_type_title">Tipus de xarxa preferida</string>
   <string name="preferred_sms_settings">Aquesta aplicació serà seleccionada com l\'aplicació de lectura i composició de missatges de text per defecte.</string>
-  <string name="preferred_sms_title">Aplicació predeterminada de missatgeria</string>
-  <string name="preferred_sms_warning_message">Usant \"%1$s\" com a aplicació predeterminada de missatgeria pot incrementar el consum de dades i comprometre les dades privades.</string>
+  <string name="preferred_sms_title">Aplicació per defecte de missatgeria</string>
+  <string name="preferred_sms_warning_message">Usant «%1$s» com aplicació per defecte de missatgeria pot incrementar el consum de dades i comprometre les dades privades.</string>
   <string name="preferred_sms_warning_use_system">"No ho utilizis"</string>
   <string name="premium_sms_access">Accés a l\'enviament de SMS prèmium</string>
   <string name="premium_sms_none">Cap aplicació instal·lada no ha sol·licitat accés a l\'enviament de SMS prèmium</string>
@@ -2902,7 +2902,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="provision_skip">Omet</string>
   <string name="proxy_action_text">Fet</string>
   <string name="proxy_clear_text">Esborra</string>
-  <string name="proxy_defaultView_text">Restaura els valors predeterminats</string>
+  <string name="proxy_defaultView_text">Restaura els valors per defecte</string>
   <string name="proxy_error">Atenció!</string>
   <string name="proxy_error_dismiss">D\'acord</string>
   <string name="proxy_error_empty_host_set_port">Si el camp de l\'amfitrió és buit el camp del port també.</string>
@@ -3033,8 +3033,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="resetting_second_space_passwd">Restableix la contrasenya del Segon espai</string>
   <string name="resolver_settings_label">Ordena</string>
   <string name="resource_ringtone_volume_mute">S\'ha silenciat el so del telèfon</string>
-  <string name="restore_default_apn">S\'està restaurant la configuració predeterminada d\'APN.</string>
-  <string name="restore_default_apn_completed">S\'ha restablert la configuració predeterminada d\'APN.</string>
+  <string name="restore_default_apn">S\'està restaurant la configuració APN per defecte.</string>
+  <string name="restore_default_apn_completed">S\'ha restablert la configuració APN per defecte.</string>
   <string name="restr_pin_enter_admin_pin">Introduïu el PIN d\'administrador</string>
   <string name="restrict_background_blacklisted">Les dades en segon pla estan desactivades</string>
   <string name="restrict_max_aspect_ratio_title">"Aquestes aplicacions no funcionen bé en mode de pantalla completa"</string>
@@ -3191,7 +3191,7 @@ Per fer-ho:
   <string name="screen_zoom_short_summary">Amplia o redueix els elements de la pantalla</string>
   <string name="screen_zoom_summary">Amplia o redueix els elements de la pantalla. És possible que algunes aplicacions de la pantalla canviïn de posició.</string>
   <string name="screen_zoom_summary_custom">Personalitzat (%d)</string>
-  <string name="screen_zoom_summary_default">Predeterminada</string>
+  <string name="screen_zoom_summary_default">Per defecte</string>
   <string name="screen_zoom_summary_extremely_large">La més grossa</string>
   <string name="screen_zoom_summary_large">Grossa</string>
   <string name="screen_zoom_summary_small">Petita</string>
@@ -3332,7 +3332,7 @@ Per fer-ho:
   <string name="search_music_mi_effect_title">Potenciador de so Mi</string>
   <string name="search_networks_title">Xarxes mòbils</string>
   <string name="search_nfc_se_route_title">Posició d\'element segur</string>
-  <string name="search_notification_sound_title">So predeterminat de notificació</string>
+  <string name="search_notification_sound_title">So de notificacions per defecte;so de notificació;sons de notificacions</string>
   <string name="search_ntts_settings_title">TTS;Configuració TTS</string>
   <string name="search_oldman_mode_entry_name">Mode bàsic;Mode gent gran;Mode bàsic</string>
   <string name="search_onekey_migrate">Transferència; Mi Mover</string>
@@ -3444,7 +3444,7 @@ Per fer-ho:
   <string name="security_encryption_attention_4">"Assegureu-vos de recordar la contrasenya de bloqueig de pantalla, sinó haureu de realitzar una reinicialització de fàbrica i es suprimiran totes les dades del dispositiu."</string>
   <string name="security_encryption_attention_info">Podeu xifrar els comptes, la configuració, les aplicacions baixades, les dades, els fitxers multimèdia i tots els altres fitxers.</string>
   <string name="security_encryption_close_dialog_info">Si no xifreu el dispositiu amb la contrasenya de bloqueig de pantalla pot ser que alguns serveis de Google no estiguin disponibles.</string>
-  <string name="security_encryption_close_dialog_title">Torna a la protecció amb la contrasenya predeterminada</string>
+  <string name="security_encryption_close_dialog_title">Torna a la protecció amb la contrasenya per defecte</string>
   <string name="security_encryption_diaglog_continue">Següent</string>
   <string name="security_encryption_is_used">Activat</string>
   <string name="security_encryption_progress_dialog_close">S\'està desxifrant&#8230;</string>
@@ -3618,7 +3618,7 @@ Per fer-ho:
   <string name="silent_time">Durada del mode silenci</string>
   <string name="silent_total">DND</string>
   <string name="sim_bad_pin">El PIN ha de tenir de 4 a 8 números</string>
-  <string name="sim_call_back_title">Torna la trucada des de la SIM predeterminada</string>
+  <string name="sim_call_back_title">Torna la trucada des de la SIM per defecte</string>
   <string name="sim_calls_always_use">Utilitza sempre per a les trucades</string>
   <string name="sim_calls_ask_first_prefs_title">Demana-m\'ho cada vegada</string>
   <string name="sim_card_number_title">SIM %1$d</string>
@@ -3999,7 +3999,7 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="system_app_settings">Aplicacions del sistema</string>
   <string name="system_apps_updater">Actualitzador d\'aplicacions del sistema</string>
   <string name="system_backup_section_title">Còpia de seguretat</string>
-  <string name="system_default_app">(Opció predeterminada del sistema)</string>
+  <string name="system_default_app">(Opció per defecte del sistema)</string>
   <string name="system_package">Les actualitzacions del sistema no es poden instal·lar en suports externs.</string>
   <string name="system_shortcut_wake">Desperta amb els botons de drecera</string>
   <string name="system_storage">Emmagatzematge del sistema</string>
@@ -4100,7 +4100,7 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="trusted_credentials_system_tab">Sistema</string>
   <string name="trusted_credentials_trust_label">De confiança</string>
   <string name="trusted_credentials_user_tab">Usuari</string>
-  <string name="tts_default_lang_summary">Defineix la llengua utilitzada per a la síntesi de veu</string>
+  <string name="tts_default_lang_summary">Estableix l\'idioma per defecte per a la síntesi de text a veu</string>
   <string name="tts_default_lang_title">Idioma</string>
   <string name="tts_default_pitch_summary">Afecta el to del text parlat</string>
   <string name="tts_default_pitch_title">Timbre</string>
@@ -4119,7 +4119,7 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="tts_lang_use_system">Utilitza l\'idioma del sistema</string>
   <string name="tts_play_example_summary">Reprodueix una demostració curta de la síntesi de veu</string>
   <string name="tts_play_example_title">Vull escoltar un exemple</string>
-  <string name="tts_reset_speech_pitch_summary">Restableix la velocitat de lectura del text al valor predeterminat.</string>
+  <string name="tts_reset_speech_pitch_summary">Restableix la velocitat de lectura del text al valor per defecte.</string>
   <string name="tts_reset_speech_pitch_title">Restableix la velocitat de la veu</string>
   <string name="tts_reset_speech_rate_summary">Restableix la velocitat de lectura del text al valor normal.</string>
   <string name="tts_reset_speech_rate_title">Restableix la velocitat de la veu</string>
@@ -4129,7 +4129,7 @@ Podeu compartir la connexió a internet del dispositiu Android amb l\'ordinador 
   <string name="tts_status_not_supported">"%1$s no és compatible"</string>
   <string name="tts_status_ok">%1$s és compatible</string>
   <string name="tts_status_requires_network">Cal connexió de xarxa per a %1$s</string>
-  <string name="tts_status_title">Estat de l\'idioma predeterminat</string>
+  <string name="tts_status_title">Estat de l\'idioma per defecte</string>
   <string name="turn_off_common_password_confirm_msg">També es desactivarà el bloqueig de pantalla.</string>
   <string name="turn_off_keyguard_password_alert_title">Desactiva</string>
   <string name="turn_off_keyguard_password_confirm_msg">"Voleu desactivar la contrasenya de la pantalla de bloqueig?"</string>
@@ -4492,7 +4492,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="volume_notification_description">Notificacions</string>
   <string name="volume_notification_mute">Silencia les notificacions</string>
   <string name="volume_restore">Reinicia els nivells</string>
-  <string name="volume_restore_alert">Voleu reiniciar el volum a la configuració predeterminada?</string>
+  <string name="volume_restore_alert">Voleu restablir tots els nivells de volum a la configuració per defecte?</string>
   <string name="volume_ring_description">So de trucada i notificacions</string>
   <string name="volume_ring_mute">Silencia els sons i les notificacions</string>
   <string name="volume_system_description">Càmera, bloqueig de pantalla i altres notificacions del sistema</string>
