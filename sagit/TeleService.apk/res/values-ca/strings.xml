@@ -681,7 +681,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="get_smsc_address_timeout">Temps de connexió excedit</string>
   <string name="goPrivate">Passa a privat</string>
   <string name="go_to_virtual_sim_title">SIM Virtual</string>
-  <string name="got_it">D’acord</string>
+  <string name="got_it">D\'acord</string>
   <string name="gsm_umts_network_preferences_dialogtitle">Mode de xarxa</string>
   <string name="gsm_umts_network_preferences_title">Mode de xarxa</string>
   <string name="gsm_umts_options">Opcions de GSM/UMTS</string>
