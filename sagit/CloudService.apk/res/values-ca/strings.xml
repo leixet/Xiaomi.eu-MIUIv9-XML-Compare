@@ -489,7 +489,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="short_cut_desc">Voleu afegir una icona de Mi Cloud a la pantalla inicial?</string>
   <string name="sina_share_fail">"No s'ha pogut enviar"</string>
   <string name="sina_share_fail_content_repeat">"No es pot compartir, el contingut ja existeix…"</string>
-  <string name="sina_share_pendding">Enviant&#8230;</string>
+  <string name="sina_share_pendding">S\'està enviant…</string>
   <string name="sina_share_success">Enviat</string>
   <string name="sina_token_expired_warning">El compte Weibo ha caducat: Si us plau, torneu a enllaçar</string>
   <string name="sina_token_invalid_warning">El compte Weibo no és vàlid: Si us plau, torneu a enllaçar</string>
