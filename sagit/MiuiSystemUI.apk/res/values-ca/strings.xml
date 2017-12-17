@@ -432,11 +432,12 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="recents_drag_hint_message">Arrossegueu-ho aquí per utilitzar la pantalla dividida</string>
   <string name="recents_empty_message">No hi ha cap element recent</string>
   <string name="recents_empty_message_dismissed_all">Ho heu esborrat tot</string>
-  <string name="recents_empty_message_multi_window">Aneu a l\'inici per obrir una aplicació</string>
+  <string name="recents_empty_message_multi_window">Obriu les aplicacions des de la pantalla d\'inici</string>
   <string name="recents_exit_multi_window_mode">Surt del mode de pantalla dividida</string>
   <string name="recents_incompatible_app_message">"L'aplicació no admet la pantalla dividida"</string>
-  <string name="recents_launch_disabled_message">"%s està desactivat en el mode segur."</string>
+  <string name="recents_launch_disabled_message">"%s no pot iniciar-se en mode segur"</string>
   <string name="recents_launch_error_message">"%s no s'ha pogut iniciar."</string>
+  <string name="recents_lock_to_app_button_label">Fixa la pantalla</string>
   <string name="recents_multi_window_mode">Mode de pantalla dividida</string>
   <string name="recents_multistack_add_stack_dialog_split_horizontal">Divideix horitzontalment</string>
   <string name="recents_multistack_add_stack_dialog_split_vertical">Divideix verticalment</string>
