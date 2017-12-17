@@ -742,7 +742,7 @@
   <string name="go_to_setting_fingerprint">Configuració</string>
   <string name="google_base_app_install_choice">«%s» requerix de les aplicacions de Google Service Framework per funcionar amb normalitat, voleu baixar-les i instal·lar-les?</string>
   <string name="gs_anto_clean_memory_whitelist">Excepcions</string>
-  <string name="gs_app_back_self_start">Estalviador de bateria</string>
+  <string name="gs_app_back_self_start">Estalvi de bateria</string>
   <string name="gs_auto_clean_memory">Esborra la memòria cau</string>
   <string name="gs_auto_clean_memory_detail">Esborra la memòria cau automàticament per optimitzar el joc</string>
   <string name="gs_call_handsfree">Respon trucades amb el mans lliures</string>
@@ -1878,7 +1878,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="title_permission_no">Gestor de permisos desactivat</string>
   <string name="title_permission_root">Avís d\'accés root</string>
   <string name="title_permission_yes">Gestor de permisos activat</string>
-  <string name="title_power_optimizer">Estalviador de Bateria</string>
+  <string name="title_power_optimizer">Estalvi de bateria</string>
   <string name="title_realname_verify">Verificació d\'ID</string>
   <string name="title_show_notification">Control a àrea de notificacions</string>
   <string name="title_system_auto_download">Les actualitzacions es baixaran automàticament</string>
