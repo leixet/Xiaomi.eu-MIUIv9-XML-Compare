@@ -4,8 +4,8 @@
   <string name="BaMmi">Bloqueig de trucades</string>
   <string name="CLIRDefaultOffNextCallOff">L\'ID d\'emissor presenta el valor per defecte de no restringit. Propera trucada: No restringida</string>
   <string name="CLIRDefaultOffNextCallOn">L\'ID d\'emissor presenta el valor per defecte de no restringit. Propera trucada: Restringida</string>
-  <string name="CLIRDefaultOnNextCallOff">L\'ID d\'emissor presenta el valor predeterminat de restringit. Propera trucada: No restringida</string>
-  <string name="CLIRDefaultOnNextCallOn">L\'ID d\'emissor presenta el valor predeterminat de restringit. Propera trucada: Restringida</string>
+  <string name="CLIRDefaultOnNextCallOff">L\'ID d\'emissor presenta el valor per defecte de restringit. Propera trucada: No restringida</string>
+  <string name="CLIRDefaultOnNextCallOn">L\'ID d\'emissor presenta el valor per defecte de restringit. Propera trucada: Restringida</string>
   <string name="CLIRPermanent">"No podeu modificar l'ID d'emissor."</string>
   <string name="CfMmi">Desviament de trucada</string>
   <string name="ClipMmi">ID de trucada entrant</string>
@@ -140,7 +140,7 @@ L\'estalvi de bateria s\'apaga automàticament quan el dispositiu s\'està carre
   <string name="chooseUsbActivity">Trieu una aplicació per al dispositiu USB</string>
   <string name="choose_account_label">Trieu un compte</string>
   <string name="chooser_wallpaper">Canvia el fons de pantalla</string>
-  <string name="clearDefaultHintMsg">Esborra els paràmetres predeterminats a Configuració del sistema &gt; Aplicacions &gt; Baixades.</string>
+  <string name="clearDefaultHintMsg">Esborra els paràmetres per defecte a la Configuració del sistema &gt; Aplicacions &gt; Baixades.</string>
   <string name="close_button_text">Tanca</string>
   <string name="common_name">Nom comú:</string>
   <string name="condition_provider_service_binding_label">Proveïdor de condicions</string>
@@ -1013,8 +1013,8 @@ per al compte %s"</string>
   <string name="restr_pin_incorrect">Incorrecte</string>
   <string name="restr_pin_try_later">Torneu-ho a provar més tard</string>
   <string name="revoke">Revoca</string>
-  <string name="ringtone_default">To predeterminat</string>
-  <string name="ringtone_default_with_actual">To predeterminat (%1$s)</string>
+  <string name="ringtone_default">To per defecte</string>
+  <string name="ringtone_default_with_actual">To per defecte (%1$s)</string>
   <string name="ringtone_picker_title">Tons</string>
   <string name="ringtone_silent">Cap</string>
   <string name="ringtone_unknown">To desconegut</string>
