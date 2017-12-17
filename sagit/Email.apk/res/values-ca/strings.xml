@@ -99,7 +99,7 @@
   <string name="account_setup_failed_dlg_certificate_message">"No es pot connectar segurament amb el servidor."</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"No es pot connectar segurament amb el servidor.
 (%s)"</string>
-  <string name="account_setup_failed_dlg_device_locked">\"No s\'ha pogut iniciar la sessió. Aquest compte ha estat blocat.\"​</string>
+  <string name="account_setup_failed_dlg_device_locked">El vostre compte està protegit. Verifiqueu aquest dispositiu mitjançant QQ Security o elimineu la protecció.</string>
   <string name="account_setup_failed_dlg_edit_details_action">Edita els detalls</string>
   <string name="account_setup_failed_dlg_error_code">Codi d\'error: %s</string>
   <string name="account_setup_failed_dlg_server_message">"No es pot connectar al servidor."</string>
@@ -128,7 +128,7 @@
   <string name="account_setup_incoming_server_label">Servidor</string>
   <string name="account_setup_incoming_username_label">Nom d\'usuari</string>
   <string name="account_setup_incoming_username_label_default_hint">Pots incloure el domini</string>
-  <string name="account_setup_need_password_verification">El vostre compte té autenticació amb contrasenya secundària. Cal la autenticació completa.</string>
+  <string name="account_setup_need_password_verification">El vostre compte té autenticació en 2 passos. Es requereix l\'autenticació.</string>
   <string name="account_setup_options_actionbar_title">Configuració ràpida</string>
   <string name="account_setup_options_mail_check_frequency_10min">Cada 10 minuts</string>
   <string name="account_setup_options_mail_check_frequency_12hour">Cada 12 hores</string>
