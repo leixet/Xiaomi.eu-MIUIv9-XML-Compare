@@ -51,7 +51,7 @@
   <string name="account_settings_notify_summary">Envia una notificació quan arribi email</string>
   <string name="account_settings_param">Configuració del compte</string>
   <string name="account_settings_policies">Polítiques de seguretat</string>
-  <string name="account_settings_preference_add_account">Afegeix un compte de bústia</string>
+  <string name="account_settings_preference_add_account">Afegeix un compte de correu</string>
   <string name="account_settings_preference_att_save_path">Ubicació per defecte per als fitxers adjunts</string>
   <string name="account_settings_preference_head_icon">Fotos de perfil</string>
   <string name="account_settings_preference_notify">Avís</string>
@@ -285,7 +285,7 @@
   <string name="confirm_delete_attachment">Voleu eliminar el fitxer adjunt?</string>
   <string name="confirm_delete_conversation_title">Esborra</string>
   <string name="confirm_discard_text">Descarta aquest missatge?</string>
-  <string name="confirm_response">Enviant resposta&#8230;</string>
+  <string name="confirm_response">S\'està enviant…</string>
   <string name="confirm_save_message_no">No</string>
   <string name="confirm_save_message_title">Desa com a esborrany?</string>
   <string name="confirm_save_message_yes">Desa</string>
@@ -542,16 +542,16 @@
   <string name="login139">Inicia sessió amb una tecla CMCC</string>
   <string name="login_failed_ticker">%s inici de sessió infructuós.</string>
   <string name="login_failed_title">"No es pot iniciar sessió"</string>
-  <string name="login_support_tip_text">Compatible amb totes les bústies de correu comuns</string>
+  <string name="login_support_tip_text">Compatible amb gairebé tots els comptes de correu principals</string>
   <string name="long_press_to_select_tip">Toqueu sense deixar anar per seleccionar una conversa, a continuació toqui una altra per seleccionar més.</string>
   <string name="mail">Correu</string>
   <string name="mail_body_turncated">Aquest e-mail és massa gran per carregar i només es mostra part d\'ell, per visualitzar-lo complet utilitzeu un PC</string>
   <string name="mail_description_content">El correu és un client de correu que pot gestionar diversos comptes, enviar i rebre missatges de correu, així com sincronitzar la informació i contactes del vostre calendari. Assegureu-vos que podeu fer sense aquestes funcions abans de desinstal·lar l\'aplicació. Els contactes d\'Exchange i la informació del calendari també se suprimiran.</string>
-  <string name="mail_description_title">Introducció al correu</string>
+  <string name="mail_description_title">Quant al correu</string>
   <string name="mail_header_network_not_available">"No té connexió de xarxa."</string>
   <string name="mailbox_list_account_selector_combined_view">Compte combinat</string>
   <string name="mailbox_name_display_ad">Publicitat i notificacions</string>
-  <string name="mailbox_name_display_add_account">Afegeix un compte de bústia</string>
+  <string name="mailbox_name_display_add_account">Afegeix un compte de correu</string>
   <string name="mailbox_name_display_circular">Notificacions</string>
   <string name="mailbox_name_display_drafts">Esborranys</string>
   <string name="mailbox_name_display_inbox">Entrada</string>
@@ -611,7 +611,7 @@
   <string name="megabytes">%s MB</string>
   <string name="menu_att_mgr">Fitxers adjunts</string>
   <string name="menu_att_mgr_order_default">Recents</string>
-  <string name="menu_att_mgr_order_mime">Ordena per format</string>
+  <string name="menu_att_mgr_order_mime">Format</string>
   <string name="menu_att_mgr_order_name">Nom</string>
   <string name="menu_att_mgr_order_rev_date">Data</string>
   <string name="menu_att_mgr_order_size">Ordena per mida</string>
@@ -952,7 +952,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="send_mail">Envia</string>
   <string name="sender_whitelist_cleared">"Imatges no es mostraran automàticament."</string>
   <string name="senders_split_token">,</string>
-  <string name="sending">Enviant&#8230;</string>
+  <string name="sending">S\'està enviant…</string>
   <string name="sending_message">Enviant el missatge&#8230;</string>
   <string name="sending_quick_reply">S\'està enviant el correu «%s»</string>
   <string name="sent_folder_selection_title">Seleccioneu la carpeta d\'elements enviats pel servidor %s</string>
