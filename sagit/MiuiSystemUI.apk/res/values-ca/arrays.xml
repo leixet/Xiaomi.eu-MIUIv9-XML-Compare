@@ -159,7 +159,7 @@
     <item>Aquest és un exemple d\'una síntesi de veu del Coreà.</item>
   </string-array>
   <string-array name="color_mode_names">
-    <item>Vibrant (predeterminat)</item>
+    <item>Vibrant (per defecte)</item>
     <item>Natural</item>
     <item>Estàndard</item>
   </string-array>
