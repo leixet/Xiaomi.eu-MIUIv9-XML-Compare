@@ -221,7 +221,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="keep_screen_on">Mantén-la activa</string>
   <string name="keep_screen_on_summary">La pantalla no entra mai en mode d\'espera si el dispositiu s\'està carregant</string>
   <string name="launch">Obre</string>
-  <string name="launch_defaults_none">No s\'han establert els predeterminats</string>
+  <string name="launch_defaults_none">No s\'han establert els valors per defecte</string>
   <string name="launch_defaults_some">S\'han establert alguns predeterminats</string>
   <string name="lb_control_display_fast_forward_multiplier">%1$dx</string>
   <string name="lb_control_display_rewind_multiplier">%1$dx</string>
@@ -391,7 +391,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="tts_lang_use_system">Utilitza l\'idioma del sistema</string>
   <string name="tts_play_example_summary">Reprodueix una demostració curta de la síntesi de veu</string>
   <string name="tts_play_example_title">Vull escoltar un exemple</string>
-  <string name="tts_reset_speech_pitch_summary">Restableix la velocitat de lectura del text al valor predeterminat.</string>
+  <string name="tts_reset_speech_pitch_summary">Restableix la velocitat de lectura del text al valor per defecte.</string>
   <string name="tts_reset_speech_pitch_title">Restableix la velocitat de la parla</string>
   <string name="tts_settings">Configuració de text-a-veu</string>
   <string name="tts_settings_title">Sortida de text-a-veu</string>
@@ -399,7 +399,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="tts_status_not_supported">%1$s no és compatible</string>
   <string name="tts_status_ok">%1$s és compatible</string>
   <string name="tts_status_requires_network">Cal connexió de xarxa per a %1$s</string>
-  <string name="tts_status_title">Configuració de l\'idioma predeterminat</string>
+  <string name="tts_status_title">Configuració de l\'idioma per defecte</string>
   <string name="uninstall_activity_text">%1$s és part de la següent aplicació:</string>
   <string name="uninstall_all_blocked_profile_owner">Aquesta aplicació és necessària per alguns usuaris o perfils i s\'ha desinstal·lat per altres</string>
   <string name="uninstall_application_text">Voleu desinstal·lar aquesta aplicació?</string>
