@@ -325,8 +325,8 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="keyboard_shortcut_group_system_recents">Recents</string>
   <string name="kilobyte_per_second">kB/s</string>
   <string name="label_view">Veure</string>
-  <string name="launch_defaults_none">No s\'ha definit cap valor predeterminat</string>
-  <string name="launch_defaults_some">S\'han definit alguns valors predeterminats</string>
+  <string name="launch_defaults_none">No s\'ha definit cap valor per defecte</string>
+  <string name="launch_defaults_some">S\'ha definit alguns valors per defecte</string>
   <string name="legacy_dhcp_client_summary">Utilitza el client de DHCP de Lollipop en comptes del nou client DHCP d\'Android.</string>
   <string name="loading_desktop">Un moment…</string>
   <string name="local_backup_password_summary_change">Toqueu per canviar o suprimir la contrasenya per a les còpies de seguretat completes de l\'ordinador</string>
@@ -554,7 +554,7 @@ d MMMM"</string>
   <string name="torch_opened">Llanterna encesa</string>
   <string name="track_frame_time">Perfil de la renderització de la GPU</string>
   <string name="transition_animation_scale_title">Escalat de l\'animació de transició</string>
-  <string name="tts_default_lang_summary">Defineix la llengua utilitzada per a la síntesi de veu</string>
+  <string name="tts_default_lang_summary">Estableix l\'idioma per defecte per a la síntesi de text a veu</string>
   <string name="tts_default_lang_title">Idioma</string>
   <string name="tts_default_pitch_summary">Afecta el to de la veu sintetitzada</string>
   <string name="tts_default_pitch_title">Timbre</string>
@@ -573,7 +573,7 @@ d MMMM"</string>
   <string name="tts_lang_use_system">Utilitza l\'idioma del sistema</string>
   <string name="tts_play_example_summary">Reprodueix una demostració curta de la síntesi de veu</string>
   <string name="tts_play_example_title">Vull escoltar un exemple</string>
-  <string name="tts_reset_speech_pitch_summary">Restableix la velocitat de lectura del text al valor predeterminat.</string>
+  <string name="tts_reset_speech_pitch_summary">Restableix la velocitat de lectura del text al valor per defecte.</string>
   <string name="tts_reset_speech_pitch_title">Restableix la velocitat de la veu</string>
   <string name="tts_settings">Configuració de text-a-veu</string>
   <string name="tts_settings_title">Sortida de text-a-veu</string>
@@ -581,7 +581,7 @@ d MMMM"</string>
   <string name="tts_status_not_supported">"%1$s no és compatible"</string>
   <string name="tts_status_ok">%1$s és compatible</string>
   <string name="tts_status_requires_network">Cal connexió de xarxa per a %1$s</string>
-  <string name="tts_status_title">Estat de l\'idioma predeterminat</string>
+  <string name="tts_status_title">Estat de l\'idioma per defecte</string>
   <string name="un_important_notifications">Notificacions no importants</string>
   <string name="unimportant_desc">Totes les notificacions no importants apareixeran en una carpeta separada.</string>
   <string name="unimportant_title">No important</string>
