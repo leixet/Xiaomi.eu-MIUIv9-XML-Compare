@@ -91,7 +91,7 @@
   <string name="feedback_status_change_notification_title">"S'ha actualitzat el progrés de l'informe"</string>
   <string name="feedback_status_commit_failed_title">"No s'ha pogut enviar l'informe"</string>
   <string name="feedback_status_commit_succ_title">Enviat</string>
-  <string name="feedback_status_commit_uploading_title">S\'està enviant&#8230;</string>
+  <string name="feedback_status_commit_uploading_title">S\'està enviant…</string>
   <string name="feedback_status_forum_reply">Respon</string>
   <string name="feedback_status_jira_comment">Afegeix un comentari</string>
   <string name="feedback_status_more">Detalls</string>
@@ -170,7 +170,7 @@
   <string name="michat_msg_input_info">Descriviu breument el problema</string>
   <string name="michat_msg_status_arrived">Enviat</string>
   <string name="michat_msg_status_send">Envia</string>
-  <string name="michat_msg_status_sendding">S\'està enviant&#8230;</string>
+  <string name="michat_msg_status_sendding">S\'està enviant…</string>
   <string name="michat_msg_too_long_info">"Heu introduït %1$d caràcters. Podeu introduir-ne fins a %2$d."</string>
   <string name="michat_net_error_info">Sense connexió de xarxa, premeu aquí per anar a la Configuració</string>
   <string name="michat_network_unavaliable">"No s'ha pogut obtenir la informació, comproveu la connexió de xarxa"</string>
@@ -286,7 +286,7 @@
   <string name="toast_feedback_network_unavailable">"No es pot connectar a la xarxa"</string>
   <string name="toast_feedback_pending_wlan">"El missatge s'enviarà quan estigueu connectat a una xarxa Wi-Fi"</string>
   <string name="toast_feedback_submitted">S\'ha enviat l\'informe</string>
-  <string name="toast_feedback_submitting">S\'està enviant&#8230;</string>
+  <string name="toast_feedback_submitting">S\'està enviant…</string>
   <string name="toast_feedbackservice_in_submit">S\'estan enviant els comentaris anteriors&#8230;</string>
   <string name="toast_fill_brackets">Al vostre informe li falta informació</string>
   <string name="toast_log_not_exists">"El registre necessari s'ha suprimit o no existeix"</string>
