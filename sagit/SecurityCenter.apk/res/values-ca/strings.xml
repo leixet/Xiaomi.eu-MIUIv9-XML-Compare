@@ -177,7 +177,7 @@
   <string name="app_manager_force_stop_dlg_title">Voleu forçar el tancament?</string>
   <string name="app_manager_globel_other_perm_title">Altres permisos</string>
   <string name="app_manager_globel_perm_summary">Gestioneu els permisos relacionats amb la ubicació, l\'emmagatzematge, el telèfon, els missatges i els contactes.</string>
-  <string name="app_manager_globel_perm_title">Permisos d\'aplicacions</string>
+  <string name="app_manager_globel_perm_title">Permisos de l\'aplicació</string>
   <string name="app_manager_has_not_data">Sense dades</string>
   <string name="app_manager_have_not_consume">Cap</string>
   <string name="app_manager_hide_system_server">Amaga els serveis del sistema</string>
@@ -1761,7 +1761,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="tc_diagnostic_brand_error_notification_summary">Premi per ajustar el tipus de xarxa</string>
   <string name="tc_diagnostic_brand_error_notification_title">Tipus de xarxa incorrecte</string>
   <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Resultat: Operador incorrecte&lt;br/&gt;&lt;br/&gt;Set brand: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual brand: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
-  <string name="tc_diagnostic_complete">A punt</string>
+  <string name="tc_diagnostic_complete">Fet</string>
   <string name="tc_diagnostic_fragment_default">"Quant al diagnòstic
 1. El dispositiu es connectarà a la xarxa de l\'operador, enviarà un missatge de franc i esperarà la resposta de la companyia. Això pot trigar fins a 5 minuts.
 2. Podreu sortir d\'aquesta pàgina durant els diagnòstics, que es durà a terme en segon pla."</string>
