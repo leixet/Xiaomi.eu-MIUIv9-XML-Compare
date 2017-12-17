@@ -239,14 +239,14 @@ Total: %3$s iuans"</string>
   <string name="send_shortcut_already_exists">La pantalla d\'inici ja existeix</string>
   <string name="send_shortcut_failed">"No s'ha pogut enviar"</string>
   <string name="send_shortcut_success">S\'ha afegit a la pantalla d\'inici</string>
-  <string name="sending_shortcut">S\'està enviant&#8230;</string>
+  <string name="sending_shortcut">S\'està enviant…</string>
   <string name="service_unavailiable">Servei no disponible</string>
   <string name="share">Comparteix</string>
   <string name="sim1">SIM 1</string>
   <string name="sim2">SIM 2</string>
   <string name="sina_share_fail">"Ha fallat l'enviament"</string>
   <string name="sina_share_fail_content_repeat">"No es pot compartir, el contingut ja existeix…"</string>
-  <string name="sina_share_pendding">S\'està enviant&#8230;</string>
+  <string name="sina_share_pendding">S\'està enviant…</string>
   <string name="sina_share_success">S\'ha enviat</string>
   <string name="sina_token_expired_warning">El compte Weibo ha caducat: restaureu-lo</string>
   <string name="sina_token_invalid_warning">El compte Weibo no és vàlid: restaureu-lo</string>
