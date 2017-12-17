@@ -36,7 +36,7 @@ aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="complete_setting">Finalitza</string>
   <string name="complete_setting_sub_title">També podeu tornar després per fer canvis en la configuració.</string>
   <string name="complete_setting_title">"Tot a punt!"</string>
-  <string name="confirm">Correcte</string>
+  <string name="confirm">D\'acord</string>
   <string name="confirmClose">Apaga</string>
   <string name="confirmCloseSpaceDes">"No podreu entrar al Segon espai després d'esborrar-lo. Totes les dades es mouran o seran esborrades."</string>
   <string name="confirmDelete">Elimina</string>
@@ -156,7 +156,7 @@ Dos espais. Un dispositiu."</string>
   <string name="notification_recommend_title">Primeres 12 aplicacions per al Segon espai</string>
   <string name="notification_setting_second_space">Configurar el Segon espai</string>
   <string name="notification_setting_second_space_desc">Afegeix la contrasenya del Segon espai i mou dades</string>
-  <string name="ok_button">Correcte</string>
+  <string name="ok_button">D\'acord</string>
   <string name="openPasswordGuard">Establiu la contrasenya del Segon espai</string>
   <string name="openSuccess">Activat</string>
   <string name="opened">Activat</string>
