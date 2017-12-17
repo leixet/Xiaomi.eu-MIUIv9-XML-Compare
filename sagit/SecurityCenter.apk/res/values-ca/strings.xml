@@ -1107,7 +1107,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="notify_weekly_traffic_title">Usats %s aquesta setmana</string>
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s usats %2$s aquesta setmana</string>
   <string name="ok">D\'acord</string>
-  <string name="ok_button">Aceptar</string>
+  <string name="ok_button">D\'acord</string>
   <string name="old_sdk_deny_warning">"L'aplicació no és compatible amb els últims requisits de permisos d'Android. Els permisos denegats poden afectar la forma en què funciona aquesta aplicació."</string>
   <string name="om_btn_text_quick_fix">Optimitza</string>
   <string name="om_cpu_overload_activity_title">Aplicacions amb un elevat ús de CPU</string>
