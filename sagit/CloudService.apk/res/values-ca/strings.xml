@@ -72,7 +72,7 @@ Per obtenir més espai d\'emmagatzematge, visiteu mi.com/micloud."</string>
   <string name="enable_find_device_error">"No es pot activar la recerca del dispositiu. %1$s"</string>
   <string name="enable_find_device_success">Trobar dispositiu encès</string>
   <string name="enable_micloud">Inicieu sessió per utilitzar Mi Cloud</string>
-  <string name="enable_sync">Activar</string>
+  <string name="enable_sync">Sincronitza</string>
   <string name="enable_sync_dspt">"La sincronització està desactivada"</string>
   <string name="error_data_in_transfer">Les teves dades s\'estan transferint. Si us plau, espereu %s hores.</string>
   <string name="error_data_in_transfer_title">El servei Cloud no està disponible en aquests moments.</string>
@@ -506,7 +506,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="sub_sync_item_sms_summary">"Sincronitzar missatges que continguin fotos, àudio o bé el contingut multimèdia únicament quan estiguis connectat a una xarxa Wi-Fi"</string>
   <string name="sub_sync_item_sms_title_wifi_only">Utilitzar només Wi-Fi per sincronitzar MMS</string>
   <string name="success_upgraded_space">%s afegits</string>
-  <string name="sync_dspt">Activar sincronització</string>
+  <string name="sync_dspt">Sincronitza</string>
   <string name="sync_dspt_entrance_provision">Sincronitza les teves fotos, contactes, historial de trucades i missatges a través de tots els seus dispositius. Entreu a les coses sincronitzades des de qualsevol navegador a %s. </string>
   <string name="sync_dspt_entrance_provision_2">Saber més</string>
   <string name="sync_dspt_entrance_provision_confirm_close">"No utilitzar"</string>
