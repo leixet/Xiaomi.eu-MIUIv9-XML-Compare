@@ -866,7 +866,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="search_login_sub_title">Inicieu sessió per trobar més fotos</string>
   <string name="search_login_title">Compte Mi</string>
   <string name="search_login_title_full_screen">Inicieu sessió al Compte Mi per trobar més objectes i persones</string>
-  <string name="search_mark_feedback_false_negative_title">Accepta</string>
+  <string name="search_mark_feedback_false_negative_title">D\'acord</string>
   <string name="search_mark_feedback_false_positive_title">Arregla</string>
   <string name="search_net_error">S\'ha produït un error de xarxa. Connecteu a una xarxa diferent i torneu-ho a provar.</string>
   <string name="search_request_applied">S\'ha aplicat</string>
