@@ -339,7 +339,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="long_screenshot_not_support_msg">"L'aplicació actual no és compatible amb les captures de pantalla llargues"</string>
   <string name="long_screenshot_out_of_memory_error">No s\'ha pogut perquè la imatge es massa gran</string>
   <string name="long_screenshot_processing">S\'està processant…</string>
-  <string name="long_screenshot_stop">Aturar</string>
+  <string name="long_screenshot_stop">Fet</string>
   <string name="long_screenshot_top_msg">Prendre captura de pantalla llarga…</string>
   <string name="long_screenshot_top_msg_manual">Retalleu la captura de pantalla i premeu el botó per finalitzar</string>
   <string name="managed_profile_foreground_toast">"Estas utilitzant el perfil de feina"</string>
