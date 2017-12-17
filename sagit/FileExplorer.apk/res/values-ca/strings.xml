@@ -707,7 +707,7 @@
   <string name="video_comment_publish">Inscriure</string>
   <string name="video_comment_topic">\#Afegir tòpic#</string>
   <string name="video_data_consumption_cancel">Cancel·la</string>
-  <string name="video_data_consumption_confirm">Accepta</string>
+  <string name="video_data_consumption_confirm">D\'acord</string>
   <string name="video_data_consumption_dialog_message">Pujar va a requerir %1$s de dades mòbils</string>
   <string name="video_data_consumption_dialog_title">Avís d\'ús de dades</string>
   <string name="video_description">Descripció del vídeo</string>
