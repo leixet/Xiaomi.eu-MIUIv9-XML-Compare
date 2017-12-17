@@ -265,7 +265,7 @@
   <string name="load_more">Veure més</string>
   <string name="load_sticker_fail">"No s'ha pogut carregar l'adhesiu"</string>
   <string name="loading">Un moment…</string>
-  <string name="local_image">Fotos</string>
+  <string name="local_image">Imatges</string>
   <string name="local_music">Música</string>
   <string name="local_video">Vídeo</string>
   <string name="login">Iniciar sessió</string>
@@ -432,7 +432,7 @@
   <string name="phone_storage_clean">Netejar</string>
   <string name="phone_storage_doc_title">Documents:&#160;</string>
   <string name="phone_storage_free_title">Disponible:&#160;</string>
-  <string name="phone_storage_image_title">Imatges:&#160;</string>
+  <string name="phone_storage_image_title">Imatges: </string>
   <string name="phone_storage_info_str">%1$s de %2$s disponibles</string>
   <string name="phone_storage_other_title">Altres:&#160;</string>
   <string name="phone_storage_size_tip">"L'espai d'emmagatzematge lliure que es mostra en el Explorador podria diferir d'altres aplicacions."</string>
@@ -518,7 +518,7 @@
   <string name="see_more_topic">Més temes</string>
   <string name="see_more_user">Més usuaris</string>
   <string name="select_dest_folder">Seleccionar carpeta</string>
-  <string name="select_image">Triar fotos</string>
+  <string name="select_image">Imatges</string>
   <string name="select_interest_str">Seleccioneu els temes que li agraden</string>
   <string name="select_interest_tip">"Hi ha molt per descobrir!"</string>
   <string name="select_music">Triar cançons</string>
