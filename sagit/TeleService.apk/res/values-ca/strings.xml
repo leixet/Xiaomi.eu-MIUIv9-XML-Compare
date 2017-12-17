@@ -421,7 +421,7 @@
   <string name="cfu_title">Desviament incondicional</string>
   <string name="change_data_preference_4g_only_prompt">Sembla que teniu una targeta SIM que només suporta 4G. Voleu establir-la per defecte per a les dades mòbils?</string>
   <string name="change_default_data_card">SIM de dades mòbils per defecte</string>
-  <string name="change_default_data_card_summary">Sembla que va canviar les targetes SIM. Establir aquesta targeta com a targeta SIM per defecte de la seva connexió de dades mòbils?</string>
+  <string name="change_default_data_card_summary">Sembla que heu canviat les targetes SIM. Voleu definir aquesta targeta com a targeta SIM per defecte per a la connexió de dades mòbils?</string>
   <string name="change_num">Actualitza</string>
   <string name="change_password">Canvia la contrasenya de restricció</string>
   <string name="change_pin">Canvia el PIN de la SIM</string>
@@ -442,7 +442,7 @@
   <string name="choose_profile">Seleccioneu un perfil</string>
   <string name="clear_adb_keys">Revoca autoritzacions de depuració USB</string>
   <string name="clir_choices_hide_number">Amaga el número</string>
-  <string name="clir_choices_network_default">Predeterminat de la xarxa</string>
+  <string name="clir_choices_network_default">Per defecte de la xarxa</string>
   <string name="clir_choices_show_number">Mostra el número</string>
   <string name="close_dialog">D\'acord</string>
   <string name="close_profile">Tanca</string>
@@ -508,7 +508,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="debug_monitoring_category">Monitoratge</string>
   <string name="debug_networking_category">Xarxes</string>
   <string name="debug_view_attributes">Habilita l\'inspecció d\'atributs de visualització</string>
-  <string name="default_notification_description">So predeterminat (%1$s)</string>
+  <string name="default_notification_description">So per defecte (%1$s)</string>
   <string name="default_preference_summary_domain_address">&lt;No s\'ha configurat&gt;</string>
   <string name="default_preference_summary_password">&lt;No s\'ha configurat&gt;</string>
   <string name="default_preference_summary_username">&lt;No s\'ha configurat&gt;</string>
@@ -772,8 +772,8 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="lable_network_not_supported">"La xarxa no s'admet"</string>
   <string name="lafs_disable">Horaris de vols de l\'aeroport local desactivats</string>
   <string name="lafs_enable">Horaris de vols de l\'aeroport local activats</string>
-  <string name="launch_defaults_none">No s\'han establert els predeterminats</string>
-  <string name="launch_defaults_some">S\'han establert alguns predeterminats</string>
+  <string name="launch_defaults_none">No s\'ha establert els valors per defecte</string>
+  <string name="launch_defaults_some">S\'ha definit alguns valors per defecte</string>
   <string name="list_language_dtitle">Idiomes</string>
   <string name="list_language_summary">Seleccioneu l\'idioma de les notícies</string>
   <string name="list_language_title">Idioma</string>
@@ -835,7 +835,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="msim_apn_not_set">No definit</string>
   <string name="msim_default_setting">Configuració per defecte</string>
   <string name="msim_disable_sim_card_btn_text">D\'acord</string>
-  <string name="msim_disable_sim_card_summary_default_card">"Aquesta targeta està configurada com la vostra SIM per defecte. Si la desactiveu, no podreu fer trucades ni utilitzar la connexió de dades. Podeu desactivar aquesta SIM després configurar-ne una altra com la vostra targeta per defecte."</string>
+  <string name="msim_disable_sim_card_summary_default_card">"Aquesta targeta està configurada com la SIM per defecte. Si la desactiveu, no podreu fer trucades ni utilitzar la connexió de dades. Podeu desactivar aquesta SIM després configurar-ne una altra com la vostra targeta per defecte."</string>
   <string name="msim_disable_sim_card_summary_non_default_card">Podria ser que ja no poguéssiu realitzar trucades ni utilitzar la connexió de dades. Voleu desactivar la targeta SIM %s?</string>
   <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"No restringiu la retrotrucada de la SIM secundaria en cas d'emergència."</string>
   <string name="msim_disable_sim_card_title">Desactiva targeta SIM</string>
@@ -1174,7 +1174,7 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="respond_via_sms_cannot_empty">Els missatges de rebuig de trucada no poden estar en blanc</string>
   <string name="respond_via_sms_confirmation_format">S\'ha enviat el missatge a %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Resposta ràpida</string>
-  <string name="respond_via_sms_menu_reset_default_activity">Restaura els valors predeterminats</string>
+  <string name="respond_via_sms_menu_reset_default_activity">Restaura els valors per defecte</string>
   <string name="respond_via_sms_setting_summary">Edita respostes de text predefinides</string>
   <string name="respond_via_sms_setting_title">Respostes ràpides</string>
   <string name="response_error">Resposta de xarxa inesperada.</string>
@@ -1312,7 +1312,7 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="sum_cfu_enabled_no_number">El número no està disponible</string>
   <string name="sum_cw_disabled">Durant una trucada, avisa\'m de les trucades entrants</string>
   <string name="sum_cw_enabled">Durant una trucada, avisa\'m de les trucades entrants</string>
-  <string name="sum_default_caller_id">Utilitza la configuració predeterminada de l\'operador per mostrar el meu número a les trucades sortints</string>
+  <string name="sum_default_caller_id">Utilitza la configuració per defecte de l\'operador per mostrar el meu número a les trucades sortints</string>
   <string name="sum_fdn">Gestiona els números de marcatge predefinit</string>
   <string name="sum_fdn_change_pin">Canvia el PIN per accedir als NMP</string>
   <string name="sum_fdn_manage_list">Organitza la llista de números de telèfon</string>
@@ -1412,7 +1412,7 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="tts_lang_use_system">Utilitza l\'idioma del sistema</string>
   <string name="tts_play_example_summary">Reprodueix una demostració curta de la síntesi de veu</string>
   <string name="tts_play_example_title">Vull escoltar un exemple</string>
-  <string name="tts_reset_speech_pitch_summary">Restableix la velocitat de lectura del text al valor predeterminat.</string>
+  <string name="tts_reset_speech_pitch_summary">Restableix la velocitat de lectura del text al valor per defecte.</string>
   <string name="tts_reset_speech_pitch_title">Restableix la velocitat de la parla</string>
   <string name="tts_settings">Configuració de text-a-veu</string>
   <string name="tts_settings_title">Sortida de text-a-veu</string>
