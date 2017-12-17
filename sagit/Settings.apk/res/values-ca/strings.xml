@@ -1836,7 +1836,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="keywords_accounts">compte</string>
   <string name="keywords_airplane">Avió;Mode avió;Vol;Mode vol</string>
   <string name="keywords_all_apps">aplicacions baixada aplicacions sistema</string>
-  <string name="keywords_app_permissions">aplicacions permisos seguretat</string>
+  <string name="keywords_app_permissions">aplicacions, permisos, seguretat</string>
   <string name="keywords_auto_rotate">Gira;Gira la pantalla;Orientació;Orientació de la pantalla;Mode vertical;Mode horitzontal;vertical;horitzontal</string>
   <string name="keywords_battery">ús de la bateria, càrrega</string>
   <string name="keywords_color_mode">vibrant, RGB, sRGB, color, natural, estàndard</string>
