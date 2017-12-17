@@ -182,8 +182,8 @@ Proveu el següent per solucionar el problema:
   <string name="commit_done">Enviat</string>
   <string name="commit_thanks">Gràcies pels vostres comentaris.</string>
   <string name="common_use">Usats sovint</string>
-  <string name="confirm">D’acord</string>
-  <string name="confirm_on">D’acord</string>
+  <string name="confirm">D\'acord</string>
+  <string name="confirm_on">﻿D\'acord</string>
   <string name="connect_to_retry">"No es pot connectar a la xarxa. Comproveu la vostra connexió i torneu a provar."</string>
   <string name="connected">Connectat</string>
   <string name="continue_to_add_other_rc">Afegeix més dispositius</string>
@@ -251,7 +251,7 @@ Proveu el següent per solucionar el problema:
   <string name="downloading">S\'està baixant&#8230;</string>
   <string name="dpad_down">A baix</string>
   <string name="dpad_left">A l\'esquerra</string>
-  <string name="dpad_ok">Acceptar</string>
+  <string name="dpad_ok">D\'acord</string>
   <string name="dpad_right">A la dreta</string>
   <string name="dpad_up">Amunt</string>
   <string name="dvb_bind_epg">(Actual)</string>
@@ -400,7 +400,7 @@ Proveu el següent per solucionar el problema:
   <string name="hour">h</string>
   <string name="humidity">Humitat:</string>
   <string name="increase">Incrementa</string>
-  <string name="input_complete">Correcte</string>
+  <string name="input_complete">D\'acord</string>
   <string name="input_dialogue_cancel_button">Cancel·la</string>
   <string name="input_dialogue_guide1">Instal·la aplicacions no autoritzades</string>
   <string name="input_dialogue_guide2">Introduïu el codi mostrat a la TV</string>
@@ -926,7 +926,7 @@ directament des de la vostra pantalla de bloqueig"</string>
   <string name="share_done">Compartit correctament</string>
   <string name="share_fail">"No s'ha pogut connectar, intenteu-ho de nou"</string>
   <string name="share_friends_cancel">Cancel·la</string>
-  <string name="share_friends_confirm">D’acord</string>
+  <string name="share_friends_confirm">D\'acord</string>
   <string name="share_friends_none_text">No s\'han trobat amics</string>
   <string name="share_friends_not_find_text">No s\'han trobat resultats</string>
   <string name="share_friends_search_hint_text">Cerca amics</string>
