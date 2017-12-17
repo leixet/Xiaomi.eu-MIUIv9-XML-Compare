@@ -122,7 +122,7 @@ Abans d\'eliminar-lo:
   <string name="secret_saved">Secret guardat</string>
   <string name="security_setting">Configuració de seguretat</string>
   <string name="settings_menu_item">Configuració</string>
-  <string name="submit">Desar</string>
+  <string name="submit">Desa</string>
   <string name="success_copy_to_clipboard">S\'ha copiat al porta-retalls</string>
   <string name="success_reset_password">Contrasenya restablerta amb èxit</string>
   <string name="success_set_password">Contrasenya canviada correctament</string>
