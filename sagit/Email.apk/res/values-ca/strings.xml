@@ -288,7 +288,7 @@
   <string name="confirm_response">Enviant resposta&#8230;</string>
   <string name="confirm_save_message_no">No</string>
   <string name="confirm_save_message_title">Desa com a esborrany?</string>
-  <string name="confirm_save_message_yes">Sí</string>
+  <string name="confirm_save_message_yes">Desa</string>
   <string name="confirm_send_message_with_no_body">"No hi ha cap text al cos del missatge."</string>
   <string name="confirm_send_message_with_no_subject">"No hi ha cap text en l'assumpte del missatge."</string>
   <string name="confirm_send_title">Voleu enviar el missatge?</string>
@@ -916,9 +916,9 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="request_entity_large">El fitxer és massa gran</string>
   <string name="request_permission_activity">Sol·licitud de permís</string>
   <string name="respond_inline">"   Respon en línia"</string>
-  <string name="save_action">Desar</string>
-  <string name="save_attachment">Desar</string>
-  <string name="save_draft_failed">Desar esborrany ha fallat</string>
+  <string name="save_action">Desa</string>
+  <string name="save_attachment">Desa</string>
+  <string name="save_draft_failed">No s\'ha pogut desar l\'esborrany</string>
   <string name="save_power_summary">Establir temps d\'estalvi de bateria</string>
   <string name="save_power_title">Estalvi de bateria</string>
   <string name="save_this_new_signature">Voleu desar aquesta nova signatura?</string>
