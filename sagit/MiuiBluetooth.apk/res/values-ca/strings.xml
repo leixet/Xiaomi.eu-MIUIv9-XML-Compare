@@ -38,7 +38,7 @@
   <string name="mi_key_take_photo">Fes una foto</string>
   <string name="notify_device_lose_connection_text">Premeu per desvincular %1$s</string>
   <string name="notify_device_lose_connection_title">S\'ha perdut la connexió amb %1$s</string>
-  <string name="ok_button">D’acord</string>
+  <string name="ok_button">D\'acord</string>
   <string name="progress_scanning">S\'està cercant&#8230;</string>
   <string name="reset_function_msg">Restablint aquesta característica es podria provocar que %1$s deixi de funcionar correctament.</string>
   <string name="some_app_taking">(%1$s ja està utilitzant aquesta funció)</string>
