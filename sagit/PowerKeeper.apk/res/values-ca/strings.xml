@@ -48,7 +48,7 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="extreme_power_config_mode_category">Estalviador de bateria extrem</string>
   <string name="extreme_power_config_mode_desc">Si activeu aquesta opció es desactivaran la sincronització, Bluetooth, GPS, NFC, doble clic, llums dels botons, la pantalla de notificacions, leds de d\'avís,... i el mode de la bateria canviarà a Ultimate</string>
   <string name="extreme_power_config_mode_title">Mode estalviador de bateria extrem</string>
-  <string name="failure">error</string>
+  <string name="failure">Ha fallat</string>
   <string name="foreground_change">Aplicació en primer pla</string>
   <string name="fragment_nonesys_listempty">No hi ha aplicacions instal·lades</string>
   <string name="fragment_tab_title_nonsys">Aplicacions instal·lades</string>
@@ -100,7 +100,7 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="power_checker_notify_summary">Esborreu les aplicacions de consumo d\'energia anormal</string>
   <string name="power_checker_partial_wakelock_multi_apps_title">%1$s impedeix que MIUI entri en mode suspensió</string>
   <string name="power_checker_partial_wakelock_title">%1$s impedeix que MIUI entri en mode suspensió</string>
-  <string name="power_checker_recent_btn_title">Configuració de l\'energia</string>
+  <string name="power_checker_recent_btn_title">Estableix l\'ús de la bateria</string>
   <string name="power_checker_recent_group_title">Recentment</string>
   <string name="power_checker_running_btn_title">Atura el procés</string>
   <string name="power_checker_running_group_title">S\'està executant</string>
