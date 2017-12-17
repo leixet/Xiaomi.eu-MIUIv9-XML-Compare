@@ -47,7 +47,7 @@
   <string name="operation_delete">Elimina</string>
   <string name="operation_send">Envia</string>
   <string name="quit_recording">Tanca l\'enregistrador de pantalla</string>
-  <string name="recording_failure">"La darrera gravació ha fallat, torneu a iniciar la gravació de pantalla"</string>
+  <string name="recording_failure">"No s'ha pogut enregistrar, comenceu de nou"</string>
   <string name="recording_max_size">"L'enregistrament s'ha aturat i s'ha desat perquè l'arxiu de vídeo ha arribat al seu límit de mida. Comenceu a enregistrar des d'on ho heu deixat si encara no heu acabat."</string>
   <string name="resolution">Resolució</string>
   <string name="resolution_summary">Els vídeos amb una resolució més gran es veuen més nítids</string>
