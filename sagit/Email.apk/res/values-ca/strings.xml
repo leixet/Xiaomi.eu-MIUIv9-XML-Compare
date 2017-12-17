@@ -612,8 +612,8 @@
   <string name="menu_att_mgr">Fitxers adjunts</string>
   <string name="menu_att_mgr_order_default">Recents</string>
   <string name="menu_att_mgr_order_mime">Ordena per format</string>
-  <string name="menu_att_mgr_order_name">Ordena per nom</string>
-  <string name="menu_att_mgr_order_rev_date">Ordena per temps</string>
+  <string name="menu_att_mgr_order_name">Nom</string>
+  <string name="menu_att_mgr_order_rev_date">Data</string>
   <string name="menu_att_mgr_order_size">Ordena per mida</string>
   <string name="menu_change_folders">Canvia carpetes</string>
   <string name="menu_compose">Redacta</string>
@@ -662,7 +662,7 @@
   <string name="network_unavailable">Xarxa no disponible</string>
   <string name="new_incoming_messages_one">Nou missatge de %s. vol mostrar.</string>
   <string name="new_messages">%1$d missatges nous</string>
-  <string name="new_signature_has_saved">S\'ha desat la nova signatura</string>
+  <string name="new_signature_has_saved">S\'ha desat amb èxit</string>
   <string name="next_action">Següent</string>
   <string name="no_application_found">Cap aplicació pot obrir aquest accessori per a la seva visualització.</string>
   <string name="no_application_found_title">Obre aquest fitxer adjunt.</string>
@@ -829,7 +829,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="qq_uthentication_failed">"Error d'autenticació, inicieu sessió una altra vegada"</string>
   <string name="qq_webview_loading">Un moment…</string>
   <string name="questionnair_body_invisibility">"No es mostren els missatges"</string>
-  <string name="questionnair_confirm_delete">Eliminar</string>
+  <string name="questionnair_confirm_delete">Voleu eliminar el compte?</string>
   <string name="questionnair_instability">Aplicació inestable, reinicis</string>
   <string name="questionnair_not_send">"No es poden enviar correus electrònics"</string>
   <string name="questionnair_not_sync">Sincronització inestable</string>
@@ -921,11 +921,11 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="save_draft_failed">No s\'ha pogut desar l\'esborrany</string>
   <string name="save_power_summary">Establir temps d\'estalvi de bateria</string>
   <string name="save_power_title">Estalvi de bateria</string>
-  <string name="save_this_new_signature">Voleu desar aquesta nova signatura?</string>
+  <string name="save_this_new_signature">Voleu desar la nova signatura?</string>
   <string name="saved">Desat, %s</string>
   <string name="saving">Desant…</string>
   <string name="sdcard_cannot_use">"La targeta d'emmagatzematge no es pot utilitzar"</string>
-  <string name="search_bar_text">Cerca correu, remitent</string>
+  <string name="search_bar_text">Cerca missatges i contactes</string>
   <string name="search_hint">Cerca correu</string>
   <string name="search_result">"Resultats"</string>
   <string name="search_tabs_name_all">Tot</string>
