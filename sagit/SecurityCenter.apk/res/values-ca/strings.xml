@@ -152,9 +152,9 @@
   <string name="app_manager_copy_pkg_to_clip">S\'ha copiat al porta-retalls</string>
   <string name="app_manager_data_size">Dades d\'usuari</string>
   <string name="app_manager_default_cleared">Netejat</string>
-  <string name="app_manager_default_close_summary">No s\'ha establert els predeterminats.</string>
+  <string name="app_manager_default_close_summary">No s\'ha establert els valors per defecte.</string>
   <string name="app_manager_default_open_summary">S\'ha definit aquesta aplicació com a predeterminada per fer algunes accions.</string>
-  <string name="app_manager_default_open_title">Suprimeix els predeterminats</string>
+  <string name="app_manager_default_open_title">Esborra els valors per defecte</string>
   <string name="app_manager_defaults_setting">Per defecte</string>
   <string name="app_manager_details_electric_title">Bateria</string>
   <string name="app_manager_details_storage_title">Emmagatzematge</string>
@@ -272,10 +272,10 @@
   <string name="apps_item_sign_dialog_title">Instal·lar versió oficial de l\'aplicació</string>
   <string name="apps_item_sign_install_button_text">Reemplaçar</string>
   <string name="apps_item_sms_default_set_success">Configurat correctament!</string>
-  <string name="apps_item_sms_reset_button_text">Restaurar els valors predeterminats</string>
+  <string name="apps_item_sms_reset_button_text">Restaura els valors per defecte</string>
   <string name="apps_item_sms_title">Configuració de missatgeria per defecte</string>
   <string name="apps_item_summary_sms">%s té accés als seus missatges, pot causar problemes de seguretat</string>
-  <string name="apps_item_summary_system_rooted">Se li ha permès accés root, restaurar a la configuració per defecte per evitar riscos de seguretat!</string>
+  <string name="apps_item_summary_system_rooted">S\'ha permès l\'accés administrador. Restaureu la configuració per defecte per evitar riscos de seguretat.</string>
   <string name="apps_item_summary_system_update">Alguns errors van ser corregits en la versió nova de fer pagaments més segura.</string>
   <string name="apps_item_title_system">Actualització del sistema</string>
   <string name="apps_item_virus_cleanup_success">S\'ha netejat amb èxit</string>
@@ -1191,7 +1191,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="optimize_result_title_sucurity_risk">Trobats riscos per la seguretat</string>
   <string name="optimize_result_title_system_default_settings">S\'ha canviat la configuració per defecte</string>
   <string name="optimize_result_title_uninstall_apps">Aplicacions</string>
-  <string name="optimize_result_toast_system_default_settings">Configuració per defecte restaurada</string>
+  <string name="optimize_result_toast_system_default_settings">S\'ha restaurat la configuració per defecte</string>
   <string name="optimize_result_toast_system_no_item_selected">No hi ha elements seleccionats</string>
   <string name="optmizingbar_optimize_done">Optimitzat</string>
   <string name="optmizingbar_ready">S\'està optimitzant&#8230;</string>
@@ -1484,7 +1484,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="safe_result_item_info_app_sign">Cap app no oficial</string>
   <string name="safe_result_item_info_app_virus">Cap app amb risc i virus</string>
   <string name="safe_result_item_info_sms_auth">Restringir l\'accés d\'apps de tercers a codis de verificació</string>
-  <string name="safe_result_item_info_sms_default">Restaurar el sistema de missatgeria per defecte</string>
+  <string name="safe_result_item_info_sms_default">Canvia l\'aplicació de missatgeria per defecte</string>
   <string name="safe_result_item_info_sms_url">Protecció d\'URLs delictius dels missatges</string>
   <string name="safe_result_item_info_system_antivirus">Protecció contra el virus phishing</string>
   <string name="safe_result_item_info_system_root">Root segur</string>
@@ -1718,7 +1718,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="summary_cmcc_app_check">"Algunes aplicacions no van poder ser verificades"</string>
   <string name="summary_consume_power">S\'han trobat problemes de sobreescalfament que poden afectar la vida útil de la bateria</string>
   <string name="summary_data_flow">Evitar sobrepassar el límit mensual del seu pla de dades</string>
-  <string name="summary_default_app">"%s no s'ha configurat com a aplicació predeterminada del sistema"</string>
+  <string name="summary_default_app">"%s no s'ha configurat com a aplicació per defecte del sistema"</string>
   <string name="summary_dev">Evitar malware i protegir les dades personals</string>
   <string name="summary_find_device">Localitzar i bloquejar el dispositiu des de qualsevol part</string>
   <string name="summary_flow_notification">Mostra les estadístiques mensuals d\'ús de dades en l\'àrea de notificacions</string>
