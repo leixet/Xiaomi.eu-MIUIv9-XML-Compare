@@ -36,7 +36,7 @@
   <string name="config_suggest_description">"Identifica les aplicacions i activitats per mantenir els processos importants actius.
 L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."</string>
   <string name="config_suggest_suffix_title">Estalvi de bateria MIUI (recomanat)</string>
-  <string name="config_suggest_title">Estalvi de bateria MIUI</string>
+  <string name="config_suggest_title">Estalvi de bateria</string>
   <string name="confirm">Confirma</string>
   <string name="current_cloud_addr_is">L\'adreça del servidor de control del núvol és:</string>
   <string name="disable_hide_mode">Desactiva l\'estalvi de bateria MIUI</string>
@@ -104,7 +104,7 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="power_checker_recent_group_title">Recentment</string>
   <string name="power_checker_running_btn_title">Atura el procés</string>
   <string name="power_checker_running_group_title">S\'està executant</string>
-  <string name="power_checker_title">Control d\'energia</string>
+  <string name="power_checker_title">Prova d\'ús de la bateria</string>
   <string name="power_checker_wakeup_alarm_multi_apps_title">%1$s desperten freqüentment</string>
   <string name="power_checker_wakeup_alarm_title">%1$s desperten freqüentment</string>
   <string name="power_checker_wifi_scan_multi_apps_title">%1$s escanegen la Wi-Fi freqüentment</string>
@@ -115,7 +115,7 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="power_config_app_background_title">Segon pla</string>
   <string name="power_config_app_full_screen_title">Pantalla completa</string>
   <string name="power_config_app_launch_title">Primer pla</string>
-  <string name="power_config_apps">Estalvi de bateria en segon pla</string>
+  <string name="power_config_apps">Estalvi de bateria</string>
   <string name="power_config_bg_data_delay_time_dialog_title">Seleccioneu l\'horari de restricció de dades en segon pla</string>
   <string name="power_config_bg_data_delay_time_title">Restricció de les dades en segon pla</string>
   <string name="power_config_choose_apps">Triar aplicacions</string>
@@ -182,8 +182,8 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="power_usage">Ús d\'energia</string>
   <string name="ragment_sys_listempty">No hi ha aplicacions del sistema</string>
   <string name="reading">Mode lectura</string>
-  <string name="scenario_policies_summary">Estalvi d\'energia segons l\'escenari</string>
-  <string name="scenario_policies_title">Polítiques d\'estalvi d\'energia d\'escenari</string>
+  <string name="scenario_policies_summary">Apliqueu diferents estratègies d\'estalvi d\'energia per a diferents escenes.</string>
+  <string name="scenario_policies_title">Escenes intel·ligents</string>
   <string name="scenario_policies_warmcontrol">Control de temperatura</string>
   <string name="screen_off">Pantalla apagada</string>
   <string name="screen_off_10_min">Pantalla apagada durant 10 minuts</string>
