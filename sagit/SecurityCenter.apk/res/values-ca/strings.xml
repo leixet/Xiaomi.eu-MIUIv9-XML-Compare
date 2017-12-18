@@ -1818,8 +1818,8 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="tc_sms_report_get_sms_again">Refrescar SMS</string>
   <string name="tc_sms_report_get_sms_bill">Obtén SMS</string>
   <string name="tc_sms_report_get_sms_calltime">Obtén SMS</string>
-  <string name="tc_sms_report_get_sms_failure">"No s'ha pogut aconseguir ús de dades en format SMS"</string>
-  <string name="tc_sms_report_get_sms_successs">Ús de dades en format SMS actualitzat</string>
+  <string name="tc_sms_report_get_sms_failure">"No s'ha pogut obtenir la informació d'ús de dades"</string>
+  <string name="tc_sms_report_get_sms_successs">S\'ha actualitzat la informació d\'ús de dades amb èxit</string>
   <string name="tc_sms_report_get_sms_timeout">No s\'ha pogut aconseguir dades en format SMS: temps d\'espera finalitzat</string>
   <string name="tc_sms_report_get_success">"Rebut informe SMS de l'operador sobre ús de dades. Assegureu-vos que les dades són fiables i remeti'l"</string>
   <string name="tc_sms_report_get_success_notify_body">Assegureu-vos que l\'informe és fiable i remeti\'l a MIUI.</string>
@@ -1836,7 +1836,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="tc_sms_report_receive_num">Número del receptor</string>
   <string name="tc_sms_report_send_num">Número de l\'operador</string>
   <string name="tc_sms_report_summary">Ajudeu-nos a millorar aquesta característica, enviant-nos un informe quan la informació del seu ús de dades és incorrecta o no s\'actualitza.</string>
-  <string name="tc_sms_report_tips_dialog_message">"L'ús de dades utilitza un SMS especialment formatat per obtenir del seu operador seus números d'ús de dades més recents. Si aquesta característica no funciona correctament intenti actualitzar el format SMS d'ús de dades. El nou format actualitzat serà llavors enviat als nostres servidors."</string>
+  <string name="tc_sms_report_tips_dialog_message">"S'enviarà un SMS per obtenir la informació d'ús de dades més recent del vostre operador. Si creieu que la informació no és correcta, envieu-nos els vostres comentaris."</string>
   <string name="tc_sms_report_tips_dialog_title">SMS d\'ús de dades</string>
   <string name="tc_sms_report_title">Error en informe d\'ús de dades</string>
   <string name="tc_sms_report_toast_text">Obtenint informació&#8230;</string>
