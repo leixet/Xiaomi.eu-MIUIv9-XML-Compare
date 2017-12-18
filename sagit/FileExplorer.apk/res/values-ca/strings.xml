@@ -125,7 +125,7 @@
   <string name="decompress_destination_error">"No es poden extreure els fitxers en aquesta ubicació"</string>
   <string name="decompress_encrypted_rar_not_supported">Els fitxers encriptats rar no estan suportats.</string>
   <string name="decompress_fail">"No s'ha pogut extreure. Emmagatzematge complet o error desconegut."</string>
-  <string name="decompress_input_password">Introdueix la contrasenya…</string>
+  <string name="decompress_input_password">Introduïu la contrasenya</string>
   <string name="decompress_password_error">La contrasenya introduïda és errònia.</string>
   <string name="decompress_success">Extracció completada</string>
   <string name="decompress_title">Extreure</string>
