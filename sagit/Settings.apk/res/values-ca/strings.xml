@@ -299,7 +299,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="app_usage_preference">Preferències d\'ús de les aplicacions</string>
   <string name="application_forbid_auto_startup">No permetis que %s s\'executi en segon pla</string>
   <string name="application_info_label">Informació de l\'aplicació</string>
-  <string name="application_item_already_permission">Permet</string>
+  <string name="application_item_already_permission">Permès</string>
   <string name="application_item_disable">Denega</string>
   <string name="application_item_permission">Permet</string>
   <string name="application_lock_name">Bloquejador d\'aplicacions</string>
@@ -4797,9 +4797,9 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_scan_always_confirm_allow">Permet</string>
   <string name="wifi_scan_always_confirm_deny">Denega</string>
   <string name="wifi_scan_always_turnoff_message">Desactiva aquesta funció des d\'Opcions avançades al menú addicional.</string>
-  <string name="wifi_scan_always_turnon_message">«Per millorar la precisió de la ubicació i per a altres finalitats, %1$s vol activar la cerca de xarxes tot i que la connexió Wi-Fi estigui desactivada.
+  <string name="wifi_scan_always_turnon_message">"Per millorar la precisió de la ubicació i per a altres finalitats, %1$s vol activar la cerca de xarxes tot i que la connexió Wi-Fi estigui desactivada.
 
-Voleu permetre-ho per a totes les aplicacions que vulguin cercar xarxes?»</string>
+Voleu permetre-ho per a totes les aplicacions que vulguin cercar xarxes?"</string>
   <string name="wifi_scan_notify_remember_choice">No tornis a mostrar-ho</string>
   <string name="wifi_scan_notify_text">Per millorar la precisió de la ubicació, les aplicacions i serveis encara poden cercar xarxes Wi-Fi. Es pot configurar des de LINK_BEGINscanning settingsLINK_END.</string>
   <string name="wifi_security">Tipus de seguretat</string>
