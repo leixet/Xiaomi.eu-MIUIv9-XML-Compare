@@ -86,7 +86,7 @@
   <string name="life_post_wake_up_time_title">Hora de llevar-se</string>
   <string name="life_post_weather_description_secondary">%1$s, %2$s, %3$s</string>
   <string name="life_post_weather_invalid">"No s'ha pogut obtenir informació meteorològica, premeu per provar-ho un altre cop"</string>
-  <string name="loading_ringtone">S\'està carregant el timbre&#8230;</string>
+  <string name="loading_ringtone">S\'està carregant el so…</string>
   <string name="menu_add_worldclock">Afegeix un rellotge</string>
   <string name="menu_desk_clock">Rellotge</string>
   <string name="menu_edit_timer_item">Edita el temporitzador</string>
