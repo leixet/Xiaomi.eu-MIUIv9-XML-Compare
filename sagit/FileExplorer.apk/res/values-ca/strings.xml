@@ -276,7 +276,7 @@
   <string name="login_account_bind_wb">Compte Weibo</string>
   <string name="login_account_bind_wx">Usar WeChat</string>
   <string name="login_account_bind_xm">Usar Compte Mi</string>
-  <string name="login_expired">La sessió ha expirat. Torneu-la a iniciar.</string>
+  <string name="login_expired">Temps de sessió esgotat. Torneu a iniciar-la.</string>
   <string name="login_failed_tip">"No s'ha pogut iniciar sessió, intentar de nou"</string>
   <string name="login_success_tip">Connectat satisfactòriament</string>
   <string name="make_private">Amaga</string>
