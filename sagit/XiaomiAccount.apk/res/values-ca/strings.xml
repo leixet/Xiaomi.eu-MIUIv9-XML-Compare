@@ -64,7 +64,7 @@
   <string name="activity_not_found_notice">"No es pot trobar l'aplicació"</string>
   <string name="add_account">Vincula compte</string>
   <string name="app_name">Compte Mi</string>
-  <string name="auth_fail_warning">La sessió ha expirat, torneu a iniciar la sessió més tard</string>
+  <string name="auth_fail_warning">La sessió ha expirat, torneu a iniciar-la més tard</string>
   <string name="authorize_title">Autorització</string>
   <string name="bind_facebook">Vinculeu el vostre compte de Facebook</string>
   <string name="bind_safe_phone_msg">Afegiu el vostre número de telèfon per poder iniciar sessió la propera vegada al Compte Mi.</string>
@@ -220,7 +220,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_email">Adreça de correu electrònic</string>
   <string name="passport_email_or_id_hint_text">Adreça de correu electrònic o identificador de compte Mi</string>
   <string name="passport_email_reg_success_summary">%1$s s\'ha afegit al vostre compte. Podeu utilitzar-lo per iniciar la sessió o per restablir la contrasenya.</string>
-  <string name="passport_error_auth_fail">La sessió ha expirat, torneu a iniciar la sessió més tard</string>
+  <string name="passport_error_auth_fail">La sessió ha expirat, torneu a iniciar-la més tard</string>
   <string name="passport_error_device_id">"No es pot obtenir la identitat del dispositiu"</string>
   <string name="passport_error_dup_email">El correu electrònic que heu introduït ja està associat a un altre compte.</string>
   <string name="passport_error_email">L\'adreça de correu que heu introduït no és vàlida</string>
@@ -246,8 +246,8 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_error_verify_activator_phone_title">"No s'ha pogut comprovar el número de telèfon"</string>
   <string name="passport_failed_to_send_activate_email">"No s'ha pogut enviar el correu d'activació"</string>
   <string name="passport_find_password_on_web_msg">Visiteu account.mi.com per restaurar la vostra contrasenya.</string>
-  <string name="passport_forget_password">Contrasenya oblidada</string>
-  <string name="passport_forget_password_no_underline">Contrasenya oblidada</string>
+  <string name="passport_forget_password">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
+  <string name="passport_forget_password_no_underline">He oblidat la contrasenya</string>
   <string name="passport_get_back_pwd">Recupera la contrasenya del compte</string>
   <string name="passport_get_innetdate_agree">Comprova</string>
   <string name="passport_get_innetdate_disagree">No</string>
