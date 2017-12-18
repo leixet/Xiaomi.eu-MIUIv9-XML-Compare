@@ -126,7 +126,7 @@ Si canvies de targeta SIM s\'enviarà un altre SMS automàticament per reactivar
   <string name="header_data_and_synchronization">Dades i sincronització</string>
   <string name="header_find_device_settings">Trobar dispositiu</string>
   <string name="i_know">D\'acord</string>
-  <string name="input_password_hint">Introduir contrasenya</string>
+  <string name="input_password_hint">Introduïu la contrasenya</string>
   <string name="internet_access_dspt">Aquesta aplicació necessita connexió a Internet per funcionar amb normalitat.</string>
   <string name="ks_certificate_udpate_time">Actualització del certificat</string>
   <string name="ks_certificate_version">Número de certificat</string>
