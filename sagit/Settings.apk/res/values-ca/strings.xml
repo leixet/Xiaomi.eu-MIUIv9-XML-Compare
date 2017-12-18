@@ -1490,7 +1490,7 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="external_code_size_label">Codi a la memòria externa</string>
   <string name="external_data_size_label">Dades a la memòria externa</string>
   <string name="extreme_threats_summary">Rep alertes d\'amenaces extremes per a la vida i la propietat</string>
-  <string name="extreme_threats_title">Mostra les amenaces extremes</string>
+  <string name="extreme_threats_title">Amenaces extremes</string>
   <string name="face_unlock_disable">El desbloqueig facial està desactivat</string>
   <string name="face_unlock_enable">El desbloqueig facial està activat</string>
   <string name="factory_reset_summary">"Esborra totes les dades de l'emmagatzematge intern del telèfon"</string>
@@ -3348,7 +3348,7 @@ Per fer-ho:
   <string name="search_power_optimize">Estalvi de bateria</string>
   <string name="search_power_usage_summary_title">Bateria i rendiment;Bateria;rendiment;Estalviador de bateria;Estalvia bateria</string>
   <string name="search_pref_edge_handgrip">Controls de la vora</string>
-  <string name="search_pref_volume_wake_title">Activació amb els botons del volum</string>
+  <string name="search_pref_volume_wake_title">Desperta amb els botons de volum;botons de volum</string>
   <string name="search_preferred_network_type_title">Tipus de xarxa preferida</string>
   <string name="search_privacy_policy">Política de privadesa</string>
   <string name="search_privacy_settings">Còpia de seguretat &amp;Còpia de seguretat i reinicialització;Còpia de seguretat;Reinicialització;Còpia de seguretat</string>
