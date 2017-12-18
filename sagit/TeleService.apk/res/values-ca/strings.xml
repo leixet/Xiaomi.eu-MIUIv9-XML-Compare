@@ -1185,7 +1185,7 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="retry_btn">Torna a intentar-ho</string>
   <string name="reverting_settings">S\'estàn desfent els canvis&#8230;</string>
   <string name="ringtone_silent">Cap</string>
-  <string name="ringtone_unknown">So de trucada desconegut</string>
+  <string name="ringtone_unknown">To de trucada desconegut</string>
   <string name="roaming">Itinerància de dades</string>
   <string name="roaming_alert_title">Voleu permetre la itinerància de dades?</string>
   <string name="roaming_disable">Connecta a serveis de dades en itinerància</string>
