@@ -695,8 +695,8 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_error_user_name">Invalid username</string>
   <string name="passport_failed_to_send_activate_email">"No s'ha pogut enviar el correu d'activació"</string>
   <string name="passport_find_password_on_web_msg">Visiteu account.mi.com per restaurar la vostra contrasenya.</string>
-  <string name="passport_forget_password">Contrasenya oblidada</string>
-  <string name="passport_forget_password_no_underline">Contrasenya oblidada</string>
+  <string name="passport_forget_password">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
+  <string name="passport_forget_password_no_underline">He oblidat la contrasenya</string>
   <string name="passport_get_back_pwd">Recupera la contrasenya del compte</string>
   <string name="passport_get_verify_code">Obtén codi</string>
   <string name="passport_getting_verify_code">Obtenint</string>
