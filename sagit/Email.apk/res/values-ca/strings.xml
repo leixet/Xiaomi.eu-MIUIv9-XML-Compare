@@ -308,7 +308,7 @@
   <string name="contact_select">Selecciona contactes</string>
   <string name="content_description">%1$s sobre %2$s, %3$s en %4$s, %5$s</string>
   <string name="content_description_today">%1$s sobre %2$s, %3$s en %4$s, %5$s</string>
-  <string name="contextmenu_add">Afegir a contactes</string>
+  <string name="contextmenu_add">Afegeix als contactes</string>
   <string name="contextmenu_add_contact">Afegeix contacte</string>
   <string name="contextmenu_call">Trucar</string>
   <string name="contextmenu_copy">Copia</string>
