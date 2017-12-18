@@ -21,7 +21,7 @@
   <string name="add_blacklist_dialog_message">Voleu blocar trucades i missatges des d\'aquest número?</string>
   <string name="add_blacklist_dialog_title">Voleu blocar aquest número de telèfon?</string>
   <string name="add_connection_button">Afegeix connexió</string>
-  <string name="add_contact_dlg_message_fmt">Voleu afegir \"%s\" a contactes?</string>
+  <string name="add_contact_dlg_message_fmt">Voleu afegir «%s» als contactes?</string>
   <string name="add_display_photo_entry">Afegeix foto del perfil</string>
   <string name="add_field">Afegeix un altre camp</string>
   <string name="add_field_toast">No hi ha més camps per afegir.</string>
@@ -857,8 +857,8 @@ Per afegir un contacte a la llista de favorits:
   <string name="preference_phone">Telèfon</string>
   <string name="preference_phone_more_title">Configuració de trucada</string>
   <string name="preference_remove_duplicate">Combinar contactes duplicats</string>
-  <string name="preference_show_yellowpage_tab_description">Tanqueu la pestanya pàgina groga, la funció pàgina groga no funcionarà correctament</string>
-  <string name="preference_show_yellowpage_tab_title">Mostra la pestanya pàgina groga</string>
+  <string name="preference_show_yellowpage_tab_description">És possible que les pàgines grogues no funcionin correctament quan aquesta funció estigui desactivada.</string>
+  <string name="preference_show_yellowpage_tab_title">Mostra les pàgines grogues</string>
   <string name="preference_simple_mode_description">Mostra imatges i altra informació de contacte a la vista de llista</string>
   <string name="preference_simple_mode_title">Mostra fotos i informació</string>
   <string name="preference_smart_group_company_summary">Agrupa per empresa</string>
@@ -982,7 +982,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="service_provider_detail">Detalls de la guia</string>
   <string name="set_data_package">Estableix el pla de dades primer</string>
   <string name="set_default">Defineix per defecte</string>
-  <string name="set_photo_failed_msg">"No s'ha pogut assignar una imatge."</string>
+  <string name="set_photo_failed_msg">"No s'ha pogut assignar la foto"</string>
   <string name="share_error">"Aquest contacte no es pot compartir"</string>
   <string name="share_over_limit">"Per sobre del límit, no pot compartir"</string>
   <string name="share_via">Envia usant</string>
@@ -1067,7 +1067,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="success_message_import_from_account">Importació realitzada</string>
   <string name="summary_kind_title">Resum</string>
   <string name="t9_search_empty_create_contact">Nou contacte</string>
-  <string name="t9_search_empty_edit_contact">Afegeix-lo als contactes</string>
+  <string name="t9_search_empty_edit_contact">Afegeix als contactes</string>
   <string name="t9_search_empty_send_sms">Envia missatge</string>
   <string name="t9_search_empty_video_call">Videotrucada</string>
   <string name="t9_search_guide_pinyin_title1">Cerca ràpida de contactes en introduir lletres</string>
