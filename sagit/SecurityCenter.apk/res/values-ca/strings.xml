@@ -51,7 +51,7 @@
   <string name="ad_update_time">Darrera actualització: %s</string>
   <string name="ad_update_time_unKnown">Última actualització desconeguda</string>
   <string name="adb_install_no_network">Connectat a la xarxa i torna-ho a provar</string>
-  <string name="adb_install_open">S\'està permetent&#8230;</string>
+  <string name="adb_install_open">S\'està permetent…</string>
   <string name="adb_install_open_error">"No s'ha pogut permetre, comprovi la seva connexió a la xarxa"</string>
   <string name="adb_install_reject_notiy">"No va permetre la instal·lació de %s a través de l'USB"</string>
   <string name="adb_install_reject_notiy_desc">Pot permetre la instal·lació a través d\'USB a Opcions per a desenvolupadors</string>
@@ -657,7 +657,7 @@
   <string name="exception_titile">S\'ha produït un error</string>
   <string name="exit">Surt</string>
   <string name="finger_remind_message">Bloqueig d\'aplicació suporta desbloqueig per empremta. Afegir empremta?</string>
-  <string name="fingerprint_identify_msg">Escanegeu l\'empremta</string>
+  <string name="fingerprint_identify_msg">Activa el desbloqueig d\'empremta</string>
   <string name="fingerprint_not_identified_msg">"Per desbloquejar el dispositiu, introduïu la contrasenya."</string>
   <string name="fingerprint_not_remind">"No m'ho tornis a preguntar"</string>
   <string name="fingerprint_remind_dialog_title">Desbloqueig per empremta</string>
@@ -668,7 +668,7 @@
   <string name="firewall_activity_lable">Restringir l\'ús de dades per a l\'aplicació</string>
   <string name="firewall_allow_all">Permet que totes les aplicacions es connectin utilitzant el següent mètode</string>
   <string name="firewall_allow_data">Permet l\'ús de dades mòbils</string>
-  <string name="firewall_allow_network">Permès</string>
+  <string name="firewall_allow_network">Permet</string>
   <string name="firewall_allow_wlan">Permet l\'ús de la connexió Wi-Fi</string>
   <string name="firewall_applist">Aplicacions</string>
   <string name="firewall_fragment_nonesys_listempty">Buit</string>
@@ -740,7 +740,7 @@
   <string name="get_sys_info">Obtenint informació…</string>
   <string name="go_to">Endavant</string>
   <string name="go_to_setting_fingerprint">Configuració</string>
-  <string name="google_base_app_install_choice">«%s» requerix de les aplicacions de Google Service Framework per funcionar amb normalitat, voleu baixar-les i instal·lar-les?</string>
+  <string name="google_base_app_install_choice">«%s» requerix de les aplicacions del Marc de Servei de Google per funcionar amb normalitat, voleu baixar-les i instal·lar-les?</string>
   <string name="gs_anto_clean_memory_whitelist">Excepcions</string>
   <string name="gs_app_back_self_start">Estalvi de bateria</string>
   <string name="gs_auto_clean_memory">Esborra la memòria cau</string>
@@ -1812,7 +1812,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="tc_diagnostic_upload_success">Gràcies pels vostres comentaris!</string>
   <string name="tc_sms_report_direction">Sol·licitar codi (SMS)</string>
   <string name="tc_sms_report_do_report">Envia</string>
-  <string name="tc_sms_report_get_default">"No incorrerà en càrrecs per missatges SMS que s'utilitzen per obtenir el saldo d'utilització de les dades del seu operador."</string>
+  <string name="tc_sms_report_get_default">"No incorrereu en càrrecs pels missatges utilitzats per obtenir la informació d'ús de dades del vostre operador."</string>
   <string name="tc_sms_report_get_sms">Obtenir SMS</string>
   <string name="tc_sms_report_get_sms2">Obtenir SMS</string>
   <string name="tc_sms_report_get_sms_again">Refrescar SMS</string>
