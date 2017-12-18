@@ -8,7 +8,7 @@
   <string name="accessibility_guide_second">A continuació, feu clic a l\'interruptor a la bora superior dreta, feu clic a «Continua» per continuar.</string>
   <string name="account_duplicate_dlg_message_fmt">"Ja esteu utilitzant aquest nom d'usuari pel compte \"%s\"."</string>
   <string name="account_duplicate_dlg_title">Compte duplicada</string>
-  <string name="account_failure">Error del compte</string>
+  <string name="account_failure">Temps de sessió esgotat</string>
   <string name="account_name_toast">No s\'ha pogut crear el compte. Ja existeix un compte amb el mateix nom.\"</string>
   <string name="account_options_sync_title">Sincronitza</string>
   <string name="account_password_spaces_error">"Aquesta contrasenya comença o acaba amb un o més
@@ -54,7 +54,7 @@
   <string name="account_settings_preference_add_account">Afegeix un compte de correu</string>
   <string name="account_settings_preference_att_save_path">Ubicació per defecte per als fitxers adjunts</string>
   <string name="account_settings_preference_head_icon">Fotos de perfil</string>
-  <string name="account_settings_preference_notify">Avís</string>
+  <string name="account_settings_preference_notify">Avisa\'m</string>
   <string name="account_settings_retry_label">Intentar sincronitzar</string>
   <string name="account_settings_retry_summary">Premeu per sincronitzar el compte</string>
   <string name="account_settings_ringtone">Triar el to de trucada</string>
