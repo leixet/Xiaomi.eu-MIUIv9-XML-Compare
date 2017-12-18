@@ -222,7 +222,7 @@
   <string name="auto_remind_text">Recordatoris automàtics</string>
   <string name="auto_remind_unbind">Atura</string>
   <string name="auto_sync_off">Sincronització automàtica apagada.</string>
-  <string name="automatic_remind_text">recordatori</string>
+  <string name="automatic_remind_text">Recorda automàticament</string>
   <string name="back">Enrere</string>
   <string name="bank_card_detail">Detalls de la targeta de crèdit</string>
   <string name="battery_saver">Estalvi de bateria</string>
@@ -247,7 +247,7 @@
   <string name="calendar_remind_gridview_pick_date">Triar data</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_action">Cancel·la</string>
-  <string name="cancel_pop3_attchemt_downloading">"La cancel·lació de qualsevol arxiu adjunt baixat no està disponible per a un tipus de compte POP3."</string>
+  <string name="cancel_pop3_attchemt_downloading">"No es poden cancel·lar les baixades en curs dels fitxers adjunts als comptes POP3"</string>
   <string name="cant_move_or_change_labels">"\"\"No es pot moure perquè la selecció conté diversos 
          comptes.\"\""</string>
   <string name="cc_attribution">Cc: %1$s</string>
@@ -255,7 +255,7 @@
   <string name="change_folders_selection_dialog_title">Canvia carpetes</string>
   <string name="change_sync_settings">Canvia la configuració de sincronització</string>
   <string name="changepw_dialog_tips">Torneu a introduir la contrasenya per %s</string>
-  <string name="changepw_dialog_tips_please_clikc_btn">Comproveu el codi de verificació %s i torneu a iniciar sessió</string>
+  <string name="changepw_dialog_tips_please_clikc_btn">Comproveu el codi de verificació a %s i torneu a iniciar sessió.</string>
   <string name="chat_item_msg_people_unit">persones</string>
   <string name="chat_item_msg_user_etc">…</string>
   <string name="check_setup_data">"Validant la configuració del servidor…"</string>
