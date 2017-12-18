@@ -671,7 +671,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="operation_successful">Fet</string>
   <string name="operation_too_often">Ep! S\'estan fent massa sol·licituds des de la vostra adreça IP. Espereu un minut o dos i torneu a provar-ho.</string>
   <string name="operation_unforce_top">No fixis</string>
-  <string name="operation_unhide">No amaguis</string>
+  <string name="operation_unhide">Mostra</string>
   <string name="orientation_lock_tip">Rotació automàtica desactivada</string>
   <string name="orientation_unlock_tip">Rotació automàtica activada</string>
   <string name="origin_gif_name">fitxer original</string>
