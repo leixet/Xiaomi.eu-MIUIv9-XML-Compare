@@ -72,7 +72,7 @@
   <string name="adjust_traffic_carrier_summary_two_day_before">Actualitzat fa 2 dies</string>
   <string name="adjust_traffic_carrier_summary_yesterday">Actualitzat ahir a la(s) %s</string>
   <string name="adjust_traffic_data">Establir ús de dades</string>
-  <string name="after_the_lock_screen">L\'aplicació serà bloquejada juntament amb la pantalla, pot canviar això a la configuració del bloquejador d\'aplicacions.</string>
+  <string name="after_the_lock_screen">Bloqueja aplicacions juntament amb la pantalla</string>
   <string name="all_address_choose_hint">Tots els números d\'aquesta província</string>
   <string name="already_close_gamebooster">L\'accelerador de velocitat dels jocs està desactivat</string>
   <string name="anim_gamebooster_text">Un moment…</string>
@@ -260,7 +260,7 @@
   <string name="applock_add_account">Afegeix</string>
   <string name="applock_add_account_info">Fes que el Compte Mi pugui restablir la contrasenya en cas d\'oblit</string>
   <string name="applock_add_account_setting">Compte i privadesa</string>
-  <string name="applock_bind_account_title">Restabliment de la vostra contrasenya</string>
+  <string name="applock_bind_account_title">He oblidat la contrasenya</string>
   <string name="applock_close_dialog_summary">Les aplicacions ja no estaran protegides i la contrasenya s\'eliminarà després de desactivar el Bloqueig d\'aplicació.</string>
   <string name="applock_close_dialog_title">Voleu desactivar el Bloqueig d\'aplicacions?</string>
   <string name="applock_exit_account_info">El compte s\'eliminarà automàticament en tancar la sessió</string>
@@ -694,9 +694,9 @@
   <string name="forbid_autobright_summary">"La brillantor de la pantalla continuarà igual quan estigueu jugant"</string>
   <string name="forbid_autobright_title">Corregeix la lluentor de la pantalla</string>
   <string name="foreground_traffic">Portar a primer pla %s</string>
-  <string name="forget_password_button_text">He oblidat la contrasenya</string>
-  <string name="forget_password_button_text_normal">Contrasenya oblidada</string>
-  <string name="forget_pattern">Heu oblidat el patró?</string>
+  <string name="forget_password_button_text">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
+  <string name="forget_password_button_text_normal">He oblidat la contrasenya</string>
+  <string name="forget_pattern">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
   <string name="free_send_net_booster">Augment de la velocitat de la xarxa gratuït</string>
   <string name="free_send_net_booster_busniess">Obtén un augment de velocitat Xunlei gratuït</string>
   <string name="free_send_net_booster_busniess_tip">Toqueu per rebre\'l</string>
