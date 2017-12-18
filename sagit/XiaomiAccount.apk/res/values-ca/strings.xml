@@ -227,8 +227,8 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_error_empty_captcha_code">Introduïu el codi passport_captcha</string>
   <string name="passport_error_empty_email">Introduïu la vostra adreça de correu</string>
   <string name="passport_error_empty_phone_num">Introduïu el número de telèfon</string>
-  <string name="passport_error_empty_pwd">Introduïu la vostra contrasenya</string>
-  <string name="passport_error_empty_username">Introduïu el vostre nom d\'usuari </string>
+  <string name="passport_error_empty_pwd">Introduïu la contrasenya</string>
+  <string name="passport_error_empty_username">Introduïu l\'ID del compte</string>
   <string name="passport_error_empty_vcode">Introduïu el codi de verificació</string>
   <string name="passport_error_illegal_pwd">Contrasenya no vàlida</string>
   <string name="passport_error_invalid_dev_id">"L'identificador del vostre dispositiu no és vàlid."</string>
@@ -294,7 +294,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_quick_login_dialog_step2_title">Verificació en 2 passos</string>
   <string name="passport_quick_login_dialog_title">Verifica la contrasenya</string>
   <string name="passport_quick_login_step2_title">Verificació en 2 passos</string>
-  <string name="passport_quick_login_title">Introduïu la vostra contrasenya</string>
+  <string name="passport_quick_login_title">Introduïu la contrasenya</string>
   <string name="passport_quick_register">Registra\'t</string>
   <string name="passport_quick_register_notice">&lt;u&gt;\"No teniu un Compte Mi? Creu-ne un.\"&lt;/u&gt;</string>
   <string name="passport_re_get_verify_code">Obtén el codi de nou</string>
