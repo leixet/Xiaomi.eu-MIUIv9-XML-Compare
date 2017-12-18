@@ -328,7 +328,7 @@
   <string name="mx_stranger_recommend_msg">Toqueu per bloquejar Missatges Mi de números desconeguts</string>
   <string name="mx_type_guide">Missatge Mi li permet enviar missatges a altres usuaris de MIUI de franc</string>
   <string name="need_download">S\'està sincronitzant&#8230;</string>
-  <string name="networking_allow_continue">D\'acord</string>
+  <string name="networking_allow_continue">Permet</string>
   <string name="networking_allow_desc">Els missatges intel·ligents li permeten enviar missatges de text i veu gratuïts, reconèixer nombres desconeguts, filtrar correu no desitjat, etc. Mitjançant l\'ús d\'aquest servei, vostè es compromet i està d\'acord amb els %1$s i %2$s de Xiaomi. Ara haureu d\'activar les Pàgines Grogues i connectar-vos a Internet per utilitzar aquest servei.</string>
   <string name="networking_allow_desc_without_mx">Els missatges intel·ligent li permeten identificar els números desconeguts, filtre d\'spam etc. En utilitzar aquest servei, accepteu els %1$s i %2$s de Xiaomi. Haureu d\'activar l\'aplicació Pàgines grogues i tenir accés a Internet per utilitzar aquest servei.</string>
   <string name="networking_allow_title">Atenció</string>
