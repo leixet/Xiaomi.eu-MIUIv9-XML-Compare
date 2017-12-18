@@ -3053,7 +3053,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="ring_volume_title">Volum del so de la trucada</string>
   <string name="ringtone_mute">Cap</string>
   <string name="ringtone_slot_setting_title">Configuració de SIM única</string>
-  <string name="ringtone_title">So de trucada del telèfon</string>
+  <string name="ringtone_title">To de trucada del telèfon</string>
   <string name="ringtone_uniform_setting_title">Configuració de SIM dual</string>
   <string name="roaming">Dades en itinerància</string>
   <string name="roaming_disable">Connecta a serveis de dades en itinerància</string>
@@ -3257,7 +3257,7 @@ Per fer-ho:
   <string name="search_account_list">Altres comptes;Comptes;Comptes</string>
   <string name="search_advanced_settings">Configuració avançada; Wi-Fi;Configuració de la Wi-Fi;Configuració de la xarxa sense fils</string>
   <string name="search_airplane_mode">Mode avió;Mode avió;Mode de vol;Avió;Avió;Vol</string>
-  <string name="search_alarm_sound_title">So de l\'alarma</string>
+  <string name="search_alarm_sound_title">So de l\'alarma;to d\'alarma;alarma</string>
   <string name="search_android_beam_settings_title">NFC;Transmissió Android;Trasmissió</string>
   <string name="search_apn_settings">APN;Noms dels punt d\'accés</string>
   <string name="search_app_invisible">Aplicació invisible;Aplicacions invisibles</string>
@@ -3272,7 +3272,7 @@ Per fer-ho:
   <string name="search_bluetooth_tether_checkbox_text">Bluetooth compartit;compartit</string>
   <string name="search_brightness">Brillantor;Brillantor de la pantalla</string>
   <string name="search_button_light_timeout">Manté els llums dels botons encesos</string>
-  <string name="search_calendar_sound_title">So del calendari</string>
+  <string name="search_calendar_sound_title">So del calendari;to del calendari;calendari</string>
   <string name="search_captioning_locale">Idioma</string>
   <string name="search_change_password">Canvia bloqueig de la pantalla;Bloqueig de pantalla;Edició de bloqueig de pantalla;edició de bloqueig de pantalla;bloqueig de pantalla</string>
   <string name="search_children_mode_title">Mode de mainada</string>
@@ -3356,7 +3356,7 @@ Per fer-ho:
   <string name="search_recents_queries_label">Cerques recents</string>
   <string name="search_results_label">Resultats</string>
   <string name="search_results_title">Configuració</string>
-  <string name="search_ring_volume_option_title">Volums;volum;To &amp; notificacions;to;tons;Alarma;Música</string>
+  <string name="search_ring_volume_option_title">Volums;volum;To i notificacions;to;tons;Alarma;Música</string>
   <string name="search_ringtone_title">To del telèfon;to,tons</string>
   <string name="search_screen_effect">Colors i; saturació;Colors i; contrast</string>
   <string name="search_screen_key_long_press_timeout">Configuració del temps per a la pulsació llarga</string>
