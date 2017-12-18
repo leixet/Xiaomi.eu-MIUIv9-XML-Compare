@@ -104,6 +104,7 @@
   <string name="item_resource_audio_optional_alarm_ring">Alarmes</string>
   <string name="item_resource_audio_optional_color_ring">To de retorn de trucada</string>
   <string name="item_resource_audio_optional_notification_ring">Notificacions</string>
+  <string name="item_resource_audio_optional_phone_ring">To</string>
   <string name="live_wallpaper">Fons de pantalla animat</string>
   <string name="loading">Un moment…</string>
   <string name="loading_resource_detail_fail">"No es pot carregar el recurs"</string>
@@ -122,7 +123,7 @@
   <string name="lockscreen_wallpaper">Pantalla de bloqueig</string>
   <string name="lockstyle_personal_settings">Personalitza</string>
   <string name="mi_wallpaper">Fons de pantalla MIUI</string>
-  <string name="multi_sim_ringtone_settings_dialog_message">El to de trucada s\'aplica a la targeta SIM 1 i la targeta SIM 2 al mateix temps.</string>
+  <string name="multi_sim_ringtone_settings_dialog_message">El to de trucada s\'aplica a les dues targetes SIM.</string>
   <string name="multi_sim_ringtone_settings_dialog_ok">D\'acord</string>
   <string name="multi_sim_ringtone_settings_dialog_remind_never">"No tornis a mostrar-ho"</string>
   <string name="multi_sim_ringtone_settings_dialog_title">Problemes de compatibilitat</string>
