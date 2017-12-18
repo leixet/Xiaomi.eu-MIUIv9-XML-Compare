@@ -599,7 +599,7 @@
   <string name="title_collapse_sp_messages">Grup de notificacions</string>
   <string name="title_hide_verification_code">Amaga automàticament l\'OTP a la pantalla de bloqueig</string>
   <string name="title_show_blocked_messages">Mostra els SMS bloquejats</string>
-  <string name="title_show_list_avatar">Mostra fotos i informació</string>
+  <string name="title_show_list_avatar">Mostra fotos de perfil</string>
   <string name="title_show_photo_word">Assigna fotos al contacte</string>
   <string name="title_show_sms_template">Comproveu els SMS per als codis de verificació</string>
   <string name="title_show_sms_template_in">Comproveu l\'SMS per OTP</string>
