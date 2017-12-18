@@ -597,7 +597,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="menu_dial_ip_number">Marca per trucada IP</string>
   <string name="menu_dialpad_text">Teclat</string>
   <string name="menu_discard">Descarta</string>
-  <string name="menu_display_all">Mostra tot</string>
+  <string name="menu_display_all">Mostra-ho tot</string>
   <string name="menu_display_selected">Mostra seleccionada</string>
   <string name="menu_doNotSave">Cancel·la</string>
   <string name="menu_done">D\'acord</string>
@@ -1100,13 +1100,13 @@ Per afegir un contacte a la llista de favorits:
   <string name="type_outgoing">Trucades sortints</string>
   <string name="type_voicemail">Missatge de veu</string>
   <string name="unable_get_device_id">No es pot obtenir l\'IMEI</string>
-  <string name="unfold_all">desplega-ho tot</string>
+  <string name="unfold_all">Mostra-ho tot</string>
   <string name="unknow_phone_number_call_failed">"No es pot trucar a un número desconegut"</string>
   <string name="unknow_phone_number_mms_failed">"No es pot enviar un missatge a un número desconegut"</string>
   <string name="unknown">Desconegut</string>
   <string name="unknown_contact_name">Contacte desconegut</string>
   <string name="unknown_details_add_to_contact">Existent</string>
-  <string name="unknown_details_new_contact">Contacte nou</string>
+  <string name="unknown_details_new_contact">Nou</string>
   <string name="update_sim_contact_photo_toast">"No s'ha pogut definir la foto per als contactes SIM"</string>
   <string name="upgrade_in_progress">S\'està actualitzant la llista de contactes.</string>
   <string name="upgrade_out_of_memory">"Els contactes estan sent actualitzats.
