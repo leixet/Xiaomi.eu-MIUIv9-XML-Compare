@@ -751,6 +751,10 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Connecta automàticament</item>
     <item>Connecta manualment</item>
   </string-array>
+  <string-array name="connect_mode_entries">
+    <item>Compatibilitat</item>
+    <item>Alta velocitat</item>
+  </string-array>
   <string-array name="traffic_balance_entries">
     <item>Off</item>
     <item>Normal</item>
