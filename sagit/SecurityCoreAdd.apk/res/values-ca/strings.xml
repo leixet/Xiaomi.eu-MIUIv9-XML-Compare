@@ -314,7 +314,9 @@ Si no s\'actualitza, és possible que les aplicacions duals no funcionin correct
   <string name="xspace_default_app_title">Aplicació per defecte</string>
   <string name="xspace_default_setting_dialog_title">Per defecte</string>
   <string name="xspace_default_setting_label">Aplicació per defecte</string>
-  <string name="xspace_description">Creeu aplicacions duals per utilitzar-les separadament. Les aplicacions duals tindran icones específiques a la pantalla d\'inici.</string>
+  <string name="xspace_description">"Les aplicacions duals són còpies d\'aplicacions que es poden utilitzar per separat amb un compte diferent.
+
+Algunes aplicacions duals requereixen el suport del Marc de serveis de Google. En aquests casos, es crea el Marc de Serveis de Google dual."</string>
   <string name="xspace_guide_des">Utilitza 2 comptes sense canviar</string>
   <string name="xspace_guide_title">Crear aplicació dual per a %s</string>
   <string name="xspace_header">Aplicacions duals</string>
