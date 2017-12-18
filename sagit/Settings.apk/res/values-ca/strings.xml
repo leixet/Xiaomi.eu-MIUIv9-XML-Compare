@@ -2130,7 +2130,7 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="lockpattern_settings_enable_summary">Cal dibuixar un patró per a desbloquejar la pantalla</string>
   <string name="lockpattern_settings_enable_tactile_feedback_title">Vibra en prémer</string>
   <string name="lockpattern_settings_enable_title">Cal un patró</string>
-  <string name="lockpattern_settings_enable_visible_pattern_title">Fes el patró visible</string>
+  <string name="lockpattern_settings_enable_visible_pattern_title">Mostra el patró</string>
   <string name="lockpattern_settings_enable_visible_pattern_title_profile">Mostra el patró del perfil</string>
   <string name="lockpattern_settings_help_how_to_record">Com es dibuixa un patró de desbloqueig</string>
   <string name="lockpattern_settings_power_button_instantly_locks_summary">Excepte quan es manté desbloquejat per %1$s</string>
