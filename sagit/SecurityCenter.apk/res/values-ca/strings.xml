@@ -1061,6 +1061,22 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="network_operator_exception_summary">"No podia activa la targeta SIM. Assegureu-vos que la targeta SIM està inserida correctament i que s'ha activat el seu pla mòbil per la vostra companyia."</string>
   <string name="network_permission_exception_tips">"No podeu utilitzar dades mòbils per connectar a la xarxa"</string>
   <string name="network_roaming_exception_tips">"No podeu utilitzar dades mòbils mentre estigueu connectat en itinerància a la xarxa."</string>
+  <string name="network_route_exception_detail">"És possible que hi hagi un problema amb l\'encaminador amb el qual us connecteu:
+
+ \"&lt;b&gt;1. Problemes de xarxa Wi-Fi pública&lt;/b&gt;\"
+Si esteu connectats a una xarxa Wi-Fi pública, el número d\'usuaris connectats a aquesta xarxa pot estar alentir-la o generant problemes de connectivitat. Canvieu a una altra xarxa i torneu-ho a provar.
+
+ \"&lt;b&gt;2. Problemes amb el proveïdor de serveis d\'Internet&lt;/b&gt;\"
+Assegureu-vos que el compte estigui en bon estat amb el vostre proveïdor de serveis d\'Internet.
+
+ \"&lt;b&gt;3. Problemes del maquinari de l\'encaminador&lt;/b&gt;\"
+Proveu a reiniciar-lo o consulteu la guia de configuració de l\'encaminador.
+
+ \"&lt;b&gt;4. Altres problemes de l\'encaminador&lt;/b&gt;\"
+Llegiu les instruccions que acompanyen l\'encaminador i restaureu-lo a la configuració de fàbrica.
+
+ \"&lt;b&gt;5. Assegureu-vos que l\'encaminador estigui connectat correctament&lt;/b&gt;\"
+Proveu a fer servir un altre cable Ethernet per connectar l\'encaminador. Si sospiteu que hi ha un problema amb la connexió a la vostra llar, contacteu amb el vostre proveïdor de serveis d\'Internet."</string>
   <string name="network_sim_exception_detail">"Hi pot haver un problema amb la targeta SIM:
 
   1. Comproveu que el compte està operatiu amb la vostra companyia. Intenteu utilitzar la targeta SIM d\'un amic i mirar si sou capaços de connectar amb normalitat.
