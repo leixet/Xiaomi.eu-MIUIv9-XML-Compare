@@ -2014,7 +2014,7 @@ Dades extres en ús"</string>
   <string name="use_immediately">Utilitza</string>
   <string name="user_define_title">Afegeix criteris</string>
   <string name="virus_ad_icon_text">Anunci</string>
-  <string name="virus_auto_update_engine">Actualització automàtica:%s</string>
+  <string name="virus_auto_update_engine">Actualitzacions automàtiques: %s</string>
   <string name="virus_update_tips_title">Advertència</string>
   <string name="virus_wait_network_dialog_message">"El telèfon no està connectat a la xarxa Wi-Fi. Voleu utilitzar la connexió de dades mòbils?"</string>
   <string name="vpn_disabled_by_user">La connexió de dades designada està desactivada</string>
@@ -2035,7 +2035,7 @@ Dades extres en ús"</string>
   <string name="wifi_optizition_tip">Activeu l\'augment de velocitat Wi-Fi per fer que la connexió Wi-Fi sigui més estable. S\'utilitzarà una petita quantitat de dades mòbils.</string>
   <string name="wifi_optizition_title">Augment de velocitat Wi-Fi</string>
   <string name="wl_no_whitelist">No hi ha excepcions.</string>
-  <string name="wlan_booster">Augment de velocitat Wi-Fi</string>
+  <string name="wlan_booster">Optimització del Wi-Fi</string>
   <string name="wlan_change_protection_detail">"No canviïs a Wi-Fi automàticament quan estigui connectat a una xarxa de dades"</string>
   <string name="wlan_change_protection_title">Evita el canvi de xarxa</string>
   <string name="xunyou_net_booster">Augment de velocitat de la xarxa</string>
