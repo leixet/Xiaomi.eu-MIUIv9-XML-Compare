@@ -2237,7 +2237,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="media_button">Botó multimèdia</string>
   <string name="media_category">Multimèdia</string>
   <string name="media_feedback_enable_title">Vibra amb el ritme</string>
-  <string name="media_volume_option_title">Volum de multimèdia</string>
+  <string name="media_volume_option_title">Volum multimèdia</string>
   <string name="media_volume_summary">Defineix el volum de la música i els vídeos</string>
   <string name="media_volume_title">Multimèdia</string>
   <string name="medium_font">Mitjana</string>
