@@ -680,7 +680,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_error_empty_email">Introduïu la vostra adreça de correu</string>
   <string name="passport_error_empty_phone_num">Introduïu un número de telèfon</string>
   <string name="passport_error_empty_pwd">Introduïu la vostra contrasenya</string>
-  <string name="passport_error_empty_username">Introduïu el vostre nom d\'usuari</string>
+  <string name="passport_error_empty_username">Introduïu l\'ID del compte</string>
   <string name="passport_error_empty_vcode">Introduïu el codi de verificació</string>
   <string name="passport_error_illegal_pwd">Contrasenya no vàlida</string>
   <string name="passport_error_invalid_dev_id">"Invalid device ID"</string>
@@ -730,7 +730,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_quick_login_dialog_step2_title">Verificació en dues etapes</string>
   <string name="passport_quick_login_dialog_title">Verifica la contrasenya</string>
   <string name="passport_quick_login_step2_title">Verificació en dues etapes</string>
-  <string name="passport_quick_login_title">Introduïu la vostra contrasenya</string>
+  <string name="passport_quick_login_title">Introduïu la contrasenya</string>
   <string name="passport_re_get_verify_code">Obteniu el codi un altre cop</string>
   <string name="passport_re_register">Torneu a registrar-vos</string>
   <string name="passport_recycle_account_prompt">Aquest és el vostre compte Mi?</string>
