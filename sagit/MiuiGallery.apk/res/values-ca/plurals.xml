@@ -174,8 +174,8 @@
     <item quantity="one">"La foto seleccionada (%dMB) no es troba al dispositiu. Voleu baixar-la utilitzant les dades mòbils?"</item>
   </plurals>
   <plurals name="picker_cancel_confirm_message">
-    <item quantity="other">Voleu cancel·lar la baixada de les últimes %d fotos?</item>
-    <item quantity="one">Voleu cancel·lar la baixada de l\'última foto?</item>
+    <item quantity="other">Voleu cancel·lar la baixada de les %d fotos restants?</item>
+    <item quantity="one">Voleu cancel·lar la baixada de la foto restant?</item>
   </plurals>
   <plurals name="picker_no_network_retry_image_confirm_message">
     <item quantity="other">"No es poden baixar %1$d fotos, connecteu-vos a la xarxa i torneu-ho a provar"</item>
