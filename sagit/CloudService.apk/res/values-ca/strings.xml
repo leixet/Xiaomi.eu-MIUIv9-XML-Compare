@@ -331,8 +331,8 @@ Toca el botó de configuració de sincronització per veure més opcions\"</stri
   <string name="micloud_main_wait_charge">S\'està esperant la connexió del carregador</string>
   <string name="micloud_main_wait_charge_sleep">S\'està esperant la connexió del carregador i apagar la pantalla</string>
   <string name="micloud_main_wait_wlan">S\'està esperant una connexió Wi-Fi</string>
-  <string name="micloud_main_wait_wlan_charge">S\'està esperant una connexió Wi-Fi, s\'està connectant el carregador</string>
-  <string name="micloud_main_wait_wlan_charge_sleep">S\'està esperant una connexió Wi-Fi, s\'està connectant el carregador i apagar la pantalla</string>
+  <string name="micloud_main_wait_wlan_charge">Connecteu-vos a la Wi-Fi i carregueu completament el dispositiu per reprendre la sincronització.</string>
+  <string name="micloud_main_wait_wlan_charge_sleep">Connecteu-vos a la Wi-Fi, apagueu la pantalla i carregueu completament el dispositiu per reprendre la sincronització.</string>
   <string name="micloud_main_wlan_sync_data_count">Elements esperant la sincronització: %d</string>
   <string name="micloud_member">Membre Mi Cloud</string>
   <string name="micloud_member_advantage">Aconsegueix més espai d\'emmagatzematge.</string>
@@ -507,13 +507,13 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="sub_sync_item_sms_title_wifi_only">Utilitzar només Wi-Fi per sincronitzar MMS</string>
   <string name="success_upgraded_space">%s afegits</string>
   <string name="sync_dspt">Sincronitza</string>
-  <string name="sync_dspt_entrance_provision">Sincronitza les teves fotos, contactes, historial de trucades i missatges a través de tots els seus dispositius. Entreu a les coses sincronitzades des de qualsevol navegador a %s. </string>
+  <string name="sync_dspt_entrance_provision">El Mi Cloud us ajuda a sincronitzar fotos, contactes i altres elements a través dels dispositius. Podeu accedir als elements sincronitzats en qualsevol lloc a %s.</string>
   <string name="sync_dspt_entrance_provision_2">Saber més</string>
   <string name="sync_dspt_entrance_provision_confirm_close">"No utilitzar"</string>
   <string name="sync_dspt_entrance_provision_confirm_content">"Les aplicacions integrades de MIUI necessiten Mi Cloud per fer còpia de seguretat de les seves fotos, contactes i més. Mi Cloud és gratuït i llest per usar-se."</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Utilitzar Mi Cloud</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"No fer servir Mi Cloud?"</string>
-  <string name="sync_dspt_entrance_provision_network">Aquesta aplicació ha de connectar-se a Internet perquè funcioni normalment. Les dades de sincronització es poden connectar a la xarxa de dades i obrir la Wi-Fi.</string>
+  <string name="sync_dspt_entrance_provision_network">Aquesta aplicació ha de connectar-se a Internet perquè funcioni normalment. Les dades de sincronització es poden connectar a la xarxa de dades i activar la Wi-Fi.</string>
   <string name="sync_dspt_entrance_provision_skip">Omet aquest pas</string>
   <string name="sync_dspt_provision">"Sincronitza les teves fotos, contactes, notes, etc. entre els teus dispositius i accedeix a ells des de"</string>
   <string name="sync_dspt_provision3">". Podeu activar o desactivar aquesta característica en qualsevol moment a Configuració.
