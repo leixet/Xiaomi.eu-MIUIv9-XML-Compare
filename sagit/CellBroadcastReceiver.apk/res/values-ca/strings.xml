@@ -87,11 +87,15 @@
   <string name="menu_view_details">Mostra els detalls</string>
   <string name="message_options">Opcions del missatge</string>
   <string name="no_cell_broadcasts">No hi ha alertes actives a la vostra zona. Podeu canviar la configuració d\'alertes mitjançant l\'opció del menú de Configuració.</string>
+  <string name="notification_channel_broadcast_messages">Emissió de missatges</string>
   <string name="notification_multiple">%s alertes no llegides.</string>
   <string name="notification_multiple_title">Alertes noves</string>
   <string name="pws_other_message_identifiers">Alerta d\'emergència</string>
   <string name="show_cmas_opt_out_summary">Mostra un diàleg d\'exclusió després de la primera alerta CMAS (que no sigui alerta presidencial).</string>
   <string name="show_cmas_opt_out_title">Mostra el diàleg d\'exclusió voluntària</string>
   <string name="sms_cb_settings">Configuració de difusió de cel·la</string>
+  <string name="tw_alert_message">Missatge d\'alerta</string>
+  <string name="tw_emergency_alert">Alerta d\'emergència</string>
+  <string name="tw_required_monthly_test">Prova mensual necessària</string>
   <string name="view_details_title">Detalls de l\'alerta</string>
 </resources>
