@@ -25,15 +25,11 @@
   <string name="button_move">Mou</string>
   <string name="button_retry">Tornar-ho a provar</string>
   <string name="button_select">Selecciona</string>
-  <string name="clipboard_files_cannot_paste">No s\'han pogut enganxar els fitxers seleccionats en aquesta ubicació.</string>
   <string name="close">Tanca</string>
-  <string name="copy_converted_warning_content">Aquests fitxers es van convertir a un altre format: %1$s</string>
-  <string name="copy_failure_alert_content">Aquests fitxers no s\'han copiat: %1$s</string>
   <string name="copy_notification_title">S\'estan copiant els fitxers</string>
   <string name="copy_preparing">S\'està preparant per copiar&#8230;</string>
   <string name="copy_remaining">Falten %s</string>
   <string name="create_error">No s\'ha pogut crear la carpeta</string>
-  <string name="delete_failure_alert_content">Aquests fitxers no s\'han eliminat: %1$s</string>
   <string name="delete_filename_confirmation_message">Voleu eliminar «%1$s»?</string>
   <string name="delete_foldername_confirmation_message">Voleu eliminar la carpeta «%1$s» i el seu contingut?</string>
   <string name="delete_notification_title">S\'estan eliminant fitxers</string>
@@ -49,8 +45,6 @@
   <string name="menu_copy_to_clipboard">Copia</string>
   <string name="menu_create_dir">Crea una carpeta</string>
   <string name="menu_delete">Elimina</string>
-  <string name="menu_file_size_hide">Oculta la mida dels fitxers</string>
-  <string name="menu_file_size_show">Mostra la mida dels fitxers</string>
   <string name="menu_grid">Vista de graella</string>
   <string name="menu_list">Vista de llista</string>
   <string name="menu_move">Mou a…</string>
@@ -63,8 +57,6 @@
   <string name="menu_select_all">Selecciona-ho tot</string>
   <string name="menu_settings">Configuració</string>
   <string name="menu_share">Comparteix</string>
-  <string name="menu_sort">Ordena per</string>
-  <string name="move_failure_alert_content">Aquests fitxers no s\'han mogut: %1$s</string>
   <string name="move_notification_title">S\'estan movent fitxers</string>
   <string name="move_preparing">S\'està preparant per moure…</string>
   <string name="never_ask_again">"No m'ho tornis a preguntar"</string>
@@ -86,15 +78,10 @@
   <string name="save_error">No s\'ha pogut desar el document</string>
   <string name="search_menu_title">Cerca</string>
   <string name="share_via">Comparteix-lo a través de</string>
-  <string name="sort_date">Per data de modificació</string>
-  <string name="sort_name">Per nom</string>
-  <string name="sort_size">Per mida</string>
   <string name="status_bar_notification_info_overflow">+999</string>
   <string name="title_open">Obre\'l des de</string>
   <string name="title_save">Desa\'l a</string>
   <string name="toast_failed_delete">No es poden eliminar alguns documents</string>
   <string name="toast_no_application">No es pot obrir el fitxer</string>
-  <string name="too_many_in_select_all">Només s\'han pogut seleccionar 1.000 elements</string>
-  <string name="too_many_selected">Només podeu seleccionar un màxim de 1.000 elements a la vegada</string>
   <string name="undo">Desfés</string>
 </resources>
