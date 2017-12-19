@@ -48,7 +48,7 @@
   <string name="accessibility_category_work">Compte de perfil laboral - %s</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Aquesta funcionalitat és experimental i podria afectar el rendiment.</string>
   <string name="accessibility_display_daltonizer_preference_title">Correcció de color</string>
-  <string name="accessibility_display_inversion_preference_subtitle">(Experimental) Podria afectar el rendiment</string>
+  <string name="accessibility_display_inversion_preference_subtitle">Podria afectar el rendiment</string>
   <string name="accessibility_display_inversion_preference_title">Inversió de color</string>
   <string name="accessibility_enable">Accessibilitat</string>
   <string name="accessibility_feature_state_off">Apaga</string>
