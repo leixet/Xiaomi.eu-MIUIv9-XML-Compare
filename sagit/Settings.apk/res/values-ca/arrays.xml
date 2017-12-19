@@ -107,7 +107,7 @@
     <item>Encén la pantalla</item>
     <item>Aconsegueix comptes</item>
     <item>Executa en segon pla</item>
-    <item>Accessibility volume</item>
+    <item>Volum d\'accessibilitat</item>
   </string-array>
   <string-array name="app_ops_summaries">
     <item>ubicació aproximada</item>
@@ -252,6 +252,33 @@
     <item>48.0 kHz</item>
     <item>88.2 kHz</item>
     <item>96.0 kHz</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+    <item>Utilitza la selecció del sistema (per defecte)</item>
+    <item>44.1 kHz</item>
+    <item>48.0 kHz</item>
+    <item>88.2 kHz</item>
+    <item>96.0 kHz</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_summaries">
+    <item>Utilitza la selecció del sistema (per defecte)</item>
+    <item>SBC</item>
+    <item>AAC</item>
+    <item>aptX</item>
+    <item>aptX HD</item>
+    <item>LDAC</item>
+    <item>Activa els còdecs opcionals</item>
+    <item>Desactiva els còdecs opcionals</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_titles">
+    <item>Utilitza la selecció del sistema (per defecte)</item>
+    <item>SBC</item>
+    <item>AAC</item>
+    <item>aptX</item>
+    <item>aptX HD</item>
+    <item>LDAC</item>
+    <item>Activa els còdecs opcionals</item>
+    <item>Desactiva els còdecs opcionals</item>
   </string-array>
   <string-array name="bluetooth_avrcp_versions">
     <item>AVRCP 1.4 (per defecte)</item>
@@ -682,7 +709,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
   </string-array>
   <string-array name="select_logpersist_summaries">
     <item>Desactivat</item>
-    <item>All log buffers</item>
+    <item>Totes les memòries intermèdies de registre</item>
     <item>Tot excepte les memòries intermèdies de registre de la ràdio</item>
     <item>només la memòria intermèdia de registre del nucli</item>
   </string-array>
