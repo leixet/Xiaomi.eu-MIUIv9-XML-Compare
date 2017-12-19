@@ -215,6 +215,7 @@
   <string name="app_manager_reset_app_preferences_title">Voleu reiniciar les preferències de les aplicacions?</string>
   <string name="app_manager_show_all_apps">Mostra totes les aplicacions</string>
   <string name="app_manager_show_detail_infos">Mostra-ho tot</string>
+  <string name="app_manager_sort">Ordena per</string>
   <string name="app_manager_start_by">Iniciat per %s</string>
   <string name="app_manager_start_count_over">100000+ vegades</string>
   <string name="app_manager_stop_wakepath_dialog_summary">Voleu desinstal·lar %s per restringir l\'inici de la cadena?</string>
