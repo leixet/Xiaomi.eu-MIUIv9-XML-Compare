@@ -169,6 +169,10 @@ Qualitat de reproducció"</string>
   <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Seleccioneu un còdec d\'àudio Bluetooth:
 Taxa de mostreig"</string>
   <string name="bluetooth_select_a2dp_codec_streaming_label">Transmissió: %1$s</string>
+  <string name="bluetooth_select_a2dp_codec_type">Còdec d\'àudio Bluetooth</string>
+  <string name="bluetooth_select_a2dp_codec_type_dialog_title">Seleccioneu un còdec d\'àudio Bluetooth</string>
+  <string name="bluetooth_select_avrcp_version_dialog_title">Seleccioneu la versió Bluetooth AVRCP</string>
+  <string name="bluetooth_select_avrcp_version_string">Versió Bluetooth AVRCP</string>
   <string name="bluetooth_tethered">Connexió compartida per Bluetooth</string>
   <string name="bt_hci_snoop_log">Activa registre cerca HCI Bluetooth</string>
   <string name="bt_hci_snoop_log_summary">Captura tots els paquets HCI de Bluetooth en un fitxer</string>
@@ -199,7 +203,10 @@ Taxa de mostreig"</string>
   <string name="click_to_return_multi_window">Feu clic per tornar al mode multifinestra</string>
   <string name="confirm_enable_oem_unlock_text">ADVERTIMENT: les funcions de protecció del dispositiu no funcionaran mentre aquesta opció estigui activada.</string>
   <string name="confirm_enable_oem_unlock_title">Voleu permetre poder desbloquejar l\'OEM?</string>
+  <string name="connected_via_network_scorer">Connectat automàticament a través de %1$s</string>
+  <string name="connected_via_network_scorer_default">Connectat automàticament a través del proveïdor de qualificació de xarxa</string>
   <string name="connected_via_passpoint">Connectat a través de %1$s</string>
+  <string name="content_description_menu_button">Menú</string>
   <string name="convert_to_fbe_warning">"Converteix la partició de dades en una criptografia basada en fitxers.
 Advertiment!! s\'esborraran totes les vostres dades.
 Aquesta funció és alfa i és possible que no funcioni correctament.
@@ -231,6 +238,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="debug_drawing_category">Dibuix</string>
   <string name="debug_hw_drawing_category">Renderització accelerada per maquinari</string>
   <string name="debug_hw_overdraw">Depura els conflictes de GPU</string>
+  <string name="debug_hw_renderer">Estableix el renderitzador de la GPU</string>
   <string name="debug_input_category">Entrada</string>
   <string name="debug_layout">Mostra les vores de la disposició</string>
   <string name="debug_layout_summary">Mostra els límits del clip, marges, etc.</string>
@@ -444,6 +452,10 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="picture_color_mode_desc">Utilitza sRGB</string>
   <string name="pip_menu_title">Menú d\'imatge en imatge</string>
   <string name="pip_notification_message">Si no voleu que %s utilitzi aquesta funció, toqueu per obrir la configuració i desactiveu-la.</string>
+  <string name="pip_notification_title">%s està en imatge en imatge</string>
+  <string name="pip_pause">Pausa</string>
+  <string name="pip_phone_close">Tanca</string>
+  <string name="pip_phone_dismiss_hint">Arrossegueu cap avall per descartar</string>
   <string name="pointer_location">Ubicació del punter</string>
   <string name="pointer_location_summary">Pantalla de superposició que mostra les dades tàctils actuals</string>
   <string name="power_charging_duration">%1$s - %2$s fins carregar-la</string>
@@ -687,5 +699,12 @@ d MMMM"</string>
   <string name="wifi_security_none">Cap</string>
   <string name="wifi_verbose_logging">Activa el registre Wi‑Fi detallat</string>
   <string name="wifi_verbose_logging_summary">Augmenta el nivell de registre Wi-Fi, mostra l\'RSSI per a cada SSID a la llista de xarxes Wi-Fi.</string>
+  <string name="wifi_wapi_certification_dont_exist">Els certificats WAPI no existeixen. Instal·leu-los.</string>
+  <string name="wifi_wapi_fail_to_auth">"L\'autenticació WAPI ha fallat
+Comproveu la validesa dels certificats"</string>
+  <string name="wifi_wapi_fail_to_init">"No es poden obrir certificats WAPI
+L\'emmagatzematge de credencials no es pot activar"</string>
+  <string name="wifi_wapi_psk_type">Tipus de contrasenya</string>
+  <string name="wifi_wapi_user_certificate">Certificat d\'usuari</string>
   <string name="window_animation_scale_title">Escalat de l\'animació de finestres</string>
 </resources>
