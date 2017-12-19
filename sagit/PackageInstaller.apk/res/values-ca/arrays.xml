@@ -46,6 +46,22 @@
     <item>Optimitzat per a la qualitat de connexió</item>
     <item>Millor esforç (velocitat de bits adaptativa)</item>
   </string-array>
+  <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+    <item>Optimitzat per a la qualitat de l\'àudio (990kbps/909kbps)</item>
+    <item>Qualitat d\'àudio i connexió equilibrada (660kbps/606kbps)</item>
+    <item>Optimitzat per a la qualitat de la connexió (330kbps/303kbps)</item>
+    <item>Millor esforç (velocitat de bits adaptativa)</item>
+  </string-array>
+  <string-array name="bluetooth_a2dp_codec_titles">
+    <item>Use System Selection (Default)</item>
+    <item>SBC</item>
+    <item>AAC</item>
+    <item>aptX</item>
+    <item>aptX HD</item>
+    <item>LDAC</item>
+    <item>Activa els còdecs opcionals</item>
+    <item>Desactiva els còdecs opcionals</item>
+  </string-array>
   <string-array name="bluetooth_avrcp_versions">
     <item>AVRCP 1.4 (per defecte)</item>
     <item>AVRCP 1.5</item>
