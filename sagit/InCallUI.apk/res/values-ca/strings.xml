@@ -157,6 +157,8 @@
   <string name="no_balance_title">Saldo insuficient</string>
   <string name="no_call_back_message">La connexió està prenent massa temps. En canviar a una trucada normal el vostre operador podria cobrar-li.</string>
   <string name="no_call_back_title">Atenció</string>
+  <string name="non_ivr_menu_collapse_menu">Redueix el menú</string>
+  <string name="non_ivr_menu_view_menu">Menú visualitza</string>
   <string name="not_activate_sim_card_content">Verifiqueu el número telefònic per començar a utilitzar el paquet de recàrrega. Encara podeu fer una trucada normal que us cobrarà el vostre operador.</string>
   <string name="not_activate_sim_card_content_title">Número de telèfon no verificat</string>
   <string name="not_activate_sim_card_content_with_operator">Verifiqueu la SIM %1$s (%2$s) per fer una trucada utilitzant el paquet de càrrega. Encara podeu fer una trucada normal, el vostre operador podrà cobrar-li.</string>
@@ -182,6 +184,7 @@
   <string name="onscreen_audio_mode_handset">Auricular</string>
   <string name="onscreen_audio_mode_headset">Auriculars</string>
   <string name="onscreen_audio_mode_speaker">Altaveu</string>
+  <string name="onscreen_audio_switch_mode">Canvia l\'àudio</string>
   <string name="onscreen_call_record">Enregistra</string>
   <string name="onscreen_change_to_video">Vídeotrucada</string>
   <string name="onscreen_change_to_voice">Trucada de veu</string>
@@ -211,7 +214,9 @@
   <string name="unlock_phone">Desbloqueja el dispositiu</string>
   <string name="upgrade_vt_prompt">Voleu canviar la trucada a trucada de vídeo?</string>
   <string name="user_locked_prompt">Desbloquegeu el dispositiu per accedir als contactes.</string>
+  <string name="video_call_not_allowed_if_tty_enabled">Desactiveu el mode TTY primer</string>
   <string name="video_conference_caller_info_name">"Trucada de videoconferència de %1$s"</string>
+  <string name="video_switch_to_voice_call_prompt">Canvia la trucada de veu</string>
   <string name="voicemail">Bústia de veu</string>
   <string name="wait_prompt_str">"Enviar els següents tons?
 "</string>
