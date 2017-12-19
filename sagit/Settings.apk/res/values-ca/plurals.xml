@@ -77,6 +77,10 @@
     <item quantity="other">%d aplicacions</item>
     <item quantity="one">%d aplicació</item>
   </plurals>
+  <plurals name="enterprise_privacy_number_packages_lower_bound">
+    <item quantity="other">Mínim %d aplicacions</item>
+    <item quantity="one">Mínim %d aplicació</item>
+  </plurals>
   <plurals name="free_wifi_connected_count">
     <item quantity="other">%1$d usuaris connectats</item>
     <item quantity="one">%1$d usuari connectat</item>
@@ -169,6 +173,10 @@
     <item quantity="other">S\'han concedit %d permisos</item>
     <item quantity="one">S\'ha concedit %d permís</item>
   </plurals>
+  <plurals name="print_settings_summary">
+    <item quantity="other">%1$d serveis d\'impressió activats</item>
+    <item quantity="one">1 servei d\'impressió activat</item>
+  </plurals>
   <plurals name="runtime_permissions_additional_count">
     <item quantity="other">%d autoritzacions addicionals</item>
     <item quantity="one">%d autorització addicional</item>
@@ -177,9 +185,17 @@
     <item quantity="other">S\'han concedit %1$d autoritzacions de %2$d</item>
     <item quantity="one">S\'ha concedit %1$d autorització de %2$d</item>
   </plurals>
+  <plurals name="seconds">
+    <item quantity="other">%s segons</item>
+    <item quantity="one">1 segon</item>
+  </plurals>
   <plurals name="security_settings_fingerprint_preference_summary">
     <item quantity="other">S\'han configurat %1$d empremtes</item>
     <item quantity="one">S\'ha configurat %1$d empremta</item>
+  </plurals>
+  <plurals name="settings_suggestion_header_summary_hidden_items">
+    <item quantity="other">Mostra %d elements ocults</item>
+    <item quantity="one">Mostra %d element ocult</item>
   </plurals>
   <plurals name="settings_toggle_position_divider_page">
     <item quantity="other">%1$d commutadors apareixeran al panell de notificacions</item>
@@ -200,6 +216,10 @@
   <plurals name="show_rep_countdown">
     <item quantity="other">"Sou a %1$d passos d'informar d'un error."</item>
     <item quantity="one">"Sou a %1$d pas d'informar d'un error."</item>
+  </plurals>
+  <plurals name="special_access_summary">
+    <item quantity="other">%d aplicacions poden utilitzar dades no restringides</item>
+    <item quantity="one">1 aplicació pot utilitzar dades no restringides</item>
   </plurals>
   <plurals name="ssl_ca_cert_dialog_title">
     <item quantity="other">Confia en els certificats o suprimeix-los</item>
@@ -241,6 +261,10 @@ Per obtenir més informació sobre aquest certificat, contacteu amb l\'administr
     <item quantity="other">S\'han trobat %d riscos</item>
     <item quantity="one">S\'ha trobat %d risc</item>
   </plurals>
+  <plurals name="wifi_saved_access_points_summary">
+    <item quantity="other">%d xarxes</item>
+    <item quantity="one">1 xarxa</item>
+  </plurals>
   <plurals name="wifi_share_count">
     <item quantity="other">S\'han compartit %d xarxes</item>
     <item quantity="one">S\'ha compartit %d xarxa</item>
@@ -248,6 +272,10 @@ Per obtenir més informació sobre aquest certificat, contacteu amb l\'administr
   <plurals name="wrong_pin_code">
     <item quantity="other">El codi PIN de la SIM no és correcte, resten %d intents.</item>
     <item quantity="one">El codi PIN de la SIM no és correcte, resta %d intent abans que hàgiu de posar-vos en contacte amb la companyia per poder desbloquejar el dispositiu.</item>
+  </plurals>
+  <plurals name="zen_mode_settings_summary_on">
+    <item quantity="other">S\'ha activat %d regles automàtiques</item>
+    <item quantity="one">S\'ha activat 1 regla automàtica</item>
   </plurals>
   <plurals name="zen_mode_summary_alarms_only_by_hour">
     <item quantity="other">Canvia a només alarmes durant %1$d hores fins a %2$s</item>
