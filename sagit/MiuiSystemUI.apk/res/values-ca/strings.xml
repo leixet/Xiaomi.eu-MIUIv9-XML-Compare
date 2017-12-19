@@ -703,12 +703,17 @@ d MMMM"</string>
   <string name="wapi_password_is_empty">El camp contrasenya no es pot deixar en blanc</string>
   <string name="wapi_password_is_not_hex_format">Caràcters hexadecimals no vàlids</string>
   <string name="wapi_password_length_is_max">La contrasenya no pot superar els 64 caràcters</string>
+  <string name="wapi_password_length_is_min">La contrasenya no pot tenir menys de 8 caràcters</string>
+  <string name="wapi_password_length_is_min_to_max">La contrasenya ha de ser de 8 a 64 caràcters</string>
   <string name="weather_publish_time">Actualitzat %1$s</string>
   <string name="wifi_aggressive_handover">Transferència forçada des de Wi-Fi a mòbil</string>
   <string name="wifi_aggressive_handover_summary">En activar-se, la connexió canviarà a les dades mòbils de forma més activa quan el senyal Wi-Fi sigui baix.</string>
   <string name="wifi_allow_scan_with_traffic">Permet sempre cerca de Wi-Fi en itinerància</string>
   <string name="wifi_allow_scan_with_traffic_summary">Permet o restringeix cerques de xarxes Wi-Fi en itinerància basades en la quantitat de dades presents a la interfície.</string>
+  <string name="wifi_auth_password_wrong">La contrasenya podria ser incorrecta</string>
+  <string name="wifi_auto_sel_wapi_cert">Selecciona automàticament</string>
   <string name="wifi_connected_no_internet">Connectat, no hi ha Internet</string>
+  <string name="wifi_disabled_by_recommendation_provider">No esteu connectat a causa de la xarxa de baixa qualitat</string>
   <string name="wifi_disabled_generic">Desactivat</string>
   <string name="wifi_disabled_network_failure">Ha fallat la configuració d\'IP</string>
   <string name="wifi_disabled_password_failure">Problema d\'autenticació</string>
@@ -716,12 +721,17 @@ d MMMM"</string>
   <string name="wifi_display_certification">Certificació de pantalla sense fil</string>
   <string name="wifi_display_certification_summary">Mostra les opcions de certificació de pantalla sense fil</string>
   <string name="wifi_fail_to_scan">"No es poden cercar xarxes"</string>
+  <string name="wifi_hand_sel_wapi_cert">Certificat WAPI</string>
   <string name="wifi_no_internet">No detectat accés a Internet, no es tornarà a connectar automàticament.</string>
+  <string name="wifi_no_internet_no_reconnect">"No es connectarà automàticament"</string>
   <string name="wifi_not_in_range">Fora del rang</string>
   <string name="wifi_remembered">Desat</string>
   <string name="wifi_security_none">Cap</string>
+  <string name="wifi_ssid_is_empty">El camp SSID no es pot deixar en blanc</string>
+  <string name="wifi_ssid_length_is_max">El SSID no pot superar els 32 caràcters</string>
   <string name="wifi_verbose_logging">Activa el registre Wi‑Fi detallat</string>
   <string name="wifi_verbose_logging_summary">Augmenta el nivell de registre Wi-Fi, mostra l\'RSSI per a cada SSID a la llista de xarxes Wi-Fi.</string>
+  <string name="wifi_wapi_as_certificate">Certificat AS</string>
   <string name="wifi_wapi_certification_dont_exist">Els certificats WAPI no existeixen. Instal·leu-los.</string>
   <string name="wifi_wapi_fail_to_auth">"L\'autenticació WAPI ha fallat
 Comproveu la validesa dels certificats"</string>
