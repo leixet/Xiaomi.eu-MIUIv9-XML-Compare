@@ -216,6 +216,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="force_rtl_layout_all_locales">Força l\'orientació del RTL</string>
   <string name="force_rtl_layout_all_locales_summary">Força l\'orientació de la pantalla dreta-esquerra en totes les llengües</string>
   <string name="generic_error_dlg_text">No s\'ha pogut desinstal·lar l\'aplicació.</string>
+  <string name="generic_error_dlg_title">Error</string>
   <string name="grant_confirm_question">Voleu concedir els següents permisos? Obtindrà accés a:</string>
   <string name="grant_dialog_button_allow">Permet</string>
   <string name="grant_dialog_button_deny">Denega</string>
@@ -355,6 +356,7 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="remaining_length_format">Falten %1$s</string>
   <string name="retail_demo_reset_message">Introduïu la contrasenya per realitzar la restauració de fàbrica en mode demostració</string>
   <string name="retail_demo_reset_next">Següent</string>
+  <string name="retail_demo_reset_title">Es requereix la contrasenya</string>
   <string name="review_button_cancel">Cancel·la</string>
   <string name="review_button_continue">Continua</string>
   <string name="running_process_item_user_label">Usuari: %1$s</string>
@@ -390,6 +392,8 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="show_hw_screen_updates">Mostra les actualitzacions de visualització de la GPU</string>
   <string name="show_hw_screen_updates_summary">Il·lumina les vistes de dins de les finestres quan es dibuixin amb la GPU</string>
   <string name="show_non_rect_clip">Depura les operacions de retall no rectangulars</string>
+  <string name="show_notification_channel_warnings">Mostra les advertències del canal de notificació</string>
+  <string name="show_notification_channel_warnings_summary">Mostra l\'avís a la pantalla quan una aplicació publica una notificació sense un canal vàlid</string>
   <string name="show_screen_updates">Mostra les actualitzacions de superfície</string>
   <string name="show_screen_updates_summary">Il·lumina totes les superfícies de les finestres quan s\'actualitzin</string>
   <string name="show_touches">Mostra els tocs</string>
@@ -398,6 +402,8 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="strict_mode">Mode estricte activat</string>
   <string name="strict_mode_summary">Il·lumina la pantalla si les aplicacions fan tasques llargues en el procés principal</string>
   <string name="system_warning">Si denegueu aquest permís, les característiques bàsiques del vostre dispositiu no funcionaran correctament.</string>
+  <string name="telephony_monitor_switch">Monitor de telefonia</string>
+  <string name="telephony_monitor_switch_summary">El monitor de telefonia recopilarà registres quan detecti un problema amb la funcionalitat de telefonia/mòdem i notificarà a l\'usuari per informar del problema</string>
   <string name="tether_settings_title_all">Connexió compartida d\'Internet</string>
   <string name="tether_settings_title_bluetooth">Ancoratge Bluetooth</string>
   <string name="tether_settings_title_usb">Internet compartit per USB</string>
