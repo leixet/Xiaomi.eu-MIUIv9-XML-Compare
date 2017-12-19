@@ -21,6 +21,10 @@
     <item quantity="other">Retards molt petits (%1$d ms)</item>
     <item quantity="one">Retard molt petit (%1$d ms)</item>
   </plurals>
+  <plurals name="app_notification_listing_summary_others">
+    <item quantity="other">Desactivat per %d aplicacions</item>
+    <item quantity="one">Desactivat per %d aplicació</item>
+  </plurals>
   <plurals name="auto_disable_screenbuttons_disabled_header_title">
     <item quantity="other">No ho desactivis mai per a %d aplicacions</item>
     <item quantity="one">No ho desactivis mai per a 1 aplicació</item>
@@ -41,9 +45,29 @@
     <item quantity="other">%1$d aplicacions poden utilitzar dades sense restricció quan l\'estalvi de dades és activat</item>
     <item quantity="one">1 aplicació pot utilitzar dades sense restricció quan l\'estalvi de dades és activat</item>
   </plurals>
+  <plurals name="default_camera_app_title">
+    <item quantity="other">Aplicacions de la càmera</item>
+    <item quantity="one">Aplicació de la càmera</item>
+  </plurals>
+  <plurals name="default_email_app_title">
+    <item quantity="other">Aplicacions de client de correu</item>
+    <item quantity="one">Aplicació de client de correu</item>
+  </plurals>
+  <plurals name="default_phone_app_title">
+    <item quantity="other">Aplicacions de telèfon</item>
+    <item quantity="one">Aplicació de telèfon</item>
+  </plurals>
+  <plurals name="deleted_channels">
+    <item quantity="other">S\'ha eliminat %d categories</item>
+    <item quantity="one">S\'ha eliminat %d categoria</item>
+  </plurals>
   <plurals name="dlg_remove_locales_title">
     <item quantity="other">Voleu suprimir els idiomes seleccionats?</item>
     <item quantity="one">Voleu suprimir l\'idioma seleccionat?</item>
+  </plurals>
+  <plurals name="domain_urls_apps_summary_on">
+    <item quantity="other">%d aplicacions que obren enllaços compatibles</item>
+    <item quantity="one">Una aplicació que obre enllaços compatibles</item>
   </plurals>
   <plurals name="free_wifi_connected_count">
     <item quantity="other">%1$d usuaris connectats</item>
