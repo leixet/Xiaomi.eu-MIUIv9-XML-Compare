@@ -136,6 +136,7 @@
   <string name="work_profile_setup_later_message">"Podreu configurar el perfil professional posteriorment mitjançant l'aplicació de gestió utilitzada per la seva empresa."</string>
   <string name="work_profile_setup_later_title">Voleu aturar la configuració del perfil?</string>
   <string name="work_profile_setup_stop">ATURA</string>
+  <string name="your_org_app_used">%1$s gestionarà i supervisarà aquest dispositiu mitjançant la següent aplicació:</string>
   <string name="your_organization_beginning">L\'organització</string>
   <string name="your_organization_middle">l\'organització</string>
 </resources>
