@@ -136,6 +136,7 @@
   <string name="incoming_circle_text_reject">Allibera</string>
   <string name="incoming_circle_text_reject_p">Feu lliscar cap amunt</string>
   <string name="ivr_menu_dialing_msg">S\'està desviant…</string>
+  <string name="ivr_menu_dialing_msg_no_mute">Vés al servei seleccionat… [La correcció automàtica d\'errors està activada]</string>
   <string name="ivr_menu_list_sub_menu_count_format">Toqueu %s</string>
   <string name="ivr_menu_list_title">Menú de veu</string>
   <string name="keep_wait_call_back">Segueix esperant</string>
@@ -146,8 +147,14 @@
 "</string>
   <string name="modify_call_option_title">Quin tipus de trucada?</string>
   <string name="modify_call_option_voice">Només veu</string>
+  <string name="modify_call_option_vt_rx">Recepció de vídeo</string>
+  <string name="modify_call_option_vt_tx">Transmissió de vídeo</string>
+  <string name="modify_call_prompt_no">No</string>
+  <string name="modify_call_prompt_yes">Sí</string>
   <string name="network_error_message">La xarxa actual és inestable. El canvi a trucada normal podria ser cobrada pel vostre operador.</string>
   <string name="network_error_title">Error de xarxa</string>
+  <string name="no_balance_message">No teniu saldo suficient en el paquet de recàrrega. Podeu fer una trucada normal al seu lloc, serà cobrada pel vostre operador.</string>
+  <string name="no_balance_title">Saldo insuficient</string>
   <string name="no_call_back_message">La connexió està prenent massa temps. En canviar a una trucada normal el vostre operador podria cobrar-li.</string>
   <string name="no_call_back_title">Atenció</string>
   <string name="not_activate_sim_card_content">Verifiqueu el número telefònic per començar a utilitzar el paquet de recàrrega. Encara podeu fer una trucada normal que us cobrarà el vostre operador.</string>
