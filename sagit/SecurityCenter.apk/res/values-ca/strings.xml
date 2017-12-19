@@ -144,6 +144,7 @@
   <string name="app_manager_clear_data_dlg_message">Totes les dades de l\'aplicació, inclosos els fitxers, la configuració, els comptes, les bases de dades i la memòria cau seran eliminats de manera permanent.</string>
   <string name="app_manager_clear_data_dlg_title">Voleu suprimir totes les dades?</string>
   <string name="app_manager_clear_failed_dlg_message">No s\'han pogut suprimir les dades de l\'aplicació.</string>
+  <string name="app_manager_clear_failed_dlg_title">Esborra les dades</string>
   <string name="app_manager_copy_pkg_to_clip">S\'ha copiat al porta-retalls</string>
   <string name="app_manager_default_cleared">Netejat</string>
   <string name="app_manager_default_close_summary">No s\'ha establert els valors per defecte.</string>
@@ -184,13 +185,16 @@
   <string name="app_manager_net_mobile">Mòbil</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
   <string name="app_manager_not_allow">No</string>
+  <string name="app_manager_not_record">"No s'ha pogut trobar aplicacions que requereixin permisos"</string>
   <string name="app_manager_notify_bar">Insígnies</string>
   <string name="app_manager_notify_floating">Notificacions flotants</string>
   <string name="app_manager_notify_keyguard">Bloqueig de pantalla</string>
   <string name="app_manager_perm">Permisos</string>
   <string name="app_manager_permission_manager_title">Permisos</string>
   <string name="app_manager_permission_notify_title">Notificacions</string>
+  <string name="app_manager_permission_power_saving_summary">Estalviador de bateria MIUI</string>
   <string name="app_manager_permission_power_saving_title">Estalvi de bateria</string>
+  <string name="app_manager_permission_startself_summary">Les aplicacions que s\'inicien automàticament ocupen RAM i drenen la bateria més ràpidament</string>
   <string name="app_manager_permission_startself_title">Inici automàtic</string>
   <string name="app_manager_permission_summary_reject">Restringeix-ho tot</string>
   <string name="app_manager_powerkeeper_miui_auto">Estalvi de bateria MIUI</string>
