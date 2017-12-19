@@ -47,12 +47,6 @@
   <string name="app_process_limit_title">Límit de procés en segon pla</string>
   <string name="available_via_passpoint">Disponible mitjançant %1$s</string>
   <string name="battery_info_status_charging">S\'està carregant</string>
-  <string name="battery_info_status_charging_ac">S\'està carregant amb CA</string>
-  <string name="battery_info_status_charging_ac_short">S\'està carregant</string>
-  <string name="battery_info_status_charging_usb">S\'està carregant via USB</string>
-  <string name="battery_info_status_charging_usb_short">S\'està carregant</string>
-  <string name="battery_info_status_charging_wireless">S\'està carregant sense cable</string>
-  <string name="battery_info_status_charging_wireless_short">S\'està carregant</string>
   <string name="battery_info_status_discharging">No s\'està carregant</string>
   <string name="battery_info_status_full">Plena</string>
   <string name="battery_info_status_not_charging">No s\'està carregant</string>
@@ -115,7 +109,6 @@
   <string name="confirm_enable_oem_unlock_text">ADVERTIMENT: Mentre aquesta configuració estigui activa, les funcions de protecció del dispositiu no funcionaran.</string>
   <string name="confirm_enable_oem_unlock_title">Permetre el desbloqueig d\'OEM?</string>
   <string name="connected_via_passpoint">Connectat via %1$s</string>
-  <string name="connected_via_wfa">S\'ha connectat mitjançant l\'assistent Wi‑Fi</string>
   <string name="convert_to_fbe_warning">"Converteix la partició de dades en una criptografia basada en fitxers.
 Compte! S\'esborraran totes les dades.
 Aquesta funció és alfa i és possible que no funcioni correctament.
@@ -177,8 +170,6 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="enable_opengl_traces_title">Activa el seguiment d\'OpenGL</string>
   <string name="enable_terminal_summary">Activa l\'aplicació de terminal que ofereix accés a l\'intèrpret d\'ordres local</string>
   <string name="enable_terminal_title">Terminal local</string>
-  <string name="enable_webview_multiprocess">WebView amb multiprocés</string>
-  <string name="enable_webview_multiprocess_desc">Executa els renderitzadors de WebView per separat</string>
   <string name="enabled_by_admin">Opció activada per l\'administrador</string>
   <string name="force_allow_on_external">Força el permís d\'aplicacions a l\'emmagatzematge extern</string>
   <string name="force_allow_on_external_summary">Permet que qualsevol aplicació es pugui escriure en un dispositiu d’emmagatzematge extern, independentment dels valors definits</string>
@@ -311,9 +302,6 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="pointer_location">Ubicació del punter</string>
   <string name="pointer_location_summary">Pantalla de superposició que mostra les dades tàctils actuals</string>
   <string name="power_charging_duration">%1$s - %2$s fins carregar-la</string>
-  <string name="power_charging_duration_ac">%1$s - %2$s fins carregar-la per CA</string>
-  <string name="power_charging_duration_usb">%1$s - %2$s fins carregar-la per USB</string>
-  <string name="power_charging_duration_wireless">%1$s - %2$s fins carregar-la per sense fils</string>
   <string name="power_discharging_duration">%1$s - aprox. falten %2$s</string>
   <string name="power_discharging_duration_short">Falten %1$s - %2$s</string>
   <string name="power_remaining_duration_only">Falten uns %1$s</string>
@@ -419,7 +407,6 @@ Es mantindran totes les dades d\'usuari prèvies."</string>
   <string name="uninstalling">S\'està desinstal·lant…</string>
   <string name="unknown">Desconegut</string>
   <string name="unknown_apps_admin_dlg_text">"L'administrador no permet la instal·lació d'aplicacions obtingudes de fonts desconegudes."</string>
-  <string name="unknown_apps_dlg_text">Per seguretat, el telèfon està configurat per bloquejar la instal·lació d\'aplicacions obtingudes de fonts desconegudes.</string>
   <string name="usb_audio_disable_routing">Desactiva l\'encaminament d\'àudio USB</string>
   <string name="usb_audio_disable_routing_summary">Desactiva l\'encaminament automàtic als perifèrics d\'àudio USB</string>
   <string name="user_guest">Convidat</string>
