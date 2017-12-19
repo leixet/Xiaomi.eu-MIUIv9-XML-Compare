@@ -21,14 +21,6 @@
   <string name="Noon">Migdia</string>
   <string name="PinMmi">Canvi de PIN</string>
   <string name="PwdMmi">Canvi de contrasenya</string>
-  <string name="RestrictedOnAll">Tots els serveix de veu/dades/SMS estan bloquejats.</string>
-  <string name="RestrictedOnAllVoice">Tots els serveis de veu estan bloquejats.</string>
-  <string name="RestrictedOnData">El servei de dades està bloquejat.</string>
-  <string name="RestrictedOnEmergency">El servei d\'emergència està bloquejat.</string>
-  <string name="RestrictedOnNormal">El servei de veu està bloquejat.</string>
-  <string name="RestrictedOnSms">El servei SMS està bloquejat.</string>
-  <string name="RestrictedOnVoiceData">Els serveis de veu i de dades estan bloquejats.</string>
-  <string name="RestrictedOnVoiceSms">Els serveis de veu/SMS estan bloquejats.</string>
   <string name="RuacMmi">Rebuig de trucades molestes no desitjades</string>
   <string name="SetupCallDefault">Voleu acceptar la trucada?</string>
   <string name="ThreeWCMmi">Trucada a tres bandes</string>
@@ -38,7 +30,6 @@
   <string name="VideoView_error_title">Problema amb el vídeo</string>
   <string name="accept">D\'acord</string>
   <string name="accessibility_binding_label">Accessibilitat</string>
-  <string name="accessibility_enabled">Accessibilitat activada.</string>
   <string name="action_bar_home_description">Torna a l\'inici</string>
   <string name="action_bar_up_description">Mou cap a dalt</string>
   <string name="action_menu_overflow_description">Més opcions</string>
@@ -88,8 +79,6 @@
   <string name="app_running_notification_text">Toqueu per obtenir més informació o per aturar l\'aplicació.</string>
   <string name="app_running_notification_title">%1$s s\'està executant</string>
   <string name="app_upgrading_toast">%1$s s\'està actualitzant…</string>
-  <string name="audit_safemode_notification">Restableix les dades de fàbrica del dispositiu per utilitzar-lo sense restriccions</string>
-  <string name="audit_safemode_notification_details">Premeu per obtenir més informació.</string>
   <string name="autofill_postal_code">Codi postal</string>
   <string name="autofill_this_form">Emplenament automàtic</string>
   <string name="back_button_label">Enrere</string>
@@ -112,13 +101,11 @@ L\'estalvi de bateria s\'apaga automàticament quan el dispositiu s\'està carre
   <string name="candidates_style">&lt;u&gt;candidats&lt;/u&gt;</string>
   <string name="capability_desc_canControlMagnification">"Controla el nivell i el posicionament del zoom de la pantalla."</string>
   <string name="capability_desc_canPerformGestures">Podeu tocar, lliscar, pessigar i realitzar altres gestos.</string>
-  <string name="capability_desc_canRequestEnhancedWebAccessibility">És possible que s\'instal·lin seqüències d\'ordres perquè el contingut de les aplicacions sigui més accessible.</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Inclou dades personals com números de targetes de crèdit i contrasenyes.</string>
   <string name="capability_desc_canRequestTouchExploration">Els elements seleccionats es diran en veu alta i podreu explorar la pantalla mitjançant gestos.</string>
   <string name="capability_desc_canRetrieveWindowContent">"Inspeccioneu el contingut d'una finestra amb la qual interactueu."</string>
   <string name="capability_title_canControlMagnification">Controla el zoom de la pantalla</string>
   <string name="capability_title_canPerformGestures">Realitza gestos</string>
-  <string name="capability_title_canRequestEnhancedWebAccessibility">Activa l\'accessibilitat web millorada</string>
   <string name="capability_title_canRequestFilterKeyEvents">Observa el text que escriu</string>
   <string name="capability_title_canRequestTouchExploration">Activa l\'exploració tàctil</string>
   <string name="capability_title_canRetrieveWindowContent">Recupera el contingut de la finestra</string>
@@ -149,7 +136,6 @@ L\'estalvi de bateria s\'apaga automàticament quan el dispositiu s\'està carre
   <string name="contentServiceSyncNotificationTitle">Sincronitza</string>
   <string name="contentServiceTooManyDeletesNotificationDesc">Massa eliminacions de %s.</string>
   <string name="content_description_sliding_handle">Nansa lliscant. Toqueu i manteniu premut.</string>
-  <string name="continue_to_enable_accessibility">Seguiu mantenint dos dits avall per activar l\'accessibilitat.</string>
   <string name="copy">Copia</string>
   <string name="copyUrl">Copia l\'URL</string>
   <string name="country_selection_title">Preferència de la regió</string>
@@ -242,7 +228,6 @@ utilitzat %s"</string>
   <string name="emergency_calls_only">Només trucades d\'emergència</string>
   <string name="emptyPhoneNumber">(Sense número de telèfon)</string>
   <string name="enablePin">Error en activar el bloqueig de SIM/RUIM.</string>
-  <string name="enable_accessibility_canceled">Accessibilitat cancel·lada.</string>
   <string name="enable_explore_by_touch_warning_message">"%1$s vol activar l'exploració tàctil. Quan aquesta funció estigui activada, podreu escoltar o veure descripcions del contingut seleccionat o utilitzar gestos per interactuar amb el telèfon."</string>
   <string name="enable_explore_by_touch_warning_title">Voleu activar l\'exploració tàctil?</string>
   <string name="error_message_change_not_allowed">"L'administrador no permet aquest canvi"</string>
@@ -252,7 +237,6 @@ utilitzat %s"</string>
   <string name="eventTypeCustom">Personalitzat</string>
   <string name="eventTypeOther">Altres</string>
   <string name="expand_action_accessibility">commuta l\'expansió</string>
-  <string name="expand_button_content_description">Botó expandeix</string>
   <string name="expires_on">Caduca el:</string>
   <string name="ext_media_badremoval_notification_message">Desmunteu %s abans d\'extreure\'l per evitar pèrdues de dades</string>
   <string name="ext_media_badremoval_notification_title">%s s\'ha extret inesperadament</string>
@@ -292,7 +276,7 @@ utilitzat %s"</string>
   <string name="ext_media_unsupported_notification_title">%s incompatible</string>
   <string name="extract_edit_menu_button">Edita</string>
   <string name="faceunlock_multiple_failures">S\'ha superat el màxim d\'intents de desbloqueig facial</string>
-  <string name="factory_reset_message">"L'aplicació d'administració no es troba o està malmesa i no es pot utilitzar. Ara s'eliminarà el dispositiu. Contacteu amb l'administrador per obtenir ajuda."</string>
+  <string name="factory_reset_message">L\'aplicació d\'administració no es troba o està malmesa i no es pot utilitzar. Ara s\'eliminarà el dispositiu. Contacteu amb l\'administrador per obtenir ajuda.</string>
   <string name="factory_reset_warning">El dispositiu s\'eliminarà</string>
   <string name="factorytest_failed">Ha fallat la prova de fàbrica</string>
   <string name="factorytest_no_action">No s\'ha trobat cap paquet que proporcioni l\'acció FACTORY_TEST.</string>
@@ -330,7 +314,6 @@ utilitzat %s"</string>
   <string name="global_action_lock">Bloqueig de pantalla</string>
   <string name="global_action_lockdown">Bloqueja ara</string>
   <string name="global_action_power_off">Apaga</string>
-  <string name="global_action_reboot">Reinicia</string>
   <string name="global_action_settings">Configuració</string>
   <string name="global_action_silent_mode_off_status">El so està activat</string>
   <string name="global_action_silent_mode_on_status">El so està desactivat</string>
@@ -410,8 +393,6 @@ utilitzat %s"</string>
   <string name="js_dialog_before_unload_title">Confirma la navegació</string>
   <string name="js_dialog_title">La pàgina «%s» diu:</string>
   <string name="js_dialog_title_default">JavaScript</string>
-  <string name="keyboard_headset_required_to_hear_password">Connecteu els auriculars per escoltar les contrasenyes.</string>
-  <string name="keyboard_password_character_no_headset">Punt.</string>
   <string name="keyboardview_keycode_alt">Alt</string>
   <string name="keyboardview_keycode_cancel">Cancel·la</string>
   <string name="keyboardview_keycode_delete">Suprimeix</string>
@@ -668,7 +649,6 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="orgTypeWork">Feina</string>
   <string name="org_name">Organització:</string>
   <string name="org_unit">Unitat organitzativa:</string>
-  <string name="other_permissions">altres permisos</string>
   <string name="owner_name">Propietari</string>
   <string name="package_deleted_device_owner">Esborrat per l\'administrador</string>
   <string name="package_installed_device_owner">Instal·lat per l\'administrador</string>
@@ -733,7 +713,7 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="permdesc_persistentActivity">Permet que l\'aplicació faci que algunes de les seves parts es mantinguin en la memòria. Això pot limitar la quantitat de memòria disponible per a altres aplicacions i alentir el telèfon.</string>
   <string name="permdesc_processOutgoingCalls">Permet que l\'aplicació vegi el número que es marca en realitzar una trucada amb l\'opció de redirigir la trucada a un altre número o cancel·lar la trucada.</string>
   <string name="permdesc_readCalendar">Permet que l\'aplicació consulti tots els esdeveniments de calendari emmagatzemats al telèfon, inclosos els d\'amics i companys de treball. L\'aplicació pot utilitzar aquest permís per compartir o guardar dades del calendari de l\'usuari sense tenir en compte si són privats o confidencials.</string>
-  <string name="permdesc_readCallLog">"Permet que l'aplicació consulteu el registre de trucades del telèfon, incloses dades sobre trucades entrants i sortints. Aquest permís permet desar les dades del registre de trucades, i les aplicacions malicioses poden utilitzar-ho per compartir dades del registre de trucades sense consentiment."</string>
+  <string name="permdesc_readCallLog">Permet que l\'aplicació consulteu el registre de trucades del telèfon, incloses dades sobre trucades entrants i sortints. Aquest permís permet desar les dades del registre de trucades, i les aplicacions malicioses poden utilitzar-ho per compartir dades del registre de trucades sense consentiment.</string>
   <string name="permdesc_readCellBroadcasts">Permet que l\'aplicació llegeixi missatges de difusió mòbil que hagi rebut el dispositiu. Les alertes de difusió mòbil s\'envien en algunes ubicacions per avisar de situacions d\'emergència. És possible que les aplicacions malicioses interfereixin en el rendiment o en el funcionament del dispositiu si es rep un avís de difusió mòbil d\'emergència.</string>
   <string name="permdesc_readContacts">"Permet que l'aplicació consulti informació sobre contactes emmagatzemats al telèfon, inclosa la freqüència amb què els heu trucat, els heu enviat un correu o heu contactat amb ells d'una altra manera. Aquest permís permet desar les dades dels contactes, i les aplicacions malicioses poden utilitzar-ho per compartir dades de contactes de l'usuari sense el vostre consentiment."</string>
   <string name="permdesc_readHistoryBookmarks">"Permet que l'aplicació consulti l'historial de tots els URL visitades pel navegador i tots els seus marcadors. Nota: aquest permís no poden utilitzar-navegadors externs ni altres aplicacions que tinguin funcions de navegació per internet."</string>
@@ -773,7 +753,7 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="permdesc_use_sip">Permet que l\'aplicació pugui fer i rebre trucades SIP.</string>
   <string name="permdesc_vibrate">Permet que l\'aplicació controli la vibració.</string>
   <string name="permdesc_wakeLock">Permet que l\'aplicació impedeixi que el telèfon entri en mode de suspensió.</string>
-  <string name="permdesc_writeCalendar">"Permet que l'aplicació afegeixi, elimini i canviï esdeveniments que es poden modificar al telèfon, inclosos els d'amics o companys de treball. L'aplicació pot utilitzar aquest permís per enviar missatges que semblin procedir de propietaris d'un calendari o per modificar esdeveniments sense coneixement dels propietaris."</string>
+  <string name="permdesc_writeCalendar">Permet que l\'aplicació afegeixi, elimini i canviï esdeveniments que es poden modificar al telèfon, inclosos els d\'amics o companys de treball. L\'aplicació pot utilitzar aquest permís per enviar missatges que semblin procedir de propietaris d\'un calendari o per modificar esdeveniments sense coneixement dels propietaris.</string>
   <string name="permdesc_writeCallLog">"Permet que l'aplicació modifiqui el registre de trucades del telèfon, incloses dades sobre trucades entrants i sortints. Les aplicacions malicioses poden utilitzar aquest permís per eliminar o modificar el registre de trucades."</string>
   <string name="permdesc_writeContacts">"Permet que l'aplicació modifiqui les dades dels contactes emmagatzemats al telèfon, inclosa la freqüència amb què els has anomenat, els has enviat un correu o heu contactat amb ells d'una altra manera. Les aplicacions poden utilitzar aquest permís per eliminar dades de contactes."</string>
   <string name="permdesc_writeGeolocationPermissions">"Permet que l'aplicació modifiqui els permisos d'ubicació geogràfica del navegador. Les aplicacions malicioses poden utilitzar aquest permís per autoritzar l'enviament d'informació sobre la ubicació a llocs web arbitraris."</string>
@@ -799,11 +779,9 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="permgrouplab_sms">SMS</string>
   <string name="permgrouplab_storage">Emmagatzematge</string>
   <string name="permission">Permisos</string>
-  <string name="permission_remember_choice">Recorda</string>
   <string name="permission_request_notification_title">Permís sol·licitat</string>
   <string name="permission_request_notification_with_subtitle">"Permís sol·licitat
 per al compte %s"</string>
-  <string name="permission_title">Permisos</string>
   <string name="permlab_accessCoarseLocation">accedir a la ubicació aproximada (basada en la xarxa)</string>
   <string name="permlab_accessDrmCertificates">accedir als certificats DRM</string>
   <string name="permlab_accessFineLocation">accedir a la ubicació precisa (GPS)</string>
@@ -955,7 +933,6 @@ per al compte %s"</string>
   <string name="postalTypeOther">Altres</string>
   <string name="postalTypeWork">Feina</string>
   <string name="power_dialog">Opcions de telèfon</string>
-  <string name="power_key_emergency_number">112</string>
   <string name="power_off">Apaga</string>
   <string name="prepend_shortcut_label">Menú+</string>
   <string name="preposition_for_date">el %s</string>
@@ -969,10 +946,8 @@ per al compte %s"</string>
   <string name="quick_contacts_not_available">No s\'ha trobat cap aplicació per veure aquest contacte.</string>
   <string name="reason_service_unavailable">Servei d\'impressió no activat</string>
   <string name="reason_unknown">desconegut</string>
-  <string name="reboot_confirm">El telèfon es reiniciarà.</string>
   <string name="reboot_safemode_confirm">Voleu reiniciar el sistema en mode segur? Es desactivaran totes les aplicacions externes que hageu instal·lat. Aquestes aplicacions es restauraran la propera vegada que reinicieu del sistema.</string>
   <string name="reboot_safemode_title">Reinicia en mode segur</string>
-  <string name="reboot_title">Reinicia</string>
   <string name="reboot_to_reset_message">S\'està reiniciant…</string>
   <string name="reboot_to_reset_title">Restableix les dades de fàbrica</string>
   <string name="reboot_to_update_package">S\'està processant el paquet d\'actualització…</string>
