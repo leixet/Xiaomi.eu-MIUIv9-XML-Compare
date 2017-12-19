@@ -147,6 +147,7 @@
 "</string>
   <string name="modify_call_option_title">Quin tipus de trucada?</string>
   <string name="modify_call_option_voice">Només veu</string>
+  <string name="modify_call_option_vt">Vídeotrucada</string>
   <string name="modify_call_option_vt_rx">Recepció de vídeo</string>
   <string name="modify_call_option_vt_tx">Transmissió de vídeo</string>
   <string name="modify_call_prompt_no">No</string>
