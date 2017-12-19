@@ -65,7 +65,11 @@
   <string name="subtitle_manual_add_sub">S\'ha afegit subtítols amb èxit</string>
   <string name="subtitle_no_subtitle">"Els subtítols no estan disponibles"</string>
   <string name="subtitle_non_subtitle_file">Sense fitxers de subtítols</string>
+  <string name="subtitle_offset_add_1s">+1 s</string>
+  <string name="subtitle_offset_add_dot5s">+0,5 s</string>
   <string name="subtitle_offset_normal">"No moguis els subtítols"</string>
+  <string name="subtitle_offset_sub_1s">-1 s</string>
+  <string name="subtitle_offset_sub_dot5s">-0,5 s</string>
   <string name="subtitle_onlinesub_language">Idioma: %s</string>
   <string name="subtitle_onlinesub_loading">S\'estan carregant els subtítols…</string>
   <string name="subtitle_onlinesub_loading_wait">S\'estan carregant els subtítols…</string>
