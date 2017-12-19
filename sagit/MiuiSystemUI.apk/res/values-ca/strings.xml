@@ -159,6 +159,16 @@
   <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bits d\'àudio Bluetooth per mostra</string>
   <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Seleccioneu un còdec d\'àudio Bluetooth:
 Bits per mostra"</string>
+  <string name="bluetooth_select_a2dp_codec_channel_mode">Mode de canal d\'àudio Bluetooth</string>
+  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Seleccioneu un còdec d\'àudio Bluetooth:
+Mode de canal"</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Còdec LDAC d\'àudio Bluetooth: Qualitat de reproducció</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Seleccioneu un còdec LDAC d\'àudio Bluetooth:
+Qualitat de reproducció"</string>
+  <string name="bluetooth_select_a2dp_codec_sample_rate">Taxa de mostreig d\'àudio Bluetooth</string>
+  <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Seleccioneu un còdec d\'àudio Bluetooth:
+Taxa de mostreig"</string>
+  <string name="bluetooth_select_a2dp_codec_streaming_label">Transmissió: %1$s</string>
   <string name="bluetooth_tethered">Connexió compartida per Bluetooth</string>
   <string name="bt_hci_snoop_log">Activa registre cerca HCI Bluetooth</string>
   <string name="bt_hci_snoop_log_summary">Captura tots els paquets HCI de Bluetooth en un fitxer</string>
