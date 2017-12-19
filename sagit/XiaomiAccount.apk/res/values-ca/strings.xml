@@ -6,6 +6,7 @@
   <string name="access_token_invalid_warning">El compte Weibo no és vàlid</string>
   <string name="account">Compte</string>
   <string name="account_bind_devices">Dispositius</string>
+  <string name="account_bind_new_phone">Afegeix un nou telèfon</string>
   <string name="account_bind_secure_email_title">Afegeix una adreça de correu</string>
   <string name="account_bind_secure_phone_title">Afegeix número de telèfon</string>
   <string name="account_bind_settings">Comptes</string>
