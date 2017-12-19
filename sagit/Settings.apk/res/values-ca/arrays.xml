@@ -905,7 +905,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>Suficient</item>
     <item>Bona</item>
     <item>Excel·lent</item>
-    <item>Excellent</item>
+    <item>Excel·lent</item>
   </string-array>
   <string-array name="wifi_sleep_policy_entries">
     <item>Sempre</item>
