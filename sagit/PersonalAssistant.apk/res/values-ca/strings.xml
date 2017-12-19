@@ -461,6 +461,11 @@ Comproveu el número de seguiment."</string>
   <string name="fav_support_more">Totes les aplicacions compatibles</string>
   <string name="fav_support_not_title">"Els preferits no apareixeran a la llista"</string>
   <string name="fav_support_title">Els preferits apareixeran a la llista</string>
+  <string name="fav_tab_all">Totes</string>
+  <string name="fav_tab_article">Articles</string>
+  <string name="fav_tab_new">Nova</string>
+  <string name="fav_tab_shopping">Productes</string>
+  <string name="fav_tab_video">Vídeos</string>
   <string name="favorite">Preferits</string>
   <string name="favorite_add_home">Afegeix a la pantalla d\'inici</string>
   <string name="favorite_add_home_add">Afegeix</string>
