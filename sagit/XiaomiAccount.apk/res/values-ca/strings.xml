@@ -7,9 +7,11 @@
   <string name="account">Compte</string>
   <string name="account_bind_devices">Dispositius</string>
   <string name="account_bind_new_phone">Afegeix un nou telèfon</string>
+  <string name="account_bind_phone_notice">Utilitza aquest número de telèfon per iniciar la sessió al vostre compte, restablir la contrasenya, o canviar la configuració de seguretat.</string>
   <string name="account_bind_secure_email_title">Afegeix una adreça de correu</string>
   <string name="account_bind_secure_phone_title">Afegeix número de telèfon</string>
   <string name="account_bind_settings">Comptes</string>
+  <string name="account_binded_phone">Telèfon %d</string>
   <string name="account_crop_user_avatar">Escapça foto</string>
   <string name="account_empty_user_name">Introduïu el nom d\'usuari del vostre compte Mi</string>
   <string name="account_error_all_space_user_name">"El nom no pot contenir només espais"</string>
@@ -76,6 +78,7 @@
   <string name="change_email_address">Canvia l\'adreça de correu electrònic</string>
   <string name="change_password">Canvia la contrasenya</string>
   <string name="change_phone_number">Canvia el número de telèfon</string>
+  <string name="checking_phone_num_availible">S\'està verificant el telèfon…</string>
   <string name="completed">Tot fet</string>
   <string name="confirm_activate_email">Verificat</string>
   <string name="confirm_bundled_phone_dialog_title">Confirma el número de telèfon inclòs</string>
