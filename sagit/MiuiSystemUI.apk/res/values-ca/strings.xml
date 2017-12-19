@@ -25,20 +25,7 @@
   <string name="accessibility_data_signal_full">Senyal de dades màxima.</string>
   <string name="accessibility_data_three_bars">Dades 3 barres.</string>
   <string name="accessibility_data_two_bars">Dades 2 barres.</string>
-  <string name="accessibility_desc_app_allow_block">"Les notificacions de %1$s es poden ocultar"</string>
-  <string name="accessibility_desc_app_unallow_block">"Les notificacions de %1$s no es poden ocultar"</string>
-  <string name="accessibility_desc_block_notification">Amaga les notificacions</string>
-  <string name="accessibility_desc_cancel_block">"No les amaguis"</string>
-  <string name="accessibility_desc_check_block_notification">"S'ha seleccionat les notificacions de %1$s"</string>
-  <string name="accessibility_desc_confirm_block">Oculta</string>
-  <string name="accessibility_desc_details_page">Detalls de la pàgina %1$s</string>
-  <string name="accessibility_desc_notification_shade">Àrea de notificació</string>
-  <string name="accessibility_desc_quick_settings">Configuració ràpida</string>
   <string name="accessibility_desc_recent_apps">Visió general.</string>
-  <string name="accessibility_desc_reconfirm_block">Voleu amagar-ho?</string>
-  <string name="accessibility_desc_select_block_notification">Seleccioneu les notificacions per amagar-les</string>
-  <string name="accessibility_desc_uncheck_block_notification">"Desmarca les notificacions de %1$s"</string>
-  <string name="accessibility_desc_weather_temperature">El temps %1s graus</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Aquesta característica és experimental i podria afectar el rendiment.</string>
   <string name="accessibility_display_daltonizer_preference_title">Correcció del color</string>
   <string name="accessibility_divider">Divisor de pantalles</string>
@@ -102,12 +89,6 @@
   <string name="audio_effect_settings">Seleccioneu el tipus d\'auriculars</string>
   <string name="available_via_passpoint">Disponible a %1$s</string>
   <string name="battery_info_status_charging">S\'està carregant</string>
-  <string name="battery_info_status_charging_ac">S\'està carregant amb CA</string>
-  <string name="battery_info_status_charging_ac_short">S\'està carregant</string>
-  <string name="battery_info_status_charging_usb">S\'està carregant via USB</string>
-  <string name="battery_info_status_charging_usb_short">S\'està carregant</string>
-  <string name="battery_info_status_charging_wireless">S\'està carregant sense cable</string>
-  <string name="battery_info_status_charging_wireless_short">S\'està carregant</string>
   <string name="battery_info_status_discharging">No s\'està carregant</string>
   <string name="battery_info_status_full">Plena</string>
   <string name="battery_info_status_not_charging">No s\'està carregant</string>
@@ -199,7 +180,6 @@
   <string name="confirm_enable_oem_unlock_text">ADVERTIMENT: les funcions de protecció del dispositiu no funcionaran mentre aquesta opció estigui activada.</string>
   <string name="confirm_enable_oem_unlock_title">Voleu permetre poder desbloquejar l\'OEM?</string>
   <string name="connected_via_passpoint">Connectat a través de %1$s</string>
-  <string name="connected_via_wfa">Connectat a través de l\'assistent Wifi</string>
   <string name="convert_to_fbe_warning">"Converteix la partició de dades en una criptografia basada en fitxers.
 Advertiment!! s\'esborraran totes les vostres dades.
 Aquesta funció és alfa i és possible que no funcioni correctament.
@@ -274,8 +254,6 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="enable_power_save_mode">Activa l\'estalvi de bateria</string>
   <string name="enable_terminal_summary">Activa l\'aplicació de terminal que ofereix accés a l\'intèrpret d\'ordres local</string>
   <string name="enable_terminal_title">Terminal local</string>
-  <string name="enable_webview_multiprocess">WebView amb multiprocés</string>
-  <string name="enable_webview_multiprocess_desc">Executa els renderitzadors de WebView per separat</string>
   <string name="enabled_by_admin">Activat per l\'administrador</string>
   <string name="expanded_confirm_disable_notification">Amaga</string>
   <string name="expanded_notification_manager">Gestiona les notificacions</string>
@@ -327,14 +305,13 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="label_view">Veure</string>
   <string name="launch_defaults_none">No s\'ha definit cap valor per defecte</string>
   <string name="launch_defaults_some">S\'ha definit alguns valors per defecte</string>
-  <string name="legacy_dhcp_client_summary">Utilitza el client de DHCP de Lollipop en comptes del nou client DHCP d\'Android.</string>
   <string name="loading_desktop">Un moment…</string>
   <string name="local_backup_password_summary_change">Toqueu per canviar o suprimir la contrasenya per a les còpies de seguretat completes de l\'ordinador</string>
   <string name="local_backup_password_summary_none">Actualment les còpies de seguretat completes de l\'escriptori no estan protegides</string>
   <string name="local_backup_password_title">Contrasenya per a còpies d\'ordinador</string>
   <string name="local_backup_password_toast_confirmation_mismatch">La nova contrasenya i la confirmació no coincideixen</string>
   <string name="local_backup_password_toast_success">S\'ha definit una contrasenya de seguretat nova</string>
-  <string name="local_backup_password_toast_validation_failure">"S'ha produit un error en definir la contrasenya de la còpia de seguretat"</string>
+  <string name="local_backup_password_toast_validation_failure">S\'ha produit un error en definir la contrasenya de la còpia de seguretat</string>
   <string name="lockscreen_carrier_default">Sense servei</string>
   <string name="long_screenshot_not_support_msg">"L'aplicació actual no és compatible amb les captures de pantalla llargues"</string>
   <string name="long_screenshot_out_of_memory_error">No s\'ha pogut perquè la imatge es massa gran</string>
@@ -406,9 +383,6 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="pointer_location">Ubicació del punter</string>
   <string name="pointer_location_summary">Pantalla de superposició que mostra les dades tàctils actuals</string>
   <string name="power_charging_duration">%1$s - %2$s fins carregar-la</string>
-  <string name="power_charging_duration_ac">%1$s - %2$s fins carregar-la per CA</string>
-  <string name="power_charging_duration_usb">%1$s - %2$s fins carregar-la per USB</string>
-  <string name="power_charging_duration_wireless">%1$s - %2$s fins carregar-la per sense fils</string>
   <string name="power_discharging_duration">%1$s - aprox. falten %2$s</string>
   <string name="power_discharging_duration_short">Falten %1$s - %2$s</string>
   <string name="power_remaining_duration_only">Falten uns %1$s</string>
@@ -494,8 +468,6 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="share">Compartir</string>
   <string name="show_all_anrs">Mostra totes les aplicacions que no responen</string>
   <string name="show_all_anrs_summary">Mostra el quadre d\'aplicacions que no responen en segon pla</string>
-  <string name="show_cpu_usage">Mostra l\'ús de la CPU</string>
-  <string name="show_cpu_usage_summary">Superposició en pantalla mostrant informació actual de la CPU</string>
   <string name="show_demo_mode">Mostra el mode de demostració</string>
   <string name="show_hw_layers_updates">Mostra actualitzacions capes</string>
   <string name="show_hw_layers_updates_summary">Quan s\'actualitza il·lumina les capes de maquinari en verd</string>
@@ -578,7 +550,7 @@ d MMMM"</string>
   <string name="tts_settings">Configuració de text-a-veu</string>
   <string name="tts_settings_title">Sortida de text-a-veu</string>
   <string name="tts_status_checking">S\'està verificant&#8230;</string>
-  <string name="tts_status_not_supported">"%1$s no és compatible"</string>
+  <string name="tts_status_not_supported">%1$s no és compatible</string>
   <string name="tts_status_ok">%1$s és compatible</string>
   <string name="tts_status_requires_network">Cal connexió de xarxa per a %1$s</string>
   <string name="tts_status_title">Estat de l\'idioma per defecte</string>
@@ -639,13 +611,13 @@ d MMMM"</string>
   <string name="wifi_allow_scan_with_traffic_summary">Permet o restringeix cerques de xarxes Wi-Fi en itinerància basades en la quantitat de dades presents a la interfície.</string>
   <string name="wifi_connected_no_internet">Connectat, no hi ha Internet</string>
   <string name="wifi_disabled_generic">Desactivat</string>
-  <string name="wifi_disabled_network_failure">"Ha fallat la configuració d'IP"</string>
+  <string name="wifi_disabled_network_failure">Ha fallat la configuració d\'IP</string>
   <string name="wifi_disabled_password_failure">Problema d\'autenticació</string>
-  <string name="wifi_disabled_wifi_failure">"Error de connexió WiFi"</string>
+  <string name="wifi_disabled_wifi_failure">Error de connexió WiFi</string>
   <string name="wifi_display_certification">Certificació de pantalla sense fil</string>
   <string name="wifi_display_certification_summary">Mostra les opcions de certificació de pantalla sense fil</string>
   <string name="wifi_fail_to_scan">"No es poden cercar xarxes"</string>
-  <string name="wifi_no_internet">"No detectat accés a Internet, no es tornarà a connectar automàticament."</string>
+  <string name="wifi_no_internet">No detectat accés a Internet, no es tornarà a connectar automàticament.</string>
   <string name="wifi_not_in_range">Fora del rang</string>
   <string name="wifi_remembered">Desat</string>
   <string name="wifi_security_none">Cap</string>
