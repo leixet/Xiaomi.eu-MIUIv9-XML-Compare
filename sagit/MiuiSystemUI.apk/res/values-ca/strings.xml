@@ -26,6 +26,7 @@
   <string name="accessibility_data_three_bars">Dades 3 barres.</string>
   <string name="accessibility_data_two_bars">Dades 2 barres.</string>
   <string name="accessibility_desc_recent_apps">Visió general.</string>
+  <string name="accessibility_desc_work_lock">Pantalla de bloqueig de treball</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Aquesta característica és experimental i podria afectar el rendiment.</string>
   <string name="accessibility_display_daltonizer_preference_title">Correcció del color</string>
   <string name="accessibility_divider">Divisor de pantalles</string>
@@ -71,6 +72,7 @@
   <string name="account_info">No s\'ha iniciat sessió</string>
   <string name="activate_usb_message">Per activar aquesta funció, inseriu la targeta SIM.</string>
   <string name="activate_usb_title">Activar USB</string>
+  <string name="active_input_method_subtypes">Mètodes d\'entrada actius</string>
   <string name="adb_keys_warning_message">Voleu revocar l\'accés a la depuració USB de tots els ordinadors que prèviament heu autoritzat?</string>
   <string name="adb_warning_message">La depuració USB està pensada només per al desenvolupament. Utilitzeu-la per copiar dades entre l\'ordinador i el dispositiu, instal·lar aplicacions al dispositiu sense avisos i llegir dades de registre.</string>
   <string name="adb_warning_title">Voleu permetre la depuració USB?</string>
@@ -89,6 +91,7 @@
   <string name="audio_effect_settings">Seleccioneu el tipus d\'auriculars</string>
   <string name="available_via_passpoint">Disponible a %1$s</string>
   <string name="battery_info_status_charging">S\'està carregant</string>
+  <string name="battery_info_status_charging_lower">s\'està carregant</string>
   <string name="battery_info_status_discharging">No s\'està carregant</string>
   <string name="battery_info_status_full">Plena</string>
   <string name="battery_info_status_not_charging">No s\'està carregant</string>
@@ -115,6 +118,8 @@
   <string name="bluetooth_disconnecting">Disconnectant&#8230;</string>
   <string name="bluetooth_dun_profile_summary_connected">Connectat al servidor Dun</string>
   <string name="bluetooth_dun_profile_summary_use_for">Utilitzar per accedir a la xarxa telefònica</string>
+  <string name="bluetooth_enable_inband_ringing">Activa el so de la banda</string>
+  <string name="bluetooth_enable_inband_ringing_summary">Permet que els tons del telèfon es reprodueixin als auriculars Bluetooth</string>
   <string name="bluetooth_headset_profile_summary_connected">Connectat a l\'àudio del telèfon</string>
   <string name="bluetooth_headset_profile_summary_use_for">Utilitzar per a l\'àudio del telèfon</string>
   <string name="bluetooth_hid_profile_summary_connected">Connectat al dispositiu d\'entrada</string>
@@ -137,6 +142,8 @@
   <string name="bluetooth_pan_profile_summary_use_for">Utilitzar per a l\'accés a Internet</string>
   <string name="bluetooth_pan_user_profile_summary_connected">Connectat al dispositiu per accedir a Internet</string>
   <string name="bluetooth_profile_a2dp">Àudio multimèdia</string>
+  <string name="bluetooth_profile_a2dp_high_quality">Utilitza àudio d\'alta qualitat: %1$s</string>
+  <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Utilitza àudio d\'alta qualitat</string>
   <string name="bluetooth_profile_dun">Accés a la xarxa telefònica</string>
   <string name="bluetooth_profile_headset">Àudio del telèfon</string>
   <string name="bluetooth_profile_hid">Dispositiu d\'entrada</string>
@@ -149,6 +156,9 @@
   <string name="bluetooth_profile_sap">Accés SIM</string>
   <string name="bluetooth_sap_profile_summary_connected">Connectat a SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Utilitzar per a l\'accés SIM</string>
+  <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bits d\'àudio Bluetooth per mostra</string>
+  <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Seleccioneu un còdec d\'àudio Bluetooth:
+Bits per mostra"</string>
   <string name="bluetooth_tethered">Connexió compartida per Bluetooth</string>
   <string name="bt_hci_snoop_log">Activa registre cerca HCI Bluetooth</string>
   <string name="bt_hci_snoop_log_summary">Captura tots els paquets HCI de Bluetooth en un fitxer</string>
