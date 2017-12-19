@@ -424,6 +424,7 @@ Després de col·locar «music.mp3» al directori de la targeta SD, toqueu la pa
   <string name="nfc_disable_tip">Activeu la funció NFC</string>
   <string name="remove_headset_and_starttest">Desconnecteu l\'auricular i premeu inicia per provar-ho</string>
   <string name="search_menu_title">Cerca</string>
+  <string name="select">Selecciona</string>
   <string name="select_all">Selecciona-ho tot</string>
   <string name="select_none">Seleccioneu cap</string>
   <string name="speak_from_mic">Parleu al MICRO, la reproducció dels altaveus. Jutgeu si hi ha so.</string>
