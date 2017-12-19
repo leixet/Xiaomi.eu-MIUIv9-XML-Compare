@@ -463,11 +463,17 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="pip_pause">Pausa</string>
   <string name="pip_phone_close">Tanca</string>
   <string name="pip_phone_dismiss_hint">Arrossegueu cap avall per descartar</string>
+  <string name="pip_phone_expand">Expandeix</string>
+  <string name="pip_phone_minimize">Minimitza</string>
+  <string name="pip_play">Reprodueix</string>
+  <string name="pip_skip_to_next">Salta a la següent</string>
+  <string name="pip_skip_to_prev">Salta a l\'anterior</string>
   <string name="pointer_location">Ubicació del punter</string>
   <string name="pointer_location_summary">Pantalla de superposició que mostra les dades tàctils actuals</string>
   <string name="power_charging_duration">%1$s - %2$s fins carregar-la</string>
   <string name="power_discharging_duration">%1$s - aprox. falten %2$s</string>
   <string name="power_discharging_duration_short">Falten %1$s - %2$s</string>
+  <string name="power_remaining_charging_duration_only">Resten %1$s fins càrrega completa</string>
   <string name="power_remaining_duration_only">Falten uns %1$s</string>
   <string name="power_remaining_duration_only_short">Falten %1$s</string>
   <string name="process_kernel_label">SO Android</string>
@@ -501,6 +507,9 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="recents_stack_action_button_label">Esborra-ho tot</string>
   <string name="reject_call">Rebutjar trucada</string>
   <string name="remaining_length_format">Falten %1$s</string>
+  <string name="retail_demo_reset_message">Introduïu la contrasenya per realitzar la restauració de fàbrica en mode demostració</string>
+  <string name="retail_demo_reset_next">Següent</string>
+  <string name="retail_demo_reset_title">Es requereix la contrasenya</string>
   <string name="return_to_incall_screen">Tornar a la trucada</string>
   <string name="running_process_item_user_label">Usuari: %1$s</string>
   <string name="runningservices_settings_summary">Visualitzeu i controleu els serveis que s\'estan executant</string>
@@ -539,6 +548,8 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="select_application">Seleccioneu l\'aplicació</string>
   <string name="select_logd_size_dialog_title">Selecciona la mida Logger de la memòria intermèdia</string>
   <string name="select_logd_size_title">Mides memòria intermèdia Logger</string>
+  <string name="select_logpersist_dialog_title">Seleccioneu les memòries intermèdies de registre per emmagatzemar persistentment al dispositiu</string>
+  <string name="select_logpersist_title">Emmagatzema les dades del registrador de forma persistent en el dispositiu</string>
   <string name="select_usb_configuration_dialog_title">Selecció de la configuració USB</string>
   <string name="select_usb_configuration_title">Selecció de la configuració USB</string>
   <string name="select_webview_provider_dialog_title">Configura la implementació de WebView</string>
