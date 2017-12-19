@@ -729,6 +729,31 @@ Per afegir contactes, toqueu \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menú&
 \"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
 "</string>
   <string name="noContactsHelpTextForCreateShortcut">"No teniu cap contacte per mostrar."</string>
+  <string name="noContactsHelpTextWithSync">"No teniu cap contacte per mostrar. (Si acabeu d\'afegir un compte, pot trigar uns minuts a sincronitzar els contactes).
+
+Per afegir contactes, toqueu \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menú&lt;/font&gt;&lt;/b&gt;\", a continuació, toqueu:
+ 
+\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Comptes per afegir o configurar un compte amb contactes que podeu sincronitzar amb el telèfon
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Mostra opcions per canviar quins contactes són visibles
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Nou contacte per crear un contacte nou des de zero
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Importa/exporta per importar contactes des de la targeta SIM o SD
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
+"</string>
+  <string name="noContactsHelpTextWithSyncForCreateShortcut">"No teniu cap contacte per mostrar. (Si acabeu d'afegir un compte, la sincronització dels contactes pot trigar una estona)."</string>
+  <string name="noContactsNoSimHelpText">"No teniu cap contacte per mostrar.
+
+Per afegir contactes, toqueu \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menú&lt;/font&gt;&lt;/b&gt;\", a continuació, toqueu:
+ 
+\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Comptes per afegir o configurar un compte amb contactes que podeu sincronitzar amb el telèfon
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Nou contacte per crear un contacte nou des de zero
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" 
+\"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Importa/exporta per importar contactes de la vostra targeta SD
+\"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
+"</string>
   <string name="noContactsWithPhoneNumbers">No hi ha contactes amb números de telèfon</string>
   <string name="noFavoritesHelpText">"No té cap favorit.
 
