@@ -69,9 +69,21 @@
     <item quantity="other">%d aplicacions que obren enllaços compatibles</item>
     <item quantity="one">Una aplicació que obre enllaços compatibles</item>
   </plurals>
+  <plurals name="enterprise_privacy_number_failed_password_wipe">
+    <item quantity="other">%d intents</item>
+    <item quantity="one">%d intent</item>
+  </plurals>
+  <plurals name="enterprise_privacy_number_packages">
+    <item quantity="other">%d aplicacions</item>
+    <item quantity="one">%d aplicació</item>
+  </plurals>
   <plurals name="free_wifi_connected_count">
     <item quantity="other">%1$d usuaris connectats</item>
     <item quantity="one">%1$d usuari connectat</item>
+  </plurals>
+  <plurals name="hours">
+    <item quantity="other">%s hores</item>
+    <item quantity="one">1 hora</item>
   </plurals>
   <plurals name="lockpassword_password_requires_letters">
     <item quantity="other">La contrasenya ha de tenir com a mínim %d lletres.</item>
@@ -125,13 +137,33 @@
     <item quantity="other">%d aplicacions poden llegir les notificacions</item>
     <item quantity="one">%d aplicació pot llegir les notificacions</item>
   </plurals>
+  <plurals name="manage_trust_agents_summary_on">
+    <item quantity="other">%d agents de confiança actius</item>
+    <item quantity="one">1 agent de confiança actiu</item>
+  </plurals>
+  <plurals name="master_clear_with_account_summary">
+    <item quantity="other">Es reiniciaran %1$d comptes</item>
+    <item quantity="one">Es reiniciarà un compte</item>
+  </plurals>
   <plurals name="memory_usage_apps_summary">
     <item quantity="other">%1$d aplicacions han utilitzat la memòria en els darrers %2$s</item>
     <item quantity="one">Una aplicació ha utilitzat la memòria en els darrers %2$s</item>
   </plurals>
+  <plurals name="minutes">
+    <item quantity="other">%s minuts</item>
+    <item quantity="one">1 minut</item>
+  </plurals>
+  <plurals name="network_restrictions_summary">
+    <item quantity="other">%1$d restriccions</item>
+    <item quantity="one">1 restricció</item>
+  </plurals>
   <plurals name="notification_summary">
     <item quantity="other">No es permet l\'enviament des de %d aplicacions</item>
     <item quantity="one">No es permet l\'enviament des d\' %d aplicació</item>
+  </plurals>
+  <plurals name="number_of_device_admins">
+    <item quantity="other">%d aplicacions actives</item>
+    <item quantity="one">%d aplicació activa</item>
   </plurals>
   <plurals name="permissions_summary">
     <item quantity="other">S\'han concedit %d permisos</item>
