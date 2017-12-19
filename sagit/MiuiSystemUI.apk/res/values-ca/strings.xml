@@ -568,6 +568,8 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="show_hw_screen_updates">Mostra les actualitzacions de visualització de la GPU</string>
   <string name="show_hw_screen_updates_summary">Quan es dibuixin amb la GPU, il·lumina les vistes de dins de les finestres</string>
   <string name="show_non_rect_clip">Depura les operacions de retall no rectangulars</string>
+  <string name="show_notification_channel_warnings">Mostra les advertències del canal de notificació</string>
+  <string name="show_notification_channel_warnings_summary">Mostra l\'avís a la pantalla quan una aplicació publica una notificació sense un canal vàlid</string>
   <string name="show_screen_updates">Mostra les actualitzacions de superfície</string>
   <string name="show_screen_updates_summary">Quan s\'actualitzin il·lumina totes les superfícies de les finestres</string>
   <string name="show_touches">Mostra els tocs</string>
