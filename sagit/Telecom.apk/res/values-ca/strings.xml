@@ -24,12 +24,6 @@
   <string name="app_process_limit_title">Límit de procés en segon pla</string>
   <string name="available_via_passpoint">Disponible mitjançant %1$s</string>
   <string name="battery_info_status_charging">S\'està carregant</string>
-  <string name="battery_info_status_charging_ac">S\'està carregant amb CA</string>
-  <string name="battery_info_status_charging_ac_short">S\'està carregant</string>
-  <string name="battery_info_status_charging_usb">S\'està carregant via USB</string>
-  <string name="battery_info_status_charging_usb_short">S\'està carregant</string>
-  <string name="battery_info_status_charging_wireless">S\'està carregant sense cable</string>
-  <string name="battery_info_status_charging_wireless_short">S\'està carregant</string>
   <string name="battery_info_status_discharging">No s\'està carregant</string>
   <string name="battery_info_status_full">Plena</string>
   <string name="battery_info_status_not_charging">No s\'està carregant</string>
@@ -37,7 +31,7 @@
   <string name="block_button">Bloqueja</string>
   <string name="block_number">Afegeix un número</string>
   <string name="blocked_numbers">Números bloquejats</string>
-  <string name="blocked_numbers_block_emergency_number_message">"No es pot bloquejar el número d'emergència."</string>
+  <string name="blocked_numbers_block_emergency_number_message">No es pot bloquejar el número d\'emergència.</string>
   <string name="blocked_numbers_butter_bar_body">Després que truqueu o envieu un missatge a un número d\'emergències, la llista de bloqueig es desactivarà per garantir que els serveis d\'emergència us puguin contactar.</string>
   <string name="blocked_numbers_butter_bar_button">Torna a activar</string>
   <string name="blocked_numbers_butter_bar_title">La llista de bloqueig està desactivada</string>
@@ -114,7 +108,6 @@
   <string name="confirm_enable_oem_unlock_text">ADVERTIMENT: Mentre aquesta configuració estigui activa, les funcions de protecció del dispositiu no funcionaran.</string>
   <string name="confirm_enable_oem_unlock_title">Voleu permetre poder desbloquejar l\'OEM?</string>
   <string name="connected_via_passpoint">Connectat via %1$s</string>
-  <string name="connected_via_wfa">S\'ha connectat mitjançant l\'assistent Wi‑Fi</string>
   <string name="content_description_menu_button">Menú</string>
   <string name="convert_to_fbe_warning">"Converteix la partició de dades en una criptografia basada en fitxers.
 Compte! S\'esborraran totes les dades.
@@ -160,7 +153,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="disable_overlays_summary">Utilitza sempre la GPU per a combinar pantalles</string>
   <string name="disabled_by_admin">S\'ha desactivat per l\'administrador</string>
   <string name="disabled_by_admin_summary_text">Controlat per l\'administrador</string>
-  <string name="duplicate_video_call_not_allowed">"No es poden afegir més trucades"</string>
+  <string name="duplicate_video_call_not_allowed">No es poden afegir més trucades</string>
   <string name="enable_account_preference_title">Comptes de trucada</string>
   <string name="enable_adb">Depuració USB activada</string>
   <string name="enable_adb_summary">Activa el mode de depuració quan el dispositiu estigui connectat per USB</string>
@@ -169,8 +162,6 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="enable_opengl_traces_title">Activa el seguiment d\'OpenGL</string>
   <string name="enable_terminal_summary">Activa l\'aplicació de terminal que ofereix accés a l\'intèrpret d\'ordres local</string>
   <string name="enable_terminal_title">Terminal local</string>
-  <string name="enable_webview_multiprocess">WebView amb multiprocés</string>
-  <string name="enable_webview_multiprocess_desc">Executa els renderitzadors de WebView per separat</string>
   <string name="enabled_by_admin">Opció activada per l\'administrador</string>
   <string name="force_allow_on_external">Força el permís d\'aplicacions a l\'emmagatzematge extern</string>
   <string name="force_allow_on_external_summary">Permet que qualsevol aplicació es pugui escriure en un dispositiu d’emmagatzematge extern, independentment dels valors definits</string>
@@ -185,8 +176,6 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="handle_restricted">RESTRINGIT</string>
   <string name="hdcp_checking_dialog_title">Estableix el comportament de la comprovació d\'HDCP</string>
   <string name="hdcp_checking_title">S\'està comprovant l\'HDCP</string>
-  <string name="headset_plugin_view_text">S\'ha connectat l\'auricular.</string>
-  <string name="headset_plugin_view_title">Auricular</string>
   <string name="help_feedback_label">Ajuda i suggeriments</string>
   <string name="home">Pàgina inicial de la configuració</string>
   <string name="immediately_destroy_activities">No mantinguis les activitats</string>
@@ -197,7 +186,6 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="incall_error_call_failed">"No s'ha pogut fer la trucada."</string>
   <string name="incall_error_power_off">Desactiveu el mode avió per fer una trucada.</string>
   <string name="incall_error_supp_service_unknown">"Aquest servei no és compatible."</string>
-  <string name="incoming_call_failed_low_battery">La trucada entrant ha fallat pel baix nivell de la bateria.</string>
   <string name="keep_screen_on">Mantén-la activa</string>
   <string name="keep_screen_on_summary">La pantalla no entra mai en mode d\'espera si el dispositiu s\'està carregant</string>
   <string name="launch_defaults_none">No s\'ha establert els valors per defecte</string>
@@ -228,11 +216,10 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="notification_missedCallsMsg">%s trucades perdudes</string>
   <string name="notification_missedCallsTitle">Trucades perdudes</string>
   <string name="notification_missedWorkCallTitle">Trucada perduda de feina</string>
-  <string name="notification_pullcall">Trucades secundàries</string>
   <string name="oem_unlock_enable">Desbloqueig d\'OEM</string>
   <string name="oem_unlock_enable_summary">Permet desbloquejar el gestor d\'arrencada</string>
   <string name="outgoing_call_error_no_phone_number_supplied">Per poder trucar, introduïu un número vàlid.</string>
-  <string name="outgoing_call_not_allowed_no_permission">"Aquesta aplicació no pot fer trucades sense els permisos necessaris."</string>
+  <string name="outgoing_call_not_allowed_no_permission">Aquesta aplicació no pot fer trucades sense els permisos necessaris.</string>
   <string name="outgoing_call_not_allowed_user_restriction">El propietari del dispositiu només admet trucades d\'emergència.</string>
   <string name="overlay_display_devices_title">Simula pantalles secundàries</string>
   <string name="picture_color_mode">Mode de color de la imatge</string>
@@ -240,15 +227,11 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="pointer_location">Ubicació del punter</string>
   <string name="pointer_location_summary">Pantalla de superposició que mostra les dades tàctils actuals</string>
   <string name="power_charging_duration">%1$s - %2$s fins carregar-la</string>
-  <string name="power_charging_duration_ac">%1$s - %2$s fins carregar-la per CA</string>
-  <string name="power_charging_duration_usb">%1$s - %2$s fins carregar-la per USB</string>
-  <string name="power_charging_duration_wireless">%1$s - %2$s fins carregar-la per sense fils</string>
   <string name="power_discharging_duration">%1$s - aprox. falten %2$s</string>
   <string name="power_discharging_duration_short">Falten %1$s - %2$s</string>
   <string name="power_remaining_duration_only">Falten uns %1$s</string>
   <string name="power_remaining_duration_only_short">Falten %1$s</string>
   <string name="process_kernel_label">SO Android</string>
-  <string name="pull_to_call_back">Toqueu per tirar</string>
   <string name="remaining_length_format">Falten %1$s</string>
   <string name="respond_via_sms_canned_response_1">"Ara no puc parlar. Què passa?"</string>
   <string name="respond_via_sms_canned_response_2">"Et truco de seguida."</string>
@@ -308,7 +291,6 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="tether_settings_title_wifi">Punt d\'accés portàtil</string>
   <string name="tethering_settings_not_available">La configuració d\'ancoratge no està disponible per a aquest usuari</string>
   <string name="title_convert_fbe">S\'està convertint a xifrat basat en fitxers</string>
-  <string name="toast_make_video_call_failed">"No es pot fer la videotrucada. El número que heu introduït és incorrecte."</string>
   <string name="toast_personal_call_msg">Utilitzeu un marcador personalitzat</string>
   <string name="track_frame_time">Perfil de la renderització de la GPU</string>
   <string name="transition_animation_scale_title">Escalat de l\'animació de transició</string>
