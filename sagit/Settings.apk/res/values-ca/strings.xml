@@ -108,7 +108,7 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
   <string name="action_drag_label_move_up">Mou cap amunt</string>
   <string name="action_drag_label_remove">Suprimeix l\'idioma</string>
   <string name="activating">S\'està activant…</string>
-  <string name="active_device_admin_msg">Administrador del dispositiu</string>
+  <string name="active_device_admin_msg">Aplicació d\'administració del dispositiu</string>
   <string name="active_input_method_subtypes">Mètodes d\'entrada actius</string>
   <string name="activity_not_found">L\'aplicació no està instal·lada al telèfon.</string>
   <string name="activity_picker_label">Trieu una activitat</string>
