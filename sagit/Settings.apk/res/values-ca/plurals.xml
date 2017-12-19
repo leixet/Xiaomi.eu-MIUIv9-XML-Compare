@@ -69,6 +69,10 @@
     <item quantity="other">%d aplicacions que obren enllaços compatibles</item>
     <item quantity="one">Una aplicació que obre enllaços compatibles</item>
   </plurals>
+  <plurals name="enterprise_privacy_number_ca_certs">
+    <item quantity="other">Mínim %d certificats d\'autoritat certificadora</item>
+    <item quantity="one">Mínim %d certificat d\'autoritat certificadora</item>
+  </plurals>
   <plurals name="enterprise_privacy_number_failed_password_wipe">
     <item quantity="other">%d intents</item>
     <item quantity="one">%d intent</item>
