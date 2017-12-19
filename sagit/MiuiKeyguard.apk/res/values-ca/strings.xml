@@ -8,6 +8,8 @@
   <string name="custom_lock_wallpaper_enter">Entra</string>
   <string name="default_lockscreen_unlock_hint_text">Feu lliscar cap amunt per desbloquejar</string>
   <string name="delete">Elimina</string>
+  <string name="do_disclosure_generic">Aquest dispositiu el gestiona l\'organització</string>
+  <string name="do_disclosure_with_name">Aquest dispositiu està gestionat per %s</string>
   <string name="emergency_call_string">Trucada d\'emergència</string>
   <string name="face_data_input_camera_fail">"No s'ha pogut carregar la càmera"</string>
   <string name="face_data_input_camera_ok">S\'estan carregant la càmera…</string>
