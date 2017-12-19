@@ -5,6 +5,14 @@
     <item quantity="other">S\'han copiat %1$d fitxers al porta-retalls.</item>
     <item quantity="one">S\'ha copiat %1$d fitxer al porta-retalls.</item>
   </plurals>
+  <plurals name="compress_begin">
+    <item quantity="other">S\'està comprimint %1$d fitxers.</item>
+    <item quantity="one">S\'està comprimint %1$d fitxer.</item>
+  </plurals>
+  <plurals name="compress_error_notification_title">
+    <item quantity="other">No s\'ha pogut comprimir %1$d fitxers</item>
+    <item quantity="one">No s\'ha pogut comprimir %1$d fitxer</item>
+  </plurals>
   <plurals name="copy_begin">
     <item quantity="other">S\'estan copiant %1$d fitxers.</item>
     <item quantity="one">S\'està copiant %1$d fitxer.</item>
