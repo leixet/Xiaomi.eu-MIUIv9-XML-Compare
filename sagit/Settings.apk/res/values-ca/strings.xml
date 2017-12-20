@@ -3377,6 +3377,9 @@ Per fer-ho:
   <string name="security_settings_fingerprint_enroll_introduction_continue">Continua</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Afegeix una empremta digital</string>
   <string name="security_settings_fingerprint_enroll_introduction_message">Només cal que toqueu el sensor d\'empremtes per a desbloquejar el telèfon, per autoritzar les compres o per iniciar la sessió en una aplicació. Aneu amb compte a l\'hora d\'afegir empremtes, tingueu present que totes les que afegiu podran fer tot això.</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Només cal que toqueu el sensor d\'empremtes per autoritzar les compres o iniciar sessió a les aplicacions. Aneu amb compte amb les empremtes que afegiu. Fins i tot una empremta afegida pot fer qualsevol d\'aquestes coses.
+
+Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. Per obtenir més informació, poseu-vos en contacte amb l\'administrador de l\'organització."</string>
   <string name="security_settings_fingerprint_enroll_introduction_title">Desbloqueig amb empremta</string>
   <string name="security_settings_fingerprint_enroll_lift_touch_again">Treu el dit i torna a tocar el sensor</string>
   <string name="security_settings_fingerprint_enroll_repeat_message">Mou el dit lleugerament perquè es pugui captar tota l’empremta</string>
@@ -4209,6 +4212,7 @@ Qualsevol usuari pot acceptar una actualització de permisos d\'una aplicació e
   <string name="user_confirm_remove_self_message">Perdreu l\'espai i les dades del telèfon. No podreu recuperar-lo.</string>
   <string name="user_confirm_remove_self_title">Voleu suprimir el vostre compte?</string>
   <string name="user_confirm_remove_title">Voleu suprimir l\'usuari?</string>
+  <string name="user_credential_removed">Credencials eliminades: %s</string>
   <string name="user_credential_title">Detalls de les credencials</string>
   <string name="user_credentials">Credencials d\'usuari</string>
   <string name="user_credentials_summary">Mostra i modifica les credencials emmagatzemades</string>
