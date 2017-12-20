@@ -1414,6 +1414,7 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="enterprise_privacy_always_on_vpn_personal">La VPN sempre encesa s\'ha activat al vostre perfil personal</string>
   <string name="enterprise_privacy_always_on_vpn_work">La VPN sempre encesa s\'ha activat al vostre perfil laboral</string>
   <string name="enterprise_privacy_failed_password_wipe_work">S\'ha produït un error en els intents de contrasenya abans de suprimir les dades del perfil laboral</string>
+  <string name="enterprise_privacy_microphone_access">Permisos de micròfon</string>
   <string name="erase_application">Suprimeix les aplicacions</string>
   <string name="erase_application_description">Suprimeix les aplicacions baixades</string>
   <string name="erase_data">Esborra</string>
