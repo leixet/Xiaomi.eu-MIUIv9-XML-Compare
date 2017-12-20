@@ -96,6 +96,11 @@
   <string name="PERSOSUBSTATE_SIM_SPN_ENTRY">PIN de desbloqueig SPN</string>
   <string name="PERSOSUBSTATE_SIM_SPN_ERROR">La sol·licitud de desbloqueig SPN no ha tingut èxit.</string>
   <string name="PERSOSUBSTATE_SIM_SPN_IN_PROGRESS">S\'està sol·licitant el desbloqueig SPN…</string>
+  <string name="PERSOSUBSTATE_SIM_SPN_SUCCESS">El desbloqueig SPN ha tingut èxit.</string>
+  <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_ENTRY">PIN de desbloqueig SP EHPLMN</string>
+  <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_ERROR">La sol·licitud de desbloqueig SP EHPLMN no ha tingut èxit.</string>
+  <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_IN_PROGRESS">S\'està sol·licitant el desbloqueig SP EHPLMN…</string>
+  <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_SUCCESS">El desbloqueig SP EHPLMN ha tingut èxit.</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Aquesta característica és experimental i podria afectar el rendiment.</string>
   <string name="accessibility_display_daltonizer_preference_title">Correcció de color</string>
   <string name="accessibility_no_wifi">Wi-Fi desconnectada.</string>
@@ -105,6 +110,7 @@
   <string name="accessibility_wifi_signal_full">Senyal de WiFi màxima.</string>
   <string name="accessibility_wifi_three_bars">Tres barres de senyal Wi-Fi.</string>
   <string name="accessibility_wifi_two_bars">Dues barres de senyal Wi-Fi.</string>
+  <string name="active_input_method_subtypes">Mètodes d\'entrada actius</string>
   <string name="adb_keys_warning_message">Voleu revocar l\'accés a la depuració USB de tots els ordinadors que prèviament heu autoritzat?</string>
   <string name="adb_warning_message">La depuració USB està pensada només per desenvolupament. Utilitzeu-la per copiar dades entre l\'ordinador i el vostre dispositiu, per instal·lar aplicacions al vostre dispositiu sense avisos i per llegir dades de registre.</string>
   <string name="adb_warning_title">Voleu permetre la depuració USB?</string>
@@ -201,6 +207,7 @@
   <string name="bad_puk">El PUK que heu introduït no és correcte.</string>
   <string name="bad_puk2">El PUK2 que heu introduït no és correcte.</string>
   <string name="battery_info_status_charging">S\'està carregant</string>
+  <string name="battery_info_status_charging_lower">s\'està carregant</string>
   <string name="battery_info_status_discharging">No s\'està carregant</string>
   <string name="battery_info_status_full">Completa</string>
   <string name="battery_info_status_not_charging">No s\'està carregant</string>
@@ -220,6 +227,8 @@
   <string name="bluetooth_disconnecting">S\'està desconnectant&#8230;</string>
   <string name="bluetooth_dun_profile_summary_connected">S\'ha connectat al servidor Dun</string>
   <string name="bluetooth_dun_profile_summary_use_for">Utiliza per accedir a la xarxa telefònica</string>
+  <string name="bluetooth_enable_inband_ringing">Activa el so de la banda</string>
+  <string name="bluetooth_enable_inband_ringing_summary">Permet que els tons del telèfon es reprodueixin als auriculars Bluetooth</string>
   <string name="bluetooth_headset_profile_summary_connected">S\'ha connectat a l\'àudio del telèfon</string>
   <string name="bluetooth_headset_profile_summary_use_for">Utilitza per l\'àudio del telèfon</string>
   <string name="bluetooth_hid_profile_summary_connected">S\'ha connectat a un dispositiu d\'entrada</string>
@@ -242,6 +251,8 @@
   <string name="bluetooth_pan_profile_summary_use_for">Utilitza per accés a Internet</string>
   <string name="bluetooth_pan_user_profile_summary_connected">S\'ha connectat a un dispositiu per a accedir a internet</string>
   <string name="bluetooth_profile_a2dp">Àudio multimèdia</string>
+  <string name="bluetooth_profile_a2dp_high_quality">Utilitza àudio d\'alta qualitat: %1$s</string>
+  <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Utilitza àudio d\'alta qualitat</string>
   <string name="bluetooth_profile_dun">Accés a la xarxa telefònica</string>
   <string name="bluetooth_profile_headset">Àudio del telèfon</string>
   <string name="bluetooth_profile_hid">Dispositiu d\'entrada</string>
@@ -254,6 +265,23 @@
   <string name="bluetooth_profile_sap">Accés SIM</string>
   <string name="bluetooth_sap_profile_summary_connected">S\'ha connectat a SAP</string>
   <string name="bluetooth_sap_profile_summary_use_for">Utilitza per l\'accés a la SIM</string>
+  <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bits d\'àudio Bluetooth per mostra</string>
+  <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Seleccioneu un còdec d\'àudio Bluetooth:
+Bits per mostra"</string>
+  <string name="bluetooth_select_a2dp_codec_channel_mode">Mode de canal d\'àudio Bluetooth</string>
+  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Seleccioneu un còdec d\'àudio Bluetooth:
+Mode de canal"</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Còdec LDAC d\'àudio Bluetooth: Qualitat de reproducció</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Seleccioneu un còdec LDAC d\'àudio Bluetooth:
+Qualitat de reproducció"</string>
+  <string name="bluetooth_select_a2dp_codec_sample_rate">Taxa de mostreig d\'àudio Bluetooth</string>
+  <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Seleccioneu un còdec d\'àudio Bluetooth:
+Taxa de mostreig"</string>
+  <string name="bluetooth_select_a2dp_codec_streaming_label">Transmissió: %1$s</string>
+  <string name="bluetooth_select_a2dp_codec_type">Còdec d\'àudio Bluetooth</string>
+  <string name="bluetooth_select_a2dp_codec_type_dialog_title">Seleccioneu un còdec d\'àudio Bluetooth</string>
+  <string name="bluetooth_select_avrcp_version_dialog_title">Seleccioneu la versió Bluetooth AVRCP</string>
+  <string name="bluetooth_select_avrcp_version_string">Versió Bluetooth AVRCP</string>
   <string name="bt_hci_snoop_log">Activa el registre de cerca HCI Bluetooth</string>
   <string name="bt_hci_snoop_log_summary">Captura tots els paquets HCI Bluetooth en un fitxer</string>
   <string name="bugreport_in_power">Drecera de l\'informe d\'errors</string>
@@ -284,6 +312,7 @@
   <string name="callFailed_dsac_restricted_normal">El control d\'accés restringeix les trucades normals.</string>
   <string name="callFailed_facility_rejected">Servei rebutjat</string>
   <string name="callFailed_fdn_only">Les trucades sortints estan limitades als NMP.</string>
+  <string name="callFailed_imei_not_accepted">No es pot connectar, inseriu una targeta SIM vàlida.</string>
   <string name="callFailed_incoming_calls_barred_within_CUG">S\'han prohibit les trucades entrants dins el CUG</string>
   <string name="callFailed_incoming_cb_enabled">La multi-conferència ha bloquejat totes les trucades entrants.</string>
   <string name="callFailed_incompatible_destination">Destinació incompatible</string>
@@ -336,6 +365,7 @@
   <string name="callFailed_userBusy">Línia ocupada</string>
   <string name="callFailed_user_not_member_of_CUG">L\'usuari no és membre del CUG</string>
   <string name="callFailed_video_call_tty_enabled">No es poden fer videotrucades quan el dispositiu TTY està activat.</string>
+  <string name="callFailed_wifi_lost">S\'ha perdut la connexió Wi-Fi. S\'ha finalitzat la trucada.</string>
   <string name="callUnanswered_forwarded">Trucada no contestada i desviada</string>
   <string name="call_advanced_setting_title">Configuració avançada</string>
   <string name="call_background_default">Per defecte</string>
@@ -486,6 +516,8 @@
   <string name="connect_disconnect_vibrate_title">Vibra quan despengin</string>
   <string name="connect_disconnect_vibrate_weak">Llum</string>
   <string name="connect_later">"Ara no us podeu connectar a aquesta xarxa. Intenteu-ho més tard."</string>
+  <string name="connected_via_network_scorer">Connectat automàticament a través de %1$s</string>
+  <string name="connected_via_network_scorer_default">Connectat automàticament a través del proveïdor de qualificació de xarxa</string>
   <string name="connected_via_passpoint">Connectat via %1$s</string>
   <string name="connection_service_default_label">Servei de connexió incorporat</string>
   <string name="contactAddFailed">"No s'ha pogut afegir el contacte a la SIM."</string>
@@ -505,6 +537,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="convert_to_file_encryption_enabled">Converteix&#8230;</string>
   <string name="crescendo_ringer_summary">El to de trucada augmentarà gradualment fins al nivell que hàgiu establert</string>
   <string name="crescendo_ringer_title">Incrementa el volum del to de trucada</string>
+  <string name="ct_ut_not_support_close_4glte">L\'UT no està disponible, desactiveu el mode 4G LTE millorat a la Configuració</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomalia (vermell-verd)</string>
   <string name="daltonizer_mode_disabled">Desactivat</string>
   <string name="daltonizer_mode_monochromacy">Monocromia</string>
@@ -524,6 +557,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="debug_drawing_category">Dibuix</string>
   <string name="debug_hw_drawing_category">Renderització accelerada per maquinari</string>
   <string name="debug_hw_overdraw">Depura els conflictes de la GPU</string>
+  <string name="debug_hw_renderer">Estableix el renderitzador de la GPU</string>
   <string name="debug_input_category">Entrada</string>
   <string name="debug_layout">Mostra les vores de la disposició</string>
   <string name="debug_layout_summary">Mostra els límits del clip, marges, etc.</string>
@@ -568,6 +602,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="dialerKeyboardHintText">Utilitzeu el teclat per marcar</string>
   <string name="dialog_alert_title">Atenció</string>
   <string name="dialog_network_priority_title">Xarxa prioritària</string>
+  <string name="direct_boot_unaware_dialog_message">"Nota: després de reiniciar, aquesta aplicació no pot iniciar-se fins que desbloquegeu el telèfon"</string>
   <string name="disable">Apaga</string>
   <string name="disable_all_cf">Desactiva totes les funcions de desviament de trucada</string>
   <string name="disable_cfb_forbidden">"El vostre operador no permet desactivar el desviament de trucades quan el vostre telèfon està ocupat."</string>
@@ -579,6 +614,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="disable_overlays_summary">Utilitza sempre la GPU per a combinar pantalles</string>
   <string name="disable_pin_ok">El PIN s\'ha esborrat</string>
   <string name="disable_sim_pin">Esborra el PIN de la SIM</string>
+  <string name="disabled">Desactivat</string>
   <string name="disabled_by_admin">S\'ha desactivat per l\'administrador</string>
   <string name="disabled_by_admin_summary_text">Controlat per l\'administrador</string>
   <string name="display_name_summary">&lt;Igual que el nombre d\'usuari&gt;</string>
@@ -659,7 +695,10 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="eo_enable">Oportunitats de feina activades</string>
   <string name="error_updating_title">Error de configuració de trucada</string>
   <string name="exception_error">Error de xarxa o de targeta SIM.</string>
+  <string name="external_source_trusted">Permès</string>
+  <string name="external_source_untrusted">No permès</string>
   <string name="failedToImportSingleContactMsg">Error en importar el contacte</string>
+  <string name="failed_to_open_app_settings_toast">No s\'ha pogut obrir la configuració de %1$s</string>
   <string name="fake_phone_activity_infoText_text">Número de telèfon entrant</string>
   <string name="fake_phone_activity_placeCall_text">Trucada entrant falsa</string>
   <string name="fdn">Números de marcatge predefinit</string>
@@ -713,6 +752,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="hdcp_checking_title">S\'està comprovant l\'HDCP</string>
   <string name="help_feedback_label">Ajuda i suggeriments</string>
   <string name="home">Pàgina inicial de la configuració</string>
+  <string name="ime_security_warning">Aquest mètode d\'entrada pot ser capaç de recopilar tot el text que escriviu, incloses les dades personals com contrasenyes i números de targetes de crèdit. Prové de l\'aplicació %1$s. Voleu utilitzar aquest mètode d\'entrada?</string>
   <string name="immediately_destroy_activities">No mantinguis les activitats</string>
   <string name="immediately_destroy_activities_summary">Destrueix cada activitat a mesura que l\'usuari en surti</string>
   <string name="importAllSimEntries">Importa-ho tot</string>
@@ -744,6 +784,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="incall_error_supp_service_unknown">Servei no admès</string>
   <string name="incall_error_wfc_only_no_wireless_network">Connecteu a una xarxa sense fil per fer una trucada.</string>
   <string name="incall_status_dialed_mmi">S\'està començant seqüència MMI&#8230;</string>
+  <string name="install_other_apps">Instal·la aplicacions desconegudes</string>
   <string name="international_disable">Notícies internacionals desactivades</string>
   <string name="international_enable">Notícies internacionals activades</string>
   <string name="international_roaming_setting">Itinerància de dades</string>
@@ -819,6 +860,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="media_category">Elements multimèdia</string>
   <string name="menu_add">Afegeix un contacte</string>
   <string name="menu_delete">Esborra contacte</string>
+  <string name="menu_dial">Truca al contacte</string>
   <string name="menu_edit">Edita contacte</string>
   <string name="messageCFB">Número quan estigui ocupat</string>
   <string name="messageCFNRc">Número quan estigui fora de cobertura</string>
@@ -844,6 +886,8 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="missed_call_notify_twice">2 cops</string>
   <string name="mmiCancelled">Codi MMI cancel·lat</string>
   <string name="mmiStarted">Codi MMI iniciat</string>
+  <string name="mobile_data">Dades mòbils</string>
+  <string name="mobile_data_alert">El trànsit de dades es pot generar a la targeta secundària</string>
   <string name="mobile_data_always_on">Dades mòbils sempre actives</string>
   <string name="mobile_data_always_on_summary">Mantén les dades mòbils sempre actives, fins i tot quan la Wi‑Fi està activada (per canviar de xarxa ràpidament).</string>
   <string name="mobile_network_settings_not_available">La configuració de la xarxa mòbil no està disponible per a aquest usuari</string>
@@ -1049,6 +1093,7 @@ Torneu a provar-ho o truqueu al servei d\'atenció al client per a més opcions.
   <string name="phone_accounts_settings_header">Configuració</string>
   <string name="phone_entered_ecm_text">S\'ha activat el mode de devolució de trucada d\'emergència</string>
   <string name="phone_in_ecm_call_notification_text">Connexió de dades desactivada</string>
+  <string name="phone_in_ecm_notification_complete_time">Sense connexió de dades fins a %s</string>
   <string name="phone_in_ecm_notification_title">Mode de devolució de trucada d\'emergència</string>
   <string name="picture_color_mode">Mode de color de la imatge</string>
   <string name="picture_color_mode_desc">Utilitza sRGB</string>
@@ -1075,6 +1120,7 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="power_charging_duration">%1$s - %2$s fins carregar-la</string>
   <string name="power_discharging_duration">%1$s - aprox. falten %2$s</string>
   <string name="power_discharging_duration_short">Falten %1$s - %2$s</string>
+  <string name="power_remaining_charging_duration_only">Resten %1$s fins càrrega completa</string>
   <string name="power_remaining_duration_only">Falten uns %1$s</string>
   <string name="power_remaining_duration_only_short">Falten %1$s</string>
   <string name="preference_auto_ip_summary_disable">Desactivat</string>
@@ -1183,6 +1229,9 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="response_error">Resposta de xarxa inesperada.</string>
   <string name="restaurants_disable">Restaurants desactivats</string>
   <string name="restaurants_enable">Restaurants activats</string>
+  <string name="retail_demo_reset_message">Introduïu la contrasenya per realitzar la restauració de fàbrica en mode demostració</string>
+  <string name="retail_demo_reset_next">Següent</string>
+  <string name="retail_demo_reset_title">Es requereix la contrasenya</string>
   <string name="retail_directory_disable">Directori de comerços desactivat</string>
   <string name="retail_directory_enable">Directori de comerços activat</string>
   <string name="retry_btn">Torna a intentar-ho</string>
@@ -1241,6 +1290,8 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="show_hw_screen_updates">Mostra les actualitzacions de visualització de la GPU</string>
   <string name="show_hw_screen_updates_summary">Il·lumina les vistes de dins de les finestres quan es dibuixin amb la GPU</string>
   <string name="show_non_rect_clip">Depura les operacions de retall no rectangulars</string>
+  <string name="show_notification_channel_warnings">Mostra les advertències del canal de notificació</string>
+  <string name="show_notification_channel_warnings_summary">Mostra l\'avís a la pantalla quan una aplicació publica una notificació sense un canal vàlid</string>
   <string name="show_screen_updates">Mostra les actualitzacions de superfície</string>
   <string name="show_screen_updates_summary">Il·lumina totes les superfícies de les finestres quan s\'actualitzin</string>
   <string name="show_touches">Mostra els tocs</string>
@@ -1326,12 +1377,15 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="sum_select_automatically">Tria automàticament la xarxa preferida</string>
   <string name="sum_show_caller_id">Es mostra el número a les trucades sortints</string>
   <string name="sum_voicemail_choose_provider">Trieu un servei de bústia de veu</string>
+  <string name="switch_dds_to_sub_alert">Canvieu les dades mòbils a la targeta SIM</string>
   <string name="t9_indexing_method_pinyin">Alfabet llatí</string>
   <string name="t9_indexing_method_title">Entrada de cerca T9</string>
   <string name="t9_indexing_method_zhuyin">Transcripció fonètica</string>
   <string name="t9_indexing_rebuilding_message">S\'està reconstruint índexs de T9&#8230;</string>
   <string name="technology_news_disable">Notícies de tecnologia desactivades</string>
   <string name="technology_news_enable">Notícies de tecnologia activades</string>
+  <string name="telephony_monitor_switch">Monitor de telefonia</string>
+  <string name="telephony_monitor_switch_summary">El monitor de telefonia recopilarà registres quan detecti un problema amb la funcionalitat de telefonia/mòdem i notificarà a l\'usuari per informar del problema</string>
   <string name="telephony_setting">Telèfon</string>
   <string name="telocation_auto_country_code">Afegeix codi de pais</string>
   <string name="telocation_auto_country_code_summary">Afegeix automàticament el codi de país abans de marcar</string>
@@ -1439,10 +1493,12 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="uplmn_numeric_is_empty">Introduïu un ID de xarxa</string>
   <string name="usb_audio_disable_routing">Desactiva l\'encaminament d\'àudio USB</string>
   <string name="usb_audio_disable_routing_summary">Desactiva l\'encaminament automàtic als perifèrics d\'àudio USB</string>
+  <string name="use_system_language_to_select_input_method_subtypes">Utilitza l\'idioma del sistema</string>
   <string name="user_guest">Convidat</string>
   <string name="username_title">Nom d\'usuari</string>
   <string name="ussdRunning">El codi USSD està funcionant&#8230;</string>
   <string name="ussd_dialog_sep">----------</string>
+  <string name="ut_not_support">L\'UT no està disponible</string>
   <string name="verify_apps_over_usb_summary">Comprova les aplicacions instal·lades mitjançant ADB/ADT per detectar possibles comportaments perillosos.</string>
   <string name="verify_apps_over_usb_title">Verificació d\'aplicacions per USB</string>
   <string name="vibrate_after_connected_summary">Vibra en respondre</string>
@@ -1468,6 +1524,7 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="voicemail_abbreviated">BV:</string>
   <string name="voicemail_change_pin_dialog_title">Canvia el PIN</string>
   <string name="voicemail_default">El vostre operador</string>
+  <string name="voicemail_notifications_preference_title">Notificacions</string>
   <string name="voicemail_number_not_set">&lt;No definit&gt;</string>
   <string name="voicemail_provider">Servei</string>
   <string name="voicemail_provider_summary">Trieu un servei de bústia de veu</string>
@@ -1492,13 +1549,30 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="wait_for_debugger_summary">Abans d\'executar-se, l\'aplicació de depuració espera que es connecti el depurador</string>
   <string name="wait_prompt_str">"Voleu enviar els tons següents?
 "</string>
+  <string name="wapi_all_sel_mode">Seleccioneu un mode</string>
+  <string name="wapi_auto_sel_cert_fail">No es pot seleccionar el certificat automàticament. Seleccioneu un certificat de la llista i, a continuació, intenteu connectar-vos.</string>
+  <string name="wapi_cert_is_not_exist">No hi ha cap certificat disponible, primer instal·leu el certificat</string>
+  <string name="wapi_cert_is_not_selected">Seleccioneu primer el certificat</string>
+  <string name="wapi_cert_manage_error">No s\'ha pogut configurar el certificat WAPI.</string>
+  <string name="wapi_cert_manage_summary">Afegeix o suprimeix el certificat WAPI</string>
+  <string name="wapi_cert_manage_title">Gestió de certificats WAPI</string>
+  <string name="wapi_cert_roaming">S\'està connectant…</string>
+  <string name="wapi_no_vaild_cert">No hi ha cap certificat disponible, voleu instal·lar-ne un?</string>
+  <string name="wapi_password_hex_format_add">El recompte de caràcters hexadecimals no pot ser un número senar</string>
+  <string name="wapi_password_is_empty">El camp contrasenya no es pot deixar en blanc</string>
+  <string name="wapi_password_is_not_hex_format">Caràcters hexadecimals no vàlids</string>
+  <string name="wapi_password_length_is_max">La contrasenya no pot superar els 64 caràcters</string>
+  <string name="wapi_password_length_is_min">La contrasenya no pot tenir menys de 8 caràcters</string>
+  <string name="wapi_password_length_is_min_to_max">La contrasenya ha de ser de 8 a 64 caràcters</string>
   <string name="wifi_aggressive_handover">Transferència forçada des de Wi-Fi a mòbil</string>
   <string name="wifi_aggressive_handover_summary">Si s\'activa, quan el senyal de Wi-Fi és baix es forçarà la transferència de dades des de Wi-Fi a mòbil</string>
   <string name="wifi_allow_scan_with_traffic">Permet sempre cerca de Wi-Fi en itinerància</string>
   <string name="wifi_allow_scan_with_traffic_summary">Activeu/Desactiveu les cerques de xarxes Wi-Fi en itinerància basades en la quantitat de dades presents a la interfície</string>
   <string name="wifi_auth_password_wrong">La contrasenya podria ser incorrecta</string>
+  <string name="wifi_auto_sel_wapi_cert">Selecciona automàticament</string>
   <string name="wifi_calling">Trucada Wi-Fi</string>
   <string name="wifi_connected_no_internet">S\'ha connectat, no hi ha Internet</string>
+  <string name="wifi_disabled_by_recommendation_provider">No esteu connectat a causa de la xarxa de baixa qualitat</string>
   <string name="wifi_disabled_generic">Desactivada</string>
   <string name="wifi_disabled_network_failure">Error de configuració d\'IP</string>
   <string name="wifi_disabled_password_failure">Error d\'autenticació</string>
@@ -1506,14 +1580,26 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="wifi_display_certification">Certificació de pantalla sense fil</string>
   <string name="wifi_display_certification_summary">Mostra les opcions de certificació de pantalla sense fil</string>
   <string name="wifi_fail_to_scan">"No es poden cercar xarxes"</string>
+  <string name="wifi_hand_sel_wapi_cert">Certificat WAPI</string>
   <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_no_internet">No s\'ha detectat accés a Internet, no s\'hi tornarà a connectar automàticament.</string>
   <string name="wifi_no_internet_no_reconnect">"No s'ha detectat accés a Internet, no es tornarà a connectar automàticament."</string>
   <string name="wifi_not_in_range">Fora de l\'abast</string>
   <string name="wifi_remembered">S\'ha desat</string>
   <string name="wifi_security_none">Cap</string>
+  <string name="wifi_ssid_is_empty">El camp SSID no es pot deixar en blanc</string>
+  <string name="wifi_ssid_length_is_max">El SSID no pot superar els 32 caràcters</string>
   <string name="wifi_verbose_logging">Activa el registre Wi‑Fi detallat</string>
   <string name="wifi_verbose_logging_summary">Augmenta nivell de registre Wi‑Fi i mostra\'l per SSID RSSI al Selector de Wi‑Fi</string>
+  <string name="wifi_wapi_as_certificate">Certificat AS</string>
+  <string name="wifi_wapi_cert_mode_hand_text">Selecciona el certificat manualment</string>
+  <string name="wifi_wapi_certification_dont_exist">Els certificats WAPI no existeixen. Instal·leu-los.</string>
+  <string name="wifi_wapi_fail_to_auth">"L\'autenticació WAPI ha fallat
+Comproveu la validesa dels certificats"</string>
+  <string name="wifi_wapi_fail_to_init">"No es poden obrir certificats WAPI
+L\'emmagatzematge de credencials no es pot activar"</string>
+  <string name="wifi_wapi_psk_type">Tipus de contrasenya</string>
+  <string name="wifi_wapi_user_certificate">Certificat d\'usuari</string>
   <string name="wild_prompt_str">Substitueix el caràcter comodí amb</string>
   <string name="window_animation_scale_title">Escalat de l\'animació de finestres</string>
   <string name="wrong_password">La contrasenya introduïda és incorrecta</string>
