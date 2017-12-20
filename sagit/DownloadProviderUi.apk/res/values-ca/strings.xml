@@ -126,7 +126,7 @@
   <string name="durationDayHours">%1$d dia %2$d hrs</string>
   <string name="durationDays">%1$d dies</string>
   <string name="durationHourMinute">%1$d h %2$d min</string>
-  <string name="durationHourMinutes">%1$d hs %2$d mins</string>
+  <string name="durationHourMinutes">%1$d h %2$d min</string>
   <string name="durationHours">%1$d hs</string>
   <string name="durationMinuteSecond">%1$d mins %2$d segs</string>
   <string name="durationMinuteSeconds">%1$d mins %2$d segs</string>
