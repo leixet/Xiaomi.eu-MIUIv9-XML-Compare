@@ -12,7 +12,7 @@
   <string name="account_bind_secure_phone_title">Afegeix número de telèfon</string>
   <string name="account_bind_settings">Comptes</string>
   <string name="account_binded_phone">Telèfon %d</string>
-  <string name="account_crop_user_avatar">Escapça foto</string>
+  <string name="account_crop_user_avatar">Escapça la foto</string>
   <string name="account_empty_user_name">Introduïu el nom d\'usuari del vostre compte Mi</string>
   <string name="account_error_all_space_user_name">"El nom no pot contenir només espais"</string>
   <string name="account_error_invalid_user_name">"El nom no pot contenir &lt;, &gt;, /"</string>
