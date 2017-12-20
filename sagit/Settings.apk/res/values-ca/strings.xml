@@ -1411,6 +1411,9 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="enter_password">Introduïu la contrasenya per a desxifrar el dispositiu un cop reiniciat</string>
   <string name="enter_pattern">Dibuixeu el patró per a desxifrar el dispositiu un cop reiniciat</string>
   <string name="enter_pin">Introduïu el Pin per a desxifrar el dispositiu un cop reiniciat</string>
+  <string name="enterprise_privacy_always_on_vpn_personal">La VPN sempre encesa s\'ha activat al vostre perfil personal</string>
+  <string name="enterprise_privacy_always_on_vpn_work">La VPN sempre encesa s\'ha activat al vostre perfil laboral</string>
+  <string name="enterprise_privacy_failed_password_wipe_work">S\'ha produït un error en els intents de contrasenya abans de suprimir les dades del perfil laboral</string>
   <string name="erase_application">Suprimeix les aplicacions</string>
   <string name="erase_application_description">Suprimeix les aplicacions baixades</string>
   <string name="erase_data">Esborra</string>
@@ -3601,6 +3604,7 @@ Per fer-ho:
   <string name="sound_settings_summary">Volum del timbre al %1$s</string>
   <string name="sound_settings_summary_silent">S\'ha silenciat el timbre</string>
   <string name="sound_vibrate_settings">So i vibració</string>
+  <string name="sound_work_settings">Sons del perfil laboral</string>
   <string name="special_access">Accés especial</string>
   <string name="spell_checker_not_selected">No s\'ha seleccionat</string>
   <string name="spellchecker_language">Idioma</string>
@@ -4050,6 +4054,9 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
 
 Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloquejar el telèfon, autoritzar compres o iniciar la sessió a les aplicacions."</string>
   <string name="unlock_disable_frp_warning_content_pin_profile">Les funcions de protecció del dispositiu no funcionaran sense el PIN.</string>
+  <string name="unlock_disable_frp_warning_content_profile">"Les característiques de protecció del perfil no funcionaran sense la vostra contrasenya.
+
+ No podreu desbloquejar el perfil, autoritzar compres ni iniciar sessió a les aplicacions."</string>
   <string name="unlock_disable_frp_warning_content_unknown">Les funcions de protecció del dispositiu no funcionaran sense la pantalla de bloqueig.</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint">«Les funcions de protecció del dispositiu no funcionaran sense la pantalla de bloqueig.
 
@@ -4806,11 +4813,14 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="work_mode_summary">Permet que el perfil professional funcioni, incloses les aplicacions, la sincronització en segon pla i les funcions relacionades</string>
   <string name="work_profile_confirm_remove_message">Si continueu, se suprimiran totes les aplicacions i les dades d\'aquest perfil.</string>
   <string name="work_profile_confirm_remove_title">Voleu suprimir el perfil professional?</string>
+  <string name="work_profile_notification_access_blocked_summary">S\'ha bloquejat l\'accés a les notificacions de perfil laboral</string>
   <string name="work_profile_usage_access_warning">"Encara que es desactivi l'accés a l'ús d'aquesta aplicació, l'administrador podrà continuar fent el seguiment de les aplicacions del perfil professional."</string>
   <string name="work_sim_title">SIM professional</string>
+  <string name="work_sound_same_as_personal">Igual que el perfil personal</string>
   <string name="work_space_delete">Elimina l\'espai de treball</string>
   <string name="work_space_delete_confirm">Confirma la supressió</string>
   <string name="work_space_delete_description">"No podreu entrar a 'espai de treball després d'esborrar-lo. Totes les dades es mouran o seran esborrades."</string>
+  <string name="work_sync_dialog_message">Els vostres sons de perfil personal s\'utilitzaran per al vostre perfil laboral</string>
   <string name="wps_connect_summary">Comproveu que el router s\'ha activat i és compatible amb WPS</string>
   <string name="wps_connect_title">Connexió WPS</string>
   <string name="write_settings">Modifica la configuració del sistema</string>
