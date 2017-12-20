@@ -46,12 +46,12 @@
     <item quantity="one">Falta %1$d h i %2$d min</item>
   </plurals>
   <plurals name="keyguard_charging_info_drained_hour_time_format">
-    <item quantity="other">%d h</item>
-    <item quantity="one">%d h</item>
+    <item quantity="other">%d hores</item>
+    <item quantity="one">%d hora</item>
   </plurals>
   <plurals name="keyguard_charging_info_drained_min_time_format">
-    <item quantity="other">%d mins</item>
-    <item quantity="one">%d min</item>
+    <item quantity="other">%d minuts</item>
+    <item quantity="one">%d minut</item>
   </plurals>
   <plurals name="keyguard_charging_info_drained_time_format">
     <item quantity="other">%1$d h %2$d mins</item>
