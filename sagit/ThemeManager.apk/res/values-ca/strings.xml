@@ -446,7 +446,7 @@
   <string name="uid_change_dialog_ok">Entesos</string>
   <string name="uid_change_dialog_title">Reinicia el dispositiu</string>
   <string name="wallpaper_apply">Aplica</string>
-  <string name="wallpaper_crop">Retalla</string>
+  <string name="wallpaper_crop">Escapça</string>
   <string name="wallpaper_decoded_error">"No es pot carregar el fons de pantalla"</string>
   <string name="wallpaper_scroll_type_tips">Fons de pantalla de desplaçament</string>
   <string name="wallpaper_set_as_both">Estableix els dos</string>
