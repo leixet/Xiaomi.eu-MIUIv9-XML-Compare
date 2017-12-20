@@ -19,7 +19,6 @@
   <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
   <string name="abc_toolbar_collapse_description">Replega</string>
   <string name="allow">Permet</string>
-  <string name="app_label">Documents</string>
   <string name="archive_loading_failed">No es pot obrir l\'arxiu per al navegador. El fitxer està malmès o no és compatible.</string>
   <string name="authentication_required">Per veure aquest directori, inicieu sessió a %1$s</string>
   <string name="button_compress">Comprimeix</string>
