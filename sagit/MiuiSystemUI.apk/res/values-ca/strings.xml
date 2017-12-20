@@ -29,7 +29,7 @@
   <string name="accessibility_desc_work_lock">Pantalla de bloqueig de treball</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Aquesta característica és experimental i podria afectar el rendiment.</string>
   <string name="accessibility_display_daltonizer_preference_title">Correcció del color</string>
-  <string name="accessibility_divider">Divisor de pantalles</string>
+  <string name="accessibility_divider">Divisor de pantalla dividida</string>
   <string name="accessibility_home">Casa</string>
   <string name="accessibility_ime_switch_button">Canvia el botó de mètode d\'entrada.</string>
   <string name="accessibility_managed_profile">Perfil de feina</string>
@@ -200,7 +200,7 @@ Taxa de mostreig"</string>
   <string name="chooseUsbActivity">Seleccioneu una aplicació per al dispositiu USB</string>
   <string name="choose_profile">Seleccioneu perfil</string>
   <string name="clear_adb_keys">Revoca autoritzacions de depuració USB</string>
-  <string name="click_to_return_multi_window">Feu clic per tornar al mode multifinestra</string>
+  <string name="click_to_return_multi_window">Feu clic per tornar a la pantalla dividida</string>
   <string name="confirm_enable_oem_unlock_text">ADVERTIMENT: les funcions de protecció del dispositiu no funcionaran mentre aquesta opció estigui activada.</string>
   <string name="confirm_enable_oem_unlock_title">Voleu permetre poder desbloquejar l\'OEM?</string>
   <string name="connected_via_network_scorer">Connectat automàticament a través de %1$s</string>
@@ -275,7 +275,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="dlg_error_title">L\'operació USB ha fallat</string>
   <string name="dlg_ok">D\'acord</string>
   <string name="dock_forced_resizable">És possible que l\'aplicació no funcioni amb la pantalla dividida.</string>
-  <string name="dock_keyguard_locked_failed_to_dock_text">"El KeyGuard no és compatible amb finestres múltiples, tanqueu el mode multi finestra."</string>
+  <string name="dock_keyguard_locked_failed_to_dock_text">"La pantalla dividida no és compatible amb la pantalla de bloqueig."</string>
   <string name="dock_non_resizeble_failed_to_dock_text">"L'aplicació no admet la pantalla dividida."</string>
   <string name="drive_mode_tip">"Estàs en mode cotxe"</string>
   <string name="enable_adb">Depuració USB activada</string>
@@ -501,7 +501,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="recents_launch_disabled_message">"%s no pot iniciar-se en mode segur"</string>
   <string name="recents_launch_error_message">"%s no s'ha pogut iniciar."</string>
   <string name="recents_lock_to_app_button_label">Fixa la pantalla</string>
-  <string name="recents_multi_window_mode">Mode de pantalla dividida</string>
+  <string name="recents_multi_window_mode">Pantalla dividida</string>
   <string name="recents_multistack_add_stack_dialog_split_custom">Personalitzat</string>
   <string name="recents_multistack_add_stack_dialog_split_horizontal">Divideix horitzontalment</string>
   <string name="recents_multistack_add_stack_dialog_split_vertical">Divideix verticalment</string>
