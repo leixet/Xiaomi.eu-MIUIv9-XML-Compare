@@ -151,7 +151,7 @@
   <string name="lock_screen_success_message">S\'ha aplicat correctament</string>
   <string name="lock_screen_wallpaper">Fons de pantalla de bloqueig</string>
   <string name="menu_add">Afegeix</string>
-  <string name="menu_auto_fill">Omple automàticament</string>
+  <string name="menu_auto_fill">Emplena les cel·les buides</string>
   <string name="menu_back_desktop">Torna a la pantalla d\'inici</string>
   <string name="menu_cell_setting">Disposició de la pantalla d\'inici</string>
   <string name="menu_customize">Configuració</string>
