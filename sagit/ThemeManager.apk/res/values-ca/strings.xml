@@ -343,7 +343,7 @@
   <string name="resource_trial_fail_message">Assegureu-vos que el rellotge del sistema tingui l\'hora correcta.</string>
   <string name="resource_trial_fail_title">"No s'ha pogut establir la sessió de prova"</string>
   <string name="resource_trial_hours">(prova: %1$dh)</string>
-  <string name="resource_trial_hours_minutes">(prova: %1$dh %2$dm)</string>
+  <string name="resource_trial_hours_minutes">(prova: %1$d h %2$d min)</string>
   <string name="resource_trial_minutes">(prova: %1$dm)</string>
   <string name="resource_unknow_error">S\'ha produït un error desconegut</string>
   <string name="resource_update">Actualitza</string>
