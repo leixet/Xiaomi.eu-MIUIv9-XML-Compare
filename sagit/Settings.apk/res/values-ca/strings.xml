@@ -273,7 +273,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="app_ops_settings">Funcionament de les aplicacions</string>
   <string name="app_overlay_permission_preference">Permís de sobreposició de l\'aplicació</string>
   <string name="app_permissions">Permisos de l\'aplicació</string>
-  <string name="app_permissions_summary">Permeses amb accés addicional %d of %d aplicacions</string>
+  <string name="app_permissions_summary">Aplicacions que fan servir %1$s</string>
   <string name="app_process_limit_title">Límit de processos en segon pla</string>
   <string name="app_restrictions_custom_label">Estableix restriccions d\'aplicació</string>
   <string name="app_sees_restricted_accounts">L\'aplicació pot accedir als comptes</string>
@@ -4816,7 +4816,7 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="write_settings_description">Aquest permís permet que una aplicació modifiqui la configuració del sistema.</string>
   <string name="write_settings_on">Sí</string>
   <string name="write_settings_preference">Permís per a modificar la configuració del sistema de l\'aplicació</string>
-  <string name="write_settings_summary">%d dels %d apps poden modificar la configuració del sistema</string>
+  <string name="write_settings_summary">%1$d de %2$d aplicacions poden modificar la configuració del sistema</string>
   <string name="write_settings_title">Pot modificar la configuració del sistema</string>
   <string name="write_system_settings">Modifica la configuració del sistema</string>
   <string name="write_tag">Escriu</string>
