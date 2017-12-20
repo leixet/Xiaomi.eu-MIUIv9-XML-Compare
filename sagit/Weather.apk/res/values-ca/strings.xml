@@ -18,7 +18,7 @@
   <string name="activity_main_update_time">Actualitzat %1$s</string>
   <string name="activity_main_update_time_expire">Les dades han caducat</string>
   <string name="activity_main_update_time_right_now">ara mateix</string>
-  <string name="activity_minute_rain_location_fail_msg">"S'ha produït un error en trobar la ubicació, la ubicació per defecte del mapa és Beijing."</string>
+  <string name="activity_minute_rain_location_fail_msg">"No s'ha pogut trobar la ubicació. Es mostrarà Beijing per defecte."</string>
   <string name="activity_weathermain_locationg">S\'està ubicant&#8230;</string>
   <string name="activity_weathermain_locationg_error">"No s'ha pogut ubicar"</string>
   <string name="add_city">Afegeix</string>
@@ -69,7 +69,7 @@
   <string name="common_loading_text">Un moment…</string>
   <string name="connect_fail">"La connexió de xarxa és anormal. Torneu-ho a provar més tard."</string>
   <string name="content_desc_activity_main_add_city">Afegeix ciutat</string>
-  <string name="content_desc_activity_main_add_city_manage">Gestió de la ciutat</string>
+  <string name="content_desc_activity_main_add_city_manage">Gestiona les ciutats</string>
   <string name="content_desc_activity_main_more_settings">Més configuracions</string>
   <string name="daily_forcast_drawer_on_bottom">Amaga</string>
   <string name="daily_forcast_no_stable_direction">Sense vent</string>
@@ -152,6 +152,7 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="more_details">Més detalls</string>
   <string name="network_not_available">"No es pot connectar a la xarxa"</string>
   <string name="network_unavailable">"No es pot connectar a la xarxa."</string>
+  <string name="night_not_disturb_settings_summary">Alertes de silenci entre les 23:00 i les 07:00</string>
   <string name="night_not_disturb_settings_title">"No molestis per la nit"</string>
   <string name="no_network_btn">Torna-ho a provar</string>
   <string name="no_vote_ratio">cons %1$s%%</string>
