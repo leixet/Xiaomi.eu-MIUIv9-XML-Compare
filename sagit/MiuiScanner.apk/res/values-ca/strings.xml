@@ -85,7 +85,7 @@
   <string name="image_file_name_format">"'scanner'_ddMMyyyy_HHmmss"</string>
   <string name="import_contact">Importar contacte</string>
   <string name="impunity_declaration_content">Aquesta aplicació necessita connectar-se a internet per funcionar amb normalitat.</string>
-  <string name="impunity_declaration_negative_text">Tanca</string>
+  <string name="impunity_declaration_negative_text">Surt</string>
   <string name="impunity_declaration_positive_text">Permet</string>
   <string name="impunity_declaration_title">Condicions del servei</string>
   <string name="keywords_search_code">Escàner;Escaneja;Codi QR;QR;Reconeixement;Codi de barres;Codis de barres;Producte;Productes;Alipay;WeChat;Com escannejar un codi QR;Com escannejar un codi de barres;Com escannejar;Escànner MIUI</string>
