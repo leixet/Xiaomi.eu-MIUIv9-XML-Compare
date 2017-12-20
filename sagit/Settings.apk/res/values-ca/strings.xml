@@ -1836,7 +1836,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="launch_google_search">Obre Google Assistant</string>
   <string name="launch_recents">Executa recents</string>
   <string name="launch_voice_assistant">Obre l\'assistent de veu</string>
-  <string name="launcher_auto_fill_empty_title">Emplena cel·les buides</string>
+  <string name="launcher_auto_fill_empty_title">Emplena les cel·les buides</string>
   <string name="launcher_title">Pantalla d\'inici</string>
   <string name="launching_cit">S\'està iniciant CIT</string>
   <string name="launching_pho">S\'està iniciant informació del telèfon, espereu-vos.</string>
