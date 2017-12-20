@@ -70,7 +70,7 @@
   <string name="album_share_subtitle_invited">Compartit per %1$s</string>
   <string name="album_share_subtitle_normal">Compartit per %1$s</string>
   <string name="album_share_subtitle_not_ready">Falta informació de l\'àlbum</string>
-  <string name="album_share_subtitle_quitting">S\'està sortint&#8230;</string>
+  <string name="album_share_subtitle_quitting">S\'està sortint…</string>
   <string name="album_share_subtitle_requesting">S\'està obtenint la informació de l\'àlbum&#8230;</string>
   <string name="album_share_title_new_album">Comparteix un nou àlbum</string>
   <string name="album_show_local_only">Mostra només els àlbums locals</string>
