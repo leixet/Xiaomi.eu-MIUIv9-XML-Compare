@@ -741,6 +741,7 @@ Comproveu el número de seguiment."</string>
   <string name="payment_record_new_lable">Afegeix un registre d\'historial</string>
   <string name="payment_record_recent_title">Últims pagaments</string>
   <string name="payment_record_show_more">Mostra\'n més</string>
+  <string name="payment_report_failed_record_dialog_cancel">Cancel·la</string>
   <string name="payment_setting">configuració</string>
   <string name="payment_total_month_desc">Aquest mes</string>
   <string name="payment_total_today_desc">Avui</string>
