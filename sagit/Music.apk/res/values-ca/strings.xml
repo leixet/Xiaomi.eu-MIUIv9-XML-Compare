@@ -385,7 +385,7 @@
   <string name="impunity_declaration_content3">" i "</string>
   <string name="impunity_declaration_content4">Política de privadesa</string>
   <string name="impunity_declaration_ignore">"No tornis a mostrar-ho"</string>
-  <string name="impunity_declaration_negative_text">Tanca</string>
+  <string name="impunity_declaration_negative_text">Surt</string>
   <string name="impunity_declaration_positive_text">D\'acord</string>
   <string name="impunity_declaration_settings">Mostra el Termes d\'ús</string>
   <string name="impunity_declaration_summary">Mostra una finestra emergent amb els Termes d\'ús del servei de música en línia de Baidu cada vegada que s\'obri l\'aplicació Música</string>
