@@ -14,8 +14,8 @@
     <item quantity="one">Oberta fa poc, aplicació disponible: 1. Llisqueu amunt per eliminar-la, llisqueu avall per bloquejar-la.</item>
   </plurals>
   <plurals name="settings_toggle_position_divider_page">
-    <item quantity="other">%1$d commutadors sobre d\'aquesta barra estan actius</item>
-    <item quantity="one">1 commutador sobre d\'aquesta barra estan actius</item>
+    <item quantity="other">%1$d commutadors es mostraran al panell de notificacions</item>
+    <item quantity="one">%1$d commutador es mostrarà al panell de notificacions</item>
   </plurals>
   <plurals name="disable_notification_confirm_title">
     <item quantity="other">"Voleu amagar les notificacions d'aquestes %d aplicacions?"</item>
