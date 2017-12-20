@@ -1049,7 +1049,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="simContacts_title">Contactes de la targeta SIM</string>
   <string name="sim_capacity">Veure la capacitat de la targeta SIM</string>
   <string name="sim_capacity_content" formatted="false">Capacitat total %d | Usada %d </string>
-  <string name="sim_card_no_free_space_message">No hi ha espai suficient</string>
+  <string name="sim_card_no_free_space_message">No hi ha prou espai</string>
   <string name="sim_card_no_free_space_title">Targeta SIM plena</string>
   <string name="sim_contact_existing">El contacte ja existeix</string>
   <string name="sim_contact_invalid">Contacte SIM no vàlid</string>
