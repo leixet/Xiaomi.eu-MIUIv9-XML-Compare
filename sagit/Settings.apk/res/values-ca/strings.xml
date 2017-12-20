@@ -3599,6 +3599,7 @@ Per fer-ho:
   <string name="sound_settings">So</string>
   <string name="sound_settings_example_summary">Volum del timbre al 80%</string>
   <string name="sound_settings_summary">Volum del timbre al %1$s</string>
+  <string name="sound_settings_summary_silent">S\'ha silenciat el timbre</string>
   <string name="sound_vibrate_settings">So i vibració</string>
   <string name="special_access">Accés especial</string>
   <string name="spell_checker_not_selected">No s\'ha seleccionat</string>
