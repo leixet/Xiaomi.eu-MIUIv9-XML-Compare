@@ -239,7 +239,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="privacy_tip_content">"Voleu utilitzar l'accelerador Xunlei per augmentar la velocitat de baixada? La URL del host de baixades es pujarà al servidor de Xunlei. Els detalls del Compte Mi també es pujaran per comprovar si té alguna subscripció activa a aquest servei."</string>
   <string name="privacy_tip_ok">D\'acord</string>
   <string name="privacy_tip_title">Utilitzar accelerador Xunlei?</string>
-  <string name="quit_btn">Sortir</string>
+  <string name="quit_btn">Surt</string>
   <string name="rank">Classificacions</string>
   <string name="rank_data_empty">Sense classificacions</string>
   <string name="rank_guide_confirm">Feu-hi un cop d\'ull</string>
