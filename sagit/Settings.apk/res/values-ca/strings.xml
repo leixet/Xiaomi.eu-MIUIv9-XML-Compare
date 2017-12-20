@@ -926,7 +926,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="contributors_title">Col·laboradors</string>
   <string name="controls_label">Controls</string>
   <string name="controls_subtitle">Ajusta l\'ús d\'energia</string>
-  <string name="convenience_key_category_title">Dreceres</string>
+  <string name="convenience_key_category_title">Control del sistema</string>
   <string name="convert_to_fbe_warning">"Converteix la partició de dades en una criptografia basada en fitxers.
 Compte! S\'esborraran totes les dades.
 Aquesta funció és alfa i és possible que no funcioni correctament.
@@ -3998,7 +3998,7 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="turn_off_common_password_confirm_msg">També es desactivarà el bloqueig de pantalla.</string>
   <string name="turn_off_keyguard_password_alert_title">Desactiva</string>
   <string name="turn_off_keyguard_password_confirm_msg">"Voleu desactivar la contrasenya de la pantalla de bloqueig?"</string>
-  <string name="turn_off_keyguard_password_wait_dialog">S\'està tancant la contrasenya</string>
+  <string name="turn_off_keyguard_password_wait_dialog">S\'està desactivant la contrasenya…</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">"No podreu desbloquejar el dispositiu amb l'empremta si desactiveu la contrasenya de la pantalla de bloqueig"</string>
   <string name="turn_off_keyguard_password_with_fingerprint_face_confirm_msg">"Després de desactivar la contrasenya de la pantalla de bloqueig, se suprimiran les empremtes registrades. No podreu desbloquejar el dispositiu amb l'empremta."</string>
   <string name="turn_off_security_lock">Desactiva el bloqueig</string>
@@ -4009,10 +4009,10 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="turn_on_keyguard_password_alert_foget_ok">Entesos</string>
   <string name="turn_on_keyguard_password_alert_foget_ok_time">Entesos (%d segon)</string>
   <string name="turn_on_keyguard_password_alert_forget_content">"Recordeu la contrasenya de la vostra pantalla de bloqueig. Si la oblideu, haureu d'esborrar totes les dades del vostre dispositiu, incloses les fotos i els contactes i, a continuació, configurar-ne un de nova."</string>
-  <string name="turn_on_keyguard_password_alert_forget_title">Si la oblideu, no podreu restaurar-la.</string>
+  <string name="turn_on_keyguard_password_alert_forget_title">Recordeu la vostra contrasenya</string>
   <string name="turn_on_security_lock">Trieu el bloqueig de pantalla</string>
   <string name="turn_on_torch">Activa la llanterna</string>
-  <string name="turn_update_keyguard_password_wait_dialog">S\'està modificant la contrasenya</string>
+  <string name="turn_update_keyguard_password_wait_dialog">S\'està modificant la contrasenya…</string>
   <string name="twohours">1 hora</string>
   <string name="under_keyguard">Pantalla de bloqueig</string>
   <string name="unimportant">No important</string>
