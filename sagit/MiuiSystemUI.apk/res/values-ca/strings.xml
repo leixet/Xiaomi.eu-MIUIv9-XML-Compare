@@ -52,7 +52,7 @@
   <string name="accessibility_recents_item_dismissed">%s descartat.</string>
   <string name="accessibility_recents_item_launched">S\'està iniciant %s.</string>
   <string name="accessibility_recents_item_open_app_info">Obre la informació de l\'aplicació %s.</string>
-  <string name="accessibility_recents_item_will_be_dismissed">Descarta %s.</string>
+  <string name="accessibility_recents_item_will_be_dismissed">Elimina %s</string>
   <string name="accessibility_remove_notification">Esborra notificació.</string>
   <string name="accessibility_ringer_silent">Timbre en silenci.</string>
   <string name="accessibility_ringer_vibrate">Vibració.</string>
@@ -426,7 +426,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="no_weather_description">Obtén la informació meteorològica &gt;</string>
   <string name="not_support_multi_window">"L'aplicació actual no és compatible amb el mode de pantalla dividida"</string>
   <string name="notification_header_title">Notificacions</string>
-  <string name="notification_hidden_text">Teniu un missatge nou</string>
+  <string name="notification_hidden_text">S\'ha amagat la notificació</string>
   <string name="notification_low_battery_action_btn">Activa</string>
   <string name="notification_low_battery_need_charge">Bateria baixa. Carregeu el vostre dispositiu.</string>
   <string name="notification_low_battery_open_save_mode">Activa l\'estalvi de bateria</string>
@@ -485,18 +485,18 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="quick_settings_wifi_detail_empty_text">No hi ha xarxes Wifi disponibles</string>
   <string name="quick_settings_wifi_label">Wifi</string>
   <string name="quick_settings_wifi_nearby">Seleccioneu una xarxa propera</string>
-  <string name="recent_dock_tip">Feu clic per triar l\'aplicació</string>
+  <string name="recent_dock_tip">Toqueu per seleccionar aplicacions</string>
   <string name="recent_task_app_info_text">Informació</string>
   <string name="recent_task_cleaning">S\'està netejant, espereu una mica</string>
   <string name="recent_task_lock_text">Bloquejar</string>
   <string name="recent_task_unlock_text">Desbloquejar</string>
   <string name="recents_app_info_button_label">Informació de l\'aplicació</string>
   <string name="recents_caption_resize">Selecciona el disseny de la tasca nova</string>
-  <string name="recents_drag_hint_message">Arrossegueu-ho aquí per utilitzar la pantalla dividida</string>
+  <string name="recents_drag_hint_message">Arrossegueu elements aquí</string>
   <string name="recents_empty_message">No hi ha cap element recent</string>
-  <string name="recents_empty_message_dismissed_all">Ho heu esborrat tot</string>
+  <string name="recents_empty_message_dismissed_all">Heu eliminat tots els elements</string>
   <string name="recents_empty_message_multi_window">Obriu les aplicacions des de la pantalla d\'inici</string>
-  <string name="recents_exit_multi_window_mode">Surt del mode de pantalla dividida</string>
+  <string name="recents_exit_multi_window_mode">Surt</string>
   <string name="recents_incompatible_app_message">"L'aplicació no admet la pantalla dividida"</string>
   <string name="recents_launch_disabled_message">"%s no pot iniciar-se en mode segur"</string>
   <string name="recents_launch_error_message">"%s no s'ha pogut iniciar."</string>
@@ -588,7 +588,7 @@ d MMMM"</string>
   <string name="status_bar_network_flow_purchase">"   Adquirir &gt;"</string>
   <string name="status_bar_network_flow_today">Avui: %1$s</string>
   <string name="status_bar_no_recent_apps">No hi ha aplicacions recents</string>
-  <string name="status_bar_notification_inspect_item_title">Info de l\'aplicació </string>
+  <string name="status_bar_notification_inspect_item_title">Informació de l\'aplicació</string>
   <string name="status_bar_recent_guide_all">"Lliscar amunt per tancar
  Lliscar avall per bloquejar"</string>
   <string name="status_bar_recent_guide_bottom">Feu lliscar avall per bloquejar</string>
