@@ -28,7 +28,7 @@
   <string name="default_text_view">TextView</string>
   <string name="description">Descriviu el problema</string>
   <string name="dialog_ask_delete">Elimina</string>
-  <string name="dialog_ask_quit">Tanca</string>
+  <string name="dialog_ask_quit">Surt</string>
   <string name="discard_draft_dialog_button_cancel">Roman aquí</string>
   <string name="discard_draft_dialog_button_discard">Descarta</string>
   <string name="discard_draft_dialog_content">"Qualsevol canvi que hàgiu fet en aquest informe es perdrà."</string>
