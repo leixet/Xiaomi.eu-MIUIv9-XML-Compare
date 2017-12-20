@@ -561,7 +561,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="loading_groups">Un moment…</string>
   <string name="loading_recent">Un moment…</string>
   <string name="local_invisible_directory">Altres</string>
-  <string name="local_profile_title">El meu perfil local</string>
+  <string name="local_profile_title">El meu perfil</string>
   <string name="local_search_label">Tots els contactes</string>
   <string name="locale_change_in_progress">La llista de contactes s\'està actualitzant per reflectir el canvi d\'idioma.</string>
   <string name="login_ok">Inicia la sessió</string>
