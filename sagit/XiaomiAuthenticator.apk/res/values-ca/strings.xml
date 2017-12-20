@@ -21,7 +21,7 @@ En cas de dubte, si us plau visiteu el lloc web oficial de Xiaomi i sol·liciti 
   <string name="button_add_account_manual_entry">Afegeix manualment el compte</string>
   <string name="button_add_account_scan_barcode">Escaneja codi de barres</string>
   <string name="button_back">Enrere</string>
-  <string name="button_exit_howitworks_flow">Sortir</string>
+  <string name="button_exit_howitworks_flow">Surt</string>
   <string name="button_how_it_works">Veure com funciona</string>
   <string name="button_next">Siguiente</string>
   <string name="button_uninstall_old_app">Desinstal·la</string>
