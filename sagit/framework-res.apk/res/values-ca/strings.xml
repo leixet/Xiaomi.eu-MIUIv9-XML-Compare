@@ -18,6 +18,7 @@
   <string name="CwMmi">Trucada en espera</string>
   <string name="DndMmi">No molesteu</string>
   <string name="Midnight">Mitjanit</string>
+  <string name="NetworkPreferenceSwitchSummary">Per millorar la recepció, proveu de canviar el tipus seleccionat en Sistema &gt; Xarxa i Internet &gt; Xarxes mòbils &gt; Tipus de xarxa preferida.</string>
   <string name="NetworkPreferenceSwitchTitle">No es pot arribar a la xarxa</string>
   <string name="Noon">Migdia</string>
   <string name="PinMmi">Canvi de PIN</string>
@@ -39,6 +40,12 @@
   <string name="accessibility_button_instructional_text">Per canviar les funcions, mantingueu premut el botó Accessibilitat.</string>
   <string name="accessibility_button_prompt_text">Trieu una funció que s\'utilitzarà quan toqueu el botó Accessibilitat:</string>
   <string name="accessibility_magnification_chooser_text">Ampliació</string>
+  <string name="accessibility_shortcut_toogle_warning">"Quan la drecera estigui activada, premeu els dos botons de volum durant 3 segons per iniciar una funció d\'accessibilitat.
+
+Característica d\'accessibilitat actual:
+ %1$s
+
+Podeu canviar la característica en Configuració &gt; Accessibilitat."</string>
   <string name="action_bar_home_description">Torna a l\'inici</string>
   <string name="action_bar_up_description">Mou cap a dalt</string>
   <string name="action_menu_overflow_description">Més opcions</string>
