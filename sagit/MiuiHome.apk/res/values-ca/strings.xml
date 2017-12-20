@@ -167,14 +167,14 @@
   <string name="menu_search">Cerca</string>
   <string name="menu_settings">Configuració</string>
   <string name="menu_sort">Ordena les aplicacions</string>
-  <string name="menu_trans_effect">Efecte de transició</string>
+  <string name="menu_trans_effect">Efectes de transició</string>
   <string name="menu_wallpaper">Fons de pantalla</string>
   <string name="menu_workspace_preview">Vista prèvia de les pantalles d\'inici</string>
   <string name="mi_wallpaper">Botiga de Temes MIUI</string>
   <string name="mtzgadget_missing_text">"El giny no és disponible"</string>
   <string name="multi_selecting_tips">Recolliu una aplicació arrossegant-la i deixant-la aquí</string>
   <string name="no_detail_page">No hi ha pàgina de detalls</string>
-  <string name="no_space_toast">Sense espai</string>
+  <string name="no_space_toast">No hi ha prou espai</string>
   <string name="normal_wallpaper">Fons de pantalla</string>
   <string name="notification_installed">S\'ha instal·lat amb èxit</string>
   <string name="notification_open_button">Obre</string>
@@ -269,5 +269,5 @@
   <string name="widget_favorite_contacts_style">Canvia la mida</string>
   <string name="widget_gadget_player">Música</string>
   <string name="widget_global_search">Cerca</string>
-  <string name="widget_quick_function">Funció ràpida</string>
+  <string name="widget_quick_function">Funcions ràpides</string>
 </resources>
