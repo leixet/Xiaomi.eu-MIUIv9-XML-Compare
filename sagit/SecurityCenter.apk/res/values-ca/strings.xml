@@ -566,7 +566,7 @@
   <string name="deleted_apps">Aplicacions eliminades</string>
   <string name="descx_quick_scan_cancel">Escaneig cancel·lat</string>
   <string name="descx_quick_scan_preparation">Un moment…</string>
-  <string name="detail_app_button">Info de l\'aplicació</string>
+  <string name="detail_app_button">Informació de l\'aplicació</string>
   <string name="details_subtitle">Utilitza detalls</string>
   <string name="diagnostic_attention_dialog_message">"El diagnòstic per %1$s està en curs. Espereu que acabi i torneu a provar."</string>
   <string name="dialog_app_roaming_message">"%1$s no pot usar dades mòbils en itinerància. Quan està en itinerància en ultramar, només les aplicacions que heu afegit a la llista de permeses poden utilitzar les dades mòbils."</string>
