@@ -4821,6 +4821,8 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="work_space_delete_confirm">Confirma la supressió</string>
   <string name="work_space_delete_description">"No podreu entrar a 'espai de treball després d'esborrar-lo. Totes les dades es mouran o seran esborrades."</string>
   <string name="work_sync_dialog_message">Els vostres sons de perfil personal s\'utilitzaran per al vostre perfil laboral</string>
+  <string name="work_use_personal_sounds_summary">Els sons són els mateixos per als perfils laboral i personal</string>
+  <string name="work_use_personal_sounds_title">Utilitza sons del perfil personal</string>
   <string name="wps_connect_summary">Comproveu que el router s\'ha activat i és compatible amb WPS</string>
   <string name="wps_connect_title">Connexió WPS</string>
   <string name="write_settings">Modifica la configuració del sistema</string>
