@@ -38,7 +38,7 @@
   <string name="cloud_app_restore_data">Restaurar les aplicacions prèviament instal·lades</string>
   <string name="cloud_app_restore_error">"No s'ha pogut restaurar"</string>
   <string name="cloud_app_restore_success">Aplicacions restaurades</string>
-  <string name="cloud_app_restore_wifi_prompt">Per restaurar l\'aplicació, connecteu-vos a una xarxa Wi-Fi.</string>
+  <string name="cloud_app_restore_wifi_prompt">Restaura des d\'una còpia de seguretat del Mi Cloud.</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
   <string name="cloud_back_up_detail_discription">"Aquests elements es desaran al Mi Cloud quan el dispositiu estigui connectat a Wi-Fi:
 *\u0009\u0009\u0009\u0009Aplicacions, disposició de pantalla d\'inici i fons
