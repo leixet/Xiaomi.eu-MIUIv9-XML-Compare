@@ -192,7 +192,7 @@
   <string name="attachment_application_vnd_ms_excel">Full de càlcul</string>
   <string name="attachment_application_vnd_ms_powerpoint">Presentació</string>
   <string name="attachment_audio">Àudio</string>
-  <string name="attachment_canceling">Cancel·lant&#8230;</string>
+  <string name="attachment_canceling">S\'està cancel·lant…</string>
   <string name="attachment_decoding">Extraient adjunts&#8230;</string>
   <string name="attachment_download_all">Baixa-ho tot</string>
   <string name="attachment_image">Imatge</string>
@@ -333,7 +333,7 @@
   <string name="conversation_photo_welcome_text">Toqui una imatge del remitent per a seleccionar aquesta conversa.</string>
   <string name="conversation_pull_ad_content">Gestioneu els correus sense esforç</string>
   <string name="conversation_quick_button_approve">D\'acord</string>
-  <string name="conversation_quick_button_disapprove">En desacord</string>
+  <string name="conversation_quick_button_disapprove">Cancel·la</string>
   <string name="conversation_quick_button_received">S\'ha rebut</string>
   <string name="conversation_view">Vista de conversa</string>
   <string name="conversation_view_keywords">vista de conversa;conversa del correu</string>
