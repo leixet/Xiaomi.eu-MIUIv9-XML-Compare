@@ -854,6 +854,7 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="permdesc_systemAlertWindow">Permet que l\'aplicació escrigui sobre altres aplicacions o en parts d\'interfície d\'usuari. Poden interferir amb l\'ús de la interfície a qualsevol aplicació o modificar el que creus que es mostra en altres aplicacions.</string>
   <string name="permdesc_transmitIr">"Permet que l'aplicació utilitzi el transmissor d'infrarojos del telèfon."</string>
   <string name="permdesc_uninstall_shortcut">Permet que l\'aplicació elimini dreceres de la pantalla d\'inici sense la intervenció de l\'usuari.</string>
+  <string name="permdesc_useDataInBackground">Aquesta aplicació pot utilitzar dades en segon pla. Això pot augmentar l\'ús de dades.</string>
   <string name="permdesc_useFingerprint">Permet que l\'aplicació faci servir el maquinari d\'empremtes per a l\'autenticació</string>
   <string name="permdesc_use_sip">Permet que l\'aplicació pugui fer i rebre trucades SIP.</string>
   <string name="permdesc_vibrate">Permet que l\'aplicació controli la vibració.</string>
@@ -899,6 +900,7 @@ per al compte %s"</string>
   <string name="permlab_accessWimaxState">connectar i desconnectar a WiMAX</string>
   <string name="permlab_access_notification_policy">accedir al mode No molesteu</string>
   <string name="permlab_addVoicemail">afegir bústia de veu</string>
+  <string name="permlab_answerPhoneCalls">respondre trucades telefòniques</string>
   <string name="permlab_bindCarrierMessagingService">vincular al servei de missatgeria d\'un operador</string>
   <string name="permlab_bindCarrierServices">vincular als serveis de l\'operador</string>
   <string name="permlab_bindConditionProviderService">vincular amb un servei de proveïdor de condicions</string>
@@ -932,6 +934,7 @@ per al compte %s"</string>
   <string name="permlab_killBackgroundProcesses">tancar altres aplicacions</string>
   <string name="permlab_manageFingerprint">gestionar el maquinari d\'empremta</string>
   <string name="permlab_manageNetworkPolicy">gestionar la política de xarxa</string>
+  <string name="permlab_manageOwnCalls">encaminar trucades a través del sistema</string>
   <string name="permlab_manageProfileAndDeviceOwners">gestionar els propietaris del perfil i del dispositiu</string>
   <string name="permlab_modifyAudioSettings">canviar la configuració d\'àudio</string>
   <string name="permlab_modifyNetworkAccounting">modificar el càlcul d\'ús de xarxa</string>
@@ -945,6 +948,7 @@ per al compte %s"</string>
   <string name="permlab_readHistoryBookmarks">llegir les adreces d\'interès i l\'historial web</string>
   <string name="permlab_readInstallSessions">llegir les sessions d\'instal·lació</string>
   <string name="permlab_readNetworkUsageHistory">llegir l\'ús històric de la xarxa</string>
+  <string name="permlab_readPhoneNumbers">llegir números de telèfon</string>
   <string name="permlab_readPhoneState">llegir l\'estat i la identitat del telèfon</string>
   <string name="permlab_readSms">llegir els missatges de text (SMS / MMS)</string>
   <string name="permlab_readSyncSettings">llegir la configuració de sincronització</string>
@@ -958,8 +962,11 @@ per al compte %s"</string>
   <string name="permlab_register_sim_subscription">registrar connexions SIM de telecomunicacions noves</string>
   <string name="permlab_removeDrmCertificates">suprimir els certificats DRM</string>
   <string name="permlab_reorderTasks">reorganitzar les aplicacions en execució</string>
+  <string name="permlab_requestDeletePackages">sol·licitar la instal·lació de paquets</string>
+  <string name="permlab_requestIgnoreBatteryOptimizations">demanar ignorar les optimitzacions de la bateria</string>
   <string name="permlab_requestInstallPackages">sol·licitar la instal·lació de paquets</string>
   <string name="permlab_route_media_output">indicar la sortida de mitjans</string>
+  <string name="permlab_runInBackground">executar-se en segon pla</string>
   <string name="permlab_sdcardRead">llegir el contingut del vostre emmagatzematge intern</string>
   <string name="permlab_sdcardWrite">escriure/eliminar l\'emmagatzematge intern</string>
   <string name="permlab_sendSms">enviar missatges SMS</string>
@@ -975,6 +982,7 @@ per al compte %s"</string>
   <string name="permlab_systemAlertWindow">dibuixar sobre altres aplicacions</string>
   <string name="permlab_transmitIr">transmetre infrarojos</string>
   <string name="permlab_uninstall_shortcut">desinstal·lar dreceres</string>
+  <string name="permlab_useDataInBackground">utilitzar dades en segon pla</string>
   <string name="permlab_useFingerprint">utilitzar el maquinari d\'empremta</string>
   <string name="permlab_use_sip">realitzar/rebre trucades SIP</string>
   <string name="permlab_vibrate">controlar la vibració</string>
@@ -1096,6 +1104,8 @@ per al compte %s"</string>
   <string name="ringtone_default">To per defecte</string>
   <string name="ringtone_default_with_actual">To per defecte (%1$s)</string>
   <string name="ringtone_picker_title">Tons</string>
+  <string name="ringtone_picker_title_alarm">Sons de l\'alarma</string>
+  <string name="ringtone_picker_title_notification">Sons de notificació</string>
   <string name="ringtone_silent">Cap</string>
   <string name="ringtone_unknown">To desconegut</string>
   <string name="roamingText0">Indicador d\'itinerància activat</string>
@@ -1214,9 +1224,11 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="ssl_certificate_is_valid">El certificat és vàlid.</string>
   <string name="status_bar_rotate">gira</string>
   <string name="stk_cc_ss_to_dial">La sol·licitud SS s\'ha transformat en una sol·licitud DIAL.</string>
+  <string name="stk_cc_ss_to_dial_video">La sol·licitud SS s\'ha transformat en una sol·licitud DIAL de vídeo.</string>
   <string name="stk_cc_ss_to_ss">La sol·licitud SS s\'ha transformat en una sol·licitud SS nova.</string>
   <string name="stk_cc_ss_to_ussd">La sol·licitud SS s\'ha transformat en una sol·licitud USSD.</string>
   <string name="stk_cc_ussd_to_dial">La sol·licitud USSD s\'ha transformat en una sol·licitud DIAL.</string>
+  <string name="stk_cc_ussd_to_dial_video">La sol·licitud USSD s\'ha transformat en una sol·licitud DIAL de vídeo.</string>
   <string name="stk_cc_ussd_to_ss">La sol·licitud USSD s\'ha transformat en una sol·licitud SS.</string>
   <string name="stk_cc_ussd_to_ussd">La sol·licitud USSD s\'ha transformat en una nova sol·licitud USSD.</string>
   <string name="storage_internal">Emmagatzematge intern compartit</string>
@@ -1248,10 +1260,19 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="time_picker_decrement_minute_button">Redueix els minuts</string>
   <string name="time_picker_decrement_set_am_button">Estableix AM</string>
   <string name="time_picker_dialog_title">Estableix l\'hora</string>
+  <string name="time_picker_header_text">Estableix l\'hora</string>
+  <string name="time_picker_hour_label">hora</string>
   <string name="time_picker_increment_hour_button">Augmenta les hores</string>
   <string name="time_picker_increment_minute_button">Augmenta els minuts</string>
   <string name="time_picker_increment_set_pm_button">Estableix PM</string>
+  <string name="time_picker_input_error">Introduïu una hora vàlida</string>
+  <string name="time_picker_minute_label">minut</string>
+  <string name="time_picker_mode">rellotge</string>
+  <string name="time_picker_prompt_label">Escriu en hores</string>
+  <string name="time_picker_radial_mode_description">Canvieu al mode de rellotge per a l\'entrada de temps.</string>
+  <string name="time_picker_text_input_mode_description">Canvieu al mode d\'entrada de text per a l\'entrada de temps.</string>
   <string name="toolbar_collapse_description">Redueix</string>
+  <string name="tooltip_popup_title">Informació sobre les eines</string>
   <string name="turn_off_radio">Desactiva la connexió sense fils</string>
   <string name="turn_on_radio">Activa la connexió sense fils</string>
   <string name="tutorial_double_tap_to_zoom_message_short">Toqueu dues vegades per controlar el zoom</string>
