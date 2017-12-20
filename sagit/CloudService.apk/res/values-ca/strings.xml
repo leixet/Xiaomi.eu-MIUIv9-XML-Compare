@@ -455,7 +455,7 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="other_settings">Altres configuracions</string>
   <string name="other_sync_item">Altres elements a sincronitzar</string>
   <string name="passed_synced_time_day">Sincronitzat fa %dd</string>
-  <string name="passed_synced_time_hour">Sincronitzat fa %1$d h %2$d m</string>
+  <string name="passed_synced_time_hour">Sincronitzat fa %1$d h %2$d min</string>
   <string name="passed_synced_time_min">Sincronitzat fa %d min</string>
   <string name="passed_synced_time_sec">Sincronitzat fa %d seg</string>
   <string name="password">Introduïu la contrasenya</string>
