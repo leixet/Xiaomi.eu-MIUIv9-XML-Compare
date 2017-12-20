@@ -466,7 +466,6 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="group_create_fail_toast">"No s'ha pogut crear grup"</string>
   <string name="group_create_success_toast">Grup creat</string>
   <string name="group_delete_success_toast">Grup eliminat</string>
-  <string name="group_detail_label_placeholder">&#160;</string>
   <string name="group_edit_field_hint_text">Nom del grup</string>
   <string name="group_member_remove_fail_toast">No s\'ha eliminat del grup</string>
   <string name="group_member_remove_success_toast">Eliminat del grup</string>
