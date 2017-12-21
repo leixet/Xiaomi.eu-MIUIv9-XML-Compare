@@ -2084,6 +2084,7 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="lockscreen_magazine">Carrusel de fons de pantalla</string>
   <string name="lockscreen_magazine_title">Tipus de fons de pantalla</string>
   <string name="lockscreen_remote_input">Si el dispositiu està bloquejat, impedeix que s\'escriguin respostes o altres textos a les notificacions</string>
+  <string name="lockscreen_settings_title">Preferències de la pantalla de bloqueig</string>
   <string name="login_account_dialog_message">Inicia la sessió amb el compte de Mi i activa la sincronització amb Mi Cloud.</string>
   <string name="login_account_dialog_title">Inicia la sessió amb el compte Mi</string>
   <string name="login_action">Inicia la sessió</string>
@@ -3337,6 +3338,8 @@ Per fer-ho:
   <string name="second_space">Segon espai</string>
   <string name="secure_keyguard_business_title">Configuració del bloqueig de pantalla</string>
   <string name="secure_lock_encryption_warning">Atès que vau activar un servei de facilitat d\'accés, el dispositiu no utilitzarà el bloqueig de pantalla per millorar el xifrat de les dades.</string>
+  <string name="security_dashboard_summary">Bloqueig de pantalla, empremta</string>
+  <string name="security_dashboard_summary_no_fingerprint">Bloqueig de pantalla</string>
   <string name="security_enable_widgets_disabled_summary">Desactivat per l\'administrador</string>
   <string name="security_enable_widgets_title">Activació dels ginys</string>
   <string name="security_encryption_alert_dialog_info_first">"Per activar aquesta funció cal una contrasenya de bloqueig de pantalla. Per desxifrar-lo haureu d'introduir la contrasenya de bloqueig de pantalla després de cada reinici i utilitzar el dispositiu amb normalitat."</string>
@@ -3354,7 +3357,7 @@ Per fer-ho:
   <string name="security_encryption_progress_dialog_open">S\'està xifrant&#8230;</string>
   <string name="security_encryption_rejected_via_home_manager">"Aquesta funció no és compatible amb la versió de demostració."</string>
   <string name="security_encryption_title">Xifra el dispositiu utilitzant la contrasenya de bloqueig de pantalla</string>
-  <string name="security_keyguard_category_name">Pantalla de bloqueig</string>
+  <string name="security_keyguard_category_name">Bloqueja la pantalla</string>
   <string name="security_password_category_name">Bloqueig de pantalla</string>
   <string name="security_passwords_title">Contrasenyes</string>
   <string name="security_patch">Nivell de pedaç de seguretat d\'Android</string>
@@ -3635,7 +3638,7 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="status_bar_and_notification_bar">Àrea de notificacions i barra d\'estat</string>
   <string name="status_bar_app_disable_notification">Notificacions amagades</string>
   <string name="status_bar_app_enable_floating">Notificacions flotants</string>
-  <string name="status_bar_app_enable_keyguard">Pantalla de bloqueig</string>
+  <string name="status_bar_app_enable_keyguard">Bloqueja la pantalla</string>
   <string name="status_bar_app_enable_message">Insígnies</string>
   <string name="status_bar_key_position_custom">Posició de tecla personalitzada</string>
   <string name="status_bar_screen_button_force_immersive_desc">Feu lliscar el dit cap amunt des de la part inferior de la pantalla per mostrar els botons virtuals</string>
@@ -4088,7 +4091,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="unlock_set_unlock_launch_picker_change_summary">Canvieu o desactiveu el patró, PIN o contrasenya</string>
   <string name="unlock_set_unlock_launch_picker_change_title">Canvi de la pantalla de bloqueig</string>
   <string name="unlock_set_unlock_launch_picker_enable_summary">Trieu un mètode per bloquejar la pantalla</string>
-  <string name="unlock_set_unlock_launch_picker_title">Bloqueig de pantalla</string>
+  <string name="unlock_set_unlock_launch_picker_title">Bloqueja la pantalla</string>
   <string name="unlock_set_unlock_launch_picker_title_profile">Bloq. perfil profess.</string>
   <string name="unlock_set_unlock_mode_none">Llisca</string>
   <string name="unlock_set_unlock_mode_off">Cap</string>
