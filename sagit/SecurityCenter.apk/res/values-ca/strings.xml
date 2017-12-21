@@ -188,7 +188,7 @@
   <string name="app_manager_not_record">"No s'ha pogut trobar aplicacions que requereixin permisos"</string>
   <string name="app_manager_notify_bar">Insígnies</string>
   <string name="app_manager_notify_floating">Notificacions flotants</string>
-  <string name="app_manager_notify_keyguard">Bloqueig de pantalla</string>
+  <string name="app_manager_notify_keyguard">Bloqueja la pantalla</string>
   <string name="app_manager_perm">Permisos</string>
   <string name="app_manager_permission_manager_title">Permisos</string>
   <string name="app_manager_permission_notify_title">Notificacions</string>
