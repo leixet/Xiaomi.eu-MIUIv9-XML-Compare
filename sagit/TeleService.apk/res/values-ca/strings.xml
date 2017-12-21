@@ -1107,7 +1107,7 @@ Les funcions relacionades amb el PIN2 es bloquejaran després d\'un altre intent
   <string name="pin2_or_fdn_invalid">"Els NMP no es va actualitzar. El PIN2 era incorrecte o es va rebutjar el número de telèfon."</string>
   <string name="pin2_unblocked">El PIN2 ja no està bloquejat</string>
   <string name="pin_changed">El PIN s\'ha actualitzat</string>
-  <string name="pin_failed">El PIN no és correcte</string>
+  <string name="pin_failed">PIN incorrecte</string>
   <string name="pin_lock_warning">El vostre telèfon es bloquejarà automàticament després d\'un altre intent incorrecte</string>
   <string name="pin_progress_change_pin">S\'està canviant el PIN&#8230;</string>
   <string name="pin_progress_change_pin2">S\'està canviant el PIN2&#8230;</string>
