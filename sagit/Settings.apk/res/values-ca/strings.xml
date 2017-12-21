@@ -2448,6 +2448,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="notification_app_settings_button">Configuració de les notificacions</string>
   <string name="notification_breathing_light_color_title">Color de les notificacions</string>
   <string name="notification_breathing_light_freq_title">Freqüència de pampallugeig del LED de les notificacions</string>
+  <string name="notification_content_block_summary">No mostris mai notificacions al panell o en dispositius perifèrics</string>
+  <string name="notification_content_block_title">Mostra les notificacions</string>
   <string name="notification_importance_blocked">No mostris mai les notificacions d\'aquesta aplicació</string>
   <string name="notification_importance_default">Sense interrupció de la pantalla completa ni previsualització.</string>
   <string name="notification_importance_high">Permet sempre la previsualització. Sense interrupció de la pantalla completa.</string>
@@ -3623,7 +3625,7 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="sort_avg_use">Ordena per ús mitjà</string>
   <string name="sort_max_use">Ordena per ús màxim</string>
   <string name="sort_order_alpha">Ordena pel nom</string>
-  <string name="sort_order_size">Ordena per la mida</string>
+  <string name="sort_order_size">Ordenar per mida</string>
   <string name="sound_category_call_ringtone_vibrate_title">Tons de trucada i sons de notificació</string>
   <string name="sound_category_sound_title">General</string>
   <string name="sound_category_system_title">Sistema</string>
