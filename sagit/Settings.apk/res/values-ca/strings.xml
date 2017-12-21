@@ -2063,8 +2063,8 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="lockpattern_change_lock_pin_label">Canvia el PIN</string>
   <string name="lockpattern_confirm_button_text">Confirma</string>
   <string name="lockpattern_continue_button_text">Continua</string>
-  <string name="lockpattern_need_to_confirm">Dibuixeu el patró novament per confirmar:</string>
-  <string name="lockpattern_need_to_unlock_wrong">Torna-ho a provar:</string>
+  <string name="lockpattern_need_to_confirm">Dibuixeu de nou el patró per confirmar:</string>
+  <string name="lockpattern_need_to_unlock_wrong">Torneu a provar-ho:</string>
   <string name="lockpattern_pattern_confirmed_header">El nou patró de desbloqueig:</string>
   <string name="lockpattern_pattern_entered_header">S\'ha desat el patró</string>
   <string name="lockpattern_pattern_same_with_others">Hauria de ser diferent de la contrasenya de l\'altre espai</string>
