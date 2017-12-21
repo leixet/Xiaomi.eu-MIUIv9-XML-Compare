@@ -40,7 +40,7 @@
     <item>Format</item>
     <item>Nom</item>
     <item>Remitent</item>
-    <item>Data</item>
+    <item>Data de recepció</item>
   </string-array>
   <string-array name="moveto_folder_sections">
     <item>Sistema</item>
