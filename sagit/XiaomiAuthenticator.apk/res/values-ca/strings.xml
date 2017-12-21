@@ -80,7 +80,7 @@ Regístrar-se a account.xiaomi.com，Protecció de les pàgines de destinació, 
   <string name="lockpattern_recording_incorrect_too_short">Connecteu almenys %d punts. Torneu-ho a provar:</string>
   <string name="lockpattern_recording_inprogress">Retire el dedo al terminar.</string>
   <string name="lockpattern_recording_intro_header">Dibuixeu un patró de desbloqueig:</string>
-  <string name="lockpattern_redraw_button_text">Redibuixar</string>
+  <string name="lockpattern_redraw_button_text">Torneu-lo a dibuixar</string>
   <string name="lockpattern_retry_text">Contraseña para restablecer el patrón</string>
   <string name="lockpattern_settings_help_how_to_record">Cómo dibujar un patrón de desbloqueo</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Inténtelo de nuevo en %d segundos.</string>
