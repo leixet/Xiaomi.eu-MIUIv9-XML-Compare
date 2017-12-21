@@ -120,7 +120,7 @@
   <string name="lockscreen_magazine_system_subscribe">%1$s fons de pantalla</string>
   <string name="lockscreen_magazine_system_title">Local</string>
   <string name="lockscreen_magazine_title">Pantalles de bloqueig diàries</string>
-  <string name="lockscreen_wallpaper">Pantalla de bloqueig</string>
+  <string name="lockscreen_wallpaper">Bloqueja la pantalla</string>
   <string name="lockstyle_personal_settings">Personalitza</string>
   <string name="mi_wallpaper">Fons de pantalla MIUI</string>
   <string name="multi_sim_ringtone_settings_dialog_message">El to de trucada s\'aplica a les dues targetes SIM.</string>
@@ -388,7 +388,7 @@
   <string name="theme_component_title_icon">Icones</string>
   <string name="theme_component_title_launcher">Safata de favorits</string>
   <string name="theme_component_title_lockstyle">Estil de bloqueig</string>
-  <string name="theme_component_title_lockwallpaper">Pantalla de bloqueig</string>
+  <string name="theme_component_title_lockwallpaper">Bloqueja la pantalla</string>
   <string name="theme_component_title_miwallpaper">Fons de pantalla de MIUI</string>
   <string name="theme_component_title_mms">Missatgeria</string>
   <string name="theme_component_title_notification">Notificació</string>
