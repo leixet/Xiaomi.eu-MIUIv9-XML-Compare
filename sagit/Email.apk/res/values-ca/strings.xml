@@ -243,7 +243,7 @@
   <string name="bottom_bar_more_quickreply">Resposta ràpida</string>
   <string name="bottom_bar_more_share">Compartir</string>
   <string name="bottom_bar_no_quickreply_toast">Sense respostes ràpides</string>
-  <string name="calendar_remind_dialog_title">Recordar</string>
+  <string name="calendar_remind_dialog_title">Recorda-m’ho més tard</string>
   <string name="calendar_remind_gridview_pick_date">Triar data</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancel_action">Cancel·la</string>
@@ -545,7 +545,7 @@
   <string name="login_support_tip_text">Compatible amb gairebé tots els comptes de correu principals</string>
   <string name="long_press_to_select_tip">Toqueu sense deixar anar per seleccionar una conversa, a continuació toqui una altra per seleccionar més.</string>
   <string name="mail">Correu</string>
-  <string name="mail_body_turncated">Aquest e-mail és massa gran per carregar i només es mostra part d\'ell, per visualitzar-lo complet utilitzeu un PC</string>
+  <string name="mail_body_turncated">Aquest correu és massa gran per carregar-lo i només es mostra part d\'ell, per visualitzar-lo complet utilitzeu un PC</string>
   <string name="mail_description_content">El correu és un client de correu que pot gestionar diversos comptes, enviar i rebre missatges de correu, així com sincronitzar la informació i contactes del vostre calendari. Assegureu-vos que podeu fer sense aquestes funcions abans de desinstal·lar l\'aplicació. Els contactes d\'Exchange i la informació del calendari també se suprimiran.</string>
   <string name="mail_description_title">Quant al correu</string>
   <string name="mail_header_network_not_available">"No té connexió de xarxa."</string>
@@ -904,7 +904,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="remove_folder">Esborrat de %1$s</string>
   <string name="remove_star">Treure estrella</string>
   <string name="reply">Respon</string>
-  <string name="reply_add_bodycontent">Afegir resposta ràpida al contingut del missatge?</string>
+  <string name="reply_add_bodycontent">Voleu afegiu la resposta al cos del missatge?</string>
   <string name="reply_all">Respon a tots</string>
   <string name="reply_attribution" formatted="false">En %s, %s va escriure:</string>
   <string name="report_phishing">Denunciar phishing</string>
