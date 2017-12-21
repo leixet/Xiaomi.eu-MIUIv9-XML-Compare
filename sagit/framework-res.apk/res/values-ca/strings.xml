@@ -1134,7 +1134,7 @@ Si escolteu sons a alt volum durant llargs períodes de temps podria danyar les 
   <string name="screen_compat_mode_hint">Torneu a activar-lo accedint a Configuració &gt; Aplicacions &gt; Baixades.</string>
   <string name="screen_compat_mode_scale">Escala</string>
   <string name="screen_compat_mode_show">Mostra sempre</string>
-  <string name="screen_lock">Pantalla de bloqueig</string>
+  <string name="screen_lock">Bloqueig de pantalla</string>
   <string name="search_go">Cerca</string>
   <string name="search_hint">Cerca…</string>
   <string name="search_language_hint">Escriviu el nom de l\'idioma</string>
