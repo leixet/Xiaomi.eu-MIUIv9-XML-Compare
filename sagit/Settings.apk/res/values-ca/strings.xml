@@ -407,6 +407,9 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="battery_desc_users">Bateria utilitzada per l\'usuari</string>
   <string name="battery_desc_voice">Bateria utilitzada per les trucades de veu</string>
   <string name="battery_desc_wifi">Bateria utilitzada pel Wi-Fi</string>
+  <string name="battery_detail_manage_title">Gestió de l\'ús de la bateria</string>
+  <string name="battery_detail_power_usage">Ús de la bateria</string>
+  <string name="battery_details_title">Ús de la bateria</string>
   <string name="battery_indicator_style">Indicador de bateria</string>
   <string name="battery_info_awake_battery">Temps de bateria en ús:</string>
   <string name="battery_info_awake_plugged">Temps de bateria en càrrega:</string>
