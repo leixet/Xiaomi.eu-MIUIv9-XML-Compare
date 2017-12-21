@@ -1010,7 +1010,7 @@ Per seguir utilitzant el telèfon, cal una reinicialització de fàbrica. Quan e
   <string name="cryptkeeper_return_to_call">Torna a la trucada</string>
   <string name="cryptkeeper_wrong_password">La contrasenya és incorrecta</string>
   <string name="cryptkeeper_wrong_pattern">El patró és incorrecte</string>
-  <string name="cryptkeeper_wrong_pin">El PIN no és correcte</string>
+  <string name="cryptkeeper_wrong_pin">PIN erroni</string>
   <string name="current_backup_pw_prompt">Introduïu la contrasenya de la còpia de seguretat completa</string>
   <string name="current_input_method">Predeterminat</string>
   <string name="current_screen_lock">Bloqueig de pantalla actual</string>
@@ -1972,9 +1972,9 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="lock_screen_notifications_summary_disable">No mostris cap notificació</string>
   <string name="lock_screen_notifications_summary_disable_profile">No mostris cap notificació professional</string>
   <string name="lock_screen_notifications_summary_hide">Mostra totes les notificacions però amaga el contingut</string>
-  <string name="lock_screen_notifications_summary_hide_profile">Amaga cont. confidencial de notif. professionals</string>
+  <string name="lock_screen_notifications_summary_hide_profile">Amaga contingut confidencial de notificacions laborals</string>
   <string name="lock_screen_notifications_summary_show">Mostra totes les notificacions i els seu contingut</string>
-  <string name="lock_screen_notifications_summary_show_profile">Mostra tot el contingut de notific. professionals</string>
+  <string name="lock_screen_notifications_summary_show_profile">Mostra tot el contingut de notificacions laborals</string>
   <string name="lock_screen_notifications_title">Amb el dispositiu bloquejat</string>
   <string name="lock_screen_secure_after_timeout_immediately_never">Mai cal la contrasenya</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">Cal la contrasenya</string>
@@ -3241,7 +3241,7 @@ Per fer-ho:
   <string name="search_local_backup_section_title">Còpies de seguretat locals</string>
   <string name="search_location_settings_title">Ubicació</string>
   <string name="search_lock_settings">Pantalla de bloqueig &amp; contrasenya;Desbloqueig del Bluetooth;contrasenya;Desbloqueig amb un dispositiu Bluetooth</string>
-  <string name="search_lock_sounds_enable_title">So de bloqueig de la pantalla</string>
+  <string name="search_lock_sounds_enable_title">So de bloqueig de la pantalla;Activa el so de bloqueig de la pantalla</string>
   <string name="search_manage_device_admin">Administradors de dispositius</string>
   <string name="search_manage_notification_access_title">Accés a notificació</string>
   <string name="search_master_clear_title">Restabliment de fàbrica</string>
@@ -3584,7 +3584,7 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="sim_outgoing_call_title">SIM per a trucades sortints</string>
   <string name="sim_pin_change">Canvia el codi PIN</string>
   <string name="sim_pin_toggle">Bloqueja la targeta SIM</string>
-  <string name="sim_pins_dont_match">Els codis PIN no coincideixen</string>
+  <string name="sim_pins_dont_match">Els PIN no coincideixen</string>
   <string name="sim_pref_divider">SIM preferida per a</string>
   <string name="sim_preferred_message">%1$s és l\'única targeta SIM del dispositiu. Voleu fer-la servir per a les dades mòbils, les trucades i els missatges SMS?</string>
   <string name="sim_preferred_title">Voleu canviar la SIM preferida?</string>
