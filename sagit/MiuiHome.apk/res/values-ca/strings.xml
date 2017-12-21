@@ -146,7 +146,7 @@
   <string name="loading_desktop">Un moment…</string>
   <string name="loading_wallpaper">Un moment…</string>
   <string name="local_wallpaper">Baixat</string>
-  <string name="lock_screen">Pantalla de bloqueig</string>
+  <string name="lock_screen">Bloqueja la pantalla</string>
   <string name="lock_screen_failed_message">"No es pot aplicar el fons de pantalla"</string>
   <string name="lock_screen_success_message">S\'ha aplicat correctament</string>
   <string name="lock_screen_wallpaper">Fons de pantalla de bloqueig</string>
@@ -258,7 +258,7 @@
   <string name="unknown_artist_name">Artista desconegut</string>
   <string name="unnamed_folder_name">Carpeta</string>
   <string name="wallpaper">Fons de pantalla</string>
-  <string name="wallpaper_auto_change_title">Pantalla de bloqueig</string>
+  <string name="wallpaper_auto_change_title">Bloqueja la pantalla</string>
   <string name="wallpaper_failed_message">"No es pot aplicar el fons de pantalla"</string>
   <string name="wallpaper_scaling_message">S\'està escalant a la mida fixada</string>
   <string name="wallpaper_scroll_type_tips">Desplaçament del fons</string>
