@@ -3891,7 +3891,7 @@ Per a un millor rendiment, us recomanem que utilitzeu un ^1 més ràpid."</strin
   <string name="sync_enabled">Sincronització activada</string>
   <string name="sync_error">Error de sincronització</string>
   <string name="sync_failed">La sincronització ha fallat</string>
-  <string name="sync_in_progress">S\'està sincronitzant&#8230;</string>
+  <string name="sync_in_progress">S\'està sincronitzant…</string>
   <string name="sync_is_failing">Hi ha problemes amb la sincronització. Aviat tornarà a estar disponible.</string>
   <string name="sync_menu_sync_cancel">Cancel·la la sincronització</string>
   <string name="sync_menu_sync_now">Sincronitza\'l ara</string>
@@ -4317,7 +4317,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="vibrate_in_silent_title">Vibra en mode silenci</string>
   <string name="vibrate_input_devices">Activa la vibració</string>
   <string name="vibrate_input_devices_summary">Si està connectat, redirigeix la vibració al controlador de jocs.</string>
-  <string name="vibrate_on_touch_title">Vibrar en tocar</string>
+  <string name="vibrate_on_touch_title">Vibra en tocar</string>
   <string name="vibrate_when_ringing_title">Vibra amb el so de trucada</string>
   <string name="vip_list">Permet trucades entrants</string>
   <string name="virtual_keyboard_category">Teclat virtual</string>
