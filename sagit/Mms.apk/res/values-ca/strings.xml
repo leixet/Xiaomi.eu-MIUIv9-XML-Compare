@@ -327,7 +327,7 @@
   <string name="mx_recommend_msg">Toqueu per activar Missatge Mi.</string>
   <string name="mx_stranger_recommend_msg">Toqueu per bloquejar Missatges Mi de números desconeguts</string>
   <string name="mx_type_guide">Missatge Mi li permet enviar missatges a altres usuaris de MIUI de franc</string>
-  <string name="need_download">S\'està sincronitzant&#8230;</string>
+  <string name="need_download">S\'està sincronitzant…</string>
   <string name="networking_allow_continue">Permet</string>
   <string name="networking_allow_desc">El Mi Message necessita connectar-se a Internet per funcionar amb normalitat. Per proporcionar serveis de veu i de text gratuïts, reconèixer números desconeguts, filtrar correu no desitjat i habilitar altres funcions, el Mi Message ha d\'utilitzar les pàgines grogues. Voleu permetre que les pàgines grogues es connectin a Internet, obtinguin la vostra informació d\'ubicació i llegeixin els vostres contactes?</string>
   <string name="networking_allow_desc_without_mx">El Mi Message necessita connectar-se a Internet per funcionar amb normalitat. Per tal de reconèixer números desconeguts, filtrar correu no desitjat i habilitar altres funcions, el Mi Message necessita utilitzar les pàgines grogues. Voleu permetre que les pàgines grogues es connectin a Internet, obtinguin la vostra informació d\'ubicació i llegeixin els vostres contactes?</string>
