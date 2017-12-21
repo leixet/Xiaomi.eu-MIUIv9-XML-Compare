@@ -279,6 +279,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="app_restrictions_custom_label">Estableix restriccions d\'aplicació</string>
   <string name="app_sees_restricted_accounts">L\'aplicació pot accedir als comptes</string>
   <string name="app_sees_restricted_accounts_and_controlled_by">L\'aplicació pot accedir als comptes. Controlat per %1$s</string>
+  <string name="app_settings_link">Configuració addicional a l\'aplicació</string>
   <string name="app_special_disable_dlg_text">Si la desactiveu es suprimiran les dades i podria ser que altres aplicacions no funcionessin correctament.</string>
   <string name="app_special_disable_dlg_title">Voleu eliminar les dades i desactivar l\'aplicació?</string>
   <string name="app_switch_key">Recents</string>
@@ -502,8 +503,10 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="bluetooth_ask_enablement_and_discovery_detected">" vol activar el Bluetooth i fer el telèfon visible a altres dispositius durant %1$d segons."</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery">Una aplicació vol activar el Bluetooth i fer el telèfon visible a altres dispositius. Es pot modificar des de la configuració de Bluetooth.</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" vol activar el Bluetooth i fer el telèfon visible a altres dispositius. Es pot modificar des de la configuració de Bluetooth."</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">Una aplicació vol activar el Bluetooth i fer que el telèfon estigui visible per a altres dispositius. Podeu canviar això més tard a la configuració del Bluetooth.</string>
   <string name="bluetooth_ask_enablement_detected">" vol activar el Bluetooth."</string>
   <string name="bluetooth_ask_lasting_discovery">Una aplicació vol activar el Bluetooth i fer el telèfon visible a altres dispositius. Es pot modificar des de la configuració de Bluetooth.</string>
+  <string name="bluetooth_ask_lasting_discovery_no_name">Una aplicació vol fer que el telèfon estigui visible per a altres dispositius Bluetooth. Podeu canviar això més tard a la configuració del Bluetooth.</string>
   <string name="bluetooth_auto_connect">Connexió automàtica</string>
   <string name="bluetooth_broadcasting">Difusió</string>
   <string name="bluetooth_confirm_passkey_msg">Per a vincular amb:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Comproveu que es mostra el codi:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
@@ -1416,6 +1419,9 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="enterprise_privacy_always_on_vpn_personal">La VPN sempre encesa s\'ha activat al vostre perfil personal</string>
   <string name="enterprise_privacy_always_on_vpn_work">La VPN sempre encesa s\'ha activat al vostre perfil laboral</string>
   <string name="enterprise_privacy_failed_password_wipe_work">S\'ha produït un error en els intents de contrasenya abans de suprimir les dades del perfil laboral</string>
+  <string name="enterprise_privacy_header">"Per proporcionar accés a les vostres dades de treball, l\'organització pot canviar la configuració i instal·lar el programari al dispositiu.
+
+Per obtenir més informació, contacteu amb l\'administrador de l\'organització."</string>
   <string name="enterprise_privacy_microphone_access">Permisos de micròfon</string>
   <string name="erase_application">Suprimeix les aplicacions</string>
   <string name="erase_application_description">Suprimeix les aplicacions baixades</string>
