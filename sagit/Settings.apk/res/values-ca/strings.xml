@@ -158,6 +158,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="admin_profile_owner_user_message">"L'administrador pot supervisar i gestionar les aplicacions i les dades associades d'aquest usuari, inclosos la configuració, els permisos, l'accés corporatiu, l'activitat de xarxa i la informació d'ubicació del dispositiu."</string>
   <string name="admin_support_more_info">Més detalls</string>
   <string name="advanced_apps">Avançat</string>
+  <string name="advanced_battery_title">Ús avançat de la bateria</string>
   <string name="advanced_section_header">Avançat</string>
   <string name="advanced_security_title">Avançat</string>
   <string name="advanced_settings">Configuració addicional</string>
@@ -328,6 +329,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="audio_record_proc_title">Redueix la fressa de fons</string>
   <string name="auto_brightness_summary">Optimitza el nivell de brillantor segons la llum</string>
   <string name="auto_brightness_title">Brillantor adaptativa</string>
+  <string name="auto_brightness_very_high_summary">Augment de l\'ús de la bateria</string>
   <string name="auto_caps">Majúscules automàtiques</string>
   <string name="auto_caps_summary">Primera lletra de les frases en majúscula</string>
   <string name="auto_disable_screenbuttons_ask">Demana\'m si ho vull deshabilitar</string>
@@ -1423,6 +1425,8 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
 
 Per obtenir més informació, contacteu amb l\'administrador de l\'organització."</string>
   <string name="enterprise_privacy_microphone_access">Permisos de micròfon</string>
+  <string name="enterprise_privacy_settings_summary_generic">Els canvis i les configuracions són administrades per l\'organització</string>
+  <string name="enterprise_privacy_settings_summary_with_name">Els canvis i les configuracions són administrades per %s</string>
   <string name="erase_application">Suprimeix les aplicacions</string>
   <string name="erase_application_description">Suprimeix les aplicacions baixades</string>
   <string name="erase_data">Esborra</string>
