@@ -342,7 +342,7 @@ Allibereu %s com a mínim"</string>
   <string name="total_num">%d elements,</string>
   <string name="total_size">, %s</string>
   <string name="trans_backingup">S\'està copiant&#8230;</string>
-  <string name="trans_backingup_no_items">S\'està sincronitzant&#8230;</string>
+  <string name="trans_backingup_no_items">S\'està sincronitzant…</string>
   <string name="trans_button_cancel">Cancel·la</string>
   <string name="trans_calculating">S\'està calculant&#8230;</string>
   <string name="trans_calculating_app_sd_size">S\'està calculant la mida: %s</string>
