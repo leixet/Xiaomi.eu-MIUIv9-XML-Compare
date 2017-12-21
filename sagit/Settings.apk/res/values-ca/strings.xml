@@ -1494,6 +1494,8 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="fingerprint_not_recognized">No s\'ha reconegut</string>
   <string name="fingerprint_payment">Pagaments amb l\'empremta</string>
   <string name="fingerprint_removal_failed">"No s'ha pogut suprimir l'empremta, torneu-hi"</string>
+  <string name="fingerprint_swipe_for_notifications_summary">Per comprovar les notificacions, llisqueu el dit cap avall al sensor d\'empremtes a la part posterior del telèfon.</string>
+  <string name="fingerprint_swipe_for_notifications_title">Llisqueu el dit per a les notificacions</string>
   <string name="fingerprint_unlock_set_unlock_password">Empremta + Contrasenya</string>
   <string name="fingerprint_unlock_set_unlock_pattern">Empremta + Patró</string>
   <string name="fingerprint_unlock_set_unlock_pin">Empremta + PIN</string>
@@ -3302,7 +3304,7 @@ Per fer-ho:
   <string name="search_usb_tethering_button_text">USB compartit;compartit;USB</string>
   <string name="search_user_agreement">Termes del servei</string>
   <string name="search_user_dict_settings_title">Diccionari personal</string>
-  <string name="search_vibrate_in_silent_title">Vibra en silenci</string>
+  <string name="search_vibrate_in_silent_title">Vibra en silenci;vibra;vibració</string>
   <string name="search_vibrate_on_touch_title">Activa Vibra en prémer;Vibra en prémer;vibra;vibració</string>
   <string name="search_vibrate_when_ringing_title">Vibra amb el so de trucada;vibra;vibració</string>
   <string name="search_virtual_sim">Dades mòbils internacionals;Itinerància de dades;Itinerància de dades mòbils</string>
