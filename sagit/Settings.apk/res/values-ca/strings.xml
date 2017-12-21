@@ -76,6 +76,7 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
   <string name="accessibility_service_default_description">Sense descripció.</string>
   <string name="accessibility_settings">Facilitat d\'accés</string>
   <string name="accessibility_settings_title">Configuració de Facilitat d\'accés</string>
+  <string name="accessibility_shortcut_service_on_lock_screen_title">Permet des de la pantalla de bloqueig</string>
   <string name="accessibility_sync_disabled">Sincronització desactivada</string>
   <string name="accessibility_sync_enabled">Sincronització activada</string>
   <string name="accessibility_sync_error">S\'ha produït un error de sincronització.</string>
@@ -1499,6 +1500,7 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="fingerprint_unlock_set_unlock_password">Empremta + Contrasenya</string>
   <string name="fingerprint_unlock_set_unlock_pattern">Empremta + Patró</string>
   <string name="fingerprint_unlock_set_unlock_pin">Empremta + PIN</string>
+  <string name="fingerprint_unlock_title">Podeu desbloquejar el telèfon amb l\'empremta. Per seguretat, aquesta opció requereix una còpia de seguretat del bloqueig de la pantalla.</string>
   <string name="fingerprint_usage_category_title">Ús de les empremtes per</string>
   <string name="finish_application">Força el tancament</string>
   <string name="finish_button">Finalitza</string>
