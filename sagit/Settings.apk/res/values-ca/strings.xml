@@ -1642,7 +1642,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="gadget_sync">Sincronitza</string>
   <string name="gadget_title">Control d\'energia</string>
   <string name="gadget_toggle_bluetooth">S\'està actualitzant la configuració de Bluetooth</string>
-  <string name="gadget_toggle_wifi">S\'està actualitzant la configuració Wi-Fi</string>
+  <string name="gadget_toggle_wifi">Actualització de la configuració Wi-Fi</string>
   <string name="gadget_wifi">Wi-Fi</string>
   <string name="gallery_privacy_password_role_instruction">Les fotos privades es desaran aquí.</string>
   <string name="game_controller_settings_category">Controlador de jocs</string>
