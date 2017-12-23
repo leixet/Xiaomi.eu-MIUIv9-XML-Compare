@@ -3927,6 +3927,8 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="sim_lock_on">Per a utilitzar el telèfon cal un PIN</string>
   <string name="sim_lock_settings">Configuració del bloqueig de la SIM</string>
   <string name="sim_lock_settings_category">Configuració del bloqueig de la SIM</string>
+  <string name="sim_lock_settings_summary_off">Desactivat</string>
+  <string name="sim_lock_settings_summary_on">Bloquejat</string>
   <string name="sim_lock_settings_title">Bloqueig de la SIM</string>
   <string name="sim_management_title">Targetes SIM i xarxes mòbils</string>
   <string name="sim_management_title_cr_kolbi">Targetes SIM i xarxes mòbils</string>
