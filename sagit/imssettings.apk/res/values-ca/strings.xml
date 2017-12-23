@@ -16,6 +16,7 @@
   <string name="ims_vt_call_static_image_ignore">No es pot canviar la imatge estàtica durant una trucada</string>
   <string name="ims_vt_call_static_image_okay">Imatge estàtica seleccionada</string>
   <string name="ims_vt_call_static_image_text">Seleccioneu la imatge estàtica</string>
+  <string name="qti_ims_call_deflect_title">Número de desviació de trucada</string>
   <string name="qti_ims_number_not_set">No s\'ha establert</string>
   <string name="rtt_toggle_summary">Mode RTT</string>
 </resources>
