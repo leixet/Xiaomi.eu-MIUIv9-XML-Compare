@@ -3049,6 +3049,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="print_searching_for_printers">S\'estan cercant impressores</string>
   <string name="print_service_disabled">El servei s\'ha desactivat</string>
   <string name="print_settings">Impressió</string>
+  <string name="print_settings_summary_no_service">Desactivat</string>
+  <string name="print_settings_title">Serveis d\'impressió</string>
   <string name="printer_info_desc">Més informació sobre aquesta impressora</string>
   <string name="priority_storage_app_settings">Les dades de %1$s es guardaran en</string>
   <string name="priority_storage_settings_summary">"Si no es detecta cap SD, les dades d'usuari seran guardades de forma automàtica a l'emmagatzematge intern del dispositiu"</string>
@@ -3157,6 +3159,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="proxy_settings_label">Configuració del proxy</string>
   <string name="proxy_settings_title">Servidor intermediari</string>
   <string name="proxy_warning_limited_support">El navegador utilitza el servidor intermediari HTTP però és possible que altres aplicacions no l\'utilitzin.</string>
+  <string name="qtifeedback_settings_subtitle">Informes de Qualcomm Technologies</string>
+  <string name="qtifeedback_settings_title">Comentaris sobre el maquinari</string>
   <string name="query_hint_text">Configuració de la cerca</string>
   <string name="quiet">Mode No molesteu</string>
   <string name="quiet_group">Mode No molesteu</string>
@@ -3167,6 +3171,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="radioInfo_data_connecting">S\'està connectant</string>
   <string name="radioInfo_data_disconnected">Desconnectat</string>
   <string name="radioInfo_data_suspended">Suspesa</string>
+  <string name="radioInfo_menu_getIMS">Estat del servei MI</string>
   <string name="radioInfo_menu_viewADN">Visualitza el llibre d\'adreces de la SIM</string>
   <string name="radioInfo_menu_viewFDN">Mostra els números de marcatge fix</string>
   <string name="radioInfo_menu_viewSDN">Mostra els números de marcatge de serveis</string>
@@ -3196,6 +3201,16 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="radio_info_gprs_service_label">Servei GPRS:</string>
   <string name="radio_info_gsm_service_label">Servei GSM:</string>
   <string name="radio_info_http_client_test">Prova de client HTTP:</string>
+  <string name="radio_info_ims_feature_status_available">Disponible</string>
+  <string name="radio_info_ims_feature_status_unavailable">No disponible</string>
+  <string name="radio_info_ims_reg_status">"Registre MI: %1$s
+Veu sobre LTE: %2$s
+Veu sobre Wi-Fi: %3$s
+Videotrucada: %4$s
+Interfície UT: %5$s"</string>
+  <string name="radio_info_ims_reg_status_not_registered">No registrat</string>
+  <string name="radio_info_ims_reg_status_registered">Registrat</string>
+  <string name="radio_info_ims_reg_status_title">Estat MI</string>
   <string name="radio_info_message_waiting_label">Espera de missatges:</string>
   <string name="radio_info_neighboring_location_label">CID propers:</string>
   <string name="radio_info_phone_number_label">Número de telèfon:</string>
@@ -3228,6 +3243,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="recommend_item_4">Auriculars</string>
   <string name="recommend_item_title">Recomanacions</string>
   <string name="recompute_size">S\'està tornant a calcular la mida&#8230;</string>
+  <string name="regulatory_labels">Etiquetes reguladores</string>
   <string name="remaining_length_format">Falten %1$s</string>
   <string name="remove_account_failed">"L'administrador no permet aquest canvi"</string>
   <string name="remove_account_label">Suprimeix el compte</string>
@@ -3253,6 +3269,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
 
  No es perdran les dades de les aplicacions."</string>
   <string name="reset_app_preferences_title">Voleu restablir les preferències de l\'aplicació?</string>
+  <string name="reset_dashboard_title">Restableix</string>
   <string name="reset_legacy_password_settings_preface_text">Heu de canviar la contrasenya de la pantalla de bloqueig.</string>
   <string name="reset_network_button_text">Reinicia la configuració</string>
   <string name="reset_network_complete_toast">S\'ha restablert la configuració de la xarxa</string>
@@ -3287,12 +3304,18 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="restriction_settings_title">Restriccions</string>
   <string name="restriction_wifi_config_summary">Permet modificar la configuració de la Wi-Fi i de la xarxa mòbil</string>
   <string name="restriction_wifi_config_title">Wi-Fi i xarxes mòbils</string>
+  <string name="retail_demo_reset_message">Introduïu la contrasenya per realitzar la restauració de fàbrica en mode demostració</string>
+  <string name="retail_demo_reset_next">Següent</string>
+  <string name="retail_demo_reset_title">Es requereix la contrasenya</string>
   <string name="retry">Torna-ho a provar</string>
   <string name="ring_volume_option_title">Volum del so de la trucada</string>
   <string name="ring_volume_title">Volum del so de la trucada</string>
   <string name="ringtone_slot_setting_title">Configuració de SIM única</string>
   <string name="ringtone_title">To de trucada del telèfon</string>
   <string name="ringtone_uniform_setting_title">Configuració de SIM dual</string>
+  <string name="ringtones_category_preference_title">Tons</string>
+  <string name="ringtones_install_custom_sound_content">Aquest fitxer es copiarà a la carpeta %s</string>
+  <string name="ringtones_install_custom_sound_title">Voleu afegir un so personalitzat?</string>
   <string name="roaming">Dades en itinerància</string>
   <string name="roaming_disable">Connecta a serveis de dades en itinerància</string>
   <string name="roaming_enable">Connecta a serveis de dades en itinerància</string>
@@ -3328,6 +3351,7 @@ Aquesta configuració afecta tots els usuaris del telèfon.»</string>
   <string name="runningservices_settings_title">Tasques en execució</string>
   <string name="runtime_permissions_summary_no_permissions_granted">No s\'ha concedit cap permís</string>
   <string name="runtime_permissions_summary_no_permissions_requested">No s\'ha sol·licitat cap permís</string>
+  <string name="safety_and_regulatory_info">Manual de seguretat i regulació</string>
   <string name="save">Desa</string>
   <string name="saved_network">Desat per %1$s</string>
   <string name="saved_wifi">Xarxes desades</string>
@@ -3403,6 +3427,7 @@ Per fer-ho:
   <string name="screen_pinning_unlock_password">Demana el codi PIN per anul·lar el fixat</string>
   <string name="screen_pinning_unlock_pattern">Demana el patró de desbloqueig per anul·lar el fixat</string>
   <string name="screen_pinning_unlock_pin">Demana el codi PIN per anul·lar el fixat</string>
+  <string name="screen_reader_category_title">Lectors de pantalla</string>
   <string name="screen_resolution_dialog_title">Canvia la resolució</string>
   <string name="screen_resolution_high_format">Alta (%1$s)</string>
   <string name="screen_resolution_summary">"Si baixeu la resolució de la pantalla pot augmentar la vida de la bateria i la velocitat del sistema, però les imatges en pantalla poden ser menys clares. Heu de reiniciar el dispositiu per aplicar aquest canvi."</string>
@@ -3414,6 +3439,7 @@ Per fer-ho:
   <string name="screen_timeout">En repòs</string>
   <string name="screen_timeout_summary">Després de %1$s d\'inactivitat</string>
   <string name="screen_timeout_title">Mode suspensió</string>
+  <string name="screen_usage_summary">Quantitat de de temps que ha funcionat la pantalla des de la càrrega completa</string>
   <string name="screen_zoom_conversation_message_1">Ei, Pau!</string>
   <string name="screen_zoom_conversation_message_2">Vols anar a fer el toc i parlem?</string>
   <string name="screen_zoom_conversation_message_3">I tant, ja sé on podem anar.</string>
