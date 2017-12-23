@@ -3462,11 +3462,13 @@ Per fer-ho:
   <string name="screen_zoom_summary_very_large">Més grossa</string>
   <string name="screen_zoom_title">Mida de visualització</string>
   <string name="screensaver_settings_button">Configuració</string>
+  <string name="screensaver_settings_current">Estalvi de pantalla actual</string>
   <string name="screensaver_settings_disabled_prompt">Per a controlar què passa quan el telèfon està acoblat i/o en repòs, activeu el Daydream.</string>
   <string name="screensaver_settings_dream_start">Inicia</string>
   <string name="screensaver_settings_summary_dock">Mentre està acoblat</string>
   <string name="screensaver_settings_summary_either_long">Quan és en el dock o en repòs i s\'està carregant</string>
   <string name="screensaver_settings_summary_either_short">Ambdós</string>
+  <string name="screensaver_settings_summary_never">Mai</string>
   <string name="screensaver_settings_summary_off">Apagat</string>
   <string name="screensaver_settings_summary_sleep">Mentre s\'està carregant</string>
   <string name="screensaver_settings_title">Daydream</string>
@@ -3633,6 +3635,7 @@ Per fer-ho:
   <string name="search_security_privacy_settings_title">Privadesa;Seguretat;Fonts desconegudes;Mostra contrasenya;Signatura de l\'aplicació;Signatures de les aplicacions;Esborra credencials;Esborra credencial</string>
   <string name="search_security_settings">Configuració de privadesa</string>
   <string name="search_settings">Cerca</string>
+  <string name="search_settings_no_results">Sense resultats</string>
   <string name="search_settings_summary">Gestiona la configuració i l\'historial de cerca</string>
   <string name="search_silent_mode_title">Mode en silenci;silenci;silenci;mut</string>
   <string name="search_sim_management_title">Xarxes mòbils;Dades mòbils;Dades mòbils;Dades;Itinerància en ultramar;Itinerància;Recepció de MMS;Xarxes mòbils;</string>
