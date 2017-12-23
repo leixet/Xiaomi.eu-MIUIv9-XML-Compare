@@ -346,6 +346,8 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="tether_settings_title_usb">Internet compartit per USB</string>
   <string name="tether_settings_title_usb_bluetooth">Connexió compartida</string>
   <string name="tether_settings_title_wifi">Punt d\'accés portàtil</string>
+  <string name="tethering_hardware_offload">Acceleració del maquinari de l\'ancoratge</string>
+  <string name="tethering_hardware_offload_summary">Utilitza l\'acceleració del maquinari de l\'ancoratge si està disponible</string>
   <string name="tethering_settings_not_available">La configuració d\'ancoratge no està disponible per a aquest usuari</string>
   <string name="title_convert_fbe">S\'està convertint a xifrat basat en fitxers</string>
   <string name="toast_personal_call_msg">Utilitzeu un marcador personalitzat</string>
