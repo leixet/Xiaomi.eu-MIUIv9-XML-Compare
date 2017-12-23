@@ -1610,13 +1610,30 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="enterprise_privacy_ca_certs">Credencials de confiança</string>
   <string name="enterprise_privacy_camera_access">Permisos de la càmera</string>
   <string name="enterprise_privacy_device_access_category">El vostre accés a aquest dispositiu</string>
+  <string name="enterprise_privacy_enterprise_data">Dades associades al vostre compte de treball, com ara el correu i el calendari</string>
+  <string name="enterprise_privacy_enterprise_installed_packages">Aplicacions instal·lades</string>
+  <string name="enterprise_privacy_enterprise_set_default_apps">Aplicacions per defecte</string>
+  <string name="enterprise_privacy_exposure_category">Tipus d\'informació que l\'organització pot veure</string>
+  <string name="enterprise_privacy_exposure_changes_category">"Canvis realitzats per l'administrador de l'organització"</string>
+  <string name="enterprise_privacy_failed_password_wipe_device">S\'ha produït un error en provar la contrasenya abans de suprimir totes les dades del dispositiu</string>
   <string name="enterprise_privacy_failed_password_wipe_work">S\'ha produït un error en els intents de contrasenya abans de suprimir les dades del perfil laboral</string>
   <string name="enterprise_privacy_header">"Per proporcionar accés a les vostres dades de treball, l\'organització pot canviar la configuració i instal·lar el programari al dispositiu.
 
 Per obtenir més informació, contacteu amb l\'administrador de l\'organització."</string>
+  <string name="enterprise_privacy_input_method">Teclat per defecte</string>
+  <string name="enterprise_privacy_input_method_name">Estableix a %s</string>
+  <string name="enterprise_privacy_installed_packages">Llista d\'aplicacions al dispositiu</string>
+  <string name="enterprise_privacy_location_access">Permisos d\'ubicació</string>
+  <string name="enterprise_privacy_lock_device">L\'administrador pot bloquejar el dispositiu i restablir la contrasenya</string>
   <string name="enterprise_privacy_microphone_access">Permisos de micròfon</string>
+  <string name="enterprise_privacy_network_logs">Registre de trànsit de la xarxa més recent</string>
+  <string name="enterprise_privacy_none">Cap</string>
+  <string name="enterprise_privacy_security_logs">Registre de seguretat més recent</string>
+  <string name="enterprise_privacy_settings">Informació del dispositiu gestionat</string>
   <string name="enterprise_privacy_settings_summary_generic">Els canvis i les configuracions són administrades per l\'organització</string>
   <string name="enterprise_privacy_settings_summary_with_name">Els canvis i les configuracions són administrades per %s</string>
+  <string name="enterprise_privacy_usage_stats">Quantitat de temps i dades utilitzades a cada aplicació</string>
+  <string name="enterprise_privacy_wipe_device">L\'administrador pot eliminar totes les dades del dispositiu</string>
   <string name="erase_application">Suprimeix les aplicacions</string>
   <string name="erase_application_description">Suprimeix les aplicacions baixades</string>
   <string name="erase_data">Esborra</string>
@@ -1634,6 +1651,8 @@ Per obtenir més informació, contacteu amb l\'administrador de l\'organització
   <string name="error_mcc_not3">El camp MCC ha de tenir 3 dígits.</string>
   <string name="error_mnc_not23">El camp MNC ha de tenir 2 o 3 dígits.</string>
   <string name="error_name_empty">El camp Nom no pot quedar buit.</string>
+  <string name="estimated_charging_time_left">Fins que estigui totalment carregat</string>
+  <string name="estimated_time_description">L\'estimació pot variar segons l\'ús</string>
   <string name="ethernet">Ethernet</string>
   <string name="ethernet_data_template">%1$s dades Ethernet</string>
   <string name="ethernet_data_usage">Ús de dades Ethernet</string>
