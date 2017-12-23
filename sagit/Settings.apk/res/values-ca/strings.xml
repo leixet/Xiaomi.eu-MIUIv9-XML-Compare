@@ -1515,6 +1515,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»"</string>
   <string name="double_click_power_key">Premeu dues vegades el botó d\'encesa</string>
   <string name="double_tap_power_for_camera_summary">Per obrir la càmera ràpidament, premeu el botó d\'encesa dues vegades. Funciona des de qualsevol pantalla.</string>
   <string name="double_tap_power_for_camera_title">Salta a la càmera</string>
+  <string name="double_twist_for_camera_mode_title">Gira la càmera</string>
   <string name="download_current_rom">Aconsegueix la darrera versió de MIUI</string>
   <string name="downloading_description">S\'està baixant…</string>
   <string name="doze_summary">La pantalla es reactiva en agafar el dispositiu o en rebre notificacions</string>
@@ -1535,6 +1536,9 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»"</string>
   <string name="edit_rule">Edita les regles</string>
   <string name="edit_rules">Edita</string>
   <string name="eighthours">8 hores</string>
+  <string name="emergency_address_summary">Adreça utilitzada pels serveis d\'emergència com a ubicació si feu una trucada al 112 mitjançant la xarxa Wi-Fi</string>
+  <string name="emergency_address_title">Actualització de l\'adreça d\'emergència</string>
+  <string name="emergency_info_summary">Informació i contactes per %1$s</string>
   <string name="emergency_info_title">Informació d\'emergència</string>
   <string name="emergency_tone_alert">Avís</string>
   <string name="emergency_tone_silent">Silenciosa</string>
@@ -1568,6 +1572,8 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»"</string>
   <string name="encrypt_talkback_dialog_require_password">Cal una contrasenya?</string>
   <string name="encrypt_talkback_dialog_require_pattern">Cal un patró?</string>
   <string name="encrypt_talkback_dialog_require_pin">Cal un PIN?</string>
+  <string name="encryption_and_credential_settings_summary">Telèfon xifrat</string>
+  <string name="encryption_and_credential_settings_title">Xifratge i credencials</string>
   <string name="encryption_continue_button">Continua</string>
   <string name="encryption_interstitial_header">Inici segur</string>
   <string name="encryption_interstitial_message_password">«Podeu protegir més aquest dispositiu fent que demani la contrasenya abans que s\'engegui. Fins que el dispositiu no es posa en marxa, no pot rebre trucades, missatges o notificacions, incloses les alarmes. 
@@ -1588,14 +1594,21 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="encryption_interstitial_message_pin_for_fingerprint">«A més d\'utilitzar l\'empremta per a desbloquejar el dispositiu, encara podeu protegir més aquest dispositiu fent que demani el PIN abans que s\'engegui. Fins que el dispositiu no es posa en marxa, no pot rebre trucades, missatges, o notificacions, incloses les alarmes.
 
 Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
+  <string name="encryption_interstitial_no">No</string>
+  <string name="encryption_interstitial_yes">Sí</string>
   <string name="encryption_progress_summary">"S'està xifrant, no reinicieu el dispositiu."</string>
   <string name="enhanced_4g_lte_mode_summary">Permet fer servir dades de LTE per millorar la veu i les comunicacions (opció recomanada)</string>
   <string name="enhanced_4g_lte_mode_title">Mode 4G LTE millorat</string>
   <string name="enter_password">Introduïu la contrasenya per a desxifrar el dispositiu un cop reiniciat</string>
   <string name="enter_pattern">Dibuixeu el patró per a desxifrar el dispositiu un cop reiniciat</string>
   <string name="enter_pin">Introduïu el Pin per a desxifrar el dispositiu un cop reiniciat</string>
+  <string name="enterprise_privacy_always_on_vpn_device">VPN sempre encesa activada</string>
   <string name="enterprise_privacy_always_on_vpn_personal">La VPN sempre encesa s\'ha activat al vostre perfil personal</string>
   <string name="enterprise_privacy_always_on_vpn_work">La VPN sempre encesa s\'ha activat al vostre perfil laboral</string>
+  <string name="enterprise_privacy_apps_count_estimation_info">El número d\'aplicacions és estimat. No podeu incloure aplicacions instal·lades fora de la Play Store.</string>
+  <string name="enterprise_privacy_bug_reports">Informe de fallides més recent</string>
+  <string name="enterprise_privacy_ca_certs">Credencials de confiança</string>
+  <string name="enterprise_privacy_camera_access">Permisos de la càmera</string>
   <string name="enterprise_privacy_failed_password_wipe_work">S\'ha produït un error en els intents de contrasenya abans de suprimir les dades del perfil laboral</string>
   <string name="enterprise_privacy_header">"Per proporcionar accés a les vostres dades de treball, l\'organització pot canviar la configuració i instal·lar el programari al dispositiu.
 
