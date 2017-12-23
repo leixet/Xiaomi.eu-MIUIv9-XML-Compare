@@ -4611,6 +4611,8 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="usb_summary_MIDI">Ús del dispositiu com a MIDI</string>
   <string name="usb_summary_charging_only">S\'està carregant aquest dispositiu</string>
   <string name="usb_summary_file_transfers">Transferència de fitxers</string>
+  <string name="usb_summary_photo_transfers">Transferència de fotos (PTP)</string>
+  <string name="usb_summary_power_only">Subministrament d\'energia</string>
   <string name="usb_tethering_active_subtext">Connexió compartida</string>
   <string name="usb_tethering_available_subtext">S\'ha connectat l\'USB, activa-ho per a compartir-lo</string>
   <string name="usb_tethering_button_text">Connexió compartida per USB</string>
@@ -4631,6 +4633,8 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="usb_use_power_only_desc">Subministra corrent a l\'altre dispositiu connectat</string>
   <string name="use_location_summary">Permet que Google utilitzi la ubicació per millorar els resultats de les cerques i altres serveis</string>
   <string name="use_location_title">Ubicació i cerca de Google</string>
+  <string name="use_open_wifi_automatically_summary">Connecta automàticament a xarxes públiques de gran qualitat</string>
+  <string name="use_open_wifi_automatically_title">Connecteu-vos a xarxes obertes</string>
   <string name="use_personalized_ad_service">Anuncis personalitzats</string>
   <string name="use_privacy_password_immediate">Utilitza</string>
   <string name="use_system_language_to_select_input_method_subtypes">Utilitza l\'idioma del sistema</string>
@@ -4662,6 +4666,7 @@ Qualsevol usuari pot acceptar una actualització de permisos d\'una aplicació e
   <string name="user_confirm_remove_self_message">Perdreu l\'espai i les dades del telèfon. No podreu recuperar-lo.</string>
   <string name="user_confirm_remove_self_title">Voleu suprimir el vostre compte?</string>
   <string name="user_confirm_remove_title">Voleu suprimir l\'usuari?</string>
+  <string name="user_credential_none_installed">No s\'ha instal·lat cap credencial d\'usuari</string>
   <string name="user_credential_removed">Credencials eliminades: %s</string>
   <string name="user_credential_title">Detalls de les credencials</string>
   <string name="user_credentials">Credencials d\'usuari</string>
@@ -4705,6 +4710,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="user_image_photo_selector">Selecciona una foto</string>
   <string name="user_image_take_photo">Fes una foto</string>
   <string name="user_info_settings_title">Informació de l\'usuari</string>
+  <string name="user_installed_services_category_title">Serveis baixats</string>
   <string name="user_list_title">Usuaris i perfils</string>
   <string name="user_lockscreen_settings">Configuració de la pantalla de bloqueig</string>
   <string name="user_need_lock_message">Per crear un perfil restringit, heu de configurar una pantalla de bloqueig per protegir les aplicacions i les dades personals.</string>
@@ -4732,6 +4738,8 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="user_summary_restricted_not_set_up">No s\'ha configurat el perfil amb restriccions</string>
   <string name="user_summary_restricted_profile">Perfil amb restriccions</string>
   <string name="user_you">Tu (%s)</string>
+  <string name="users_and_accounts_summary">Usuari actual: %1$s</string>
+  <string name="users_summary">Sessió iniciada com a %1$s</string>
   <string name="v7_preference_off">DESACTIVA</string>
   <string name="v7_preference_on">Activat</string>
   <string name="verify_apps_over_usb_summary">Comprova les aplicacions instal·lades mitjançant ADB/ADT per detectar possibles comportaments perillosos.</string>
@@ -4810,6 +4818,14 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="volume_ring_mute">Silencia els sons i les notificacions</string>
   <string name="volume_system_description">Càmera, bloqueig de pantalla i altres notificacions del sistema</string>
   <string name="volume_voice_description">Volum de la trucada</string>
+  <string name="vpn_always_on_invalid_reason_dns">Les adreces del servidor DNS han de ser numèriques per a la VPN sempre activa</string>
+  <string name="vpn_always_on_invalid_reason_no_dns">Cal especificar un servidor DNS per a la VPN sempre activa</string>
+  <string name="vpn_always_on_invalid_reason_other">"La informació introduïda no és compatible amb la VPN sempre activa"</string>
+  <string name="vpn_always_on_invalid_reason_server">La VPN sempre activa només admet adreces numèriques del servidor</string>
+  <string name="vpn_always_on_invalid_reason_type">"Aquest tipus de VPN no pot estar connectat en tot moment"</string>
+  <string name="vpn_always_on_summary">Roman connectat a VPN en tot moment</string>
+  <string name="vpn_always_on_summary_active">Sempre activa</string>
+  <string name="vpn_always_on_summary_not_supported">No és compatible amb aquesta aplicació</string>
   <string name="vpn_cancel">Cancel·la</string>
   <string name="vpn_cant_connect_message">"Aquesta aplicació no és compatible amb una VPN sempre activada."</string>
   <string name="vpn_cant_connect_title">"No s'ha pogut connectar %1$s"</string>
@@ -4819,10 +4835,13 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="vpn_create">Afegeix una VPN</string>
   <string name="vpn_disconnect">Desconnecta</string>
   <string name="vpn_disconnect_confirm">Desconnecta aquesta VPN.</string>
+  <string name="vpn_disconnected">Desconnectat de la VPN</string>
+  <string name="vpn_disconnected_summary">Cap</string>
   <string name="vpn_dns_servers">Servidors DNS</string>
   <string name="vpn_dns_servers_hint">ex. 8.8.8.8</string>
   <string name="vpn_done">Omet</string>
   <string name="vpn_edit">Edita el perfil de la VPN</string>
+  <string name="vpn_first_always_on_vpn_message">"En activar aquesta configuració, no tindreu connexió a Internet fins que la VPN es connecti correctament"</string>
   <string name="vpn_forget">Oblida-la</string>
   <string name="vpn_forget_long">Oblida la VPN</string>
   <string name="vpn_ipsec_ca_cert">Certificat IPSec CA</string>
@@ -4850,6 +4869,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="vpn_on">Activada</string>
   <string name="vpn_password">Contrasenya</string>
   <string name="vpn_replace">Reemplaça</string>
+  <string name="vpn_replace_always_on_vpn_disable_message">"Ja esteu connectat a una VPN sempre activa. Si us connecteu a una altre, la seva VPN existent serà reemplaçada i el mode sempre activat s'apagarà."</string>
   <string name="vpn_routes">Rutes de reenviament</string>
   <string name="vpn_routes_hint">ex. 10.0.0.0/8</string>
   <string name="vpn_safe">Seguretat</string>
