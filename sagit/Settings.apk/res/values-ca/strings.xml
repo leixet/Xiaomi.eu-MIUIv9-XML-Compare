@@ -1609,6 +1609,7 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="enterprise_privacy_bug_reports">Informe de fallides més recent</string>
   <string name="enterprise_privacy_ca_certs">Credencials de confiança</string>
   <string name="enterprise_privacy_camera_access">Permisos de la càmera</string>
+  <string name="enterprise_privacy_device_access_category">El vostre accés a aquest dispositiu</string>
   <string name="enterprise_privacy_failed_password_wipe_work">S\'ha produït un error en els intents de contrasenya abans de suprimir les dades del perfil laboral</string>
   <string name="enterprise_privacy_header">"Per proporcionar accés a les vostres dades de treball, l\'organització pot canviar la configuració i instal·lar el programari al dispositiu.
 
