@@ -546,6 +546,7 @@ Darrera execució el %2$s"</string>
   <string name="battery_saver_turn_on_automatically_never">Mai</string>
   <string name="battery_saver_turn_on_automatically_pct">si la bateria està en %1$s</string>
   <string name="battery_saver_turn_on_automatically_title">Engega automàticament</string>
+  <string name="battery_screen_usage">Ús de pantalla ^ 1</string>
   <string name="battery_settings">Bateria</string>
   <string name="battery_settings_title">Bateria</string>
   <string name="battery_since_reset">Ús de la bateria des del reinici</string>
@@ -570,6 +571,8 @@ Darrera execució el %2$s"</string>
   <string name="battery_sugg_radio">Per estalviar energia en zones sense cobertura activeu el mode d\'avió</string>
   <string name="battery_sugg_wifi">"Apagueu el Wi-Fi quan no l'utilitzeu o no sigui disponible"</string>
   <string name="battery_summary">%1$d%% d\'ús des de la darrera càrrega</string>
+  <string name="battery_used_by">%1$s utilitzat per %2$s</string>
+  <string name="battery_used_for">Utilitzat per ^1</string>
   <string name="bearer">Portadora</string>
   <string name="billing_cycle">Cicle de facturació</string>
   <string name="billing_cycle_fragment_summary">Mensualment, començant el %1$s</string>
@@ -594,14 +597,19 @@ Darrera execució el %2$s"</string>
   <string name="bluetooth_a2dp_profile_summary_connected">S\'ha connectat a un dispositiu d\'àudio</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Per a dispositius d\'àudio</string>
   <string name="bluetooth_advanced_titlebar">Configuració avançada del Bluetooth</string>
+  <string name="bluetooth_ask_disablement">%1$s vol desactivar el Bluetooth</string>
+  <string name="bluetooth_ask_disablement_no_name">Una aplicació vol desactivar el Bluetooth</string>
   <string name="bluetooth_ask_discovery">Una aplicació vol fer visible el telèfon amb altres dispositius Bluetooth durant %1$d segons.</string>
+  <string name="bluetooth_ask_discovery_no_name">Una aplicació vol fer visible el telèfon amb altres dispositius Bluetooth durant %1$d segons.</string>
   <string name="bluetooth_ask_enablement">Una aplicació vol activar el Bluetooth.</string>
   <string name="bluetooth_ask_enablement_and_discovery">Una aplicació vol activar el Bluetooth i fer el telèfon visible a altres dispositius durant %1$d segons.</string>
   <string name="bluetooth_ask_enablement_and_discovery_detected">" vol activar el Bluetooth i fer el telèfon visible a altres dispositius durant %1$d segons."</string>
+  <string name="bluetooth_ask_enablement_and_discovery_no_name">Una aplicació vol activar el Bluetooth i fer el telèfon visible a altres dispositius durant %1$d segons.</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery">Una aplicació vol activar el Bluetooth i fer el telèfon visible a altres dispositius. Es pot modificar des de la configuració de Bluetooth.</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" vol activar el Bluetooth i fer el telèfon visible a altres dispositius. Es pot modificar des de la configuració de Bluetooth."</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">Una aplicació vol activar el Bluetooth i fer que el telèfon estigui visible per a altres dispositius. Podeu canviar això més tard a la configuració del Bluetooth.</string>
   <string name="bluetooth_ask_enablement_detected">" vol activar el Bluetooth."</string>
+  <string name="bluetooth_ask_enablement_no_name">Una aplicació vol activar el Bluetooth</string>
   <string name="bluetooth_ask_lasting_discovery">Una aplicació vol activar el Bluetooth i fer el telèfon visible a altres dispositius. Es pot modificar des de la configuració de Bluetooth.</string>
   <string name="bluetooth_ask_lasting_discovery_no_name">Una aplicació vol fer que el telèfon estigui visible per a altres dispositius Bluetooth. Podeu canviar això més tard a la configuració del Bluetooth.</string>
   <string name="bluetooth_auto_connect">Connexió automàtica</string>
@@ -609,10 +617,12 @@ Darrera execució el %2$s"</string>
   <string name="bluetooth_confirm_passkey_msg">Per a vincular amb:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Comproveu que es mostra el codi:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
   <string name="bluetooth_connect_specific_profiles_title">Connecta amb&#8230;</string>
   <string name="bluetooth_connected">S\'ha connectat</string>
+  <string name="bluetooth_connected_multiple_devices_summary">Connectat a diversos dispositius</string>
   <string name="bluetooth_connected_no_a2dp">S\'ha connectat (sense suports)</string>
   <string name="bluetooth_connected_no_headset">S\'ha connectat (sense telèfon)</string>
   <string name="bluetooth_connected_no_headset_no_a2dp">Connectat (sense telèfon ni dispositiu)</string>
   <string name="bluetooth_connected_no_map">S\'ha connectat (sense accés a missatges)</string>
+  <string name="bluetooth_connected_summary">S\'ha connectat a %1$s</string>
   <string name="bluetooth_connecting">S\'està connectant&#8230;</string>
   <string name="bluetooth_connecting_error_message">No s\'ha pogut connectar a %1$s.</string>
   <string name="bluetooth_connection_dialog_text">Voleu connectar-vos a \"%1$s\"?</string>
@@ -662,6 +672,8 @@ Darrera execució el %2$s"</string>
   <string name="bluetooth_empty_list_bluetooth_off">Amb el Bluetooth activat, el dispositiu podrà comunicar-se amb altres dispositius del voltant.</string>
   <string name="bluetooth_empty_list_user_restricted">No esteu autoritzat a canviar la configuració del Bluetooth.</string>
   <string name="bluetooth_enable_alphanumeric_pin">El PIN conté lletres o símbols</string>
+  <string name="bluetooth_enable_inband_ringing">Activa el so de la banda</string>
+  <string name="bluetooth_enable_inband_ringing_summary">Permet que els tons del telèfon es reprodueixin als auriculars Bluetooth</string>
   <string name="bluetooth_enter_passkey_msg">Teclegeu el codi de vinculació i premeu Enter</string>
   <string name="bluetooth_enter_passkey_other_device">També heu de teclejar el codi a l\'altre dispositiu.</string>
   <string name="bluetooth_enter_pin_other_device">També heu de teclejar el PIN a l\'altre dispositiu.</string>
@@ -728,6 +740,8 @@ Darrera execució el %2$s"</string>
   <string name="bluetooth_preference_paired_dialog_title">Dispositiu vinculat</string>
   <string name="bluetooth_preference_scan_title">Cerca dispositius</string>
   <string name="bluetooth_profile_a2dp">Dispositiu d\'àudio</string>
+  <string name="bluetooth_profile_a2dp_high_quality">Utilitza àudio d\'alta qualitat: %1$s</string>
+  <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Utilitza àudio d\'alta qualitat</string>
   <string name="bluetooth_profile_details">Configuració del perfil</string>
   <string name="bluetooth_profile_dun">Accés a la xarxa telefònica</string>
   <string name="bluetooth_profile_headset">Àudio del telèfon</string>
@@ -750,6 +764,23 @@ Darrera execució el %2$s"</string>
   <string name="bluetooth_scan_for_devices">Cerca dispositius</string>
   <string name="bluetooth_search_for_devices">Cerca dispositius</string>
   <string name="bluetooth_searching_for_devices">S\'està cercant&#8230;</string>
+  <string name="bluetooth_select_a2dp_codec_bits_per_sample">Bits d\'àudio Bluetooth per mostra</string>
+  <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"Seleccioneu un còdec d\'àudio Bluetooth:
+Bits per mostra"</string>
+  <string name="bluetooth_select_a2dp_codec_channel_mode">Mode de canal d\'àudio Bluetooth</string>
+  <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"Seleccioneu un còdec d\'àudio Bluetooth:
+Mode de canal"</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">Còdec LDAC d\'àudio Bluetooth: Qualitat de reproducció</string>
+  <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"Seleccioneu un còdec LDAC d\'àudio Bluetooth:
+Qualitat de reproducció"</string>
+  <string name="bluetooth_select_a2dp_codec_sample_rate">Taxa de mostreig d\'àudio Bluetooth</string>
+  <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"Seleccioneu un còdec d\'àudio Bluetooth:
+Taxa de mostreig"</string>
+  <string name="bluetooth_select_a2dp_codec_streaming_label">Transmissió: %1$s</string>
+  <string name="bluetooth_select_a2dp_codec_type">Còdec d\'àudio Bluetooth</string>
+  <string name="bluetooth_select_a2dp_codec_type_dialog_title">Seleccioneu un còdec d\'àudio Bluetooth</string>
+  <string name="bluetooth_select_avrcp_version_dialog_title">Seleccioneu la versió Bluetooth AVRCP</string>
+  <string name="bluetooth_select_avrcp_version_string">Versió Bluetooth AVRCP</string>
   <string name="bluetooth_settings_summary">Organitza les connexions, estableix el nom del dispositiu i la visibilitat</string>
   <string name="bluetooth_show_received_files">Mostra els fitxers rebuts</string>
   <string name="bluetooth_talkback_computer">Ordinador</string>
@@ -791,6 +822,7 @@ Darrera execució el %2$s"</string>
   <string name="bluetooth_unlock_turned_on">Activat</string>
   <string name="bluetooth_untether_blank">%1$s es desconnectarà de la connexió a internet compartida.</string>
   <string name="bluetooth_visibility_timeout">Durada de la visibilitat</string>
+  <string name="boot_sounds_title">Encesa dels sons</string>
   <string name="bootloader">Mode Fastboot</string>
   <string name="bootloader_apply_step_1">Voleu activar el mode Fastboot?</string>
   <string name="bootloader_apply_step_2">Quan el dispositiu és en mode Fastboot i connectat a l\'ordinador</string>
@@ -923,6 +955,8 @@ Darrera execució el %2$s"</string>
   <string name="change_password">Canvia el bloqueig de pantalla</string>
   <string name="change_security_lock">Prova altres formes de desbloqueig</string>
   <string name="change_storage">Canvia l\'emmagatzematge</string>
+  <string name="change_theme_reboot">Caldrà reiniciar per canviar el tema.</string>
+  <string name="channel_notifications_off_desc">L\'Android està bloquejant que aquesta categoria de notificacions aparegui en aquest dispositiu</string>
   <string name="charge_length_format">Fa %1$s</string>
   <string name="charging_sounds_title">Sons de càrrega de la bateria</string>
   <string name="check_find_device_status_failure_confirm">D\'acord</string>
@@ -947,6 +981,8 @@ Darrera execució el %2$s"</string>
   <string name="clear_data_failed">No s\'han pogut suprimir les dades de l\'aplicació.</string>
   <string name="clear_failed_dlg_text">No s\'han pogut suprimir les dades de l\'aplicació.</string>
   <string name="clear_failed_dlg_title">Suprimeix les dades</string>
+  <string name="clear_instant_app_confirmation">Voleu eliminar aquesta aplicació instantània?</string>
+  <string name="clear_instant_app_data">Esborra l\'aplicació</string>
   <string name="clear_uri_btn_text">Esborra l\'accés</string>
   <string name="clear_user_data_text">Suprimeix les dades</string>
   <string name="close_app">Tanca l\'aplicació actual</string>
@@ -995,6 +1031,8 @@ Darrera execució el %2$s"</string>
   <string name="condition_expand_show">Mostra</string>
   <string name="condition_hotspot_summary">S\'ha activat el punt d\'accés Wi-Fi %1$s. S\'ha desactivat la Wi-Fi del dispositiu.</string>
   <string name="condition_hotspot_title">Punt d\'accés activat</string>
+  <string name="condition_night_display_summary">La pantalla està tenyida de color ambre. Això pot ajudar-vos a agafar el son.</string>
+  <string name="condition_night_display_title">La llum nocturna està encesa</string>
   <string name="condition_turn_off">Apaga</string>
   <string name="condition_turn_on">Engega</string>
   <string name="condition_work_summary">Les aplicacions, la sincronització en segon pla i altres funcions relacionades amb el perfil professional estan desactivades.</string>
@@ -1007,6 +1045,7 @@ Darrera execució el %2$s"</string>
   <string name="configure_apps">Configura les aplicacions</string>
   <string name="configure_input_method">Configura els mètodes d\'entrada</string>
   <string name="configure_notification_settings">Configura les notificacions</string>
+  <string name="configure_section_header">Configura</string>
   <string name="confirm_action">D\'acord</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Afegeix</string>
   <string name="confirm_convert_to_fbe_warning">Voleu esborrar les dades d\'usuari i xifrar-les?</string>
@@ -1022,9 +1061,15 @@ Darrera execució el %2$s"</string>
   <string name="confirm_reset_aaid">D\'acord</string>
   <string name="connect_mode">Tipus de connexió</string>
   <string name="connect_to_internet">Connecta\'t a la xarxa</string>
+  <string name="connected">S\'ha connectat</string>
+  <string name="connected_devices_dashboard_summary">Bluetooth, Emet, NFC</string>
+  <string name="connected_devices_dashboard_title">Dispositius connectats</string>
+  <string name="connected_via_network_scorer">Connectat automàticament a través de %1$s</string>
+  <string name="connected_via_network_scorer_default">Connectat automàticament a través del proveïdor de qualificació de xarxa</string>
   <string name="connected_via_passpoint">S\'ha connectat mitjançant %1$s</string>
   <string name="connected_wifi">Xarxa connectada</string>
   <string name="connecting_to_vpn">S\'està connectant amb la VPN</string>
+  <string name="content_description_menu_button">Menú</string>
   <string name="contributors_title">Col·laboradors</string>
   <string name="controls_label">Controls</string>
   <string name="controls_subtitle">Ajusta l\'ús d\'energia</string>
@@ -1039,6 +1084,9 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="copyright_title">Drets d\'autor</string>
   <string name="country_name">%s (sistema)</string>
   <string name="create">Crea</string>
+  <string name="credential_contains">Aquesta entrada conté:</string>
+  <string name="credential_for_vpn_and_apps">Instal·lat per a VPN i aplicacions</string>
+  <string name="credential_for_wifi">Instal·lat per Wi-Fi</string>
   <string name="credential_storage_type">Tipus d\'emmagatzematge</string>
   <string name="credential_storage_type_hardware">Només maquinari</string>
   <string name="credential_storage_type_software">Només programari</string>
@@ -1241,6 +1289,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»"</string>
   <string name="debug_drawing_category">Dibuix</string>
   <string name="debug_hw_drawing_category">Renderització accelerada per maquinari</string>
   <string name="debug_hw_overdraw">Depura els conflictes de GPU</string>
+  <string name="debug_hw_renderer">Estableix el renderitzador de la GPU</string>
   <string name="debug_input_category">Entrada</string>
   <string name="debug_intent_sender_label">Depura els intents d\'enviament</string>
   <string name="debug_layout">Mostra les vores de la disposició</string>
@@ -1256,10 +1305,13 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»"</string>
   <string name="default_assist_title">Assistent</string>
   <string name="default_browser_title">Aplicació del navegador</string>
   <string name="default_browser_title_none">No hi ha cap navegador per defecte</string>
+  <string name="default_calendar_app_title">Aplicació de calendari</string>
+  <string name="default_contacts_app_title">Aplicació de contactes</string>
   <string name="default_emergency_app">Aplicació d\'emergència</string>
   <string name="default_for_work">Per defecte per a la feina</string>
   <string name="default_input_method">Trieu el teclat per defecte</string>
   <string name="default_keyboard_layout">Per defecte</string>
+  <string name="default_map_app_title">Aplicació de mapes</string>
   <string name="default_phone_title">Aplicació de telèfon</string>
   <string name="default_rule_name">Temporitzador 1</string>
   <string name="default_sound">So per defecte</string>
