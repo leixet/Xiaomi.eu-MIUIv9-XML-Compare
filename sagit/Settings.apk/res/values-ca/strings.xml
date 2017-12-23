@@ -5165,6 +5165,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
 Voleu permetre-ho per a totes les aplicacions que vulguin cercar xarxes?"</string>
   <string name="wifi_scan_notify_remember_choice">No tornis a mostrar-ho</string>
   <string name="wifi_scan_notify_text">Per millorar la precisió de la ubicació, les aplicacions i serveis encara poden cercar xarxes Wi-Fi. Es pot configurar des de LINK_BEGINscanning settingsLINK_END.</string>
+  <string name="wifi_scan_notify_text_scanning_off">Per millorar la precisió d\'ubicació, activeu l\'escaneig Wi-Fi a la configuració d\'escaneig.</string>
   <string name="wifi_security">Tipus de seguretat</string>
   <string name="wifi_security_eap">802.1 x EAP</string>
   <string name="wifi_security_none">Cap</string>
