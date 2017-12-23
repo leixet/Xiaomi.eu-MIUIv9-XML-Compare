@@ -2051,6 +2051,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="keywords_home">llançador</string>
   <string name="keywords_hotspot">Punt d\'accés;Connexió compartida;Punt d\'accés personal;Punt d\'accés portàtil</string>
   <string name="keywords_ignore_optimizations">ignorar les optimitzacions, migdiada, aplicacions inactives</string>
+  <string name="keywords_install_other_apps">instal·la aplicacions de fonts desconegudes</string>
   <string name="keywords_keyboard_and_ime">correcció de text, corregir, so, vibració, automàtic, idioma, gest, suggerir, suggeriment, tema, ofensiu, paraula, tipus, emoji, internacional</string>
   <string name="keywords_location">a prop, ubicació, historial, informes</string>
   <string name="keywords_location_mode">exactitud</string>
@@ -2059,6 +2060,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="keywords_more_mobile_networks">mòbil, operador de telefonia mòbil, sense fil, dades, 4g, 3g, 2g, lte</string>
   <string name="keywords_network_reset">restablir, restaurar, fàbrica</string>
   <string name="keywords_paper_mode">Flux;Llegir;Mode lectura;Llum blava;protegeix els ulls</string>
+  <string name="keywords_payment_settings">paga, toca, pagaments</string>
   <string name="keywords_printing">impressora</string>
   <string name="keywords_profile_challenge">desafiament per accedir a contingut de feina, feina, perfil</string>
   <string name="keywords_quick_ball">Menú de dreceres;drecera;dreceres;commutadors;commutador</string>
@@ -2157,6 +2159,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="location_agps_supl_server_addr">Adreça del servidor</string>
   <string name="location_agps_supl_server_port">Port del servidor</string>
   <string name="location_agps_supl_settings">Configuració SUPL</string>
+  <string name="location_app_level_permissions">Permisos de nivell d\'aplicació</string>
   <string name="location_category_location_services">Serveis d\'ubicació</string>
   <string name="location_category_recent_location_requests">Sol·licituds d\'ubicació recents</string>
   <string name="location_gps">Satèl·lits GPS</string>
@@ -2346,6 +2349,11 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="long_press_menu_key">Pulsació llarga del botó menú</string>
   <string name="long_press_menu_key_when_lock">Pulsació llarga al botó menú a la pantalla de bloqueig</string>
   <string name="long_press_volume_down">Mantén premut per abaixar el volum</string>
+  <string name="lost_internet_access_cancel">Roman a la Wi-Fi</string>
+  <string name="lost_internet_access_persist">No ho tornis a mostrar</string>
+  <string name="lost_internet_access_switch">Canvia a mòbil</string>
+  <string name="lost_internet_access_text">Podeu canviar a la xarxa mòbil sempre que la xarxa Wi-Fi tingui una connexió incorrecta. Es poden aplicar càrrecs d\'ús de dades.</string>
+  <string name="lost_internet_access_title">La Wi-Fi no està connectada a Internet</string>
   <string name="macaddr_label">Adreça MAC:</string>
   <string name="main_netcheck_summary">Connexió de prova per problemes de xarxa</string>
   <string name="main_running_process_description">Procés principal en ús.</string>
@@ -2500,6 +2508,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_lab_slogan">Aprèn. Explora. Descobreix.</string>
   <string name="miui_lab_taplus_desc">Premeu i mantingueu premut per activar les accions</string>
   <string name="miui_lab_taplus_title">Taplus</string>
+  <string name="miui_master_clear_summary">Suprimeix totes les dades del telèfon</string>
   <string name="miui_screen_config_title">Configuració de la pantalla inicial</string>
   <string name="miui_updater">Actualització del sistema</string>
   <string name="mms_breathing_light_color_title">Color dels missatges</string>
@@ -2515,6 +2524,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="mock_location_app_not_set">Cap aplicació per simular ubicació seleccionada</string>
   <string name="mock_location_app_set">Aplicació d\'ubicació simulades: %1$s</string>
   <string name="mode_disable">Desactivat</string>
+  <string name="model_info">Model</string>
   <string name="model_name">Nom del model</string>
   <string name="model_number">Model</string>
   <string name="modify_instruction_password_settings">Estableix una contrasenya</string>
@@ -2611,6 +2621,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="need_reboot_now">Reinicieu per aplicar l\'actualització.</string>
   <string name="netcheck_title">Diagnòstic de la xarxa</string>
   <string name="network_assistant">Ús de dades</string>
+  <string name="network_dashboard_summary">Wi-Fi, mòbil, ús de dades, punt d\'accés</string>
+  <string name="network_dashboard_title">Xarxa i Internet</string>
   <string name="network_detail">Detalls de la xarxa %s</string>
   <string name="network_error">S\'ha produït un error de xarxa</string>
   <string name="network_operators_settings">Operadors de xarxa</string>
@@ -2619,6 +2631,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="network_scorer_change_active_dialog_text">Voleu utilitzar %1$s en comptes de %2$s per a gestionar les connexions de xarxa?</string>
   <string name="network_scorer_change_active_dialog_title">Voleu canviar l\'auxiliar de Wi‑Fi?</string>
   <string name="network_scorer_change_active_no_previous_dialog_text">Voleu utilitzar %s per a gestionar les connexions de xarxa?</string>
+  <string name="network_scorer_picker_none_preference">Cap</string>
+  <string name="network_scorer_picker_title">Proveïdor de qualificació de xarxa</string>
   <string name="network_settings_title">Xarxes mòbils</string>
   <string name="network_state_label">Estat de la xarxa:</string>
   <string name="networkid_label">ID de la xarxa:</string>
@@ -2632,6 +2646,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="new_password_to_new_fingerprint_dialog_tittle">Afegeix una empremta digital</string>
   <string name="next_button_label">Següent</string>
   <string name="next_label">Següent</string>
+  <string name="nfc_disclaimer_content">L\'NFC intercanvia les dades entre aquest dispositiu i altres dispositius o objectius propers, com ara terminals de pagament, lectors d\'accés i anuncis o etiquetes interactives.</string>
+  <string name="nfc_disclaimer_title">Activa l\'NFC</string>
   <string name="nfc_how_it_works_content">Configura una aplicació de pagament. A continuació, apropa la part posterior del telèfon a un terminal amb el símbol de pagament sense contacte.</string>
   <string name="nfc_how_it_works_got_it">D\'acord</string>
   <string name="nfc_how_it_works_title">S\'està pagant des del terminal</string>
@@ -2651,6 +2667,17 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="nfc_quick_toggle_summary">Permet l\'intercanvi de dades quan el telèfon toca un altre dispositiu</string>
   <string name="nfc_se_route_title">Posició d\'element segur</string>
   <string name="nfc_se_wallet_title">Moneder per defecte</string>
+  <string name="night_display_auto_mode_custom">Horari personalitzat</string>
+  <string name="night_display_auto_mode_never">Mai</string>
+  <string name="night_display_auto_mode_title">Activa automàticament</string>
+  <string name="night_display_auto_mode_twilight">Ocàs a l\'alba</string>
+  <string name="night_display_category_schedule">Planifica</string>
+  <string name="night_display_category_status">Estat</string>
+  <string name="night_display_end_time_title">Hora final</string>
+  <string name="night_display_start_time_title">Hora inicial</string>
+  <string name="night_display_summary_off">Desactivat. %1$s</string>
+  <string name="night_display_summary_off_auto_mode_custom">S\'activarà automàticament a les %1$s.</string>
+  <string name="night_display_summary_off_auto_mode_never">Mai s\'activarà automàticament.</string>
   <string name="no_application">Res</string>
   <string name="no_applications">Cap aplicació.</string>
   <string name="no_battery_summary">Cap ús de la bateria des de l\'última càrrega completa</string>
