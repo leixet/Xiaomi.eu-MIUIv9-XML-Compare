@@ -418,7 +418,17 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="auto_sync_personal_account_title">Sincronització automàtica de les dades personals</string>
   <string name="auto_sync_work_account_title">Sincronització automàtica de les dades laborals</string>
   <string name="autofill_app">Servei d\'emplenament automàtic</string>
+  <string name="autofill_confirmation_message">"&lt;b&gt;Assegureu-vos que confieu en aquesta aplicació&lt;/b&gt; &lt;br/&gt; &lt;br/&gt; &lt;xliff:g id=app_name example=Google Autofill&gt;%1$s&lt;/xliff:g&gt; utilitza el que hi ha a la pantalla per determinar què es pot autofactar."</string>
+  <string name="autofill_keywords">automàtic, emplenament, emplenament automàtic</string>
   <string name="automatic_brightness">Brillantor automàtica</string>
+  <string name="automatic_storage_manager_activation_warning">El gestor d\'emmagatzematge ara gestiona l\'emmagatzematge</string>
+  <string name="automatic_storage_manager_days_title">Supressió de fotos i vídeos</string>
+  <string name="automatic_storage_manager_deactivation_warning">Voleu desactivar el gestor d\'emmagatzematge?</string>
+  <string name="automatic_storage_manager_freed_bytes">"%1$s total disponible
+
+Darrera execució el %2$s"</string>
+  <string name="automatic_storage_manager_preference_title">Administrador d\'emmagatzematge</string>
+  <string name="automatic_storage_manager_settings">Gestiona l\'emmagatzematge</string>
   <string name="automatic_storage_manager_text">Per ajudar a alliberar espai d\'emmagatzematge, el gestor d\'emmagatzematge elimina les fotos i els vídeos amb còpia de seguretat del vostre dispositiu.</string>
   <string name="available_size">%s disponible</string>
   <string name="available_via_passpoint">Disponible mitjançant %1$s</string>
@@ -428,6 +438,11 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="avoid_ui">Bloqueig tàctil</string>
   <string name="awake">Hora d\'inici del dispositiu</string>
   <string name="back_key">Enrere</string>
+  <string name="background_activity_summary">Permet que l\'aplicació s\'executi en segon pla</string>
+  <string name="background_activity_summary_disabled">L\'aplicació no es permet executar en segon pla</string>
+  <string name="background_activity_summary_off">"L'activitat en segon pla de l'aplicació és limitada quan no està en ús"</string>
+  <string name="background_activity_summary_on">L\'aplicació pot executar-se en segon pla quan no s\'utilitza</string>
+  <string name="background_activity_title">Activitat en segon pla</string>
   <string name="background_check_pref">Comprovació en segon pla</string>
   <string name="background_check_title">Accés complet en segon pla</string>
   <string name="background_data">Dades en segon pla</string>
@@ -472,8 +487,13 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="battery_desc_users">Bateria utilitzada per l\'usuari</string>
   <string name="battery_desc_voice">Bateria utilitzada per les trucades de veu</string>
   <string name="battery_desc_wifi">Bateria utilitzada pel Wi-Fi</string>
+  <string name="battery_detail_background">Mentre en segon pla</string>
+  <string name="battery_detail_foreground">Mentre està en ús actiu</string>
+  <string name="battery_detail_info_title">Des de la càrrega completa</string>
   <string name="battery_detail_manage_title">Gestió de l\'ús de la bateria</string>
+  <string name="battery_detail_power_percentage">%1$s de l\'ús total de l\'aplicació (%2$d mAh)</string>
   <string name="battery_detail_power_usage">Ús de la bateria</string>
+  <string name="battery_detail_since_full_charge">Desglossament des de l\'última càrrega completa</string>
   <string name="battery_details_title">Ús de la bateria</string>
   <string name="battery_footer_summary">El temps restant de la bateria és aproximat i pot canviar segons l\'ús</string>
   <string name="battery_indicator_style">Indicador de bateria</string>
@@ -497,6 +517,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="battery_info_screen_on">Temps de la pantalla engegada:</string>
   <string name="battery_info_status_charging">S\'està carregant</string>
   <string name="battery_info_status_charging_ac">S\'està carregant des d\'AC</string>
+  <string name="battery_info_status_charging_lower">s\'està carregant</string>
   <string name="battery_info_status_charging_usb">S\'està carregant des d\'USB</string>
   <string name="battery_info_status_charging_wireless">S\'està carregant sense fils</string>
   <string name="battery_info_status_discharging">No s\'està carregant</string>
@@ -508,6 +529,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="battery_info_temperature_label">Temperatura de la bateria:</string>
   <string name="battery_info_uptime">Temps des de s\'ha engegat:</string>
   <string name="battery_info_voltage_label">Voltatge de la bateria:</string>
+  <string name="battery_last_full_charge">Darrera càrrega completa</string>
   <string name="battery_level_title">Nivell de la bateria</string>
   <string name="battery_light_summary">Activa el LED de notificació mentre el dispositiu s\'està carregant</string>
   <string name="battery_light_title">Activa el llum quan s\'està carregant</string>
@@ -515,6 +537,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="battery_overall_usage">%1$s de la bateria general</string>
   <string name="battery_percentage">Percentatge de bateria</string>
   <string name="battery_percentage_description">Mostra el percentatge de bateria a la barra d\'estat</string>
+  <string name="battery_power_management">Gestió d\'energia</string>
   <string name="battery_saver">Estalvi de bateria</string>
   <string name="battery_saver_desc_turn_on_auto_never">No ho activis mai automàticament</string>
   <string name="battery_saver_desc_turn_on_auto_pct">Activa-ho automàticament quan quedi un %1$s de bateria</string>
