@@ -1693,6 +1693,7 @@ Per obtenir més informació, contacteu amb l\'administrador de l\'organització
   <string name="filter_notif_all_apps">Aplicacions: totes</string>
   <string name="filter_notif_blocked_apps">Bloquejat</string>
   <string name="filter_notif_blocked_channels">Categories: desactivat</string>
+  <string name="filter_notif_dnd_channels">Categories: invalida no molesteu</string>
   <string name="filter_notif_low_channels">Categories: poca importància</string>
   <string name="filter_notif_urgent_channels">Categories: molta importància</string>
   <string name="filter_overlay_apps">Aplicacions amb permís</string>
@@ -3163,6 +3164,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="qtifeedback_settings_subtitle">Informes de Qualcomm Technologies</string>
   <string name="qtifeedback_settings_title">Comentaris sobre el maquinari</string>
   <string name="query_hint_text">Configuració de la cerca</string>
+  <string name="quick_settings_developer_tiles">Rajoles de desenvolupador de configuració ràpida</string>
   <string name="quiet">Mode No molesteu</string>
   <string name="quiet_group">Mode No molesteu</string>
   <string name="quiet_important_interruptions_mode">Només permetre excepcions</string>
@@ -3288,6 +3290,7 @@ Interfície UT: %5$s"</string>
   <string name="reset_second_space_passwd_confirm">Continua</string>
   <string name="reset_second_space_passwd_detail">Introduïu la contrasenya del compte Mi del Primer espai</string>
   <string name="reset_shortcut_manager_throttling">Restableix els comptadors de limitació de velocitat de ShortcutManager</string>
+  <string name="reset_shortcut_manager_throttling_complete">La limitació de velocitat del gestor de dreceres s\'ha restablert</string>
   <string name="resetting_second_space_passwd">Restableix la contrasenya del Segon espai</string>
   <string name="resolver_settings_label">Ordena</string>
   <string name="restore_default_apn">S\'està restaurant la configuració APN per defecte.</string>
@@ -4181,6 +4184,7 @@ Totes les aplicacions que hi hagi a ^1 es desinstal·laran i se n\'esborraran le
   <string name="storage_usb_settings">Emmagatzematge i USB</string>
   <string name="storage_used">Ús d\'emmagatzematge</string>
   <string name="storage_volume_summary">%1$s utilitzats de %2$s</string>
+  <string name="storage_volume_total">Utilitzat de %1$s</string>
   <string name="storage_volume_used">Ús de %1$s</string>
   <string name="storage_volume_used_total">Ús total de %1$s</string>
   <string name="storage_wizard_format_confirm_body">«Perquè sigui segur cal que ^1 es formati.
@@ -4343,6 +4347,7 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="tether_settings_disabled_on_data_saver">No es pot compartir la xarxa ni utilitzar punts d\'accés Wi-Fi mentre l\'estalvi de dades està activat</string>
   <string name="tether_settings_summary_hotspot_off_tether_on">Ancoratge</string>
   <string name="tether_settings_summary_hotspot_on_tether_off">Punt d\'accés activat</string>
+  <string name="tether_settings_summary_hotspot_on_tether_on">Punt d\'accés activat, tethering</string>
   <string name="tether_settings_title_all">Connexió compartida d\'Internet</string>
   <string name="tether_settings_title_bluetooth">Connexió compartida per Bluetooth</string>
   <string name="tether_settings_title_usb">Connexió compartida per USB</string>
@@ -4529,6 +4534,8 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="unlock_set_unlock_launch_picker_change_summary">Canvieu o desactiveu el patró, PIN o contrasenya</string>
   <string name="unlock_set_unlock_launch_picker_change_title">Canvi de la pantalla de bloqueig</string>
   <string name="unlock_set_unlock_launch_picker_enable_summary">Trieu un mètode per bloquejar la pantalla</string>
+  <string name="unlock_set_unlock_launch_picker_summary_lock_after_timeout">%1$s / %2$s després de suspendre</string>
+  <string name="unlock_set_unlock_launch_picker_summary_lock_immediately">%1$s / Immediatament després suspendre</string>
   <string name="unlock_set_unlock_launch_picker_title">Bloqueja la pantalla</string>
   <string name="unlock_set_unlock_launch_picker_title_profile">Bloq. perfil profess.</string>
   <string name="unlock_set_unlock_mode_none">Llisca</string>
