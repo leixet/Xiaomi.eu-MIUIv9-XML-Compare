@@ -57,11 +57,14 @@
   <string name="accessibility_lock_screen_progress">S\'han fet servir %1$d de %2$d caràcters</string>
   <string name="accessibility_long_press_timeout_preference_title">Retard en tocar i mantenir premut</string>
   <string name="accessibility_menu_item_settings">Configuració</string>
+  <string name="accessibility_no_service_selected">No s\'ha seleccionat cap servei</string>
   <string name="accessibility_no_services_installed">No s\'ha instal·lat cap servei</string>
   <string name="accessibility_no_wifi">S\'ha desconnectat el Wi-Fi.</string>
   <string name="accessibility_personal_account_title">Compte personal - %s</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">El botó d\'engegar penja la trucada</string>
+  <string name="accessibility_preference_magnification_summary">Amplia la pantalla</string>
   <string name="accessibility_screen_magnification_enable">Gestos per fer zoom</string>
+  <string name="accessibility_screen_magnification_gestures_title">Amplia amb un triple toc</string>
   <string name="accessibility_screen_magnification_short_summary">Per ampliar la imatge toca-ho 3 cops</string>
   <string name="accessibility_screen_magnification_summary">\"Amb aquesta funció activa, podeu apropar i allunyar el zoom amb tocar la pantalla tres vegades.
 
