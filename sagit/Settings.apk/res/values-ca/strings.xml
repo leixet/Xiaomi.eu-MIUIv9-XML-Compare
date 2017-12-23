@@ -3985,11 +3985,13 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="sound_category_call_ringtone_vibrate_title">Tons de trucada i sons de notificació</string>
   <string name="sound_category_sound_title">General</string>
   <string name="sound_category_system_title">Sistema</string>
+  <string name="sound_dashboard_summary">Volum, vibració, no molestis</string>
   <string name="sound_effects_enable_title">Sons en tocar</string>
   <string name="sound_settings">So</string>
   <string name="sound_settings_example_summary">Volum del timbre al 80%</string>
   <string name="sound_settings_summary">Volum del timbre al %1$s</string>
   <string name="sound_settings_summary_silent">S\'ha silenciat el timbre</string>
+  <string name="sound_settings_summary_vibrate">El timbre s\'ha configurat per vibrar</string>
   <string name="sound_vibrate_settings">So i vibració</string>
   <string name="sound_work_settings">Sons del perfil laboral</string>
   <string name="special_access">Accés especial</string>
@@ -4018,6 +4020,7 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="status_bar_app_enable_message">Insígnies</string>
   <string name="status_bar_key_position_custom">Posició de tecla personalitzada</string>
   <string name="status_bar_screen_button_force_immersive_desc">Feu lliscar el dit cap amunt des de la part inferior de la pantalla per mostrar els botons virtuals</string>
+  <string name="status_bar_screen_button_key">Botons de la pantalla</string>
   <string name="status_bar_screen_button_key_force_immersive">Amaga els botons virtuals</string>
   <string name="status_bar_screen_key_back">Tecla Enrere</string>
   <string name="status_bar_screen_key_home">Tecla Pàgina d\'inici</string>
@@ -4088,12 +4091,14 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="storage_detail_dialog_other">"A l\'apartat Altres s\'inclouen fitxers compartits desats per les aplicacions, fitxers baixats d\'Internet o per Bluetooth i fitxers d\'Android, entre d\'altres. 
 
 Per veure tot el contingut de ^1, toqueu Explora."</string>
+  <string name="storage_detail_dialog_system">El sistema inclou fitxers utilitzats per executar la versió %s d\'Android</string>
   <string name="storage_detail_dialog_user">"^1 pot tenir desades fotos, música, pel·lícules, aplicacions o altres dades que s\'estan movent a l\'emmagatzematge ^2
 
 Per veure els detalls, aneu a ^1."</string>
   <string name="storage_detail_explore">Explora ^1</string>
   <string name="storage_detail_images">Imatges</string>
   <string name="storage_detail_other">Altres</string>
+  <string name="storage_detail_system">Sistema</string>
   <string name="storage_detail_videos">Vídeos</string>
   <string name="storage_dialog_unmountable">«Aquest ^1 és malmès. 
 
@@ -4105,9 +4110,11 @@ Per a utilitzar ^1, l\'heu de muntar.»</string>
 
 Per utilitzar ^1 amb aquest dispositiu, l\'heu de configurar.»</string>
   <string name="storage_external_title">Emmagatzematge extraïble</string>
+  <string name="storage_files">Fitxers</string>
   <string name="storage_format">Formata</string>
   <string name="storage_format_failure">No s\'ha pogut formatar %1$s</string>
   <string name="storage_format_success">%1$s s\'ha formatat</string>
+  <string name="storage_games">Jocs</string>
   <string name="storage_internal_forget_confirm">Totes les aplicacions, fotos i dades emmagatzemades en aquest ^1 es perdran per sempre.</string>
   <string name="storage_internal_forget_confirm_title">Voleu oblidar ^1?</string>
   <string name="storage_internal_forget_details">«Torneu a inserir el dispositiu d\'emmagatzematge ^1 per fer servir les aplicacions, les fotos o les dades que conté. 
@@ -4133,11 +4140,16 @@ Totes les aplicacions que hi hagi a ^1 es desinstal·laran i se n\'esborraran le
   <string name="storage_label">Emmagatzematge</string>
   <string name="storage_low_summary">És possible que algunes funcions del sistema, com ara la sincronització, no funcionin bé. Proveu d\'alliberar espai: suprimeix o desfixa elements, com ara aplicacions o contingut multimèdia.</string>
   <string name="storage_low_title">L\'espai d\'emmagatzematge s\'està esgotant</string>
+  <string name="storage_manager_indicator">Administrador d\'emmagatzematge: ^1</string>
+  <string name="storage_manager_indicator_off">Desactivat</string>
+  <string name="storage_manager_indicator_on">Activat</string>
   <string name="storage_menu_explore">Explora</string>
   <string name="storage_menu_forget">Oblida</string>
   <string name="storage_menu_format">Formata</string>
   <string name="storage_menu_format_private">Formata com a intern</string>
   <string name="storage_menu_format_public">Formata com a extraïble</string>
+  <string name="storage_menu_free">Allibera espai</string>
+  <string name="storage_menu_manage">Gestiona l\'emmagatzematge</string>
   <string name="storage_menu_migrate">Migració de dades</string>
   <string name="storage_menu_mount">Munta</string>
   <string name="storage_menu_rename">Reanomena</string>
@@ -4145,7 +4157,12 @@ Totes les aplicacions que hi hagi a ^1 es desinstal·laran i se n\'esborraran le
   <string name="storage_menu_unmount">Expulsa</string>
   <string name="storage_mount_failure">No s\'ha pogut muntar %1$s</string>
   <string name="storage_mount_success">S\'ha muntat %1$s</string>
+  <string name="storage_movies_tv">Pel·lícules i aplicacions de televisió</string>
+  <string name="storage_music_audio">Música i àudio</string>
+  <string name="storage_other_apps">Altres aplicacions</string>
   <string name="storage_other_users">Altres usuaris</string>
+  <string name="storage_percent_full">utilitzat</string>
+  <string name="storage_photos_videos">Fotos i vídeos</string>
   <string name="storage_rename_title">Canvi de nom de l\'emmagatzematge</string>
   <string name="storage_settings">Emmagatzematge</string>
   <string name="storage_settings_summary">Desmunta l\'emmagatzematge USB, visualitza l\'emmagatzematge disponible</string>
@@ -4153,6 +4170,7 @@ Totes les aplicacions que hi hagi a ^1 es desinstal·laran i se n\'esborraran le
   <string name="storage_size_large">^1&lt;petit&gt;&lt;petit&gt; ^2&lt;/petit&gt;&lt;/petit&gt;</string>
   <string name="storage_summary">S\'ha utilitzat el %1$s de %2$s</string>
   <string name="storage_summary_format">%1$s utilitzats de %2$s</string>
+  <string name="storage_summary_with_sdcard">Emmagatzematge intern: %1$s utilitzat - %2$s lliure</string>
   <string name="storage_title_usb">Connexió USB a l\'ordinador</string>
   <string name="storage_type_external">Emmagatzematge extern</string>
   <string name="storage_type_internal">Emmagatzematge intern</string>
@@ -4221,6 +4239,7 @@ Per a un millor rendiment, us recomanem que utilitzeu un ^1 més ràpid."</strin
   <string name="strict_mode_summary">Il·lumina la pantalla si les aplicacions fan tasques llargues en el procés principal</string>
   <string name="suggest_unrestrict_max_aspect_ratio_title">Aquestes aplicacions funcionen millor en mode de pantalla completa</string>
   <string name="suggested_fingerprint_lock_settings_summary">Desbloqueig amb empremta</string>
+  <string name="suggested_fingerprint_lock_settings_title">Utilitza l\'empremta</string>
   <string name="suggested_lock_settings_summary">Protegeix el dispositiu</string>
   <string name="suggested_lock_settings_title">Bloqueig de pantalla</string>
   <string name="suggestion_additional_fingerprints">Afegeix una altra empremta digital</string>
@@ -4231,6 +4250,11 @@ Per a un millor rendiment, us recomanem que utilitzeu un ^1 més ràpid."</strin
   <string name="summary_range_verbal_combination">%1$s a %2$s</string>
   <string name="supl_not_set">&lt;No s\'ha configurat&gt;</string>
   <string name="supplicant_state_label">Mode suplicant:</string>
+  <string name="support_account_picker_add_account">Afegeix un compte</string>
+  <string name="support_account_request_prefix">S\'està sol·licitant com a</string>
+  <string name="support_country_list_title">Suport per a:</string>
+  <string name="support_disclaimer_do_not_show">No ho tornis a mostrar</string>
+  <string name="support_disclaimer_title">Envia la informació del sistema</string>
   <string name="sure_sync_now">Voleu sincronitzar els elements?</string>
   <string name="suw_back_button_label">Enrere</string>
   <string name="suw_more_button_label">Més</string>
