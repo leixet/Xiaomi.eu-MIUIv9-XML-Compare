@@ -3746,10 +3746,14 @@ Per fer-ho:
   <string name="security_settings_fingerprint_enroll_introduction_continue">Continua</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue_setup">Afegeix una empremta digital</string>
   <string name="security_settings_fingerprint_enroll_introduction_message">Només cal que toqueu el sensor d\'empremtes per a desbloquejar el telèfon, per autoritzar les compres o per iniciar la sessió en una aplicació. Aneu amb compte a l\'hora d\'afegir empremtes, tingueu present que totes les que afegiu podran fer tot això.</string>
+  <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Només cal que toqueu el sensor d\'empremtes per desbloquejar el telèfon, autoritzar les compres o iniciar la sessió a les aplicacions. Aneu amb compte amb les empremtes que afegiu. Fins i tot una empremta afegida pot fer qualsevol d\'aquestes coses.
+
+Nota: la vostra empremta pot ser menys segura que un patró o un PIN."</string>
   <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"Només cal que toqueu el sensor d\'empremtes per autoritzar les compres o iniciar sessió a les aplicacions. Aneu amb compte amb les empremtes que afegiu. Fins i tot una empremta afegida pot fer qualsevol d\'aquestes coses.
 
 Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. Per obtenir més informació, poseu-vos en contacte amb l\'administrador de l\'organització."</string>
   <string name="security_settings_fingerprint_enroll_introduction_title">Desbloqueig amb empremta</string>
+  <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">Utilitzeu la vostra empremta</string>
   <string name="security_settings_fingerprint_enroll_lift_touch_again">Treu el dit i torna a tocar el sensor</string>
   <string name="security_settings_fingerprint_enroll_repeat_message">Mou el dit lleugerament perquè es pugui captar tota l’empremta</string>
   <string name="security_settings_fingerprint_enroll_repeat_title">Molt bé. Repeteix-ho</string>
@@ -3762,15 +3766,19 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="security_settings_premium_sms_desc">Envia SMS prèmium</string>
   <string name="security_settings_summary">Defineix La meva ubicació, el desbloqueig de pantalla i el bloqueig d\'emmagatzematge de certificats</string>
   <string name="security_settings_title">Seguretat</string>
+  <string name="security_status_title">Estat de la seguretat</string>
   <string name="select_all">Selecciona-ho tot</string>
   <string name="select_application">Selecciona l\'aplicació</string>
   <string name="select_device_admin_msg">Administrador del dispositiu</string>
   <string name="select_logd_size_dialog_title">Selecciona la mida Logger de la memòria intermèdia</string>
   <string name="select_logd_size_title">Mides de la memòria intermèdia de Logger</string>
+  <string name="select_logpersist_dialog_title">Seleccioneu les memòries intermèdies de registre per emmagatzemar persistentment al dispositiu</string>
+  <string name="select_logpersist_title">Emmagatzema les dades del registrador de forma persistent en el dispositiu</string>
   <string name="select_sim_card">Seleccioneu una targeta SIM</string>
   <string name="select_sim_for_calls">Truca mitjançant</string>
   <string name="select_sim_for_data">Selecciona una SIM per a les dades</string>
   <string name="select_ssid_type_title">Selecció de SSID</string>
+  <string name="select_to_speak_summary">Toqueu elements a la pantalla per escoltar-los en veu alta</string>
   <string name="select_usb_configuration_dialog_title">Selecció de la configuració USB</string>
   <string name="select_usb_configuration_title">Selecció de la configuració USB</string>
   <string name="select_webview_provider_dialog_title">Configura la implementació de WebView</string>
@@ -3790,6 +3798,7 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="service_stop_description">L\'aplicació ha començat a executar el servei. Si l\'atureu hi pot haver errors.</string>
   <string name="services_subtitle">Tasques</string>
   <string name="set_data_limit">Estableix un límit de dades</string>
+  <string name="set_data_warning">Estableix l\'avís de dades</string>
   <string name="setting_privacy_password">Estableix la contrasenya de privacitat</string>
   <string name="settings_ad_loading">S\'està carregant…</string>
   <string name="settings_ad_loading_unavailable">Hi ha un problema en carregar.</string>
@@ -3838,6 +3847,7 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="short_summary_font_size">Amplia o redueix el text</string>
   <string name="show_all_anrs">Mostra totes ANRs</string>
   <string name="show_all_anrs_summary">Mostra el quadre d\'aplicacions que no responen en segon pla</string>
+  <string name="show_all_apps">Mostra l\'ús total del dispositiu</string>
   <string name="show_background_processes">Mostra els processos en memòria cau</string>
   <string name="show_connected_devices_summary">Mostra els dispositius connectats</string>
   <string name="show_connected_devices_title">Dispositius connectats</string>
@@ -3855,8 +3865,11 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="show_mem_info_title">Mostra informació de la memòria</string>
   <string name="show_menu">Mostra el menú</string>
   <string name="show_non_rect_clip">Depura les operacions de retall no rectangulars</string>
+  <string name="show_notification_channel_warnings">Mostra les advertències del canal de notificació</string>
+  <string name="show_notification_channel_warnings_summary">Mostra l\'avís a la pantalla quan una aplicació publica una notificació sense un canal vàlid</string>
   <string name="show_owner_info_on_lockscreen_label">Mostra la signatura a la pantalla de bloqueig</string>
   <string name="show_password">Mostra les contrasenyes</string>
+  <string name="show_password_summary">Mostra els caràcters breument mentre escriviu</string>
   <string name="show_profile_info_on_lockscreen_label">Mostra informació del propietari a la pantalla de bloqueig</string>
   <string name="show_rounded_corners">Mostra les cantonades arrodonides</string>
   <string name="show_running_services">Mostra les tasques en execució</string>
