@@ -1617,6 +1617,7 @@ Us ajuda a protegir les dades en dispositius perduts o robats.»</string>
   <string name="enterprise_privacy_exposure_changes_category">"Canvis realitzats per l'administrador de l'organització"</string>
   <string name="enterprise_privacy_failed_password_wipe_device">S\'ha produït un error en provar la contrasenya abans de suprimir totes les dades del dispositiu</string>
   <string name="enterprise_privacy_failed_password_wipe_work">S\'ha produït un error en els intents de contrasenya abans de suprimir les dades del perfil laboral</string>
+  <string name="enterprise_privacy_global_http_proxy">Servidor intermediari HTTP global configurat</string>
   <string name="enterprise_privacy_header">"Per proporcionar accés a les vostres dades de treball, l\'organització pot canviar la configuració i instal·lar el programari al dispositiu.
 
 Per obtenir més informació, contacteu amb l\'administrador de l\'organització."</string>
