@@ -40,6 +40,8 @@
   <string name="accessibility_button_instructional_text">Per canviar les funcions, mantingueu premut el botó Accessibilitat.</string>
   <string name="accessibility_button_prompt_text">Trieu una funció que s\'utilitzarà quan toqueu el botó Accessibilitat:</string>
   <string name="accessibility_magnification_chooser_text">Ampliació</string>
+  <string name="accessibility_shortcut_disabling_service">La drecera d\'accessibilitat ha desactivat %1$s</string>
+  <string name="accessibility_shortcut_enabling_service">La drecera d\'accessibilitat ha activat %1$s</string>
   <string name="accessibility_shortcut_toogle_warning">"Quan la drecera estigui activada, premeu els dos botons de volum durant 3 segons per iniciar una funció d\'accessibilitat.
 
 Característica d\'accessibilitat actual:
@@ -250,6 +252,7 @@ utilitzat %s"</string>
   <string name="dialog_alert_title">Atenció</string>
   <string name="disable_accessibility_shortcut">Desactiva la drecera</string>
   <string name="disable_tether_notification_message">Per obtenir detalls, contacteu amb l\'administrador</string>
+  <string name="disable_tether_notification_title">L\'ancoratge està desactivat</string>
   <string name="display_manager_built_in_display_name">Pantalla integrada</string>
   <string name="display_manager_hdmi_display_name">Pantalla HDMI</string>
   <string name="display_manager_overlay_display_name">Superposició #%1$d</string>
@@ -636,6 +639,8 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="low_memory">L\'emmagatzematge del telèfon està ple. Suprimiu uns quants fitxers per alliberar espai.</string>
   <string name="managed_profile_label">Canvia al perfil laboral</string>
   <string name="managed_profile_label_badge">Feina %1$s</string>
+  <string name="managed_profile_label_badge_2">2n treball %1$s</string>
+  <string name="managed_profile_label_badge_3">3r treball %1$s</string>
   <string name="map">Mapes</string>
   <string name="maximize_button_text">Maximitza</string>
   <string name="me">Jo</string>
@@ -711,6 +716,7 @@ Torneu-ho a provar en %2$d segons."</string>
   <string name="notification_channel_device_admin">Administració del dispositiu</string>
   <string name="notification_channel_emergency_callback">Mode de devolució de trucada d\'emergència</string>
   <string name="notification_channel_foreground_service">Aplicacions que s\'executen en segon pla</string>
+  <string name="notification_channel_hotspot">Notificació del punt d\'accés Wi-Fi</string>
   <string name="notification_channel_mobile_data_alert">Alertes de dades mòbils</string>
   <string name="notification_channel_network_alert">Alertes</string>
   <string name="notification_channel_network_alerts">Alertes de xarxa</string>
