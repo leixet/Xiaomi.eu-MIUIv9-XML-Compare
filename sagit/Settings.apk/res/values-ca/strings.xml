@@ -78,7 +78,9 @@
 \"&lt;li&gt;Aixequeu el dit per allunyar&lt;/li&gt;&lt;/ul&gt;\"
 
 Podeu&amp;#8217;t ampliar el teclat o la barra de navegació."</string>
+  <string name="accessibility_screen_magnification_navbar_title">Amplia amb el botó</string>
   <string name="accessibility_screen_magnification_short_summary">Per ampliar la imatge toca-ho 3 cops</string>
+  <string name="accessibility_screen_magnification_state_navbar_gesture">Amplia amb botó i amb un triple toc</string>
   <string name="accessibility_screen_magnification_summary">\"Amb aquesta funció activa, podeu apropar i allunyar el zoom amb tocar la pantalla tres vegades.
 
 Amb la imatge ampliada, podeu:
@@ -91,8 +93,13 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
   <string name="accessibility_screen_magnification_title">Gestos per fer zoom</string>
   <string name="accessibility_service_default_description">Sense descripció.</string>
   <string name="accessibility_settings">Facilitat d\'accés</string>
+  <string name="accessibility_settings_summary">Lectors de pantalla, visualització, controls d\'interacció</string>
   <string name="accessibility_settings_title">Configuració de Facilitat d\'accés</string>
+  <string name="accessibility_shortcut_description">Quan la drecera està activada, podeu prémer els dos botons de volum durant 3 segons per iniciar una funció d\'accessibilitat.</string>
   <string name="accessibility_shortcut_service_on_lock_screen_title">Permet des de la pantalla de bloqueig</string>
+  <string name="accessibility_shortcut_service_title">Servei de drecera</string>
+  <string name="accessibility_summary_state_disabled">DESACTIVAT</string>
+  <string name="accessibility_summary_state_enabled">ACTIVAT</string>
   <string name="accessibility_sync_disabled">Sincronització desactivada</string>
   <string name="accessibility_sync_enabled">Sincronització activada</string>
   <string name="accessibility_sync_error">S\'ha produït un error de sincronització.</string>
@@ -111,6 +118,8 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
   <string name="accessibility_work_account_title">Compte de la feina - %s</string>
   <string name="account_add">Afegeix</string>
   <string name="account_autostar_label">Inici automàtic</string>
+  <string name="account_dashboard_title">Usuaris i comptes</string>
+  <string name="account_for_section_header">Comptes per %1$s</string>
   <string name="account_list">Altres comptes</string>
   <string name="account_other">Altres</string>
   <string name="account_settings">Comptes</string>
@@ -119,6 +128,7 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
   <string name="account_settings_menu_auto_sync_work">Sincronització automàtica de dades de la feina</string>
   <string name="account_settings_title">Comptes</string>
   <string name="account_sync_settings_title">Sincronització</string>
+  <string name="account_sync_title">Sincronització del compte</string>
   <string name="action_drag_label_move_bottom">Mou al final</string>
   <string name="action_drag_label_move_down">Mou cap avall</string>
   <string name="action_drag_label_move_top">Mou al principi</string>
@@ -127,6 +137,7 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
   <string name="activating">S\'està activant…</string>
   <string name="active_device_admin_msg">Aplicació d\'administració del dispositiu</string>
   <string name="active_input_method_subtypes">Mètodes d\'entrada actius</string>
+  <string name="activity_list_empty">No s\'ha trobat activitats coincidents.</string>
   <string name="activity_not_found">L\'aplicació no està instal·lada al telèfon.</string>
   <string name="activity_picker_label">Trieu una activitat</string>
   <string name="ad_service">Serveis de publicitat</string>
@@ -163,6 +174,7 @@ Nota: Podeu tocar tres vegades la pantalla per ampliar el contingut en qualsevol
   <string name="adding_profile_owner_warning">"Si continueu, el vostre usuari serà gestionat per l\'Administrador, que podrà recollir dades complementàries junt amb les vostres dades personals.
 
 L\'Administrador pot supervisar i administrar la configuració, els accessos, les aplicacions i les dades associades a l\'usuari com ara l\'activitat de la xarxa i els serveis d\'ubicació."</string>
+  <string name="additional_battery_info">Alertes d\'ús</string>
   <string name="additional_permissions">Permisos addicionals</string>
   <string name="additional_permissions_more">%1$d més</string>
   <string name="additional_system_update_settings_list_item_title">Actualitzacions addicionals del sistema</string>
@@ -200,12 +212,17 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="allow_mock_location">Permet ubicacions fictícies</string>
   <string name="allow_mock_location_summary">Permet ubicacions fictícies</string>
   <string name="allow_overlay_description">Aquest permís permet que una aplicació es mostri per davant d\'altres que s\'estan fent servir. Pot interferir o canviar el que es visualitza d\'altres aplicacions.</string>
+  <string name="allow_sound">Permet el so</string>
   <string name="alpha_build">" | Alfa"</string>
   <string name="always">Sempre</string>
   <string name="always_allow_bind_appwidgets_text">Heu triat de permetre que l\'aplicació creï ginys i accedeixi a les dades.</string>
   <string name="always_running">Executa sempre (%s)</string>
   <string name="amber_alerts_summary">Rebre informacions sobre segrestos de nens</string>
   <string name="amber_alerts_title">Avisos AMBER</string>
+  <string name="ambient_display_pickup_summary">Per comprovar ràpidament les notificacions, despengeu el telèfon.</string>
+  <string name="ambient_display_pickup_title">Aixequeu per comprovar el telèfon</string>
+  <string name="ambient_display_summary">Per comprovar ràpidament les notificacions, toqueu dues vegades la pantalla.</string>
+  <string name="ambient_display_title">Toqueu dues vegades per verificar el telèfon</string>
   <string name="android_beam_disabled_summary">Activeu l\'NFC per gaudir d\'aquesta característica</string>
   <string name="android_beam_explained">Si apropeu 2 dispositius podreu transmetre una pàgina web, un vídeo o el contingut de la pantalla (normalment els 2 costats de darrere).</string>
   <string name="android_beam_label">Transmissió Android</string>
@@ -241,8 +258,11 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="apn_settings_not_available">La configuració de l\'APN no és disponible per a aquest usuari</string>
   <string name="apn_type">Tipus d\'APN</string>
   <string name="apn_user">Nom d\'usuari</string>
+  <string name="app_and_notification_dashboard_summary">Permisos, aplicacions per defecte</string>
+  <string name="app_and_notification_dashboard_title">Aplicacions i notificacions</string>
   <string name="app_backup">Còpia de seguretat</string>
   <string name="app_data_usage">Ús de dades de l\'aplicació</string>
+  <string name="app_default_dashboard_title">Aplicacions per defecte</string>
   <string name="app_disable_dlg_positive">Desactiva l\'aplicació</string>
   <string name="app_disable_dlg_text">Si la desactiveu, podria ser que altres aplicacions no funcionessin correctament.</string>
   <string name="app_disable_dlg_title">Voleu desactivar l\'aplicació integrada?</string>
@@ -254,6 +274,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="app_floating_window_dlg_disable">"Si atureu la configuració de les finestres flotants de %1$s haureu de reiniciar l'aplicació."</string>
   <string name="app_floating_window_dlg_enable">"Si activeu la configuració de les finestres flotants de %1$s haureu de reiniciar l'aplicació."</string>
   <string name="app_forward_locked">L\'aplicació està protegida contra còpia.</string>
+  <string name="app_info_storage_title">Espai utilitzat</string>
   <string name="app_install_details_group_title">Botiga</string>
   <string name="app_install_details_summary">Aplicació instal·lada des de %1$s</string>
   <string name="app_install_details_title">Detalls de l\'aplicació</string>
@@ -276,6 +297,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="app_notification_block_summary">No mostris mai notificacions d\'aquesta aplicació</string>
   <string name="app_notification_block_title">Bloqueja-ho tot</string>
   <string name="app_notification_importance_title">Importància</string>
+  <string name="app_notification_listing_summary_zero">Activat per a totes les aplicacions</string>
   <string name="app_notification_override_dnd_summary">Permet que aquestes notificacions continuïn interrompent quan el mode No molesteu estigui configurat com a Només amb prioritat</string>
   <string name="app_notification_override_dnd_title">Prioritat de No molesteu</string>
   <string name="app_notification_preferences">Configuració de l\'aplicació</string>
@@ -284,6 +306,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="app_notification_row_sensitive">Confidencial</string>
   <string name="app_notification_visibility_override_title">A la pantalla de bloqueig</string>
   <string name="app_notifications_dialog_done">Fet</string>
+  <string name="app_notifications_off_desc">"L'Android bloqueja les notificacions d'aquesta aplicació que no apareixen en aquest dispositiu"</string>
   <string name="app_notifications_switch_label">Notificació personalitzada</string>
   <string name="app_notifications_title">Notificacions</string>
   <string name="app_ops_never_used">(No s\'ha fet servir mai)</string>
