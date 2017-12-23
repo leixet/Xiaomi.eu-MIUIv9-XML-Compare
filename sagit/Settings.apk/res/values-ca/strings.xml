@@ -4896,6 +4896,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="vr_listener_security_warning_summary">%1$s es podrà executar quan s\'utilitzen aplicacions en mode de realitat virtual.</string>
   <string name="vr_listener_security_warning_title">Voleu permetre a %1$s l\'accés al servei de realitat virtual?</string>
   <string name="vr_listeners_title">Serveis d\'ajuda per a la realitat virtual</string>
+  <string name="vt_provisioned_switch_string">Videotrucades aprovisionades</string>
   <string name="wait_for_debugger">Espereu el depurador</string>
   <string name="wait_for_debugger_summary">Abans d\'executar-se, l\'aplicació de depuració espera que es connecti el depurador</string>
   <string name="wakeup_for_keyguard_notification_title">Activa la pantalla de bloqueig en rebre notificacions</string>
@@ -4918,6 +4919,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="webview_license_title">Llicència de WebView del sistema</string>
   <string name="webview_uninstalled_for_user">(desinstal·lat per a l\'usuari %s)</string>
   <string name="welcome">Benvinguts</string>
+  <string name="wfc_provisioned_switch_string">Trucades Wi-Fi aprovisionades</string>
   <string name="wfd_available_devices">Dispositius disponibles</string>
   <string name="wfd_disconnect_diag_msg">Voleu desconnectar-lo de %1$s?</string>
   <string name="wfd_disconnect_diag_title">Voleu desconnectar la pantalla?</string>
@@ -4943,6 +4945,8 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_advanced_not_available">La configuració avançada del Wi‑Fi no està disponible per a aquest usuari</string>
   <string name="wifi_advanced_settings_label">Configuració IP</string>
   <string name="wifi_advanced_titlebar">Configuració avançada de Wi-Fi</string>
+  <string name="wifi_advanced_toggle_description_collapsed">Llista desplegable d\'opcions avançades. Toqueu dues vegades per expandir-la.</string>
+  <string name="wifi_advanced_toggle_description_expanded">Llista desplegable d\'opcions avançades. Toqueu dues vegades per replegar-la.</string>
   <string name="wifi_aggressive_handover">Transferència forçada des de Wi-Fi a mòbil</string>
   <string name="wifi_aggressive_handover_summary">En activar-se, la connexió canviarà a les dades mòbils de forma més activa quan el senyal Wi-Fi sigui baix.</string>
   <string name="wifi_allow_scan_with_traffic">Permet sempre cerca de Wi-Fi en ininerància</string>
@@ -5064,6 +5068,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_hotspot_configure_ap_text_summary">AndroidAP WPA2 PSK punt d\'accés Wi-Fi Portàtil</string>
   <string name="wifi_hotspot_connect">CONNECTA</string>
   <string name="wifi_hotspot_message">Heu d\'iniciar la sessió abans que %1$s es connecti a la xarxa.</string>
+  <string name="wifi_hotspot_off_subtext">No compartiu la connexió a Internet d\'aquest telèfon a través del punt d\'accés</string>
   <string name="wifi_hotspot_title">Voleu iniciar la sessió?</string>
   <string name="wifi_in_airplane_mode">En mode d\'avió</string>
   <string name="wifi_info_reconnect">Contrasenya incorrecta, torneu-ho a provar!</string>
@@ -5271,6 +5276,8 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="wifi_verbose_logging">Activa el registre Wi‑Fi detallat</string>
   <string name="wifi_verbose_logging_summary">Augmenta el nivell de registre Wi-Fi, mostra l\'RSSI per a cada SSID a la llista de xarxes Wi-Fi.</string>
   <string name="wifi_wakeup">Activa la Wi-Fi automàticament</string>
+  <string name="wifi_wakeup_summary">La Wi-Fi es tornarà a activar a prop de les xarxes desades d\'alta qualitat, com ara la vostra xarxa domèstica</string>
+  <string name="wifi_wakeup_summary_scanning_disabled">No disponible perquè l\'escaneig Wi-Fi està desactivat</string>
   <string name="wifi_wapi_as_cert">Certificat AS</string>
   <string name="wifi_wapi_cert_cancel_button">Cancel·la</string>
   <string name="wifi_wapi_cert_create_subdir">Crea un directori</string>
@@ -5314,18 +5321,23 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="wizard_back">Enrere</string>
   <string name="wizard_finish">Finalitza</string>
   <string name="wizard_next">Següent</string>
+  <string name="work_alarm_ringtone_title">So d\'alarma de treball per defecte</string>
   <string name="work_mode_label">Mode professional</string>
   <string name="work_mode_summary">Permet que el perfil professional funcioni, incloses les aplicacions, la sincronització en segon pla i les funcions relacionades</string>
+  <string name="work_notification_ringtone_title">So de notificació de treball per defecte</string>
   <string name="work_profile_confirm_remove_message">Si continueu, se suprimiran totes les aplicacions i les dades d\'aquest perfil.</string>
   <string name="work_profile_confirm_remove_title">Voleu suprimir el perfil professional?</string>
   <string name="work_profile_notification_access_blocked_summary">S\'ha bloquejat l\'accés a les notificacions de perfil laboral</string>
   <string name="work_profile_usage_access_warning">"Encara que es desactivi l'accés a l'ús d'aquesta aplicació, l'administrador podrà continuar fent el seguiment de les aplicacions del perfil professional."</string>
+  <string name="work_ringtone_title">To de trucada del telèfon de la feina</string>
   <string name="work_sim_title">SIM professional</string>
   <string name="work_sound_same_as_personal">Igual que el perfil personal</string>
   <string name="work_space_delete">Elimina l\'espai de treball</string>
   <string name="work_space_delete_confirm">Confirma la supressió</string>
   <string name="work_space_delete_description">"No podreu entrar a 'espai de treball després d'esborrar-lo. Totes les dades es mouran o seran esborrades."</string>
   <string name="work_sync_dialog_message">Els vostres sons de perfil personal s\'utilitzaran per al vostre perfil laboral</string>
+  <string name="work_sync_dialog_title">Voleu reemplaçar els sons?</string>
+  <string name="work_sync_dialog_yes">Reemplaça</string>
   <string name="work_use_personal_sounds_summary">Els sons són els mateixos per als perfils laboral i personal</string>
   <string name="work_use_personal_sounds_title">Utilitza sons del perfil personal</string>
   <string name="wps_connect_summary">Comproveu que el router s\'ha activat i és compatible amb WPS</string>
@@ -5406,10 +5418,12 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="zen_mode_reminders">Recordatoris</string>
   <string name="zen_mode_repeat_callers">Trucades repetides</string>
   <string name="zen_mode_repeat_callers_summary">Permet la trucada si la mateixa persona truca per segon cop dins d\'un període de %d minuts</string>
+  <string name="zen_mode_rule_delete_button">Suprimeix</string>
   <string name="zen_mode_rule_name">Nom de la regla</string>
   <string name="zen_mode_rule_name_hint">Introdueix el nom de la regla</string>
   <string name="zen_mode_rule_name_warning">El nom de la regla ja s\'utilitza</string>
   <string name="zen_mode_rule_not_found_text">No s\'ha trobat la regla.</string>
+  <string name="zen_mode_rule_rename_button">Reanomena</string>
   <string name="zen_mode_rule_summary_enabled_combination">Engegat / %1$s</string>
   <string name="zen_mode_rule_type">Tipus de regla</string>
   <string name="zen_mode_rule_type_unknown">Desconeguda</string>
@@ -5427,6 +5441,7 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="zen_mode_screen_on_visual_interruptions">Quan la pantalla està activada</string>
   <string name="zen_mode_selected_callers">Contactes seleccionats</string>
   <string name="zen_mode_selected_messages">Missatges seleccionats</string>
+  <string name="zen_mode_settings_summary_off">No hi ha regles automàtiques activades</string>
   <string name="zen_mode_settings_title">No molesteu</string>
   <string name="zen_mode_start_time">Hora d\'inici</string>
   <string name="zen_mode_summary_alarms_only_by_time">Canvia al mode Només alarmes fins a %1$s</string>
