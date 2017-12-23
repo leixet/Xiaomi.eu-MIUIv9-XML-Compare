@@ -616,6 +616,8 @@ d MMMM"</string>
   <string name="tether_settings_title_usb">Internet compartit per USB</string>
   <string name="tether_settings_title_usb_bluetooth">Connexió compartida</string>
   <string name="tether_settings_title_wifi">Punt d\'accés portàtil</string>
+  <string name="tethering_hardware_offload">Acceleració del maquinari de l\'ancoratge</string>
+  <string name="tethering_hardware_offload_summary">Utilitza l\'acceleració del maquinari de l\'ancoratge si està disponible</string>
   <string name="tethering_settings_not_available">La configuració d\'ancoratge no està disponible per a aquest usuari</string>
   <string name="title_convert_fbe">S\'està convertint a xifrat basat en fitxers</string>
   <string name="title_usb_accessory">Accessori USB</string>
@@ -746,6 +748,7 @@ d MMMM"</string>
   <string name="wifi_verbose_logging">Activa el registre Wi‑Fi detallat</string>
   <string name="wifi_verbose_logging_summary">Augmenta el nivell de registre Wi-Fi, mostra l\'RSSI per a cada SSID a la llista de xarxes Wi-Fi.</string>
   <string name="wifi_wapi_as_certificate">Certificat AS</string>
+  <string name="wifi_wapi_cert_mode_hand_text">Selecciona el certificat manualment</string>
   <string name="wifi_wapi_certification_dont_exist">Els certificats WAPI no existeixen. Instal·leu-los.</string>
   <string name="wifi_wapi_fail_to_auth">"L\'autenticació WAPI ha fallat
 Comproveu la validesa dels certificats"</string>
