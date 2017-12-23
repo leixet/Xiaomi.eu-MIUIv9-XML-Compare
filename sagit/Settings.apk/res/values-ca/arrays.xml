@@ -174,7 +174,7 @@
     <item>encén la pantalla</item>
     <item>aconsegueix comptes</item>
     <item>executa en segon pla</item>
-    <item>accessibility volume</item>
+    <item>volum d\'accessibilitat</item>
   </string-array>
   <string-array name="app_process_limit_entries">
     <item>Límit estàndard</item>
