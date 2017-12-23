@@ -29,6 +29,7 @@
   <string name="action_nothing">esperant el resultat de la prova</string>
   <string name="audio_spk_cal_wait">Calibratge...</string>
   <string name="audio_spk_def">Calibreu dels altaveus</string>
+  <string name="baterry_percent">"Quantitat de bateria carregada: "</string>
   <string name="baterry_temperature">"Temperatura de la Bateria: "</string>
   <string name="battery_info">Informació relacionada amb la càrrega de la bateria</string>
   <string name="begin_to_save_finger_data">Comença a registrar les empremtes dels dits</string>
