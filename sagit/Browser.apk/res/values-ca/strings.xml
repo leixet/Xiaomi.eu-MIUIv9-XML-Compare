@@ -336,7 +336,7 @@ està a punt de passar»</string>
   <string name="geolocation_permissions_prompt_message">%s vol saber la vostra ubicació</string>
   <string name="geolocation_permissions_prompt_remember">Recorda la preferència</string>
   <string name="geolocation_permissions_prompt_share">Comparteix la ubicació</string>
-  <string name="geolocation_permissions_prompt_toast_allowed">Aquest lloc pot accedir a la informació d\'ubicació. Per canviar-ho aneu a Configuració &gt; Avançada &gt; Dades del lloc web.</string>
+  <string name="geolocation_permissions_prompt_toast_allowed">Aquest lloc pot accedir a la vostra informació d\'ubicació. Podeu canviar això a la Configuració.</string>
   <string name="geolocation_permissions_prompt_toast_disallowed">"Aquest lloc no pot accedir a la ubicació"</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Cancel·la</string>
   <string name="geolocation_settings_page_dialog_message">Voleu esborrar l\'accés a la ubicació per a aquest lloc?</string>
@@ -629,7 +629,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="pref_label_advert_manager">Gestor d\'anuncis etiquetats</string>
   <string name="pref_nav_mode_summary_pad">Tauleta</string>
   <string name="pref_nav_mode_summary_phone">Telèfon</string>
-  <string name="pref_nav_mode_title">Mode Navegació</string>
+  <string name="pref_nav_mode_title">Mode del navegador</string>
   <string name="pref_notifications_hint">Notificacions</string>
   <string name="pref_notifications_receive">Notificacions</string>
   <string name="pref_notifications_title">Notificacions</string>
