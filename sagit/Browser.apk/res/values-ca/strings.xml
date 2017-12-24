@@ -96,8 +96,8 @@
   <string name="aqi_quality_index_pure">Excel·lent</string>
   <string name="aqi_quality_index_unhealthy">Perjudicial</string>
   <string name="autoSwithcingSearchEngineTips">Ha canviat el motor de cerca pel seu hàbit</string>
-  <string name="autofill_keyboard_accessory_content_description">Suggeriments disponibles</string>
-  <string name="autofill_popup_content_description">S\'està mostrant una finestra emergent amb emplenament automàtic</string>
+  <string name="autofill_keyboard_accessory_content_description">Suggeriments disponibles…</string>
+  <string name="autofill_popup_content_description">S\'està mostrant una finestra emergent d\'emplenament automàtic</string>
   <string name="autologin_bar_error">"No s'ha pogut iniciar la sessió"</string>
   <string name="autologin_bar_hide_text">Amaga</string>
   <string name="autologin_bar_login_text">Inicia la sessió</string>
