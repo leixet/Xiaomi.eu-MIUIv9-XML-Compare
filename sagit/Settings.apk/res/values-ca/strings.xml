@@ -362,7 +362,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="assist_gesture_title">Gest d\'ajuda</string>
   <string name="assistant_security_warning">L\'auxiliar podrà llegir informació sobre les aplicacions en ús, de la pantalla i de la part accessible des de les aplicacions.</string>
   <string name="assistant_security_warning_agree">D\'acord</string>
-  <string name="assistant_security_warning_disagree">Cancel·la</string>
+  <string name="assistant_security_warning_disagree">Discrepa</string>
   <string name="assistant_security_warning_title">Voleu que %s sigui l\'auxiliar?</string>
   <string name="assisted_gps">Utilitza el GPS assistit</string>
   <string name="assisted_gps_disabled">Utilitza el servidor per l\'auxiliar del GPS (desactiva-ho per millorar el rendiment del GPS)</string>
