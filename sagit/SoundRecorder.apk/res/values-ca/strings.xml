@@ -38,7 +38,7 @@
   <string name="error_filename_too_long">El nom del fitxer és massa llarg.</string>
   <string name="error_sdcard_access">"No es pot accedir a l'emmagatzematge"</string>
   <string name="error_sdcard_unmounted">Inseriu una targeta SD</string>
-  <string name="export_to_note">Exporta a «Notes»</string>
+  <string name="export_to_note">Exporta</string>
   <string name="head_set_tip_dialog_msg">Desconnecteu els auriculars per poder enregistrar el so amb les configuracions específiques (p.ex. Música, Veu).</string>
   <string name="head_set_tip_dialog_ok">D\'acord</string>
   <string name="head_set_tip_dialog_title">Utilitza el micròfon intern</string>
