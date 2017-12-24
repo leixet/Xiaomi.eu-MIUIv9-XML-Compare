@@ -97,7 +97,7 @@
   <string name="reboot_confirm_title">Voleu reiniciar el dispositiu ara?</string>
   <string name="reboot_info_auto_boot">Engegada programada del dispositiu: %s</string>
   <string name="reboot_info_shutdown_alarm">L\'alarma sonarà a les %s</string>
-  <string name="reboot_progress">S\'està reiniciant&#8230;</string>
+  <string name="reboot_progress">S\'està reiniciant…</string>
   <string name="remain">Restant: %s</string>
   <string name="replace">Substitueix</string>
   <string name="resource_select">Selecciona</string>
