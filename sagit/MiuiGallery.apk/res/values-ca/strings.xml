@@ -748,7 +748,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="picker_image_will_download">"%d de les fotos seleccionades no són al dispositiu. Es baixaran."</string>
   <string name="picker_no_network_message">Connecteu a la xarxa per baixar</string>
   <string name="picker_origin_need_download">"%1$d de les fotos seleccionades (%2$d MB) no són al dispositiu. Voleu baixar-les utilitzant les dades mòbils?"</string>
-  <string name="picker_title_format">Podeu seleccionar %d fotos</string>
+  <string name="picker_title_format">Seleccioneu %1$d a %2$d fotos</string>
   <string name="picker_title_selection_format">Fotos seleccionades: %d</string>
   <string name="picker_title_specify_format">Selecciona %d fotos</string>
   <string name="picker_title_specify_format_one">Selecciona %d foto</string>
@@ -854,7 +854,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="search_select_network">Seleccioneu una xarxa</string>
   <string name="search_set_network_connection">Configuració de xarxa</string>
   <string name="search_setting_sub_title">Cerca persones, llocs i objectes a les vostres fotos.</string>
-  <string name="search_setting_sub_title_open">S\'ha aprovat. Espereu un temps abans de començar.</string>
+  <string name="search_setting_sub_title_open">S\'ha aplicat. Espereu un temps abans de començar.</string>
   <string name="search_setting_title">Troba fotos a la galeria</string>
   <string name="search_syncing">S\'estan sincronitzant les dades, retornarà en una estona</string>
   <string name="search_title_album">Àlbum</string>
