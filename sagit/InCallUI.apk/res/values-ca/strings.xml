@@ -210,7 +210,7 @@
   <string name="select_voice_call_sim">Trieu la targeta SIM</string>
   <string name="separate_from_conference">Separa la trucada</string>
   <string name="sip_call_not_support_record">"No es poden enregistrar les trucades SIP"</string>
-  <string name="suspect_info">Aneu amb compte: Sempre verifiqueu la identitat de la persona amb la qual està parlant mitjançant una trucada de telèfon o vídeo abans de respondre a qualsevol missatge relacionat amb les seves finances personals.</string>
+  <string name="suspect_info">Aneu amb compte amb la vostra informació personal.</string>
   <string name="unknown">Desconegut</string>
   <string name="unlock_phone">Desbloqueja el dispositiu</string>
   <string name="upgrade_vt_prompt">Voleu canviar la trucada a trucada de vídeo?</string>
