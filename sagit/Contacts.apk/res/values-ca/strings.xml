@@ -482,7 +482,7 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="hint_findContacts">Trobar contactes</string>
   <string name="hint_more_contact">Combinar contactes duplicats</string>
   <string name="hybrid_check_network">Configuració de la xarxa</string>
-  <string name="hybrid_data_error">s\'ha produït un error</string>
+  <string name="hybrid_data_error">S\'ha produït un error</string>
   <string name="hybrid_locating_fail">"No s'ha pogut trobar la vostra ubicació"</string>
   <string name="hybrid_network_unavaliable">"No s'ha pogut accedir a la xarxa"</string>
   <string name="hybrid_service_unavailiable">Sense servei</string>
