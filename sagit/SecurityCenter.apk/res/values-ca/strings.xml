@@ -321,7 +321,7 @@
   <string name="auto_task_notify_task_canceled_title">Acció cancel·lada</string>
   <string name="auto_task_notify_task_continue_do">Inicia l\'acció</string>
   <string name="auto_task_notify_task_count_down">L\'acció automatitzada s\'iniciarà en 5 segons</string>
-  <string name="auto_task_notify_task_exit_task">Surt de la tasca</string>
+  <string name="auto_task_notify_task_exit_task">Cancel·la la tasca</string>
   <string name="auto_task_operation_airplane_mode">Mode avió</string>
   <string name="auto_task_operation_auto_brightness">Brillantor automàtica</string>
   <string name="auto_task_operation_brightness">Brillantor de la pantalla</string>
@@ -435,7 +435,7 @@
   <string name="button_text_reject">Rebutjar</string>
   <string name="button_text_update_now">Actualitzar</string>
   <string name="button_to_setting">Configuració</string>
-  <string name="call_address">Llista negra d\'àrees</string>
+  <string name="call_address">Llista de bloqueig d\'àrea</string>
   <string name="call_and_contact">Trucades i contactes</string>
   <string name="call_blacklist">Llista de bloqueig de trucades</string>
   <string name="call_cloud_block">Llista de bloqueig del núvol</string>
