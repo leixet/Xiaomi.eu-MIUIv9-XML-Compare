@@ -75,7 +75,7 @@ Introduïu el número de telèfon associat amb la vostra targeta SIM nova per a 
   <string name="activate_popup_title_failed_server">Error de servidor</string>
   <string name="activate_popup_title_manual">Activa %s</string>
   <string name="activate_popup_title_new_sim_card">Reactiva %s</string>
-  <string name="activate_popup_title_register_account">Crea un compte Mi</string>
+  <string name="activate_popup_title_register_account">Crea un Compte Mi</string>
   <string name="activate_sms_postfix">Aquest SMS s\'utilitza per activar el vostre servei Mi</string>
   <string name="activate_status_desc_acquire_phone_number">Verificant el número de telèfon&#8230;</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">S\'ha produït un error al servidor en verificar el número de telèfon</string>
