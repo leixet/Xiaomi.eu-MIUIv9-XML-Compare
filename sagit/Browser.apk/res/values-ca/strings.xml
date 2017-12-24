@@ -927,7 +927,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="video_downloaded_group">Baixats</string>
   <string name="video_downloading_group">S\'està baixant</string>
   <string name="video_edit">Edita</string>
-  <string name="video_float_window">PopUp</string>
+  <string name="video_float_window">Emergent</string>
   <string name="video_float_window_playing">Reproduint vídeo</string>
   <string name="video_float_window_text">Emergent</string>
   <string name="video_fragment_name_collections">Favorits</string>
