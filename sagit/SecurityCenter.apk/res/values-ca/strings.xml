@@ -437,14 +437,14 @@
   <string name="button_to_setting">Configuració</string>
   <string name="call_address">Llista negra d\'àrees</string>
   <string name="call_and_contact">Trucades i contactes</string>
-  <string name="call_blacklist">Llista negra de trucades</string>
+  <string name="call_blacklist">Llista de bloqueig de trucades</string>
   <string name="call_cloud_block">Intercepció al núvol</string>
   <string name="call_contact_block">Intercepció de contactes</string>
   <string name="call_delete_hint">Voleu eliminar totes les trucades bloquejades d\'aquest número?</string>
   <string name="call_delete_title">Elimina la trucada</string>
   <string name="call_prefix">Llista negra de prefixos</string>
-  <string name="call_private">Trucada privada</string>
-  <string name="call_stranger_block">Intercepció de desconeguts</string>
+  <string name="call_private">Bloqueja trucades de números ocults</string>
+  <string name="call_stranger_block">Bloqueja trucades d\'estranys</string>
   <string name="call_transfer_block">Bloqueja les trucades desviades</string>
   <string name="call_transfer_info">Bloqueja les trucades desviades des de números desconeguts</string>
   <string name="cancal_to_setting_fingerprint">Cancel·la</string>
@@ -815,7 +815,7 @@
   <string name="item_system_auto_download">Baixa actualitzacions automàticament</string>
   <string name="item_usb_debug">Depuració USB</string>
   <string name="item_virus_lib">Actualitza definició de virus automàticament</string>
-  <string name="keywords_antispam">Blocklist;Bloquejar;Llista negre;Blocklist intel·ligent;Frau;Vendes;Agents</string>
+  <string name="keywords_antispam">Llista de bloqueig;Bloqueja;Llista negra;Llista de bloqueig intel·ligent;Frau;Ventes;Agents;Llista de bloqueig de trucades;Llista de bloqueig de missatges;Llista de bloqueig de missatges;Llista de bloqueig d\'SMS;Llista negra;Bloqueig de contactes;Bloqueja contactes</string>
   <string name="keywords_antivirus">Virus;Risc;Antivirus;Escanejar</string>
   <string name="keywords_app_permissions">Permisos;Ubicació;Contactes d\'accés;Permisos;Permisos de l\'aplicació</string>
   <string name="keywords_auto_restart">Inici automàtic;Permisos;Inici automàtic; Automàtic;Gestiona l\'inici automàtic;Inici automàtic MIUI;Inici automàtic de l\'aplicació;Inicia automàticament aplicacions;Inici de la cadena,inici encadenat, inici provocat</string>
@@ -1634,14 +1634,14 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="st_call_intercept_unknown">Bloqueja trucades de números ocults</string>
   <string name="st_call_other_group">Altres</string>
   <string name="st_call_settings">Llista de bloqueig de trucades</string>
-  <string name="st_call_stranger_group">Trucades de desconeguts</string>
+  <string name="st_call_stranger_group">Bloqueja trucades d\'estranys</string>
   <string name="st_confirm_dialog_btn_open">Obre</string>
   <string name="st_confirm_dialog_summary_contact_call">Es bloquejaran totes les trucades dels contactes.</string>
   <string name="st_confirm_dialog_summary_stranger_call">Es bloquejaran totes les trucades d\'estranys.</string>
   <string name="st_filter_keywords_setting_summary1">Es bloquejaran els missatges de números desconeguts que continguin les paraules d\'aquesta llista.</string>
   <string name="st_filter_keywords_setting_summary2">"
 (Utilitzeu una coma per separar múltiples paraules clau)"</string>
-  <string name="st_group_list_management">Gestió de llistes</string>
+  <string name="st_group_list_management">Gestiona la llista de bloqueig</string>
   <string name="st_hint_add_head_number">Introduïu el prefix</string>
   <string name="st_hint_add_phonenumber">Introduïu número de telèfon</string>
   <string name="st_message_SMS_AntiSpam">Bloqueja els SMS</string>
