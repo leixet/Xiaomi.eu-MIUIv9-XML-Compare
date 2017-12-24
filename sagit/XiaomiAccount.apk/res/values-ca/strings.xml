@@ -274,7 +274,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_next">Següent</string>
   <string name="passport_no">No</string>
   <string name="passport_notification_title">Error d\'inici de sessió per a %1$s</string>
-  <string name="passport_password_phone_login">Inicieu la sessió amb el compte Mi</string>
+  <string name="passport_password_phone_login">Inicia sessió amb el Compte Mi</string>
   <string name="passport_password_req_notice">La contrasenya ha de tenir de 8 a 16 caràcters i incloure números i lletres (sensible a majúscules).</string>
   <string name="passport_phone_num_hint_text">Número de telèfon</string>
   <string name="passport_phone_ticket_login">Inicia la sessió amb SMS</string>
@@ -293,7 +293,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_re_get_verify_code">Obtén el codi de nou</string>
   <string name="passport_re_register">Inicia sessió de nou</string>
   <string name="passport_recycle_account_prompt">És aquest el vostre compte Mi?</string>
-  <string name="passport_recycle_login_other_account">"No són meus. Utilitzaré una altra."</string>
+  <string name="passport_recycle_login_other_account">"No és la meva. Utilitzaré una altra."</string>
   <string name="passport_reg_btn_using_other_phone">Utilitzeu el número de telèfon alternatiu</string>
   <string name="passport_reg_failed">"No es pot configurar el compte"</string>
   <string name="passport_reg_new_account">Crea un compte</string>
@@ -328,7 +328,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_reset_password_title">Restableix contrasenya</string>
   <string name="passport_restart">Torna a començar</string>
   <string name="passport_restart_register_prompt">Pot ser que sigui necessari un altre missatge de verificació per crear el vostre compte.</string>
-  <string name="passport_restart_register_title">Crea un compte Mi</string>
+  <string name="passport_restart_register_title">Crea un Compte Mi</string>
   <string name="passport_retry">Torna-ho a provar</string>
   <string name="passport_select_reg_ways_title">Altres vies per inscriure\'s</string>
   <string name="passport_select_the_login_account">Seleccioneu el compte per iniciar la sessió</string>
