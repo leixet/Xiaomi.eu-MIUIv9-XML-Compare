@@ -417,7 +417,7 @@
   <string name="phone_send_code_again">Obtenir codi de nou</string>
   <string name="phone_send_code_tip">Envia una altra vegada a %1$ds</string>
   <string name="phone_storage">Emmagatzematge</string>
-  <string name="phone_storage_apk_title">APKs:&#160;</string>
+  <string name="phone_storage_apk_title">APK: </string>
   <string name="phone_storage_audio_title">Música:&#160;</string>
   <string name="phone_storage_cal">Comprovant&#8230;</string>
   <string name="phone_storage_clean">Netejar</string>
