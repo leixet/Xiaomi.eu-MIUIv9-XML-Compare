@@ -787,8 +787,8 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="senddesktop">Pantalla d\'inici</string>
   <string name="sendstartpage">Pàgina d\'inici</string>
   <string name="sequence_bookmark_description">Premeu i mantingueu premut per reordenar els marcadors</string>
-  <string name="share_image_text">Estic gaudint d\'una imatge molt meravellosa</string>
-  <string name="share_page_text">Estic gaudint 【%1$s】 | %2$s</string>
+  <string name="share_image_text">Mireu lo que he compartit! @MIUI</string>
+  <string name="share_page_text">Mireu el que he compartit: %1$s @MIUI| %2$s</string>
   <string name="show_check_security_url_check_tip_dialog_description">"Recollirem i utilitzarem les vostres dades personals si voleu utilitzar els nostres serveis.
 A continuació, es detallen les dades que recollirem:
 1. URLs segurs: recollirem les URL dels llocs web que visiteu mentre utilitzeu els nostres serveis.
