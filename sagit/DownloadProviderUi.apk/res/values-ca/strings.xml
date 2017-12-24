@@ -121,7 +121,7 @@
   <string name="downloading">S\'està baixant&#8230;</string>
   <string name="downloading_empty">Buit</string>
   <string name="downloads_operating">En procés&#8230;</string>
-  <string name="dredge_xunlei_account">Crear un compte Xunlei</string>
+  <string name="dredge_xunlei_account">Crea un compte Xunlei</string>
   <string name="durationDayHour">%1$d dia %2$d h</string>
   <string name="durationDayHours">%1$d dia %2$d hrs</string>
   <string name="durationDays">%1$d dies</string>
