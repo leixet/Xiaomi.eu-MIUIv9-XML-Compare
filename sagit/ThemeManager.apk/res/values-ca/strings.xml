@@ -97,7 +97,7 @@
   <string name="home_apply_failured">"No es pot aplicar el fons de la pantalla d'inici"</string>
   <string name="home_apply_success">S\'ha aplicat el fons de pantalla d\'inici</string>
   <string name="in_the_end">No hi ha més elements a mostrar</string>
-  <string name="incompatible_dialog_message">Aquest tema no és del tot compatible amb MIUI 8. Alguns elements es poden mostrar incorrectament.</string>
+  <string name="incompatible_dialog_message">Aquest tema no és del tot compatible amb MIUI 9. Alguns elements es poden mostrar incorrectament.</string>
   <string name="incompatible_dialog_ok">D\'acord</string>
   <string name="incompatible_dialog_title">Problemes de compatibilitat</string>
   <string name="is_setting_wallpaper_message">S\'està establint el fons de pantalla&#8230;</string>
@@ -428,7 +428,7 @@
   <string name="theme_user_agreement_content3">" i "</string>
   <string name="theme_user_agreement_content4">Política de privadesa</string>
   <string name="theme_user_agreement_content5">". Aquesta aplicació necessita connectar-se a internet per funcionar amb normalitat "</string>
-  <string name="theme_user_agreement_exit">Tanca</string>
+  <string name="theme_user_agreement_exit">Discrepa</string>
   <string name="theme_user_agreement_remind_again">Mostra les condicions d\'ús</string>
   <string name="theme_user_agreement_remind_never">"No tornis a mostrar-ho"</string>
   <string name="theme_user_agreement_remind_summary">Mostra les condicions d\'ús cada vegada que obris l\'aplicació Temes. S\'aplicarà després de reiniciar el dispositiu.</string>
