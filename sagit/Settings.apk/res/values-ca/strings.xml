@@ -2732,6 +2732,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="notification_importance_blocked">No mostris mai les notificacions d\'aquesta aplicació</string>
   <string name="notification_importance_default">Sense interrupció de la pantalla completa ni previsualització.</string>
   <string name="notification_importance_default_title">Alta</string>
+  <string name="notification_importance_divider">%1$s: %2$s</string>
   <string name="notification_importance_high">Permet sempre la previsualització. Sense interrupció de la pantalla completa.</string>
   <string name="notification_importance_high_title">Urgent</string>
   <string name="notification_importance_low">Sense interrupció de la pantalla completa, previsualització, so ni vibració.</string>
@@ -2785,6 +2786,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="notification_sound_title">So de notificació per defecte</string>
   <string name="notification_suggestion_summary">Mostra o oculta el contingut de la notificació</string>
   <string name="notification_suggestion_title">Controla notificacions de pantalla bloq.</string>
+  <string name="notification_summary_channel">%1$s • %2$s</string>
   <string name="notification_summary_level">Nivell %d</string>
   <string name="notification_summary_none">Totes les aplicacions poden enviar notificacions</string>
   <string name="notification_toggle_off">Desactivada</string>
