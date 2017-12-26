@@ -393,6 +393,13 @@ Allibereu %s com a mínim"</string>
   <string name="trans_detail_item_app_data_selected_tip">També hi ha les aplicacions corresponents seleccionades.</string>
   <string name="trans_detail_item_app_data_too_large_tip">Sembla que l\'element és massa gran per transferir-lo.</string>
   <string name="trans_detail_list_footer">Nota: podeu triar transferir aplicacions per separat. Tanmateix, si seleccioneu les dades de l\'aplicació, les aplicacions corresponents també es transferiran.</string>
+  <string name="trans_detail_page_tip">Com més elements seleccioneu, més temps durarà la transferència.</string>
+  <string name="trans_detail_qq_data">Dades QQ (incloent l\'historial de xat)</string>
+  <string name="trans_detail_sys_data_list_title">Aplicacions del sistema</string>
+  <string name="trans_detail_sys_data_page_title">Seleccioneu les aplicacions del sistema</string>
+  <string name="trans_detail_wechat_data">Dades WeChat (incloent l\'historial de xat)</string>
+  <string name="trans_detail_wechat_qq_list_title">WeChat i QQ</string>
+  <string name="trans_detail_wechat_qq_page_title">Seleccioneu WeChat, QQ i dades de l\'aplicació</string>
   <string name="trans_device_auto_reconnecting">Dispositiu desconnectat. S\'està tornant a connectar automàticament…</string>
   <string name="trans_device_disconnected">S\'ha interromput la connexió</string>
   <string name="trans_device_wait_for_reconnecting">S\'ha interromput la connexió. Torneu-lo a connectar per continuar.</string>
@@ -475,6 +482,8 @@ Mantingueu els dispositius propers l\'un de l\'altre."</string>
 Torneu a seleccionar els fitxers o esborreu %s d\'emmagatzematge en el dispositiu nou"</string>
   <string name="trans_select_data_tips">"Seleccioneu els fitxers per a transferir
 Se sobreescriuran els fitxers semblants del dispositiu nou"</string>
+  <string name="trans_select_data_too_large">"Heu seleccionat massa elements per transferir.
+Seleccioneu només elements importants per fer la transferència més ràpida."</string>
   <string name="trans_select_device_receive">Seleccioneu un dispositiu per rebre les dades.</string>
   <string name="trans_select_device_send">Seleccioneu un dispositiu per a transferir les dades.</string>
   <string name="trans_sender">"Sóc un emissor"</string>
@@ -506,6 +515,7 @@ i s\'ha activat Mi Mover"</string>
   <string name="user_notice_declaration_ignore">"No ho tornis a mostrar"</string>
   <string name="user_notice_message">Per funcionar amb normalitat, algunes característiques requereixen connexió a Internet.</string>
   <string name="user_notice_title">Atenció!</string>
+  <string name="view_password_description">Mostra la contrasenya</string>
   <string name="wifi_title">Configuració de Wi-Fi</string>
   <string name="xiaomi_connect_download_manager_fail">"No s'ha pogut iniciar la baixada. Comproveu que el gestor de baixades funcioni correctament."</string>
   <string name="xiaomi_external_storage_unavailable">"Emmagatzematge no disponible, comproveu la targeta SD."</string>
