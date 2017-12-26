@@ -423,6 +423,9 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="send_email_activate_message">Correu de verificació enviat</string>
   <string name="service_error">Error del servei</string>
   <string name="set_success">S\'ha canviat amb èxit</string>
+  <string name="sign_in">Inicia la sessió</string>
+  <string name="sim_changed_notification_msg">Toqueu per actualitzar el vostre telèfon de recuperació i així mantenir el compte més segur.</string>
+  <string name="sim_changed_notification_title">Heu canviat el número de telèfon?</string>
   <string name="sina_weibo">Sina WeiBo</string>
   <string name="sms_send_success">Enviat</string>
   <string name="sns_access_token_expired_warning">L\'inici de sessió del compte ha caducat. Inicieu sessió de nou per tornar a connectar aquest compte.</string>
@@ -438,6 +441,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="update_contacts">Actualitza la llibreta d\'adreces</string>
   <string name="update_email_address_dialog_message">Us cal verificar la identitat abans que pugueu actualitzar el correu electrònic.</string>
   <string name="update_email_address_dialog_title">Actualitza el correu</string>
+  <string name="update_phone_notice">Canvia la configuració de seguretat</string>
   <string name="update_phone_number_notice_message">Us cal verificar la identitat abans que pugueu actualitzar el número de telèfon.</string>
   <string name="updated_nothing">Actualitzat</string>
   <string name="user_avatar_update_title">Actualitza imatge del perfil</string>
