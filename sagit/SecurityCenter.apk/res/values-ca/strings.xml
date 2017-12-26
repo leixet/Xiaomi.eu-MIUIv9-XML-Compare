@@ -1686,7 +1686,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="st_title_call_wait_setting">Trucada en espera</string>
   <string name="st_title_editblacklist">Edita la llista de bloqueig</string>
   <string name="st_title_editwhitelist">Edita les excepcions</string>
-  <string name="st_title_keywords_blacklist">Filtre de paraules clau</string>
+  <string name="st_title_keywords_blacklist">Llista negra de paraules clau</string>
   <string name="st_title_keywords_whitelist">Llista blanca de paraules clau</string>
   <string name="st_title_man_addblacklist">Afegeix el número a la llista de bloqueig</string>
   <string name="st_title_man_addwhitelist">Afegeix el número de telèfon a les excepcions</string>
