@@ -3966,7 +3966,7 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="single_key_use_summary">Utilitzeu el botó Inici per a les funcions realitzades pels altres 2 botons</string>
   <string name="skip_anyway_button_label">Omet de totes maneres</string>
   <string name="skip_label">Omet</string>
-  <string name="skip_lock_screen_confirm_msg">Les notificacions, els controls del reproductor de música i les dreceres no es mostraran a la pantalla de bloqueig.</string>
+  <string name="skip_lock_screen_confirm_msg">"Les notificacions, els controls del reproductor de música i les dreceres no es mostraran a la pantalla de bloqueig."</string>
   <string name="skip_step">Omet</string>
   <string name="slot_number">(Slot%1$d)</string>
   <string name="slot_status_title">informació d\'IMEI</string>
@@ -4026,7 +4026,6 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="status_bar_app_enable_message">Insígnies</string>
   <string name="status_bar_key_position_custom">Posició de tecla personalitzada</string>
   <string name="status_bar_screen_button_force_immersive_desc">Feu lliscar el dit cap amunt des de la part inferior de la pantalla per mostrar els botons virtuals</string>
-  <string name="status_bar_screen_button_key">Botons de la pantalla</string>
   <string name="status_bar_screen_button_key_force_immersive">Amaga els botons virtuals</string>
   <string name="status_bar_screen_key_back">Tecla Enrere</string>
   <string name="status_bar_screen_key_home">Tecla Pàgina d\'inici</string>
