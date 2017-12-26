@@ -415,7 +415,7 @@
   <string name="input_hint_prefix">Introduïu la %1$s</string>
   <string name="installing_apk">S\'està instal·lant…</string>
   <string name="insufficient_space">"No hi ha prou espai en l'emmagatzematge intern del vostre dispositiu"</string>
-  <string name="intelligent_recognize">Portades i lletres d\'àlbums</string>
+  <string name="intelligent_recognize">Portades d\'àlbums i lletres</string>
   <string name="is_loading_data">S\'estan carregant les carregant cançons. Espereu un minut o dos i torneu-ho a provar.</string>
   <string name="is_scanning">S\'està comprovant l\'emmagatzematge&#8230;</string>
   <string name="is_scanning_support_online">«S\'està comprovant l\'emmagatzematge&#8230;
