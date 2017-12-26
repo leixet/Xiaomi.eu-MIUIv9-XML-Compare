@@ -601,7 +601,9 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="dial_related_setting_catory">Marcador</string>
   <string name="dialerKeyboardHintText">Utilitzeu el teclat per marcar</string>
   <string name="dialog_alert_title">Atenció</string>
+  <string name="dialog_cancel">Cancel·la</string>
   <string name="dialog_network_priority_title">Xarxa prioritària</string>
+  <string name="dialog_report">Notifica</string>
   <string name="direct_boot_unaware_dialog_message">"Nota: després de reiniciar, aquesta aplicació no pot iniciar-se fins que desbloquegeu el telèfon"</string>
   <string name="disable">Apaga</string>
   <string name="disable_all_cf">Desactiva totes les funcions de desviament de trucada</string>
@@ -625,6 +627,8 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="dtmf_tone_entries_normal">Normal</string>
   <string name="dtmf_tones_summary">Defineix la durada dels tons DTMF</string>
   <string name="dtmf_tones_title">Tons DTMF</string>
+  <string name="dual_4g_switch_summary">Permet la connectivitat 4G a les dues ranures SIM.</string>
+  <string name="dual_4g_switch_title">4G dual</string>
   <string name="duration_disable_summary">La visualització de la durada està desactivada</string>
   <string name="duration_enable_summary">La visualització de la durada està activada</string>
   <string name="edit_fdn_contact">Edita número de marcatge predefinit</string>
