@@ -247,6 +247,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_multilevel_entry_lowest">Mínim</string>
   <string name="pref_camera_multilevel_entry_middle">Mitjà (per defecte)</string>
   <string name="pref_camera_panoramamode_title">Panoràmica</string>
+  <string name="pref_camera_parallel_process_enable_title">Activa el procés d\'imatge paral·lela</string>
   <string name="pref_camera_peak_entry_off">desactivada</string>
   <string name="pref_camera_peak_entry_on">activada</string>
   <string name="pref_camera_peak_title">Ajuda d\'enfocament</string>
