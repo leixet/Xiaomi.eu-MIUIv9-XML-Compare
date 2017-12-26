@@ -94,7 +94,6 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="current_pad_location">Tauleta</string>
   <string name="current_phone_location">Telèfon</string>
   <string name="current_sim">Targeta SIM actual</string>
-  <string name="custom_progress">%d elements</string>
   <string name="data_item_desc">Dades</string>
   <string name="data_no_enough_space_message">"No hi ha prou espai a l'emmagatzematge intern del dispositiu."</string>
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
@@ -176,7 +175,6 @@ necessiteu carregar les dades en dispositius antics a l\'iCloud"</string>
   <string name="import_from_xiaomi_account_hint2">Si ja teniu una còpia de seguretat, premeu Següent.</string>
   <string name="import_from_xiaomi_account_hint_title">Utilitzeu Mi Talk per fer còpies de seguretat dels contactes d\'altres dispositius.</string>
   <string name="import_tip_summary">Degut a problemes de compatibilitat, només podeu transferir dades parcials de dispositius iOS. Assegureu-vos que creeu una còpia de seguretat d\'iCloud abans de començar la transferència.</string>
-  <string name="import_tip_title">Consells:</string>
   <string name="loading_data">S\'estan carregant les dades</string>
   <string name="local_app_name">Còpia de seguretat</string>
   <string name="local_backup_window_title">Còpies de seguretat locals</string>
@@ -339,7 +337,6 @@ Allibereu %s com a mínim"</string>
   <string name="task_running_restore_hint">Aquest procés ja s\'està executant en segon pla</string>
   <string name="task_service_not_launched">"El procés encara no ha començat"</string>
   <string name="task_stopped_exception">S\'ha cancel·lat la restauració</string>
-  <string name="total_num">%d elements,</string>
   <string name="total_size">, %s</string>
   <string name="trans_backingup">S\'està copiant&#8230;</string>
   <string name="trans_backingup_no_items">S\'està sincronitzant…</string>
