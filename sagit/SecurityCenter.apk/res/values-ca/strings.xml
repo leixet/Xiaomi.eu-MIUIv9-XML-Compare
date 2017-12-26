@@ -1621,7 +1621,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="st_message_phone_AntiSpam">Bloqueja les trucades</string>
   <string name="st_message_phonepass">Permet les trucades</string>
   <string name="st_msg_intercept_contacts">Bloqueja SMS dels contactes</string>
-  <string name="st_msg_keyword_group">Llista de bloqueig de paraules clau</string>
+  <string name="st_msg_keyword_group">Paraules clau</string>
   <string name="st_msg_other_group">Altres</string>
   <string name="st_msg_settings">Llista de bloqueig d\'SMS</string>
   <string name="st_msg_stranger_group">Bloqueja SMS d\'estranys</string>
