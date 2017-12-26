@@ -488,7 +488,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="picture_color_mode_desc">Utilitza sRGB</string>
   <string name="pip_menu_title">Menú d\'imatge en imatge</string>
   <string name="pip_notification_message">Si no voleu que %s utilitzi aquesta funció, toqueu per obrir la configuració i desactiveu-la.</string>
-  <string name="pip_notification_title">%s està en imatge en imatge</string>
+  <string name="pip_notification_title">%s està en imatge dins d\'imatge</string>
   <string name="pip_pause">Pausa</string>
   <string name="pip_phone_close">Tanca</string>
   <string name="pip_phone_dismiss_hint">Arrossegueu cap avall per descartar</string>
