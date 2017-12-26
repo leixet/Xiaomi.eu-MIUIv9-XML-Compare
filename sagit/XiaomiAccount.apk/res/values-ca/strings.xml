@@ -183,7 +183,7 @@
   <string name="oauth_title">Inici de sessió amb el compte Mi</string>
   <string name="other_devices_title">Altres dispositius</string>
   <string name="passport_access_denied">Accés denegat</string>
-  <string name="passport_account_hint_text">Adreça de correu, número de telèfon o ID del Compte Mi</string>
+  <string name="passport_account_hint_text">Adreça de correu/número de telèfon/ID del Compte Mi</string>
   <string name="passport_account_identity_title">Verifiqueu la vostra identitat</string>
   <string name="passport_account_label">Compte Mi</string>
   <string name="passport_account_name">Compte: %1$s</string>
