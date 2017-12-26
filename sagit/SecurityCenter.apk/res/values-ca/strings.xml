@@ -121,7 +121,6 @@
   <string name="app_install_intercept">Bloquejar instal·lació</string>
   <string name="app_install_tips_go_to">Obre\'l</string>
   <string name="app_install_tips_install_success">%1$s s\'ha instal·lat amb èxit</string>
-  <string name="app_maanger_app_uninstalled_toast">Aquesta aplicació s\'ha desinstal·lat</string>
   <string name="app_manager_advanced_setting">Configuració avançada</string>
   <string name="app_manager_allow">Sí</string>
   <string name="app_manager_app_ifno_version">Versió de l\'aplicació</string>
@@ -144,7 +143,6 @@
   <string name="app_manager_clear_data_dlg_message">Totes les dades de l\'aplicació, inclosos els fitxers, la configuració, els comptes, les bases de dades i la memòria cau seran eliminats de manera permanent.</string>
   <string name="app_manager_clear_data_dlg_title">Voleu suprimir totes les dades?</string>
   <string name="app_manager_clear_failed_dlg_message">No s\'han pogut suprimir les dades de l\'aplicació.</string>
-  <string name="app_manager_clear_failed_dlg_title">Esborra les dades</string>
   <string name="app_manager_copy_pkg_to_clip">S\'ha copiat al porta-retalls</string>
   <string name="app_manager_default_cleared">Netejat</string>
   <string name="app_manager_default_close_summary">No s\'ha establert els valors per defecte.</string>
@@ -176,8 +174,6 @@
   <string name="app_manager_have_not_consume">Cap</string>
   <string name="app_manager_hide_system_server">Amaga els serveis del sistema</string>
   <string name="app_manager_install_other_app">Instal·la aplicacions de fonts desconegudes</string>
-  <string name="app_manager_instruction">Instrucció</string>
-  <string name="app_manager_loading_data">S\'estan carregant les dades&#8230;</string>
   <string name="app_manager_manage_space">Gestiona l\'espai</string>
   <string name="app_manager_memory">RAM</string>
   <string name="app_manager_menu_clear_data">Suprimeix les dades</string>
@@ -185,16 +181,13 @@
   <string name="app_manager_net_mobile">Mòbil</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
   <string name="app_manager_not_allow">No</string>
-  <string name="app_manager_not_record">"No s'ha pogut trobar aplicacions que requereixin permisos"</string>
   <string name="app_manager_notify_bar">Insígnies</string>
   <string name="app_manager_notify_floating">Notificacions flotants</string>
   <string name="app_manager_notify_keyguard">Bloqueja la pantalla</string>
   <string name="app_manager_perm">Permisos</string>
   <string name="app_manager_permission_manager_title">Permisos</string>
   <string name="app_manager_permission_notify_title">Notificacions</string>
-  <string name="app_manager_permission_power_saving_summary">Estalviador de bateria MIUI</string>
   <string name="app_manager_permission_power_saving_title">Estalvi de bateria</string>
-  <string name="app_manager_permission_startself_summary">Les aplicacions que s\'inicien automàticament ocupen RAM i drenen la bateria més ràpidament</string>
   <string name="app_manager_permission_startself_title">Inici automàtic</string>
   <string name="app_manager_permission_summary_reject">Restringeix-ho tot</string>
   <string name="app_manager_powerkeeper_miui_auto">Estalvi de bateria MIUI</string>
@@ -202,10 +195,6 @@
   <string name="app_manager_powerkeeper_no_restrict">Sense restriccions</string>
   <string name="app_manager_powerkeeper_restrict_bg">Restringeix les aplicacions en segon pla</string>
   <string name="app_manager_pref_ads">Recomanacions</string>
-  <string name="app_manager_rebide_wakepath">Limita</string>
-  <string name="app_manager_reduce_wakepath_dialog">Minimitza l\'inici de la cadena</string>
-  <string name="app_manager_reduce_wakepath_summary">La restricció de l\'inici automàtic minimitzarà l\'inici de la cadena. Voleu restringir l\'inici automàtic de %s?</string>
-  <string name="app_manager_reject_count_over">Bloquejat 100000+ vegades</string>
   <string name="app_manager_reset_app_preferences">Reinicia les preferències de les aplicacions</string>
   <string name="app_manager_reset_app_preferences_button">Reinicia les aplicacions</string>
   <string name="app_manager_reset_app_preferences_desc">"Es reiniciaran totes les preferències de:
@@ -219,15 +208,7 @@
   <string name="app_manager_reset_app_preferences_title">Voleu reiniciar les preferències de les aplicacions?</string>
   <string name="app_manager_show_all_apps">Mostra totes les aplicacions</string>
   <string name="app_manager_show_detail_infos">Mostra-ho tot</string>
-  <string name="app_manager_sort">Ordena per</string>
   <string name="app_manager_start_by">Iniciat per %s</string>
-  <string name="app_manager_start_count_over">100000+ vegades</string>
-  <string name="app_manager_stop_wakepath_dialog_summary">Voleu desinstal·lar %s per restringir l\'inici de la cadena?</string>
-  <string name="app_manager_stop_wakepath_dialog_title">Restringeix l\'inici de la cadena</string>
-  <string name="app_manager_stop_wakepath_dlg_msg_with_xspace_app">La desinstal·lació d\'aquesta aplicació restringirà l\'inici de la cadena. Les aplicacions duals relacionades també es desinstal·laran. Voleu desinstal·lar %s?</string>
-  <string name="app_manager_stop_wakepath_success">S\'ha restringit amb èxit</string>
-  <string name="app_manager_stop_wp_dialog_cancel">Cancel·la</string>
-  <string name="app_manager_stop_wp_dialog_uninstall">Desinstal·la</string>
   <string name="app_manager_system_mobile_disable">Desactiva les dades</string>
   <string name="app_manager_title">Administra les aplicacions</string>
   <string name="app_manager_uninstall_protected_dlg_msg">En desinstal·lar les aplicacions del sistema podeu impedir que alguns components de MIUI funcionin correctament. Voleu desinstal·lar-la de totes maneres?</string>
@@ -236,10 +217,6 @@
   <string name="app_manager_uninstall_xspace_app_dlg_msg">Si desinstal·leu les aplicacions duals, es suprimiran totes les dades de l\'aplicació.</string>
   <string name="app_manager_uninstall_xspace_app_dlg_title">Voleu desinstal·lar l\'aplicació dual?</string>
   <string name="app_manager_unstall_application">Desinstal·la</string>
-  <string name="app_manager_wake_path_card_title">Historial d\'inici de la cadena (2 dies)</string>
-  <string name="app_manager_wakepath_dialog_buttontext">Entesos</string>
-  <string name="app_manager_wakepath_dialog_summary">L\'inici de la cadena succeïx quan una aplicació inicia un altre aplicació de fons. Pot drenar la bateria i baixar el rendiment del sistema. MIUI normalment bloquejaria l\'inici de la cadena.</string>
-  <string name="app_manager_wakepath_dialog_title">Quant a l\'inici de la cadena</string>
   <string name="app_managere_not_have_app">Buit</string>
   <string name="app_mobile">Mòbil</string>
   <string name="app_name">Bloquejador d\'aplicacions</string>
@@ -666,8 +643,6 @@
   <string name="firewall_applist">Aplicacions</string>
   <string name="firewall_fragment_nonesys_listempty">Buit</string>
   <string name="firewall_fragment_sys_listempty">Buit</string>
-  <string name="firewall_fragment_tab_title_nonsys">Instal·lat</string>
-  <string name="firewall_fragment_tab_title_sys">Sistema</string>
   <string name="firewall_mobile_dialog_message">"L'aplicació instal·lada no podrà connectar-se a Internet utilitzant dades mòbils quan aquest interruptor està desactivat."</string>
   <string name="firewall_network_allow">S\'ha permès a %1$s a utilitzar la connexió %2$s</string>
   <string name="firewall_network_restrict_notify_message">Tocar per canviar la configuració.</string>
@@ -679,9 +654,7 @@
   <string name="firewall_restrict_data">Restringeix ús de dades mòbils</string>
   <string name="firewall_restrict_notify_title">"%s no pot utilitzar la xarxa"</string>
   <string name="firewall_restrict_wlan">Restringeix l\'ús de la connexió Wi-Fi</string>
-  <string name="firewall_rule_group_title_mobile">Mòbil</string>
   <string name="firewall_rule_group_title_roaming">Itinerància en ultramar</string>
-  <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">"L'aplicació instal·lada no podrà connectar-se a Internet utilitzant Wi-Fi quan aquest interruptor està desactivat"</string>
   <string name="five_percent_total_pkg">%s (5%% de les dades mensuals)</string>
   <string name="forbid_autobright_summary">"La brillantor de la pantalla continuarà igual quan estigueu jugant"</string>
@@ -1028,7 +1001,6 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="name">Nom</string>
   <string name="net_booster">Augment de velocitat de la xarxa</string>
   <string name="net_booster_expire_notification">La sessió d\'augment de la velocitat de la xarxa està a punt de finalitzar</string>
-  <string name="net_booster_expire_notification_tip">%d d restants abans de finalitzar la sessió d\'augment de la velocitat de xarxa. Renoveu la sessió per evitar problemes de velocitat de xarxa.</string>
   <string name="net_booster_overdue_notification">La sessió d\'augment de la velocitat de la xarxa està a punt de finalitzar</string>
   <string name="net_booster_overdue_notification_tip">La sessió d\'augment de la velocitat de xarxa finalitzarà aviat. Voleu renovar la sessió?</string>
   <string name="net_booster_tip">Activeu l\'augment de la velocitat de xarxa per fer que la connexió Wi-Fi sigui més estable i reduir el retard de la xarxa.</string>
@@ -2006,8 +1978,6 @@ Dades extres en ús"</string>
   <string name="virus_auto_update_engine">Actualitzacions automàtiques: %s</string>
   <string name="virus_update_tips_title">Advertència</string>
   <string name="virus_wait_network_dialog_message">"El telèfon no està connectat a la xarxa Wi-Fi. Voleu utilitzar la connexió de dades mòbils?"</string>
-  <string name="vpn_disabled_by_user">La connexió de dades designada està desactivada</string>
-  <string name="vpn_unbale_get_phonenum">"No es poden obtenir números de telèfon amb els plans de dades designats"</string>
   <string name="wakepath_confirm_start_activity">Voleu permetre a %1$s obrir %2$s?</string>
   <string name="website">Pàgina web</string>
   <string name="whitelist_prefix_add_hint">Afegeix tots els números amb prefix a les excepcions</string>
