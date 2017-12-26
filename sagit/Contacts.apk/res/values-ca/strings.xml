@@ -743,7 +743,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="non_phone_caption">Número de telèfon</string>
   <string name="non_phone_close">Tancar</string>
   <string name="none_paired">No hi ha dispositius actualment aparellatss</string>
-  <string name="not_applied">"No aplica"</string>
+  <string name="not_applied">"No s'ha pogut aplicar"</string>
   <string name="notification_action_voicemail_play">Reprodueix</string>
   <string name="notification_new_voicemail_ticker">Nou correu de veu de %1$s</string>
   <string name="openDialKeyboard">Teclat</string>
