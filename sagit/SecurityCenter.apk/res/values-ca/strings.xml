@@ -138,12 +138,18 @@
   <string name="app_manager_as_dlg_title">Atenció</string>
   <string name="app_manager_back">Enrere</string>
   <string name="app_manager_bipartition">Aplicacions duals</string>
+  <string name="app_manager_cache_size">Memòria cau</string>
   <string name="app_manager_card_permission_title">Permisos</string>
+  <string name="app_manager_clear_all_data">Neteja totes les dades</string>
   <string name="app_manager_clear_cache">Esborra la memòria cau</string>
   <string name="app_manager_clear_data_dlg_message">Totes les dades de l\'aplicació, inclosos els fitxers, la configuració, els comptes, les bases de dades i la memòria cau seran eliminats de manera permanent.</string>
   <string name="app_manager_clear_data_dlg_title">Voleu suprimir totes les dades?</string>
+  <string name="app_manager_clear_dlg_title">Neteja les dades</string>
   <string name="app_manager_clear_failed_dlg_message">No s\'han pogut suprimir les dades de l\'aplicació.</string>
+  <string name="app_manager_code_size">Mida de l\'aplicació</string>
+  <string name="app_manager_comuting_size">S\'està calculant…</string>
   <string name="app_manager_copy_pkg_to_clip">S\'ha copiat al porta-retalls</string>
+  <string name="app_manager_data_size">Dades de l\'usuari</string>
   <string name="app_manager_default_cleared">Netejat</string>
   <string name="app_manager_default_close_summary">No s\'ha establert els valors per defecte.</string>
   <string name="app_manager_default_open_summary">S\'ha definit aquesta aplicació com a predeterminada per fer algunes accions.</string>
@@ -159,6 +165,7 @@
   <string name="app_manager_disabled">Desactivada</string>
   <string name="app_manager_disabled_by_admin">Desactivat per l\'administrador</string>
   <string name="app_manager_dlg_cancel">Cancel·la</string>
+  <string name="app_manager_dlg_clear_cache_title">Voleu esborra la memòria cau?</string>
   <string name="app_manager_dlg_ok">D\'acord</string>
   <string name="app_manager_enable_text">Activa</string>
   <string name="app_manager_enabled">Activada</string>
@@ -181,6 +188,7 @@
   <string name="app_manager_net_mobile">Mòbil</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
   <string name="app_manager_not_allow">No</string>
+  <string name="app_manager_not_support_uninstall">"No es pot desinstal·lar aquestes aplicacions"</string>
   <string name="app_manager_notify_bar">Insígnies</string>
   <string name="app_manager_notify_floating">Notificacions flotants</string>
   <string name="app_manager_notify_keyguard">Bloqueja la pantalla</string>
@@ -209,8 +217,10 @@
   <string name="app_manager_show_all_apps">Mostra totes les aplicacions</string>
   <string name="app_manager_show_detail_infos">Mostra-ho tot</string>
   <string name="app_manager_start_by">Iniciat per %s</string>
+  <string name="app_manager_support_uninstall">Podeu desinstal·lar aquestes aplicacions</string>
   <string name="app_manager_system_mobile_disable">Desactiva les dades</string>
   <string name="app_manager_title">Administra les aplicacions</string>
+  <string name="app_manager_total_size">Total</string>
   <string name="app_manager_uninstall_protected_dlg_msg">En desinstal·lar les aplicacions del sistema podeu impedir que alguns components de MIUI funcionin correctament. Voleu desinstal·lar-la de totes maneres?</string>
   <string name="app_manager_uninstall_protected_dlg_title">Desinstal·lació d\'aplicacions del sistema</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Les aplicacions duals es suprimiran conjuntament amb les dades de l\'aplicació.</string>
@@ -258,6 +268,8 @@
   <string name="apps_list_header_title_sms_access">Restringir l\'accés als codis de verificació</string>
   <string name="auto_atsk_condition_battery_level_text_down">Quan la bateria arribi al %s</string>
   <string name="auto_atsk_condition_battery_level_text_up">Quan la bateria es carregui fins al %s</string>
+  <string name="auto_back_booster">Atura l\'acceleració</string>
+  <string name="auto_booster_suc">S\'ha accelerat amb èxit</string>
   <string name="auto_clean_close">Les neteges automàtiques estan desactivades</string>
   <string name="auto_import_games">Poseu tots els vostres jocs en un sol lloc</string>
   <string name="auto_task_condition_choose_battery_level_down">Quan la bateria assoleixi un nivell determinat</string>
@@ -315,6 +327,7 @@
   <string name="auto_task_operation_vibration">Vibració</string>
   <string name="auto_task_operation_wifi">Wi-Fi</string>
   <string name="back_app_name">Torna al bloqueig d\'aplicacions</string>
+  <string name="back_description_securitycenter">Enrere</string>
   <string name="back_modifypassword">Vés enrere per canviar la contrasenya</string>
   <string name="background_restrict_app_dialog_message">La restricció de l\'accés a la xarxa en segon pla per a aquesta aplicació pot fer que l\'aplicació no funcioni correctament, rebre missatges, baixar contingut, etc. Voleu restringir-lo de totes maneres?</string>
   <string name="background_traffic">Fons %s</string>
@@ -419,6 +432,7 @@
   <string name="call_contact_block">Bloqueja trucades dels contactes</string>
   <string name="call_delete_hint">Voleu eliminar totes les trucades bloquejades d\'aquest número?</string>
   <string name="call_delete_title">Elimina la trucada</string>
+  <string name="call_oversea_block">Bloqueja trucades des de l\'estranger</string>
   <string name="call_prefix">Llista de bloqueig de prefixos</string>
   <string name="call_private">Bloqueja trucades de números ocults</string>
   <string name="call_stranger_block">Bloqueja trucades d\'estranys</string>
@@ -643,6 +657,7 @@
   <string name="firewall_applist">Aplicacions</string>
   <string name="firewall_fragment_nonesys_listempty">Buit</string>
   <string name="firewall_fragment_sys_listempty">Buit</string>
+  <string name="firewall_mobile">Dades mòbils</string>
   <string name="firewall_mobile_dialog_message">"L'aplicació instal·lada no podrà connectar-se a Internet utilitzant dades mòbils quan aquest interruptor està desactivat."</string>
   <string name="firewall_network_allow">S\'ha permès a %1$s a utilitzar la connexió %2$s</string>
   <string name="firewall_network_restrict_notify_message">Tocar per canviar la configuració.</string>
@@ -655,6 +670,8 @@
   <string name="firewall_restrict_notify_title">"%s no pot utilitzar la xarxa"</string>
   <string name="firewall_restrict_wlan">Restringeix l\'ús de la connexió Wi-Fi</string>
   <string name="firewall_rule_group_title_roaming">Itinerància en ultramar</string>
+  <string name="firewall_system_title">Ús de dades per a les aplicacions del sistema</string>
+  <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">"L'aplicació instal·lada no podrà connectar-se a Internet utilitzant Wi-Fi quan aquest interruptor està desactivat"</string>
   <string name="five_percent_total_pkg">%s (5%% de les dades mensuals)</string>
   <string name="forbid_autobright_summary">"La brillantor de la pantalla continuarà igual quan estigueu jugant"</string>
