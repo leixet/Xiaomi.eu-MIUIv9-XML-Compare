@@ -594,7 +594,8 @@
   <string name="dlg_import_whitelist">S\'està afegint&#8230;</string>
   <string name="dlg_keyword_ok">Desa</string>
   <string name="dlg_message_not_open_stranger_identify">Per activar aquesta funció, aneu a Configuració &gt; Telèfon.</string>
-  <string name="dlg_no_block">Voleu desbloquejar aquest número i restaurar-ne les trucades bloquejades al registre de trucades?</string>
+  <string name="dlg_no_block">"Voleu desbloqueja aquest número i restaurar-ne les trucades d\'aquest número a l\'historial de trucades?
+(El número s\'afegirà a la llista blanca)"</string>
   <string name="dlg_no_block_ok">Desbloqujea</string>
   <string name="dlg_remove_address_blacklist">Voleu eliminar aquesta ubicació de la llista de bloqueig?</string>
   <string name="dlg_remove_address_whitelist">Voleu eliminar aquesta ubicació de les excepcions?</string>
@@ -1368,11 +1369,11 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="pref_mi_sim_settings">Configuració de la Mi SIM</string>
   <string name="pref_more_settings">Configuració addicional</string>
   <string name="pref_new_installed_preconfig_title">"Configuració per defecte per a noves aplicacions"</string>
-  <string name="pref_normal_traffic_limit">Quan reviseu el pla de dades</string>
+  <string name="pref_normal_traffic_limit">Quan el pla de dades s\'esgoti</string>
   <string name="pref_open_adjust_traffic">Sincronitza les estadístiques d\'ús de dades amb els servidors del seu operador</string>
   <string name="pref_operator_not_set">"No s'ha configurat l'operador"</string>
   <string name="pref_over_traffic_limit">Quan reviseu el pla de dades</string>
-  <string name="pref_package_traffic_settings">Límit de dades mòbils</string>
+  <string name="pref_package_traffic_settings">Pla de dades</string>
   <string name="pref_pkg_begin_date">Restablir la data d\'ús</string>
   <string name="pref_roaming_daily_limit_setting">Establiu el límit de dades diari en itinerància</string>
   <string name="pref_roaming_daily_limit_setting_cat_title">Límit diari de dades</string>
