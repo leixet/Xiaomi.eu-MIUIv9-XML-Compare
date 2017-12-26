@@ -24,6 +24,10 @@
     <item>Escala d\'animació 5x</item>
     <item>Escala d\'animació 10x</item>
   </string-array>
+  <string-array name="ap_identify">
+    <item>per defecte</item>
+    <item>iPhone</item>
+  </string-array>
   <string-array name="apn_auth_entries">
     <item>Cap</item>
     <item>PAP</item>
