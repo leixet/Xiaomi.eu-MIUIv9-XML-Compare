@@ -264,7 +264,10 @@
   <string name="like_toast_2">Veure els vídeos que us han agradat en el vostre perfil.</string>
   <string name="like_toast_3">Inicieu sessió per veure els vídeos que us han agradat en el vostre perfil.</string>
   <string name="list_refreshing_text">S\'està actualitzant...</string>
+  <string name="list_refreshing_time">Darrera actualització: %1$s</string>
   <string name="load_more">Veure més</string>
+  <string name="load_more_load_end">No hi ha més contingut</string>
+  <string name="load_more_loading">S\'està carregant...</string>
   <string name="load_sticker_fail">"No s'ha pogut carregar l'adhesiu"</string>
   <string name="loading">Un moment…</string>
   <string name="local_image">Imatges</string>
@@ -320,6 +323,7 @@
   <string name="name_empty">Introduïu un nom</string>
   <string name="need_login">Inicieu la sessió primer</string>
   <string name="need_read_storage_permission">"L'Explorador necessita accedir a la memòria interna del dispositiu per funcionar com va ser dissenyat."</string>
+  <string name="net_error_text">Error de xarxa</string>
   <string name="network_dialog_checkbox_tip">"No tornar a mostrar"</string>
   <string name="network_not_available">"No s'ha pogut connectar a la xarxa"</string>
   <string name="network_spent_reminding">"Obre aquesta pàgina requereix trànsit del teu pla de dades."</string>
@@ -502,6 +506,7 @@
   <string name="search_file_type_music">Música</string>
   <string name="search_file_type_picture">Foto</string>
   <string name="search_file_type_video">Vídeo</string>
+  <string name="search_guid_hint">Cerca fitxers</string>
   <string name="search_hint">Cerca</string>
   <string name="search_history">Historial de cerca</string>
   <string name="search_hot_sticker">Adhesius; Baixa adhesius</string>
