@@ -734,7 +734,7 @@
   <string name="select_all">Seleccioneu-ho tot</string>
   <string name="select_device">Seleccioneu un dispositiu</string>
   <string name="select_displayed_folders">Trieu les carpetes a mostrar</string>
-  <string name="select_local_album">Trieu un àlbum</string>
+  <string name="select_local_album">Trieu la portada de l\'àlbum</string>
   <string name="select_local_lyric">Trieu una lletra</string>
   <string name="select_none">Desselecciona-ho tot</string>
   <string name="select_operation_items">Seleccioneu elements</string>
