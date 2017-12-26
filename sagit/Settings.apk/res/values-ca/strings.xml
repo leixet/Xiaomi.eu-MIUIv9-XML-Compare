@@ -4966,6 +4966,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wapi_password_hex_length_invalid">El recompte de caràcters hexadecimals ha de ser un número parell</string>
   <string name="wapi_password_length_invalid">La contrasenya ha de ser de 8 a 64 caràcters</string>
   <string name="wapi_psk_type">Tipus de contrasenya</string>
+  <string name="warm_color">Càlid</string>
   <string name="web_action_enable_summary">Obre els enllaços a les aplicacions, encara que no estiguin instal·lats</string>
   <string name="web_action_enable_title">Aplicacions instantànies</string>
   <string name="web_action_section_title">Aplicacions instantànies</string>
