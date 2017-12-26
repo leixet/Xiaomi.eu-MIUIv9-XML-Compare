@@ -437,6 +437,7 @@ Darrera execució el %2$s"</string>
   <string name="average_used">Mitjana d\'ús (%)</string>
   <string name="avoid_ui">Bloqueig tàctil</string>
   <string name="awake">Hora d\'inici del dispositiu</string>
+  <string name="back_button">Enrere</string>
   <string name="back_key">Enrere</string>
   <string name="background_activity_summary">Permet que l\'aplicació s\'executi en segon pla</string>
   <string name="background_activity_summary_disabled">L\'aplicació no es permet executar en segon pla</string>
@@ -822,6 +823,7 @@ Taxa de mostreig"</string>
   <string name="bluetooth_unlock_turned_on">Activat</string>
   <string name="bluetooth_untether_blank">%1$s es desconnectarà de la connexió a internet compartida.</string>
   <string name="bluetooth_visibility_timeout">Durada de la visibilitat</string>
+  <string name="bluetooth_wake">Desperta amb àudio Bluetooth</string>
   <string name="boot_sounds_title">Encesa dels sons</string>
   <string name="bootloader">Mode Fastboot</string>
   <string name="bootloader_apply_step_1">Voleu activar el mode Fastboot?</string>
@@ -1081,6 +1083,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="convert_to_file_encryption">Converteix a criptografia de fitxers</string>
   <string name="convert_to_file_encryption_done">El fitxer ja està xifrat</string>
   <string name="convert_to_file_encryption_enabled">Converteix&#8230;</string>
+  <string name="cool_color">Fred</string>
   <string name="copyright_title">Drets d\'autor</string>
   <string name="country_name">%s (sistema)</string>
   <string name="create">Crea</string>
@@ -1566,6 +1569,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»"</string>
   <string name="enable_text">Activa</string>
   <string name="enable_wifi_display">Activa la pantalla sense fils</string>
   <string name="enabled_by_admin">Activat per l\'administrador</string>
+  <string name="enalbe_identify_iPhone">Identificació de l\'AP</string>
   <string name="encrypt_talkback_dialog_message_password">En introduir la contrasenya per a iniciar aquest dispositiu, els serveis d\'accessibilitat com %1$s encara no estaran disponibles.</string>
   <string name="encrypt_talkback_dialog_message_pattern">En introduir el patró per a iniciar aquest dispositiu, els serveis d\'accessibilitat com %1$s encara no estaran disponibles.</string>
   <string name="encrypt_talkback_dialog_message_pin">En introduir el PIN per a iniciar aquest dispositiu, els serveis d\'accessibilitat com %1$s encara no estaran disponibles.</string>
@@ -1952,6 +1956,9 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="incoming_call_breathing_light_color_title">Color de les trucades</string>
   <string name="incoming_call_breathing_light_freq_title">Freqüència de parpelleig del LED per trucades</string>
   <string name="incoming_call_volume_title">To de trucada</string>
+  <string name="infinity_display_settings">Pantalla completa</string>
+  <string name="infinity_display_slogan">Innovació a pantalla completa</string>
+  <string name="infinity_display_title">Pantalla completa</string>
   <string name="information_dialog_button_text">Ja està!</string>
   <string name="input_assistance">Assistència d\'entrada</string>
   <string name="input_method">Teclat</string>
@@ -2584,6 +2591,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="music_dirac_mode_piston_color">Edició de color</string>
   <string name="music_dirac_mode_piston_standard">Edició Estàndard</string>
   <string name="music_dirac_mode_piston_youth">Edició Jove</string>
+  <string name="music_dirac_mode_reduction_noise">Redueix el soroll (USB-C)</string>
   <string name="music_dolby_mode_movie">Vídeo</string>
   <string name="music_dolby_mode_music">Música</string>
   <string name="music_dolby_mode_off">Apagat</string>
@@ -2619,6 +2627,24 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="my_device">El meu dispositiu</string>
   <string name="my_device_disclaimer">Nota: la informació de maquinari, incloent la CPU, capacitat de la bateria, mida de pantalla, resolució i la càmera, és proporcionada pels laboratoris de Xiaomi, dissenyadors i proveïdors.</string>
   <string name="n_cacrts">%d certificats de CA</string>
+  <string name="nature_color">Per defecte</string>
+  <string name="navigation_guide_back_anim_summary">Gest cap enrere amb animació</string>
+  <string name="navigation_guide_back_anim_title">Animació del gest cap enrrere</string>
+  <string name="navigation_guide_back_summary">Llisqueu cap a l\'esquerra o cap a la dreta des de la pantalla</string>
+  <string name="navigation_guide_back_title">Torna a la darrera pàgina</string>
+  <string name="navigation_guide_dialog_dont_show_again">"No ho tornis a mostrar"</string>
+  <string name="navigation_guide_dialog_ok">Aprèn</string>
+  <string name="navigation_guide_dialog_skip">Omet</string>
+  <string name="navigation_guide_dialog_summary">Utilitza el gest en comptes de la tecla virtual.</string>
+  <string name="navigation_guide_dialog_title">Apreneu els gestos</string>
+  <string name="navigation_guide_home_summary">Llisqueu el dit cap amunt des de la part inferior de la pantalla</string>
+  <string name="navigation_guide_home_title">Tornar a l\'inici</string>
+  <string name="navigation_guide_recent_summary">Llisqueu el dit cap amunt des de la part inferior de la pantalla i pausa</string>
+  <string name="navigation_guide_recent_title">Canvia als recents</string>
+  <string name="navigation_guide_settings">Lliçons</string>
+  <string name="navigation_type_radio_text_full_screen">Gestos de pantalla completa</string>
+  <string name="navigation_type_radio_text_virtual_key">Barra de navegació clàssica</string>
+  <string name="navigation_type_settings">Maneres de navegació del sistema</string>
   <string name="nearby_wifi">Xarxes disponibles</string>
   <string name="need_reboot_now">Reinicieu per aplicar l\'actualització.</string>
   <string name="netcheck_title">Diagnòstic de la xarxa</string>
@@ -3818,6 +3844,8 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="settings_license_activity_title">Llicències de codi obert</string>
   <string name="settings_license_activity_unavailable">S\'ha produït un problema en llegir les llicències.</string>
   <string name="settings_manual_activity_unavailable">S\'ha produït un problema en carregar el manual.</string>
+  <string name="settings_notify_need_backup">Feu una còpia de seguretat de la configuració al Mi Cloud per accedir-hi després d\'haver canviat els telèfons.</string>
+  <string name="settings_notify_phone_recycled">El vostre número de telèfon ha estat reciclat. Toqueu per afegir un número de telèfon diferent.</string>
   <string name="settings_safetylegal_activity_loading">S\'està carregant…</string>
   <string name="settings_safetylegal_activity_title">Informació de seguretat</string>
   <string name="settings_safetylegal_activity_unreachable">No hi ha connexió de dades. Per veure la informació, aneu a %s des de qualsevol ordinador connectat a Internet.</string>
@@ -4007,6 +4035,7 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="spellchecker_security_warning">Aquest corrector ortogràfic pot accedir a tot el que teclegeu, incloses dades personals, contrasenyes i targetes de crèdit. Prové de l\'aplicació %1$s. Voleu fer-lo servir?</string>
   <string name="spellchecker_switch_title">Activar el corrector ortogràfic</string>
   <string name="spellcheckers_settings_title">Corrector ortogràfic</string>
+  <string name="split_screen">Accedeix a la pantalla dividida</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_warning">És possible que la xarxa estigui supervisada</string>
   <string name="ssl_ca_cert_warning_message">«Un tercer pot supervisar l\'activitat a la xarxa, inclosos els correus electrònics, les aplicacions i els llocs web segurs.
@@ -4250,6 +4279,7 @@ Per a un millor rendiment, us recomanem que utilitzeu un ^1 més ràpid."</strin
   <string name="suggested_lock_settings_title">Bloqueig de pantalla</string>
   <string name="suggestion_additional_fingerprints">Afegeix una altra empremta digital</string>
   <string name="suggestion_additional_fingerprints_summary">Desbloqueja amb una altra empremta</string>
+  <string name="suggestion_for_phone_recycled">Afegiu un número de telèfon diferent</string>
   <string name="suggestion_remove">Treu</string>
   <string name="suggestions_title">Suggeriments (%1$d)</string>
   <string name="sum_carrier_select">Trieu un operador de xarxa</string>
@@ -4325,6 +4355,7 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="system_dashboard_summary">Llengües, temps, còpies de seguretat, actualitzacions</string>
   <string name="system_default_app">(Opció per defecte del sistema)</string>
   <string name="system_package">Les actualitzacions del sistema no es poden instal·lar en suports externs.</string>
+  <string name="system_shortcut_wake">Desperta amb els botons de drecera</string>
   <string name="system_storage">Emmagatzematge del sistema</string>
   <string name="system_ui_settings">Mostra el SystemUI Tuner</string>
   <string name="system_update_settings_list_item_title">Actualitzacions del sistema</string>
@@ -4359,6 +4390,7 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="tethering_help_button_text">Ajuda</string>
   <string name="tethering_settings_not_available">Canvia la configuració de la connexió compartida en el primer espai</string>
   <string name="theme_settings_title">Temes</string>
+  <string name="thememanager_not_found">"No s'ha pogut obrir temes. Assegureu-vos que l'aplicació està instal·lada."</string>
   <string name="three_gesture_down">Feu lliscar 3 dits cap avall</string>
   <string name="time_picker_title">Hora</string>
   <string name="time_zone_auto_stub">Selecciona el fus horari</string>
@@ -4803,6 +4835,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="vision_settings_description">Podeu personalitzar el dispositiu perquè s\'adapti a les vostres necessitats. Aquestes funcions d\'accessibilitat es poden canviar posteriorment des de Configuració.</string>
   <string name="vision_settings_title">Configuració de visió</string>
   <string name="voice_category">Veu</string>
+  <string name="voice_helper_title">Assistent de veu</string>
   <string name="voice_input_output_settings">Entrada i sortida de veu</string>
   <string name="voice_input_output_settings_title">Configuració de l\'entrada i sortida de veu</string>
   <string name="voice_input_settings">Configuració de l\'entrada de veu</string>
@@ -4921,6 +4954,18 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wallpaper_settings_title">Fons de pantalla</string>
   <string name="wallpaper_suggestion_summary">Personalitza la pantalla</string>
   <string name="wallpaper_suggestion_title">Canvia el fons de pantalla</string>
+  <string name="wapi_auto_sel_cert">Selecciona automàticament</string>
+  <string name="wapi_auto_sel_cert_fail">No es pot seleccionar el certificat automàticament. Seleccioneu un certificat de la llista i, a continuació, intenteu connectar-vos.</string>
+  <string name="wapi_cert_is_not_selected">Seleccioneu primer el certificat</string>
+  <string name="wapi_cert_manage_summary">Afegeix o suprimeix el certificat WAPI</string>
+  <string name="wapi_cert_manage_title">Gestió de certificats WAPI</string>
+  <string name="wapi_cert_select">Certificat WAPI</string>
+  <string name="wapi_no_vaild_cert">No hi ha cap certificat disponible, voleu instal·lar-ne un?</string>
+  <string name="wapi_password_empty">Introduïu la contrasenya</string>
+  <string name="wapi_password_hex_format_invalid">Caràcters hexadecimals no vàlids</string>
+  <string name="wapi_password_hex_length_invalid">El recompte de caràcters hexadecimals ha de ser un número parell</string>
+  <string name="wapi_password_length_invalid">La contrasenya ha de ser de 8 a 64 caràcters</string>
+  <string name="wapi_psk_type">Tipus de contrasenya</string>
   <string name="web_action_enable_summary">Obre els enllaços a les aplicacions, encara que no estiguin instal·lats</string>
   <string name="web_action_enable_title">Aplicacions instantànies</string>
   <string name="web_action_section_title">Aplicacions instantànies</string>
