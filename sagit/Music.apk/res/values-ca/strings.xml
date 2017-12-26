@@ -748,7 +748,7 @@
   <string name="set_id3_failed">"No s'ha pogut desar la informació"</string>
   <string name="set_id3_not_have_read_or_write_permission">"No tens permisos per editar aquest fitxer"</string>
   <string name="set_id3_not_support_format">"No es pot editar aquest format de fitxer"</string>
-  <string name="set_id3_successful">Informació de la cançó desada</string>
+  <string name="set_id3_successful">S\'ha desat la informació de la cançó</string>
   <string name="set_ringtones_failed">"No s'ha pogut establir el to de trucada"</string>
   <string name="set_ringtones_successful">%s establert com a to de trucada</string>
   <string name="setting_feature_setting">Configuració de les característiques</string>
@@ -826,11 +826,11 @@
   <string name="talkback_download">Baixa</string>
   <string name="talkback_favorite">M\'agrada aquesta cançó</string>
   <string name="talkback_karaoke">Obre el Karaoke</string>
-  <string name="talkback_mode">Repeteix la llista de reproducció</string>
-  <string name="talkback_mode_repeat_all">Mode repetició de la llista</string>
-  <string name="talkback_mode_repeat_current">Mode repetició individual</string>
+  <string name="talkback_mode">Bucle</string>
+  <string name="talkback_mode_repeat_all">Mode bucle</string>
+  <string name="talkback_mode_repeat_current">Mode repetició</string>
   <string name="talkback_mode_repeat_shuffle">Mode de reproducció aleatòria</string>
-  <string name="talkback_more">Més opcions</string>
+  <string name="talkback_more">Més</string>
   <string name="talkback_next">Propera cançó</string>
   <string name="talkback_nowplaying_bar">Reprodueix barres</string>
   <string name="talkback_nowplaying_circle">Reprodueix cercles</string>
