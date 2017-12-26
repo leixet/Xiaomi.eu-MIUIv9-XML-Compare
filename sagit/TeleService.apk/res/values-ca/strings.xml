@@ -668,6 +668,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="enable_disable_retail_directory">Directori de Comerços</string>
   <string name="enable_disable_stock_quotes">Cotitzacions d\'Accions</string>
   <string name="enable_disable_technology_news">Notícies de tecnologia</string>
+  <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE requereix connectivitat 4G per a les dues ranures SIM. Voleu canviar al 4G dual?</string>
   <string name="enable_fdn">Activa els NMP</string>
   <string name="enable_fdn_ok">Desactiva els NMP</string>
   <string name="enable_freeform_support">Activa les finestres de format lliure</string>
@@ -888,6 +889,9 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="missed_call_notify_times_summary">els recordatoris es separen en intervals de 5 minuts</string>
   <string name="missed_call_notify_times_title">Recordatoris de trucades perdudes</string>
   <string name="missed_call_notify_twice">2 cops</string>
+  <string name="miui_network_selection_reset_text">Restableix</string>
+  <string name="miui_notification_network_selection_title">SIM sense servei</string>
+  <string name="miui_notification_network_selection_title_by_sim">SIM %s sense servei</string>
   <string name="mmiCancelled">Codi MMI cancel·lat</string>
   <string name="mmiStarted">Codi MMI iniciat</string>
   <string name="mobile_data">Dades mòbils</string>
@@ -899,6 +903,8 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="mock_location_app">Seleccioneu una aplicació per simular la ubicació</string>
   <string name="mock_location_app_not_set">Cap aplicació per simular ubicació seleccionada</string>
   <string name="mock_location_app_set">Aplicació d\'ubicació simulada: %1$s</string>
+  <string name="modem_dialog_body">La xarxa mòbil és inestable, això pot provocar interrupcions o problemes de xarxa. Voleu enviar un informe d\'error a Mi per a l\'anàlisi? Aquest informe pot contenir informació personalment identificable. L\'informe s\'utilitzarà per ajudar a solucionar aquest error i mai es compartirà en cap context comercial.</string>
+  <string name="modem_dialog_title">La xarxa mòbil és inestable</string>
   <string name="msim_apn_not_set">No definit</string>
   <string name="msim_default_setting">Configuració per defecte</string>
   <string name="msim_disable_sim_card_btn_text">D\'acord</string>
@@ -1487,6 +1493,8 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="tty_mode_not_allowed_video_call">No es pot canviar el mode TTY durant una videotrucada</string>
   <string name="tty_mode_option_summary">Estableix mode TTY</string>
   <string name="tty_mode_option_title">Mode TTY</string>
+  <string name="turn_off_dual_4g_failed">"No s'ha pogut desactivar el 4G dual."</string>
+  <string name="turn_on_dual_4g_failed">"No s'ha pogut activar el 4G dual."</string>
   <string name="turnover_mute_summary">Quan el telèfon està en una superfície horitzontal amb la pantalla cap amunt, torneu-lo a fer per silenciar les trucades.</string>
   <string name="turnover_mute_title">Gira per silenciar la trucada</string>
   <string name="undefined">Cap</string>
