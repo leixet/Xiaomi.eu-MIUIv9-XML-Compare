@@ -66,6 +66,11 @@
   <string name="disable_wallpaper_scroll">Desactiva el desplaçament lateral</string>
   <string name="download_action">Baixa</string>
   <string name="edit_folder_title">Edita el nom de la carpeta</string>
+  <string name="edit_mode_group">Grup</string>
+  <string name="edit_mode_group_error_full">No hi ha prou espai</string>
+  <string name="edit_mode_group_error_in_folder">Tanqueu la carpeta abans d\'agrupar icones</string>
+  <string name="edit_mode_group_error_one_folder">"No es pot duplicar una carpeta amb les icones seleccionades"</string>
+  <string name="edit_mode_uninstall">Desinstal·la</string>
   <string name="editing_add_widget_tips">Editeu els ginys</string>
   <string name="editing_mode_enter_tip_text">Pessigueu per editar la pantalla d\'inici</string>
   <string name="editing_mode_title_empty">0 seleccionats</string>
@@ -150,6 +155,8 @@
   <string name="lock_screen_failed_message">"No es pot aplicar el fons de pantalla"</string>
   <string name="lock_screen_success_message">S\'ha aplicat correctament</string>
   <string name="lock_screen_wallpaper">Fons de pantalla de bloqueig</string>
+  <string name="memory_clear_nothing_result">No hi ha res per esborrar a la memòria cau</string>
+  <string name="memory_clear_result">%1$sB netejats</string>
   <string name="menu_add">Afegeix</string>
   <string name="menu_auto_fill">Emplena les cel·les buides</string>
   <string name="menu_back_desktop">Torna a la pantalla d\'inici</string>
