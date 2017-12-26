@@ -449,7 +449,6 @@
   <string name="update_date_format">dd/MM/yyyy</string>
   <string name="virus_scan">Escaneig de seguretat</string>
   <string name="wechat_cache_files">Memòria cau del WeChat</string>
-  <string name="wechat_chat_clean_done">Tot sembla correcte</string>
   <string name="wechat_chat_data_type_cache">Memòria cau del WeChat</string>
   <string name="wechat_chat_data_type_cache_desc">"Podreu restaurar aquests fitxers després de connectar-vos a Internet."</string>
   <string name="wechat_chat_data_type_chat">Historial de xat</string>
