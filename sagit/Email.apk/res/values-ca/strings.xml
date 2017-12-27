@@ -83,7 +83,7 @@
   <string name="account_setup_basics_password_label">Introduïu la contrasenya</string>
   <string name="account_setup_basics_title">Afegeix un compte</string>
   <string name="account_setup_check_settings_check_incoming_msg">Validant la configuració del servidor…</string>
-  <string name="account_setup_check_settings_check_outgoing_msg">Validant configuració smtp…</string>
+  <string name="account_setup_check_settings_check_outgoing_msg">S\'està validant la configuració SMTP…</string>
   <string name="account_setup_check_settings_retr_info_msg">"Recuperant informació del compte…"</string>
   <string name="account_setup_correct_address_tips">Introduïu l\'adreça de correu electrònic</string>
   <string name="account_setup_creating_account_msg">"Creant compte…"</string>
