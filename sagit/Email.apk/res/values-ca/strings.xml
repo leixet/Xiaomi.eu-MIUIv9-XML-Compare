@@ -813,6 +813,8 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="push_wps_confirm_message">Prova a utilitzar WPS Office per obrir aquest fitxer adjunt.</string>
   <string name="push_wps_confirm_title">Provar WPS Office</string>
   <string name="push_wps_no_response_app">No s\'ha trobat l\'aplicació per gestionar aquesta acció</string>
+  <string name="qq_auto_login_failed_cpy_pass_success">S\'ha copiat amb èxit; torneu a la pàgina d\'inici de sessió i enganxeu-lo per completar el camp de contrasenya</string>
+  <string name="qq_auto_login_failed_dialog_positive_label">Copia el codi d\'autorització</string>
   <string name="qq_bar_open_imap">Activa</string>
   <string name="qq_bar_send_message">Envia SMS</string>
   <string name="qq_login_basecode">S\'està iniciant sessió al correu QQ a través de la pagina web. Introduïu la contrasenya independent.</string>
@@ -910,6 +912,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="request_entity_large">El fitxer és massa gran</string>
   <string name="request_permission_activity">Sol·licitud de permís</string>
   <string name="respond_inline">"   Respon en línia"</string>
+  <string name="retry_login">Torneu a iniciar la sessió</string>
   <string name="save_action">Desa</string>
   <string name="save_attachment">Desa</string>
   <string name="save_draft_failed">No s\'ha pogut desar l\'esborrany</string>
