@@ -129,4 +129,8 @@
     <item quantity="other">%s resultats al servidor</item>
     <item quantity="one">%s resultat al servidor</item>
   </plurals>
+  <plurals name="unsent_messages_in_outbox">
+    <item quantity="other">%1$s no enviats a %2$s</item>
+    <item quantity="one">%1$s no enviat a %2$s</item>
+  </plurals>
 </resources>
