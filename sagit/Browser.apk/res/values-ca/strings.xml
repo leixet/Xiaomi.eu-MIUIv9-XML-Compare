@@ -803,6 +803,7 @@ Així és com utilitzem les dades que recopilem:
 2. Contingut: les vostres dades ens ajuden a proporcionar contingut rellevant de notícies localitzat.
 El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'acceptar el nostre %2$s i %1$s per poder utilitzar el Navegador. "</string>
   <string name="show_security_tip_dialog_title">Política de privadesa</string>
+  <string name="sign_and_open">Inicia sessió i obre\'l</string>
   <string name="sign_in_to" formatted="false">Inicia una sessió al %s1 \"%s2\"</string>
   <string name="skip_button_label">Omet</string>
   <string name="skip_current_version">Omet aquesta versió</string>
@@ -853,11 +854,14 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="switchText">SÍ</string>
   <string name="switch_proxy_dialog_msg">"S'ha detectat una intrusió per xarxa. Utilitzeu l'aplicació de Seguretat integrada a MIUI o informeu al vostre operador mòbil."</string>
   <string name="switch_proxy_dialog_title">Intrusió per xarxa</string>
+  <string name="sync_and_backup_bookmark">Sincronitza i fes còpia de seguretat dels marcadors</string>
+  <string name="sync_and_backup_history">Sincronitza i fes còpia de seguretat de l\'històric</string>
   <string name="sync_cloud_tabs">Sincronitza</string>
   <string name="tab_hotpage">Servei de notícies</string>
   <string name="tab_quicklinks">Pàgina d\'inici</string>
   <string name="tab_yellowpage">Enllaços</string>
   <string name="tabs_description">Pestanyes</string>
+  <string name="temp_refuse">Rebutja</string>
   <string name="time_picker_dialog_am">AM</string>
   <string name="time_picker_dialog_hour_minute_separator">:</string>
   <string name="time_picker_dialog_minute_second_separator">:</string>
