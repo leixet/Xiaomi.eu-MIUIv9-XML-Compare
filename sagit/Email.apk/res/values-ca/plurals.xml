@@ -101,4 +101,32 @@
     <item quantity="other">%1$d missatges antics</item>
     <item quantity="one">%1$d mensaje antic</item>
   </plurals>
+  <plurals name="actionbar_large_unread_count">
+    <item quantity="other">%1$d+ per llegir</item>
+    <item quantity="one">%1$d+ per llegir</item>
+  </plurals>
+  <plurals name="hide_atts_remaining">
+    <item quantity="other">Amaga %1$d adjunts</item>
+    <item quantity="one">Amaga %1$d adjunt</item>
+  </plurals>
+  <plurals name="local_search_result">
+    <item quantity="other">%s resultatats als missatges sincronitzats</item>
+    <item quantity="one">%s resultatat als missatges sincronitzats</item>
+  </plurals>
+  <plurals name="more_atts_remaining">
+    <item quantity="other">Falten %1$d més</item>
+    <item quantity="one">Falta %1$d més</item>
+  </plurals>
+  <plurals name="new_messages">
+    <item quantity="other">%1$d missatges nous</item>
+    <item quantity="one">%1$d missatge nou</item>
+  </plurals>
+  <plurals name="quick_reply_hint">
+    <item quantity="other">Respon a %1$d persones</item>
+    <item quantity="one">Respon a %1$d persona</item>
+  </plurals>
+  <plurals name="remote_search_result">
+    <item quantity="other">%s resultats al servidor</item>
+    <item quantity="one">%s resultat al servidor</item>
+  </plurals>
 </resources>
