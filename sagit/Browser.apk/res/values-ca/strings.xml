@@ -554,6 +554,8 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="ok">D\'acord</string>
   <string name="older">Més antic</string>
   <string name="open_app_confirm_message">Voleu permetre que aquesta pàgina obri %s?</string>
+  <string name="open_cloud_sync">Obre la sincronització del núvol</string>
+  <string name="open_cloud_sync_desc">S\'ha afegit un marcador. Activeu la sincronització del núvol i els marcadors afegits a altres dispositius es sincronitzaran amb aquest. Voleu iniciar sessiói obriu-lo ara?</string>
   <string name="open_file_explorer_failed">"No es pot obrir l'Explorador de fitxers"</string>
   <string name="open_voice_permission">Permís per obrir la xarxa de veu</string>
   <string name="opening_file_error">"No es pot obrir el fitxer seleccionat"</string>
