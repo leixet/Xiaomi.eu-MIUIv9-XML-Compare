@@ -814,6 +814,7 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="push_wps_confirm_title">Provar WPS Office</string>
   <string name="push_wps_no_response_app">No s\'ha trobat l\'aplicació per gestionar aquesta acció</string>
   <string name="qq_auto_login_failed_cpy_pass_success">S\'ha copiat amb èxit; torneu a la pàgina d\'inici de sessió i enganxeu-lo per completar el camp de contrasenya</string>
+  <string name="qq_auto_login_failed_dialog_message">Copieu el codi d\'autorització, després torneu a la pàgina d\'inici de sessió i toqueu «Introduïu el nom d\'usuari i contrasenya per iniciar sessió»; enganxeu-lo per completar el camp de contrasenya per iniciar sessió manualment</string>
   <string name="qq_auto_login_failed_dialog_positive_label">Copia el codi d\'autorització</string>
   <string name="qq_bar_open_imap">Activa</string>
   <string name="qq_bar_send_message">Envia SMS</string>
