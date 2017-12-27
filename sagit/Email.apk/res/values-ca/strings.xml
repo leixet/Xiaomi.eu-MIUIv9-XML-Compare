@@ -209,6 +209,8 @@
   <string name="auto_advance_help_title">Després d\'eliminar un missatge, consulta&#8230;</string>
   <string name="auto_advance_label">Elimina el flux de missatges</string>
   <string name="auto_advance_summary">Trieu quin missatge es mostrarà després d\'eliminar un missatge</string>
+  <string name="auto_login_fail">Ha fallat l\'inici de sessió automàtic</string>
+  <string name="auto_login_fail_to_retry">Ha fallat l\'inici de sessió automàtic, torneu-ho a provar.</string>
   <string name="auto_mail_describe">El servei de correu electrònic de configuració automàtica li pot ajudar a emplenar la informació d\'inici de sessió a la bustia de correu 139. Voleu activar aquesta funció?</string>
   <string name="auto_mail_disable_txt">Desactivat</string>
   <string name="auto_mail_enable_txt">Configuració inicial</string>
