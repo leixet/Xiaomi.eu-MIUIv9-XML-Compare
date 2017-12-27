@@ -18,6 +18,8 @@
   <string name="face_data_input_msg">Col·loqueu la cara dins del marc</string>
   <string name="face_data_input_ok">Fet</string>
   <string name="face_data_input_ok_msg">Activeu la pantalla per desbloquejar el dispositiu mitjançant les dades de la vostra cara.</string>
+  <string name="face_data_input_ok_msg_angle">"Desbloquegeu el dispositiu amb la cara quan la pantalla estigui encesa.
+(Registreu les dades facials, inclosos tots els angles necessaris.)"</string>
   <string name="face_data_input_ok_title">S\'ha afegit amb èxit</string>
   <string name="face_data_input_title">Afegeix dades de la cara</string>
   <string name="face_data_introduction_msg">Les dades de la cara es poden utilitzar per desbloquejar el dispositiu o verificar la vostra identitat. Afegiu la contrasenya de la pantalla de bloqueig abans d\'afegir les dades de la vostra cara.</string>
