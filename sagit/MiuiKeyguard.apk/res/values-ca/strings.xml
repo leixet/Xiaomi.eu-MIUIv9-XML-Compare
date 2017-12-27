@@ -29,7 +29,7 @@
   <string name="face_data_manage_delete_title">Dades de la cara</string>
   <string name="face_data_manage_unlock_msg">Desbloqueja el dispositiu amb les dades de la vostra cara</string>
   <string name="face_data_manage_unlock_title">Desbloqueja amb les dades de la cara</string>
-  <string name="face_data_suggesstion_first">Desbloqueja el dispositiu amb les dades de la vostra cara és menys segur que utilitzar una contrasenya de la pantalla de bloqueig. Pot ser que el vostre dispositiu sigui desbloquejat per persones que us semblin.</string>
+  <string name="face_data_suggesstion_first">Problemes de seguretat: el desbloqueig facial és menys segur que un PIN, una contrasenya o un patró. És possible que el dispositiu es desbloqueji amb la vostra foto, així com per persones o objectes amb aspecte similar.</string>
   <string name="face_data_suggesstion_second">"Assegureu-vos que totes les parts de la vostra cara no estan cobertes per objectes i són clarament visibles. La vostra cara també ha d'estar ben il·luminada."</string>
   <string name="face_unlock_adjust_distance">Assegureu-vos que la distància entre la cara i el dispositiu sigui òptima.</string>
   <string name="face_unlock_be_on_the_screen">Mantén el dispositiu davant de la vostra cara</string>
