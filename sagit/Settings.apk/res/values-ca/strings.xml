@@ -2623,6 +2623,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
   <string name="music_unsupport_effect_summary">"Els auriculars USB no són compatibles"</string>
   <string name="musicfx_title">Efectes musicals</string>
+  <string name="mute_music_stream">Silencia la transmissió de música</string>
   <string name="mvno_match_data">Valor de MVNO</string>
   <string name="mvno_type">Tipus de MVNO</string>
   <string name="my_device">El meu dispositiu</string>
@@ -4376,6 +4377,8 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="testing_usage_stats">Estadístiques d\'ús</string>
   <string name="testing_wifi_info">Informació del senyal Wi-Fi</string>
   <string name="tether_and_hotspot_title">Connexió compartida d\'Internet</string>
+  <string name="tether_data_usage_limit">Límit de dades d\'una sola vegada</string>
+  <string name="tether_data_usage_limit_summary">El límit de dades s\'aplicarà la propera vegada que el punt d\'accés estigui activat</string>
   <string name="tether_devices_management_title">Gestió de dispositius</string>
   <string name="tether_devices_max_number">Límit de dispositius connectats</string>
   <string name="tether_settings_disabled">S\'ha desactivat el punt d\'accés portàtil</string>
