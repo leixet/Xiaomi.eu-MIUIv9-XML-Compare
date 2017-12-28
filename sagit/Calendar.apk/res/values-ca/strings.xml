@@ -258,6 +258,11 @@
   <string name="miuishare_app_name">Compartició MIUI</string>
   <string name="miuishare_no_network">"No s'ha pogut connectar a la xarxa."</string>
   <string name="miuishare_publish">Envia</string>
+  <string name="miuishare_share_done">S\'ha compartit amb èxit</string>
+  <string name="miuishare_share_editor_title">Comparteix</string>
+  <string name="miuishare_title_more">Més</string>
+  <string name="miuishare_title_share">Comparteix</string>
+  <string name="miuishare_wechat_timeline_title">Moments de WeChat</string>
   <string name="modify_all">Canvia tots els esdeveniments de la sèrie</string>
   <string name="modify_all_following">Canvia aquest i tots els esdeveniments futurs</string>
   <string name="modify_event">Canvia només aquest esdeveniment</string>
@@ -384,6 +389,7 @@
   <string name="setting_sms_import">Importa els esdeveniments per SMS</string>
   <string name="setting_title_about">Quant a</string>
   <string name="setting_title_holiday_display">Mostra els dies festius</string>
+  <string name="share_title">Comparteix</string>
   <string name="show_day_view">Mostra el dia</string>
   <string name="sms_import_description">Una millor gestió dels missatges d\'esdeveniments relacionats amb el temps</string>
   <string name="start_date_calculate">Calcula</string>
