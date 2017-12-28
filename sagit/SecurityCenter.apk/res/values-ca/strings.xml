@@ -333,6 +333,9 @@
   <string name="back_app_name">Torna al bloqueig d\'aplicacions</string>
   <string name="back_description_securitycenter">Enrere</string>
   <string name="back_modifypassword">Vés enrere per canviar la contrasenya</string>
+  <string name="back_sound_data">Requereix d\'accés a la xarxa mòbil, torneu-ho a provar.</string>
+  <string name="back_sound_fail">Ha fallat</string>
+  <string name="back_sound_success">Correcte</string>
   <string name="back_sound_support">"Els operadors de xarxa actuals no són compatibles"</string>
   <string name="background_restrict_app_dialog_message">La restricció de l\'accés a la xarxa en segon pla per a aquesta aplicació pot fer que l\'aplicació no funcioni correctament, rebre missatges, baixar contingut, etc. Voleu restringir-lo de totes maneres?</string>
   <string name="background_traffic">Fons %s</string>
