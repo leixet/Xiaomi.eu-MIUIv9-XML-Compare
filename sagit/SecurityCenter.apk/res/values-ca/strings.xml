@@ -114,6 +114,7 @@
   <string name="antivirus_update_btn_update">Actualitza</string>
   <string name="apn_exception_summary">"Configuracions de prova de companyia Nom Punt d'Accés"</string>
   <string name="apn_exception_title">Comprovar configuració d\'APN</string>
+  <string name="app_bg_restrict_dialog_message">La restricció de la connexió de xarxa en segon pla pot evitar que l\'aplicació funcioni normalment. Per exemple, pot ser que ja no pugui rebre missatges o actualitzar el contingut. Voleu restringir-la de totes maneres?</string>
   <string name="app_check_no_issue">Sembla que no hi ha problemes amb la bateria. Genial!</string>
   <string name="app_detail">Detalls</string>
   <string name="app_error_tip_for_launcher">"Els components del maquinari o la versió del sistema Android del vostre dispositiu poden causar problemes de compatibilitat i fer que algunes aplicacions no funcionin bé, s'alenteixin o s'aturin definitivament. Si teniu aquests problemes, envieu el vostre feedback als desenvolupadors de l'aplicació."</string>
@@ -192,6 +193,7 @@
   <string name="app_manager_notify_bar">Insígnies</string>
   <string name="app_manager_notify_floating">Notificacions flotants</string>
   <string name="app_manager_notify_keyguard">Bloqueja la pantalla</string>
+  <string name="app_manager_open_show_all_apps_immediate">Mostrar tots els resultats</string>
   <string name="app_manager_perm">Permisos</string>
   <string name="app_manager_permission_manager_title">Permisos</string>
   <string name="app_manager_permission_notify_title">Notificacions</string>
