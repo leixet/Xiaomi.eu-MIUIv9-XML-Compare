@@ -248,6 +248,16 @@
   <string name="menu_reminder_preferences">Recordatoris</string>
   <string name="missing_name">(Sense nom)</string>
   <string name="missing_required_permission">Heu desactivat un permís necessari.</string>
+  <string name="miuishare_account_activate_confirmation">Activa el Compte Mi</string>
+  <string name="miuishare_account_activate_ok">Activa</string>
+  <string name="miuishare_account_login_cancel">Cancel·la</string>
+  <string name="miuishare_account_login_confirmation">Inicia sessió al Compte Mi</string>
+  <string name="miuishare_account_login_ok">Inicia sessió</string>
+  <string name="miuishare_account_need_activate">La compartició amb Weibo requereix el compte de Weibo associat al Compte Mi. Activeu el vostre compte per continuar.</string>
+  <string name="miuishare_account_need_login">La compartició amb Weibo requereix el compte de Weibo associat al Compte Mi. Inicieu la sessió al vostre compte per continuar.</string>
+  <string name="miuishare_app_name">Compartició MIUI</string>
+  <string name="miuishare_no_network">"No s'ha pogut connectar a la xarxa."</string>
+  <string name="miuishare_publish">Envia</string>
   <string name="modify_all">Canvia tots els esdeveniments de la sèrie</string>
   <string name="modify_all_following">Canvia aquest i tots els esdeveniments futurs</string>
   <string name="modify_event">Canvia només aquest esdeveniment</string>
