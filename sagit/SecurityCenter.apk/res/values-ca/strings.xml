@@ -1249,7 +1249,6 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="permission_action_reject">Denegar</string>
   <string name="permission_close_permission_control_dialog_msg">"Quan l'administrador de permisos està desactivat, les aplicacions no li demanaran permís per llegir els seus contactes, veure el seu registre de trucades, canviar paràmetres del sistema o accedir a la càmera i altres recursos."</string>
   <string name="permission_close_permission_control_dialog_title">Apagar?</string>
-  <string name="permission_exception_summary">"Algunes aplicacions no tenen permís per connectar-se a internet"</string>
   <string name="permission_exception_title">Veure permisos de xarxa</string>
   <string name="permission_permission_control_closed_desc_dialog_msg">"Les aplicacions no us demanaran permís per llegir els contactes, veure el registre de trucades, canviar paràmetres del sistema o accedir a la càmera i altres recursos. Activeu aquesta característica a la configuració de Permisos."</string>
   <string name="permission_permission_control_closed_desc_dialog_title">Gestor de permisos</string>
