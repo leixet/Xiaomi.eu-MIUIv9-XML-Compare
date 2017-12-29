@@ -3379,7 +3379,7 @@ Aquesta configuració afecta tots els usuaris del telèfon.»</string>
   <string name="running_processes_item_description_s_p">%1$d processos i %2$d tasques</string>
   <string name="running_processes_item_description_s_s">%1$d processos i %2$d tasca</string>
   <string name="runningservicedetails_processes_title">Processos</string>
-  <string name="runningservicedetails_services_title">Tasques</string>
+  <string name="runningservicedetails_services_title">Serveis</string>
   <string name="runningservicedetails_settings_title">Aplicació en execució</string>
   <string name="runningservicedetails_stop_dlg_text">Si s\'atura aquest servei, algunes funcions del telèfon poden deixar de funcionar correctament fins que l\'apagueu i l\'engegueu un altre cop.</string>
   <string name="runningservicedetails_stop_dlg_title">Voleu aturar la tasca del sistema?</string>
@@ -3832,7 +3832,7 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="service_started_by_app">Iniciat per l\'aplicació.</string>
   <string name="service_stop">Atura</string>
   <string name="service_stop_description">L\'aplicació ha començat a executar el servei. Si l\'atureu hi pot haver errors.</string>
-  <string name="services_subtitle">Tasques</string>
+  <string name="services_subtitle">Serveis</string>
   <string name="set_data_limit">Estableix un límit de dades</string>
   <string name="set_data_warning">Estableix l\'avís de dades</string>
   <string name="setting_privacy_password">Estableix la contrasenya de privacitat</string>
@@ -5219,7 +5219,7 @@ Voleu permetre-ho per a totes les aplicacions que vulguin cercar xarxes?"</strin
   <string name="wifi_scan_notify_remember_choice">No tornis a mostrar-ho</string>
   <string name="wifi_scan_notify_text">Per millorar la precisió de la ubicació, les aplicacions i serveis encara poden cercar xarxes Wi-Fi. Es pot configurar des de LINK_BEGINscanning settingsLINK_END.</string>
   <string name="wifi_scan_notify_text_scanning_off">Per millorar la precisió d\'ubicació, activeu l\'escaneig Wi-Fi a la configuració d\'escaneig.</string>
-  <string name="wifi_security">Tipus de seguretat</string>
+  <string name="wifi_security">Seguretat</string>
   <string name="wifi_security_eap">802.1 x EAP</string>
   <string name="wifi_security_none">Cap</string>
   <string name="wifi_security_short_eap">802.1 x</string>
