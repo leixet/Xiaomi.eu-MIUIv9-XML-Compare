@@ -3,9 +3,9 @@
 <resources>
   <string name="abort_backup_confirm">"La còpia de seguretat no ha acabat. Voleu aturar-la?"</string>
   <string name="abort_restore_confirm">"La restauració no ha acabat. Voleu aturar-la?"</string>
-  <string name="account_contact_backup_info">Dades dels comptes Google i Mi i dels contactes</string>
+  <string name="account_contact_backup_info">Dades del compte Google, Mi i contactes</string>
   <string name="account_login">Inicia la sessió</string>
-  <string name="account_summary">Còpia de seguretat dels comptes Google i Mi i d\'altres dades d\'usuari</string>
+  <string name="account_summary">Còpia de seguretat del compte Google, Mi i altres dades d\'usuari</string>
   <string name="alert_button_agree_and_continue">Permet</string>
   <string name="alert_button_deny">Declina</string>
   <string name="alert_message_backup_to_miasist">Mi PC Suite sol·licita permís per crear una còpia de seguretat a l\'ordinador. Voleu permetre-ho?</string>
@@ -97,7 +97,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="comma_seperator">", "</string>
   <string name="compute_backup_info">S\'està obtenint informació de la còpia de seguretat…</string>
   <string name="compute_delete_contact_info">S\'està obtenint la informació…</string>
-  <string name="connect_wifi">Connecteu-vos a la xarxa Wi-Fi</string>
+  <string name="connect_wifi">Connecta a la Wi-Fi</string>
   <string name="connect_wifi_tip">"No s'ha pogut connectar a la xarxa. Connecteu-vos al Wi-Fi per importar elements d'iCloud."</string>
   <string name="contact_title">Contactes</string>
   <string name="current_account">Hola %s</string>
