@@ -51,6 +51,7 @@
   <string name="low_battery_error_confirm">D\'acord</string>
   <string name="low_battery_error_title">Bateria baixa</string>
   <string name="mark_point_list_title">Marques</string>
+  <string name="menu"></string>
   <string name="message_file_size_error">La gravació ha arribat a la durada màxima permesa per %s</string>
   <string name="network_tip_dialog_cancel">Cancel·la</string>
   <string name="network_tip_dialog_content">La gravadora necessita connectar-se a Internet, així com llegir els vostres contactes perquè funcioni normalment. Hi esteu d\'acord?</string>
