@@ -574,7 +574,7 @@
   <string name="dialog_msg_auto_start_declare">Algunes aplicacions de seguretat poden indicar incorrectament que MIUI els ha prohibit iniciar. Per comprovar els permisos que han estat concedits a les aplicacions individualment, aneu a Configuració i Aplicacions.</string>
   <string name="dialog_msg_stop_virus_scan">"Voleu aturar l'anàlisi de virus abans que acabi?"</string>
   <string name="dialog_no_longer_alert">"No ho tornis a mostrar"</string>
-  <string name="dialog_roaming_message">Voleu permetre a aquesta aplicació usar dades mòbils en itinerància en ultramar?</string>
+  <string name="dialog_roaming_message">Voleu permetre que aquesta aplicació utilitzi dades mòbils en itinerància a l\'estranger?</string>
   <string name="dialog_roaming_title">Itinerància en ultramar</string>
   <string name="dialog_text">Crea una drecera a la pantalla d\'inici per a l\'accelerador de velocitat dels jocs</string>
   <string name="dialog_title_attention">Atenció</string>
