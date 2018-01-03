@@ -286,6 +286,7 @@ Per solucionar això, podeu netejar alguns fitxers antics per deixar espai als n
   <string name="micloud_main_head_menu_recycle_bin_title">Paperera de reciclatge</string>
   <string name="micloud_main_head_menu_state_close">Tancat</string>
   <string name="micloud_main_head_menu_state_open">Obert</string>
+  <string name="micloud_main_head_menu_state_unavailable">No disponible</string>
   <string name="micloud_main_last_sync_time">L\'última sincronització va ser a %s</string>
   <string name="micloud_main_master_sync_on">Sincronització activada</string>
   <string name="micloud_main_memory_low_message">"Per sincronitzar, elimina alguns dels elements emmagatzemats en el núvol."</string>
@@ -470,6 +471,8 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="pref_title_sync_contacts_title">Sincronitzar contactes</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Utilitza només Wi-Fi per sincronitzar fotos</string>
   <string name="privacy_policy">Política de privadesa</string>
+  <string name="reading_status">S\'està carregant l\'estat…</string>
+  <string name="reading_status_failure">"No s'ha pogut carregar l'estat."</string>
   <string name="recommend_open_all_sync">Sincronitza tots els elements</string>
   <string name="remind_later">Més tard</string>
   <string name="restoreSync">Sincronitzar ara</string>
