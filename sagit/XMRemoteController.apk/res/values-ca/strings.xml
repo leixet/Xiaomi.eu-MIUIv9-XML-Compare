@@ -669,14 +669,14 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_copy_message_text_success">S\'ha copiat correctament</string>
   <string name="passport_copy_message_vcode">Copia el codi</string>
   <string name="passport_delete_account">Tanca la sessió</string>
-  <string name="passport_downlink_reg">Crea un compte utilitzant el número de telèfon</string>
+  <string name="passport_downlink_reg">Número de telèfon</string>
   <string name="passport_email">Adreça de correu</string>
   <string name="passport_email_or_id_hint_text">Adreça de correu electrònic o identificador del compte Mi</string>
   <string name="passport_email_reg_success_summary">S\'ha vinculat %1$s al vostre compte. Podeu utilitzar-lo per iniciar la sessió o per restablir la contrasenya.</string>
   <string name="passport_error_device_id">"No es pot obtenir la identitat del dispositiu"</string>
   <string name="passport_error_dup_email">El correu electrònic que heu introduït ja està associat a un altre compte.</string>
   <string name="passport_error_email">L\'adreça de correu que heu introduït no és vàlida</string>
-  <string name="passport_error_empty_captcha_code">Introduïu el codi passport_captcha</string>
+  <string name="passport_error_empty_captcha_code">Introduïu el codi captcha</string>
   <string name="passport_error_empty_email">Introduïu la vostra adreça de correu</string>
   <string name="passport_error_empty_phone_num">Introduïu un número de telèfon</string>
   <string name="passport_error_empty_pwd">Introduïu la vostra contrasenya</string>
@@ -693,6 +693,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_error_ssl_hand_shake">"Error with server connection. Try set your system date-time to current time."</string>
   <string name="passport_error_unknown">"No es pot obrir sessió"</string>
   <string name="passport_error_user_name">Invalid username</string>
+  <string name="passport_error_verify_activator_phone_title">"No s'ha pogut comprovar el número de telèfon"</string>
   <string name="passport_failed_to_send_activate_email">"No s'ha pogut enviar el correu d'activació"</string>
   <string name="passport_find_password_on_web_msg">Visiteu account.mi.com per restaurar la vostra contrasenya.</string>
   <string name="passport_forget_password">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
@@ -738,7 +739,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_reg_prompt">"No teniu un compte Mi? Creeu-ne un de franc."</string>
   <string name="passport_reg_success">S\'ha creat el compte</string>
   <string name="passport_reg_success_summary">S\'ha vinculat %1$s al vostre compte. Podeu utilitzar-lo per iniciar la sessió o per restablir la contrasenya.</string>
-  <string name="passport_reg_type_email">Uitilitza una adreça de correu</string>
+  <string name="passport_reg_type_email">Adreça de correu</string>
   <string name="passport_reg_using_other_phone">Register using other phone number</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Register using other phone number"</string>
   <string name="passport_reg_using_phone_number_prompt">Register with phone number</string>
@@ -766,10 +767,12 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_restart_register_title">Crea un Compte Mi</string>
   <string name="passport_retry">Torna-ho a provar</string>
   <string name="passport_select_reg_ways_title">Altres maneres d\'inscriure\'s</string>
+  <string name="passport_select_the_register_phone">Seleccioneu el número de telèfon per crear un compte</string>
   <string name="passport_send_too_many_code">S\'han enviat massa codis de verificació a aquest número. Espereu 24 hores i torneu a provar.</string>
+  <string name="passport_set_password_no_phone_msg">Afegiu el vostre número de telèfon per protegir el compte.</string>
   <string name="passport_setting">S\'està configurant&#8230;</string>
   <string name="passport_skip_login">Omet inici de sessió</string>
-  <string name="passport_skip_register">Omet registre</string>
+  <string name="passport_skip_register">Omet el registre</string>
   <string name="passport_skip_setup_account_msg">Podeu configurar després un compte Mi a Configuració.</string>
   <string name="passport_skip_setup_account_title">Omet configuració</string>
   <string name="passport_title_reg">Crea un compte</string>
@@ -994,7 +997,7 @@ directament des de la vostra pantalla de bloqueig"</string>
   <string name="supported_by_kookong">Suport tècnic per Kookong</string>
   <string name="supporting_soon">Properament</string>
   <string name="swipe_loading">Un moment…</string>
-  <string name="switch_login">&lt;u&gt;canvia de compte&lt;/u&gt;</string>
+  <string name="switch_login">&lt;u&gt;Canvia de compte&lt;/u&gt;</string>
   <string name="switch_place">Seleccioneu una ciutat</string>
   <string name="tab_live">Programes de televisió</string>
   <string name="tab_store">Botiga</string>
