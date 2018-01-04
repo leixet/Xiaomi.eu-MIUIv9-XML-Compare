@@ -462,7 +462,7 @@ Darrera execució el %2$s"</string>
   <string name="backup_pw_cancel_button_text">Cancel·la</string>
   <string name="backup_pw_set_button_text">Establiu la contrasenya de la còpia de seguretat</string>
   <string name="backup_section_title">Còpia de seguretat i restauració</string>
-  <string name="band_mode_failed">No s\'ha pogut realitzar</string>
+  <string name="band_mode_failed">Han fallat</string>
   <string name="band_mode_loading">S\'està carregant la llista de les freqüències…</string>
   <string name="band_mode_set">Defineix</string>
   <string name="band_mode_succeeded">S\'ha realitzat</string>
