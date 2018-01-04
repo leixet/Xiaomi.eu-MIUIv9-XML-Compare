@@ -412,7 +412,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="auto_restore_title">Restauració automàtica</string>
   <string name="auto_rule">regla prevista</string>
   <string name="auto_silent">Temps silenciat</string>
-  <string name="auto_startup_application_manage">Auto-inici</string>
+  <string name="auto_startup_application_manage">Inici automàtic</string>
   <string name="auto_sync_account_summary">Permet que les aplicacions actualitzin les dades automàticament</string>
   <string name="auto_sync_account_title">Sincronització automàtica de les dades</string>
   <string name="auto_sync_personal_account_title">Sincronització automàtica de les dades personals</string>
