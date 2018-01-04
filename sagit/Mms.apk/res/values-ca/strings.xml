@@ -567,7 +567,7 @@
   <string name="sp_mark_as_read_menu_title">Marca com a llegit</string>
   <string name="sqlite_disk_full">L\'espai d\'emmagatzematge del dispositiu està ple.</string>
   <string name="sqlite_low_memory">No hi ha prou espai d\'emmagatzematge</string>
-  <string name="status_failed">Sense èxit</string>
+  <string name="status_failed">Han fallat</string>
   <string name="status_label">"Estat: "</string>
   <string name="status_pending">Pendent</string>
   <string name="status_read">Llegir</string>
