@@ -26,6 +26,21 @@
     <item>"Perquè només puc encendre el meu aparell d'A/C i no el puc apagar?"</item>
     <item>Puc utilitzar el Mi 3, el Mi 2, o el Redmi com a comandament d\'infraroigs?</item>
   </string-array>
+  <string-array name="voice_stb_help">
+    <item>Turn on set-top box</item>
+    <item>Vull veure Hunan TV</item>
+    <item>Go back to channel 15</item>
+  </string-array>
+  <string-array name="voice_tips">
+    <item>Turn on AC</item>
+    <item>Vull veure Shenzhen TV</item>
+    <item>Go back to channel 12</item>
+  </string-array>
+  <string-array name="voice_tv_help">
+    <item>Encén la TV al dormitori</item>
+    <item>Apaga la TV</item>
+    <item>Apuja el volum a la TV</item>
+  </string-array>
   <string-array name="assistant_tab">
     <item>Vídeos</item>
     <item>Captures de pantalla</item>
@@ -56,7 +71,7 @@
   </string-array>
   <string-array name="epg_channel_tab_v53">
     <item>Tots</item>
-    <item>Recent</item>
+    <item>TV</item>
     <item>CCTV</item>
     <item>HD</item>
     <item>Recent</item>
