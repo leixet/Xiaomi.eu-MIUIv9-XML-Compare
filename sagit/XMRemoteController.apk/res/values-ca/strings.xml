@@ -910,7 +910,10 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="rc_add_distance_km">%1$s km</string>
   <string name="rc_name">Comandament</string>
   <string name="receive_share_cancel">Cancel·la</string>
+  <string name="receive_share_done">S\'ha compartit amb èxit. Ara podreu utilitzar-lo.</string>
   <string name="receive_share_ok">Accepta</string>
+  <string name="receive_share_subtitel">Podeu controlar dispositius propers: %1$d. Hi esteu d\'acord?</string>
+  <string name="receive_share_titel">%1$s ha compartit un control remot amb vós</string>
   <string name="recover">Restaura des de Mi Cloud</string>
   <string name="recovering">S\'està restaurant&#8230;</string>
   <string name="refreshing">S\'està actualitzant&#8230;</string>
@@ -935,6 +938,9 @@ directament des de la vostra pantalla de bloqueig"</string>
   <string name="save_share_tips">Us agrada l\'aplicació? La podeu valorar.</string>
   <string name="save_share_title">Voleu desar el comandament d\'aquest dispositiu?</string>
   <string name="scan">Escàner</string>
+  <string name="scan_add_error">"No s'ha pogut afegir el dispositiu. Espereu un minut o dos i torneu-ho a provar."</string>
+  <string name="scan_code">Escaneja el codi per afegir-lo</string>
+  <string name="scan_error">"No s'ha pogut llegir el codi QR"</string>
   <string name="scaning">Cercant&#8230;</string>
   <string name="scanning_milink">S\'està cercant dispositius&#8230;</string>
   <string name="scene_default">Per defecte</string>
@@ -947,12 +953,15 @@ directament des de la vostra pantalla de bloqueig"</string>
   <string name="screenshot_not_support_video">Actualment, no hi ha suport per la captura de pantalla</string>
   <string name="screenshoting">Capturant la pantalla&#8230;</string>
   <string name="search">Cerca</string>
+  <string name="search_device">Cerca marques</string>
+  <string name="search_device_hit">Introduïu el nom d\'una marca per cercar</string>
   <string name="search_failed">"No s'ha pogut obtenir resultats"</string>
   <string name="search_history">Historial de cerca</string>
   <string name="search_history_clear">Esborra l\'historial</string>
   <string name="search_history_empty">Historial de cerca buit</string>
   <string name="search_menu_title">Cerca</string>
   <string name="search_more_failed">"No s'ha pogut carregar resultats"</string>
+  <string name="search_no_device">"No s'ha pogut trobar dispositius"</string>
   <string name="search_no_result">No s\'ha trobat res</string>
   <string name="search_video_app_hint">Cerca</string>
   <string name="sel_dpad_mode">Seleccioneu un mode</string>
@@ -1160,7 +1169,10 @@ Per canviar, premeu contínuament el botó d\'encesa del TV"</string>
   <string name="voice_resolving">Reconeixent la veu&#8230;</string>
   <string name="voice_tips_long_pressed">Toqueu el micròfon per utilitzar els controls de veu</string>
   <string name="voice_tips_subtitle">"Això és el que podeu dir"</string>
+  <string name="voice_tips_title">Apunteu el telèfon al dispositiu</string>
   <string name="volume">Volum</string>
+  <string name="volume_dec">Volum -</string>
+  <string name="volume_inc">Volum +</string>
   <string name="weather_out">Temperatura exterior:</string>
   <string name="wechat_account">Compte de WeChat</string>
   <string name="wifi_rc_create_help">Com afegir un comandament Wi-Fi?</string>
