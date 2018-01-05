@@ -861,7 +861,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="preference_smart_group_company_summary">Agrupa per empresa</string>
   <string name="preference_smart_group_company_title">Per empresa</string>
   <string name="preference_smart_group_frequency_summary">Agrupa per el més recent</string>
-  <string name="preference_smart_group_frequency_title">Per més recents</string>
+  <string name="preference_smart_group_frequency_title">Recents</string>
   <string name="preference_smart_group_location_summary">Agrupa per codi d\'àrea</string>
   <string name="preference_smart_group_location_title">Per ubicació</string>
   <string name="preference_smart_group_title">Grups intel·ligents</string>
@@ -1022,7 +1022,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="smart_group_frequency_2">En els últims 3 mesos</string>
   <string name="smart_group_frequency_3">En els últims 6 mesos</string>
   <string name="smart_group_frequency_4">Fa més de 6 mesos</string>
-  <string name="smart_group_frequency_label">Per més recents</string>
+  <string name="smart_group_frequency_label">Recents</string>
   <string name="smart_group_label">Grups intel·ligents</string>
   <string name="smart_group_loading">Un moment…</string>
   <string name="smart_group_location_label">Per ubicació</string>
