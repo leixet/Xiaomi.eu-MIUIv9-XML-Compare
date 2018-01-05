@@ -446,6 +446,8 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="mock_location_app_set">Aplicació d\'ubicació simulada: %1$s</string>
   <string name="monitoring_button_view_policies">Mostra les polítiques</string>
   <string name="monitoring_description_vpn_settings">Obre la configuració de la VPN</string>
+  <string name="monitoring_title">Supervisió de xarxa</string>
+  <string name="monitoring_title_device_owned">Administració de dispositius</string>
   <string name="mount_storage">Sí</string>
   <string name="nav_guide_cancel">Ignora</string>
   <string name="nav_guide_message">Podeu utilitzar gestos per ocultar o mostrar els botons en pantalla després de configurar-ho.</string>
