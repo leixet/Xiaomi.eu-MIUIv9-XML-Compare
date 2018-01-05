@@ -894,6 +894,7 @@ directament des de la vostra pantalla de bloqueig"</string>
   <string name="search_more_failed">"No s'ha pogut carregar resultats"</string>
   <string name="search_no_result">No s\'ha trobat res</string>
   <string name="search_video_app_hint">Cerca</string>
+  <string name="sel_dpad_mode">Seleccioneu un mode</string>
   <string name="select_all">Selecciona-ho tot</string>
   <string name="select_area">Seleccioneu la ubicació</string>
   <string name="select_brand">Seleccioneu %s</string>
