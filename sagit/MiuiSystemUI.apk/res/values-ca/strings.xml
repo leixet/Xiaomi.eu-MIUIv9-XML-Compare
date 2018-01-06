@@ -445,6 +445,9 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="mock_location_app_not_set">Cap aplicació per simular ubicació seleccionada</string>
   <string name="mock_location_app_set">Aplicació d\'ubicació simulada: %1$s</string>
   <string name="monitoring_button_view_policies">Mostra les polítiques</string>
+  <string name="monitoring_description_ca_certificate">S\'ha instal·lat una autoritat de certificació en aquest dispositiu. El vostre trànsit de xarxa segura es pot controlar o modificar.</string>
+  <string name="monitoring_description_managed_profile_ca_certificate">La vostra organització ha instal·lat una autoritat certificadora al vostre perfil de treball. El vostre trànsit de xarxa segura es pot controlar o modificar.</string>
+  <string name="monitoring_description_managed_profile_named_vpn">El vostre perfil de treball està connectat a %1$s, que pot controlar l\'activitat de la xarxa, inclosos els correus, les aplicacions i els llocs web.</string>
   <string name="monitoring_description_vpn_settings">Obre la configuració de la VPN</string>
   <string name="monitoring_title">Supervisió de xarxa</string>
   <string name="monitoring_title_device_owned">Administració de dispositius</string>
