@@ -22,6 +22,7 @@
   <string name="edit_frequent_phrases">Edita frases freqüents</string>
   <string name="frequent_phrases_des">Introduïu frases freqüents amb només uns tocs mentre editeu text</string>
   <string name="frequent_phrases_size_exceeded">Podeu afegir fins a %1$d frases freqüents. Suprimiu les menys utilitzades per afegir-ne més.</string>
+  <string name="glockenspiel">Xilòfon</string>
   <string name="menu_add_frequent_phrases">Afegeix</string>
   <string name="menu_delete">Suprimeix</string>
   <string name="menu_edit">Edita</string>
