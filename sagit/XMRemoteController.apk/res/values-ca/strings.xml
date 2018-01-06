@@ -24,6 +24,8 @@
   <string name="ac_mode_dry">Deshumidificació</string>
   <string name="ac_mode_fan">Ventilador</string>
   <string name="ac_mode_hot">Calefacció</string>
+  <string name="ac_power_off">Apaga</string>
+  <string name="ac_power_on">Encén</string>
   <string name="ac_set_timer_title_text">Seleccioneu l\'hora i premeu el botó de temporitzador a l\'AC</string>
   <string name="accept">D\'acord</string>
   <string name="activity_stb_list_title">Trieu descodificador</string>
@@ -214,6 +216,7 @@ Proveu el següent per solucionar el problema:
   <string name="delete_frame">Voleu eliminar \"%1$s\"?</string>
   <string name="delete_navigate_view_cancel_button_text">Cancel·la</string>
   <string name="delete_navigate_view_delete_button_text">Elimina</string>
+  <string name="deny">"Denega"</string>
   <string name="device_bluetoothi">Comandament Bluetooth</string>
   <string name="device_brand">Marca</string>
   <string name="device_model">Model</string>
@@ -381,6 +384,7 @@ Proveu el següent per solucionar el problema:
   <string name="get_data_fail_tips">"No s'ha pogut obtenir dades, intenteu-ho de nou"</string>
   <string name="get_info_failed">"No s'ha pogut obtenir informació"</string>
   <string name="get_location_fail_tip">"No s'ha pogut determinar la ubicació, seleccioneu una ciutat"</string>
+  <string name="goto_weather">Mosta la informació meteorològica</string>
   <string name="guid_one">Connecteu el dispositiu a la mateixa xarxa Wi-Fi que el telèfon.</string>
   <string name="guid_three">"Alguns controls podrien no estar disponibles si el vostre televisor o descodificador no és compatible amb Android."</string>
   <string name="guid_two">Els dispositius es detectaran i es mostraran en aquesta pàgina.</string>
