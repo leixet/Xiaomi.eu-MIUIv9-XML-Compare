@@ -19,7 +19,7 @@
   <string name="ac_summaryOn">Activat, es requereix una clau per obrir aplicacions</string>
   <string name="ac_unmask_all_apps">Mostra-ho per a totes les aplicacions</string>
   <string name="access_control_app_is_launching">L\'aplicació s\'està iniciant</string>
-  <string name="access_control_failed_need_to_unlock_nofingerprint">Dibuixeu el patró de desbloqueig per utilitzar una empremta nova</string>
+  <string name="access_control_failed_need_to_unlock_nofingerprint">Introduïu la contrasenya abans de desbloquejar amb una nova empremta</string>
   <string name="access_control_fingerprint_not_identified_msg">"No s'ha pogut llegir l'empremta."</string>
   <string name="access_control_need_password">"S\'ha afegit %s amb èxit
 "</string>
@@ -28,7 +28,7 @@
   <string name="action_button_text_60">Arregla</string>
   <string name="action_button_text_60_80">Arregla</string>
   <string name="action_button_text_80_100">Optimitza</string>
-  <string name="action_source_sms_title">SMS bloquejats</string>
+  <string name="action_source_sms_title">Missatges bloquejats</string>
   <string name="activity_title_antispam">Llista de bloqueig</string>
   <string name="activity_title_antivirus">Anàlisi de virus</string>
   <string name="activity_title_apps_manager">Aplicacions</string>
@@ -334,7 +334,7 @@
   <string name="back_description_securitycenter">Enrere</string>
   <string name="back_modifypassword">Vés enrere per canviar la contrasenya</string>
   <string name="back_sound_data">Requereix d\'accés a la xarxa mòbil, torneu-ho a provar.</string>
-  <string name="back_sound_fail">Ha fallat</string>
+  <string name="back_sound_fail">Ha fallat! Degut a la modificació de la interfície de l\'operador, podeu intentar canviar la targeta SIM actual a la targeta de xarxa i tornar-ho a provar.</string>
   <string name="back_sound_success">Correcte</string>
   <string name="back_sound_support">"Els operadors de xarxa actuals no són compatibles"</string>
   <string name="background_restrict_app_dialog_message">La restricció de l\'accés a la xarxa en segon pla per a aquesta aplicació pot fer que l\'aplicació no funcioni correctament, rebre missatges, baixar contingut, etc. Voleu restringir-lo de totes maneres?</string>
@@ -383,7 +383,7 @@
   <string name="birthday">Aniversari</string>
   <string name="bl_no_blacklist">No hi ha números bloquejats.</string>
   <string name="bl_no_block_call">No hi ha trucades bloquejades.</string>
-  <string name="bl_no_block_sms">No hi ha SMS bloquejats.</string>
+  <string name="bl_no_block_sms">No hi ha missatges bloquejats.</string>
   <string name="blacklist_prefix_add_hint">Bloqueja tots els números que tinguin aquest prefix</string>
   <string name="block_message_number">SMS: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
   <string name="block_phone_number">Trucades: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
