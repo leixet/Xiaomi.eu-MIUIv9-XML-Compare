@@ -448,14 +448,14 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="monitoring_description_ca_certificate">S\'ha instal·lat una autoritat de certificació en aquest dispositiu. El vostre trànsit de xarxa segura es pot controlar o modificar.</string>
   <string name="monitoring_description_managed_profile_ca_certificate">La vostra organització ha instal·lat una autoritat certificadora al vostre perfil de treball. El vostre trànsit de xarxa segura es pot controlar o modificar.</string>
   <string name="monitoring_description_managed_profile_named_vpn">El vostre perfil de treball està connectat a %1$s, que pot controlar l\'activitat de la xarxa, inclosos els correus, les aplicacions i els llocs web.</string>
-  <string name="monitoring_description_management">"El vostre dispositiu està gestionat per l\'organització.
+  <string name="monitoring_description_management">"El vostre dispositiu el gestiona l\'organització.
 
 L\'administrador pot supervisar i gestionar la configuració, l\'accés corporatiu, les aplicacions, les dades associades al vostre dispositiu i la informació d\'ubicació del dispositiu.
 
 Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="monitoring_description_management_ca_certificate">L\'organització ha instal·lat una autoritat certificadora en aquest dispositiu. El vostre trànsit de xarxa segura es pot controlar o modificar.</string>
   <string name="monitoring_description_management_network_logging">L\'administrador ha activat el registre de xarxa, que supervisa el trànsit al vostre dispositiu.</string>
-  <string name="monitoring_description_named_management">"El vostre dispositiu està gestionat per %1$s.
+  <string name="monitoring_description_named_management">"El vostre dispositiu el gestiona %1$s.
 
 L\'administrador pot supervisar i gestionar la configuració, l\'accés corporatiu, les aplicacions, les dades associades al vostre dispositiu i la informació d\'ubicació del dispositiu.
 
@@ -533,6 +533,12 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="quick_settings_bluetooth_detail_empty_text">No hi ha dispositius emparellats disponibles</string>
   <string name="quick_settings_connect_success">Connectat</string>
   <string name="quick_settings_connecting">Connectant</string>
+  <string name="quick_settings_disclosure_managed_profile_monitoring">L\'organització pot controlar el trànsit de la xarxa en el vostre perfil de treball</string>
+  <string name="quick_settings_disclosure_managed_profile_named_vpn">Perfil de treball connectat a %1$s</string>
+  <string name="quick_settings_disclosure_management">Aquest dispositiu el gestiona l\'organització</string>
+  <string name="quick_settings_disclosure_management_monitoring">L\'organització gestiona aquest dispositiu i pot controlar el trànsit de la xarxa</string>
+  <string name="quick_settings_disclosure_management_named_vpn">El dispositiu el gestiona l\'organització i connectat a %1$s</string>
+  <string name="quick_settings_disclosure_management_vpns">El dispositiu el gestiona l\'organització i està connectat a una VPN</string>
   <string name="quick_settings_done">Fet</string>
   <string name="quick_settings_more_settings">Més opcions</string>
   <string name="quick_settings_wifi_detail_empty_text">No hi ha xarxes Wifi disponibles</string>
