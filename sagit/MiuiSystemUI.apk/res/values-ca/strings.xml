@@ -539,6 +539,15 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="quick_settings_disclosure_management_monitoring">L\'organització gestiona aquest dispositiu i pot controlar el trànsit de la xarxa</string>
   <string name="quick_settings_disclosure_management_named_vpn">El dispositiu el gestiona l\'organització i connectat a %1$s</string>
   <string name="quick_settings_disclosure_management_vpns">El dispositiu el gestiona l\'organització i està connectat a una VPN</string>
+  <string name="quick_settings_disclosure_monitoring">És possible que la xarxa se supervisi</string>
+  <string name="quick_settings_disclosure_named_managed_profile_monitoring">%1$s pot controlar el trànsit de la xarxa en el vostre perfil de treball</string>
+  <string name="quick_settings_disclosure_named_management">El dispositiu el gestiona %1$s</string>
+  <string name="quick_settings_disclosure_named_management_monitoring">%1$s gestiona aquest dispositiu i pot controlar el trànsit de xarxa</string>
+  <string name="quick_settings_disclosure_named_management_named_vpn">El dispositiu el gestiona %1$s i connectat a %2$s</string>
+  <string name="quick_settings_disclosure_named_management_vpns">El dispositiu el gestiona %1$s i està connectat a una VPN</string>
+  <string name="quick_settings_disclosure_named_vpn">Dispositiu connectat a %1$s</string>
+  <string name="quick_settings_disclosure_personal_profile_named_vpn">Perfil personal connectat a %1$s</string>
+  <string name="quick_settings_disclosure_vpns">Dispositiu connectat a una VPN</string>
   <string name="quick_settings_done">Fet</string>
   <string name="quick_settings_more_settings">Més opcions</string>
   <string name="quick_settings_wifi_detail_empty_text">No hi ha xarxes Wifi disponibles</string>
