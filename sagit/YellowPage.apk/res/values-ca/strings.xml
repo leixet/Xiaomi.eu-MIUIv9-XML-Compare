@@ -18,6 +18,7 @@
   <string name="agree_to_turn_on">D\'acord</string>
   <string name="all_services">Tots</string>
   <string name="allow">Permet</string>
+  <string name="antispam_curr_version">Versió actual: %d</string>
   <string name="app_label">Pàgines grogues</string>
   <string name="app_recommendation_install">Instal·la</string>
   <string name="average_price">Mitjana de %d iuans</string>
