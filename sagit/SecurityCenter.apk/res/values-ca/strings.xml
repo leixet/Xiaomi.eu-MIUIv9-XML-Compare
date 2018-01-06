@@ -28,6 +28,7 @@
   <string name="action_button_text_60">Arregla</string>
   <string name="action_button_text_60_80">Arregla</string>
   <string name="action_button_text_80_100">Optimitza</string>
+  <string name="action_source_call_title">Trucades bloquejades</string>
   <string name="action_source_sms_title">Missatges bloquejats</string>
   <string name="activity_title_antispam">Llista de bloqueig</string>
   <string name="activity_title_antivirus">Anàlisi de virus</string>
@@ -563,6 +564,7 @@
   <string name="deep_save_ontime_boot_shutdown_summary">Programar temps per engegar el dispositiu i apagar</string>
   <string name="delete">Elimina</string>
   <string name="delete_from_manual_item_white_list">Treure de les excepcions</string>
+  <string name="delete_input">Suprimeix</string>
   <string name="deleted_apps">Aplicacions eliminades</string>
   <string name="descx_quick_scan_cancel">Escaneig cancel·lat</string>
   <string name="descx_quick_scan_preparation">Un moment…</string>
@@ -810,6 +812,7 @@
   <string name="info_unantispam_sms">Permet els SMS</string>
   <string name="information_setting">Configuració del canal de notícies</string>
   <string name="input_aviable_traffic">Estableix límit d\'ús de dades</string>
+  <string name="input_password_hint_text">Introduïu la contrasenya</string>
   <string name="input_traffic_pkg">Introduïu dades addicionals</string>
   <string name="input_used_hint">Introduïu l\'ús de dades</string>
   <string name="input_used_max_hint">Introduïu l\'ús de dades (menys de %s)</string>
@@ -1032,6 +1035,11 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="mi_service_app_detail">Detalls d\'ús de dades</string>
   <string name="mi_service_traffic_detail">Detalls de Marc</string>
   <string name="mian_page_primary_txt">Itinerància en ultramar</string>
+  <string name="mixed_need_to_confirm">Torneu a introduir-la per confirmar</string>
+  <string name="mixed_password_confirmed_header_confirm">S\'ha establert amb èxit. Toqueu per confirmar.</string>
+  <string name="mixed_password_confirmed_header_continue">S\'ha establert amb èxit. Toqueu «Següent».</string>
+  <string name="mixed_pattern_entered_header">La contrasenya s\'ha establert amb èxit</string>
+  <string name="mixed_recording_incorrect_too_short">Introduïu com a mínim %d caràcters.</string>
   <string name="modify_password_mode">&lt;u&gt;Canvia el tipus de contrasenya&lt;/u&gt;</string>
   <string name="modifypassword">Canvia la contrasenya</string>
   <string name="monitor_app_add">afegeix</string>
