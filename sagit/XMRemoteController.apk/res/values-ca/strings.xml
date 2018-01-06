@@ -601,6 +601,8 @@ Llavors responeu la pregunta"</string>
   <string name="more_fav_channel">Més preferits</string>
   <string name="more_function">Més funcions</string>
   <string name="more_hot_programs">Més espectacles&#8230;</string>
+  <string name="msg_camera_framework_bug">"No s\'ha pogut accedir a la càmera.
+Comproveu els permisos o reinicieu el dispositiu."</string>
   <string name="mute">Silencia</string>
   <string name="my_activity">Les meves Activitats</string>
   <string name="my_appointment">Les meves programacions</string>
@@ -700,6 +702,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_email">Adreça de correu</string>
   <string name="passport_email_or_id_hint_text">Adreça de correu electrònic o identificador del compte Mi</string>
   <string name="passport_email_reg_success_summary">S\'ha vinculat %1$s al vostre compte. Podeu utilitzar-lo per iniciar la sessió o per restablir la contrasenya.</string>
+  <string name="passport_error_auth_fail">La sessió ha expirat, torneu a iniciar-la més tard</string>
   <string name="passport_error_device_id">"No es pot obtenir la identitat del dispositiu"</string>
   <string name="passport_error_dup_email">El correu electrònic que heu introduït ja està associat a un altre compte.</string>
   <string name="passport_error_email">L\'adreça de correu que heu introduït no és vàlida</string>
@@ -714,6 +717,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_error_invalid_phone_num">El número telefònic no és vàlid</string>
   <string name="passport_error_login">"No s'ha pogut iniciar la sessió"</string>
   <string name="passport_error_network">"No es pot connectar a la xarxa"</string>
+  <string name="passport_error_no_password_user">"Encara no heu establert la contrasenya. Inicieu sessió amb un SMS."</string>
   <string name="passport_error_phone_error">Número de telèfon no vàlid</string>
   <string name="passport_error_server">Error de servidor</string>
   <string name="passport_error_sim_not_ready">"No es troba la targeta SIM"</string>
@@ -773,6 +777,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_quick_login_dialog_title">Verifica la contrasenya</string>
   <string name="passport_quick_login_step2_title">Verificació en dues etapes</string>
   <string name="passport_quick_login_title">Introduïu la contrasenya</string>
+  <string name="passport_quick_register">Registreu-vos</string>
   <string name="passport_quick_register_notice">&lt;u&gt;\"No teniu un Compte Mi? Creu-ne un.\"&lt;/u&gt;</string>
   <string name="passport_re_get_verify_code">Obteniu el codi un altre cop</string>
   <string name="passport_re_register">Torneu a registrar-vos</string>
@@ -945,6 +950,8 @@ directament des de la vostra pantalla de bloqueig"</string>
   <string name="scan_add_error">"No s'ha pogut afegir el dispositiu. Espereu un minut o dos i torneu-ho a provar."</string>
   <string name="scan_code">Escaneja el codi per afegir-lo</string>
   <string name="scan_error">"No s'ha pogut llegir el codi QR"</string>
+  <string name="scan_text">"Compartiu controls remots amb amics mitjançant codis QR.
+Obriu la configuració del control remot i toqueu «Comparteix»."</string>
   <string name="scaning">Cercant&#8230;</string>
   <string name="scanning_milink">S\'està cercant dispositius&#8230;</string>
   <string name="scene_default">Per defecte</string>
@@ -1027,6 +1034,8 @@ directament des de la vostra pantalla de bloqueig"</string>
   <string name="share_rc_state_share">S\'està compartint&#8230;</string>
   <string name="share_rc_title">Comparteix comandament</string>
   <string name="share_rc_type_desc">Qui pot veure i utilitzar els comandaments que heu compartit</string>
+  <string name="share_scan_hint">"Escanegeu els codis QR del vostre amic per utilitzar els seus controls remots.
+Vés a la pàgina d\'inici &gt; «+» &gt; Escànner."</string>
   <string name="share_score_share_no_install">"No es pot compartir"</string>
   <string name="share_switch">Comparteix comandament</string>
   <string name="share_tips">Comparteix el comandament amb una persona connectada a la mateixa Wi-Fi</string>
