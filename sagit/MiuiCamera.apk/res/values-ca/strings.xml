@@ -23,6 +23,7 @@
   <string name="audio_focus_exit_button_text">Tancar enfocament d\'àudio</string>
   <string name="beauty_fragment_tab_name_beauty">Bellesa</string>
   <string name="beauty_fragment_tab_name_makeup">Avançat</string>
+  <string name="bokeh_use_hint">Efecte de profunditat</string>
   <string name="burst_shoot_exit_button_text">Tanca el mode ràfega</string>
   <string name="button_fisheye_camera_title">Ull de peix</string>
   <string name="button_front_camera_title">Fer una selfie</string>
