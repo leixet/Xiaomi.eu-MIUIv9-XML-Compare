@@ -448,7 +448,24 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="monitoring_description_ca_certificate">S\'ha instal·lat una autoritat de certificació en aquest dispositiu. El vostre trànsit de xarxa segura es pot controlar o modificar.</string>
   <string name="monitoring_description_managed_profile_ca_certificate">La vostra organització ha instal·lat una autoritat certificadora al vostre perfil de treball. El vostre trànsit de xarxa segura es pot controlar o modificar.</string>
   <string name="monitoring_description_managed_profile_named_vpn">El vostre perfil de treball està connectat a %1$s, que pot controlar l\'activitat de la xarxa, inclosos els correus, les aplicacions i els llocs web.</string>
+  <string name="monitoring_description_management">"El vostre dispositiu està gestionat per l\'organització.
+
+L\'administrador pot supervisar i gestionar la configuració, l\'accés corporatiu, les aplicacions, les dades associades al vostre dispositiu i la informació d\'ubicació del dispositiu.
+
+Per obtenir més informació, contacteu amb l\'administrador."</string>
+  <string name="monitoring_description_management_ca_certificate">L\'organització ha instal·lat una autoritat certificadora en aquest dispositiu. El vostre trànsit de xarxa segura es pot controlar o modificar.</string>
+  <string name="monitoring_description_management_network_logging">L\'administrador ha activat el registre de xarxa, que supervisa el trànsit al vostre dispositiu.</string>
+  <string name="monitoring_description_named_management">"El vostre dispositiu està gestionat per %1$s.
+
+L\'administrador pot supervisar i gestionar la configuració, l\'accés corporatiu, les aplicacions, les dades associades al vostre dispositiu i la informació d\'ubicació del dispositiu.
+
+Per obtenir més informació, contacteu amb l\'administrador."</string>
+  <string name="monitoring_description_named_vpn">"Esteu connectat a %1$s, que pot controlar l'activitat de la xarxa, inclosos els correus, les aplicacions i els llocs web."</string>
+  <string name="monitoring_description_personal_profile_named_vpn">El vostre perfil personal està connectat a %1$s, que pot controlar l\'activitat de la xarxa, inclosos els correus, les aplicacions i els llocs web.</string>
+  <string name="monitoring_description_two_named_vpns">"Esteu connectat a %1$s i %2$s, que pot controlar l'activitat de la xarxa, inclosos els correus, les aplicacions i els llocs web."</string>
   <string name="monitoring_description_vpn_settings">Obre la configuració de la VPN</string>
+  <string name="monitoring_subtitle_ca_certificate">Certificats CA</string>
+  <string name="monitoring_subtitle_network_logging">Registre de xarxa</string>
   <string name="monitoring_title">Supervisió de xarxa</string>
   <string name="monitoring_title_device_owned">Administració de dispositius</string>
   <string name="mount_storage">Sí</string>
