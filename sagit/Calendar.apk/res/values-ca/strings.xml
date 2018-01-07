@@ -380,7 +380,7 @@
   <string name="set_as_wallpaper">Estableix com a fons</string>
   <string name="setting_about_calendar_version">Versió del calendari:</string>
   <string name="setting_about_miui_version">Versió de MIUI:</string>
-  <string name="setting_about_summary">Versió:</string>
+  <string name="setting_about_summary">Versió: </string>
   <string name="setting_accounts">Comptes de calendari</string>
   <string name="setting_features_title">Configuració de les característiques</string>
   <string name="setting_holiday_display_desc">Les targetes dels dies festius es troben sota l\'agenda a la pàgina d\'inici</string>
