@@ -134,7 +134,7 @@
   <string name="app_manager_app_storage">"Emmagatzematge: "</string>
   <string name="app_manager_app_traffic">"Ús de dades: "</string>
   <string name="app_manager_app_update">Actualitzacions</string>
-  <string name="app_manager_app_version_name">Versió:</string>
+  <string name="app_manager_app_version_name">Versió: </string>
   <string name="app_manager_appupdate_remind">Avisa\'m si ha actualitzacions</string>
   <string name="app_manager_as_dlg_msg">En permetre que les aplicacions s\'iniciïn automàticament poden requerir recursos addicionals de memòria RAM i bateria. Voleu permetre-ho de totes maneres?</string>
   <string name="app_manager_as_dlg_title">Atenció</string>
