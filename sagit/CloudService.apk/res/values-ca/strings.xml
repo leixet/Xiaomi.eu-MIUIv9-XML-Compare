@@ -158,7 +158,7 @@ Si canvies de targeta SIM s\'enviarà un altre SMS automàticament per reactivar
   <string name="micloud_battery_low_notification_message">Connecteu el carregador per sincronitzar</string>
   <string name="micloud_battery_low_notification_title">Bateria baixa</string>
   <string name="micloud_buy_member">Compte</string>
-  <string name="micloud_buy_member_safe">Compra subscripció Mi Cloud</string>
+  <string name="micloud_buy_member_safe">Amplia l\'emmagatzematge del MiCloud</string>
   <string name="micloud_check_sim_notify_text">"Sembla que has canviat de SIM. Inicia la sessió 
 amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Reactivar Mi Cloud</string>
@@ -372,7 +372,7 @@ Toca el botó de configuració de sincronització per veure més opcions\"</stri
   <string name="micloud_notif_title_memory_low">"No es pot sincronitzar amb Mi Cloud"</string>
   <string name="micloud_notif_title_multi_user_error">"No es pot sincronitzar amb Mi Cloud"</string>
   <string name="micloud_notif_title_sync_finish">S\'ha sincronitzat</string>
-  <string name="micloud_notif_title_sync_not_finish">"Sense sincronitzar"</string>
+  <string name="micloud_notif_title_sync_not_finish">"Alguns elements no s'han sincronitzat"</string>
   <string name="micloud_notif_title_sync_progress">S\'està sincronitzant</string>
   <string name="micloud_notif_title_sync_with_off">Sincronitzar amb Mi Cloud</string>
   <string name="micloud_other_product_price">Preu d\'altres productes similars:</string>
@@ -561,10 +561,10 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="virtual_sim_desc">Activeu Mi SIM per localitzar el dispositiu sense una targeta SIM</string>
   <string name="voip_choose_sim">Trieu el número de telèfon per activar Mi Voice</string>
   <string name="wipe_data_dialog_button_check_sync">Comprova si està sincronitzat</string>
-  <string name="wipe_data_dialog_msg">"Alguns elements (%s) no estan sincronitzats. Es desaran al dispositiu i no se suprimiran."</string>
+  <string name="wipe_data_dialog_msg">"%s no s'han sincronitzat i seguiran al telèfon."</string>
   <string name="wipe_data_dialog_msg_and_on">i d\'altres elements</string>
   <string name="wipe_data_dialog_msg_separator">,</string>
-  <string name="wipe_data_dialog_title">"Els elements no estan sincronitzats"</string>
+  <string name="wipe_data_dialog_title">"Alguns elements no s'han sincronitzat"</string>
   <string name="wipe_secret_photo_dialog_title">"Les fotos ocultes no es sincronitzen"</string>
   <string name="xiaomi_cloud_service_subtitle">Tots els elements importants en un sol lloc</string>
 </resources>
