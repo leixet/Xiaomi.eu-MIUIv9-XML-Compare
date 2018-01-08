@@ -1098,8 +1098,8 @@ Per afegir un contacte a la llista de favorits:
   <string name="type_voicemail">Missatge de veu</string>
   <string name="unable_get_device_id">No es pot obtenir l\'IMEI</string>
   <string name="unfold_all">Mostra-ho tot</string>
-  <string name="unknow_phone_number_call_failed">"No es pot trucar a un número desconegut"</string>
-  <string name="unknow_phone_number_mms_failed">"No es pot enviar un missatge a un número desconegut"</string>
+  <string name="unknow_phone_number_call_failed">"No es pot trucar a números desconeguts"</string>
+  <string name="unknow_phone_number_mms_failed">"No es pot enviar missatges a números desconeguts"</string>
   <string name="unknown">Desconegut</string>
   <string name="unknown_contact_name">Contacte desconegut</string>
   <string name="unknown_details_add_to_contact">Existent</string>
