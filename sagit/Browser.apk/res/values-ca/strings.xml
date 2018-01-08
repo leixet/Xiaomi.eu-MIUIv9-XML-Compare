@@ -482,7 +482,7 @@ Voleu sortir d\'aquesta pàgina?"</string>
   <string name="miuichromium_error_page_problem_page_not_working_reason_invalid_response">"Aquesta pàgina no funciona perquè %s0 ha enviat una resposta no vàlida."</string>
   <string name="miuichromium_error_page_problem_page_not_working_reason_too_many_redirects">"Aquesta pàgina no funciona perquè %s0 us ha redirigit massa vegades."</string>
   <string name="miuichromium_error_page_problem_security_error_reason_bad_client_cert">"Aquest lloc no pot proporcionar una connexió segura perquè %s0 no ha acceptat el vostre certificat."</string>
-  <string name="miuichromium_error_page_problem_security_error_reason_bad_server_cert">"Aquest lloc no pot proporcionar una connexió segura. %s0 no compleix els estàndards de seguretat."</string>
+  <string name="miuichromium_error_page_problem_security_error_reason_bad_server_cert">"Aquest lloc no pot proporcionar una connexió segura perquè %s0 no compleix els estàndards de seguretat."</string>
   <string name="miuichromium_error_page_problem_security_error_reason_invalid_response">"Aquest lloc no pot proporcionar una connexió segura perquè %s0 ha enviat una resposta no vàlida."</string>
   <string name="miuichromium_error_page_problem_security_error_reason_unsupported_protocol">"Aquest lloc no pot proporcionar una connexió segura perquè %s0 utilitza un protocol no compatible."</string>
   <string name="miuichromium_error_page_problem_server_fault">%s0 no pot gestionar aquesta sol·licitud.</string>
