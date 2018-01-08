@@ -420,7 +420,7 @@
   <string name="button_text_accept_timer">D\'acord (%d)</string>
   <string name="button_text_clear">Esborra</string>
   <string name="button_text_delete">Elimina</string>
-  <string name="button_text_delete_from_virus_white_list">elimina</string>
+  <string name="button_text_delete_from_virus_white_list">Elimina</string>
   <string name="button_text_deny">Denega</string>
   <string name="button_text_disconnect_now">Desconnectar</string>
   <string name="button_text_fix_now">Arregla</string>
