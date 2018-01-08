@@ -521,7 +521,7 @@
   <string name="import_button_text">Importa</string>
   <string name="import_from_other_account">Importa d\'altres comptes</string>
   <string name="info_actionbar_normal_detail">Detalls</string>
-  <string name="info_item_hide">Amaga</string>
+  <string name="info_item_hide">Elimina</string>
   <string name="info_switch_summary">Vista superior de notícies</string>
   <string name="info_switch_title">Notícies de la safata d\'entrada</string>
   <string name="inline_picture_deleted">S\'està baixant la foto que falta&#8230;</string>
