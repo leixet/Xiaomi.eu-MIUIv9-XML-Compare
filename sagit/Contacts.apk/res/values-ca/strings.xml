@@ -174,7 +174,7 @@
   <string name="cloud_antispam_marked">Marcat</string>
   <string name="cloud_antispam_title">Identificar números desconeguts</string>
   <string name="cloud_recommend_msg">Tocar per sincronitzar contactes amb Mi Cloud.</string>
-  <string name="cloud_state_disabled">La sincronització amb Mi Cloud està apagada</string>
+  <string name="cloud_state_disabled">Sincronitza contactes amb Mi Cloud</string>
   <string name="cloud_state_loading">Un moment…</string>
   <string name="cloud_state_sync_finished">Sincronitzat amb Mi Cloud</string>
   <string name="cloud_state_syncing">Sincronitzat amb Mi Cloud</string>
@@ -197,7 +197,7 @@
   <string name="contactSavedErrorToast">"No es poden desar els canvis del contacte"</string>
   <string name="contactSavedToast">Contacte guardat</string>
   <string name="contact_clear_search_history">Esborra l\'historial</string>
-  <string name="contact_delete_toast">Contacte eliminat amb èxit</string>
+  <string name="contact_delete_toast">S\'ha eliminat el contacte amb èxit</string>
   <string name="contact_detail_action_item_calllog">Historial de trucades</string>
   <string name="contact_detail_action_item_nocalllog">No hi ha historial</string>
   <string name="contact_detail_calllog_call_note_tips">Notes</string>
