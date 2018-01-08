@@ -419,7 +419,7 @@ Proveu el següent per solucionar el problema:
   <string name="install_failed">"No s'ha pogut instal·lar %s"</string>
   <string name="install_peel_content">Per activar la funció de guia de televisió, instal·leu Peel per al Control Mi.</string>
   <string name="install_peel_title">Instal·lació de Peel Mi Remote</string>
-  <string name="install_succed">S\'ha instal·lat %s amb èxit</string>
+  <string name="install_succed">%s s\'ha instal·lat amb èxit</string>
   <string name="installing">S\'està instal·lant…</string>
   <string name="introduction">Introducció</string>
   <string name="ir_ac">" AC"</string>
