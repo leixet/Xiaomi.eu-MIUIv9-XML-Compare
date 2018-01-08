@@ -544,14 +544,14 @@
   <string name="data_usage_correction_timeout_title">Esgotat el temps per sincronitzar ús de dades</string>
   <string name="data_usage_disabled_dialog">"Ha arribat al límit d'ús de dades. L'ús excessiu de la seva tarifa de dades pot ocasionar despeses addicionals"</string>
   <string name="data_usage_disabled_dialog_enable">Activa les dades</string>
-  <string name="data_usage_leisure_warning_body">Premeu per veure els detalls de l\'ús de dades.</string>
+  <string name="data_usage_leisure_warning_body">Toqueu per veure els detalls d\'ús de dades.</string>
   <string name="data_usage_leisure_warning_title">Límit d\'ús de dades</string>
   <string name="data_usage_limit_body">Premeu per activar les dades mòbils.</string>
   <string name="data_usage_mobile_limit_title"> Dades mòbils apagades</string>
   <string name="data_usage_no_total_package_body">Toqui per establir el límit de dades</string>
   <string name="data_usage_no_total_package_body_dual">No hi ha límit de dades establert per %s.</string>
   <string name="data_usage_no_total_package_title">Estableix un límit d\'ús de dades</string>
-  <string name="data_usage_warning_body">Premeu per veure els detalls de l\'ús de dades.</string>
+  <string name="data_usage_warning_body">Toqueu per veure els detalls d\'ús de dades.</string>
   <string name="data_usage_warning_body_notify">Premeu per veure els detalls</string>
   <string name="data_usage_warning_title_notify">Heu superat el limit de dades</string>
   <string name="databooster_tips_message">Activeu-lo per restringir totes les targetes SIM, excepte per a la targeta de dades. Desactiveu aquesta funció si es produeixen errors en els jocs que trieu.</string>
@@ -1246,7 +1246,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="other_exception_title">Comprovar altres errors</string>
   <string name="package_change_notification_summary">Tocar per saber més.</string>
   <string name="package_change_notification_title">Ajustar límit de dades automàticament</string>
-  <string name="package_setted_error_notification_summary">Tocar per veure detalls d\'ús de dades.</string>
+  <string name="package_setted_error_notification_summary">Toqueu per veure els detalls d\'ús de dades.</string>
   <string name="package_setted_error_notification_titile">"No s'ha pogut establir el pla de dades"</string>
   <string name="packages_subtitle">Paquets inclosos</string>
   <string name="passwordIncorrect">Usuari o contrasenya incorrecta</string>
