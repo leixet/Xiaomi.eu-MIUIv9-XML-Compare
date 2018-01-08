@@ -11,7 +11,7 @@
   <string name="accessibility_sync_cal">Sincronitza el calendari</string>
   <string name="account_and_calendar">Comptes</string>
   <string name="accounts">Comptes i sincronització</string>
-  <string name="acct_not_synced">"Aquest compte no s'està sincronitzant. És possible que els calendaris no estiguin actualitzats."</string>
+  <string name="acct_not_synced">"Aquest compte no s'està sincronitzant. Pot ser que el vostre calendari no estigui actualitzat."</string>
   <string name="acessibility_selected_marker_description">Esdeveniment seleccionat</string>
   <string name="action_bar_more_menu_view_description">Més</string>
   <string name="action_bar_return">Retorna</string>
