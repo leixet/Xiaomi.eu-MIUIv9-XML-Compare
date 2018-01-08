@@ -291,7 +291,7 @@
   <string name="no_network">No hi ha xarxa. Intenteu actualitzar la xarxa de nou :)</string>
   <string name="no_network_btn">Torna-ho a provar</string>
   <string name="no_title_label">(Sense títol)</string>
-  <string name="no_visiable_calendar_message">Cal que seleccioneu un compte de calendari. Premeu Afegeix el compte per continuar.</string>
+  <string name="no_visiable_calendar_message">Cal que afegiu un compte de calendari. Toqueu Afegeix un compte per continuar.</string>
   <string name="no_visiable_calendar_select_account">Afegeix un compte</string>
   <string name="no_visiable_calendar_title">Afegeix un compte</string>
   <string name="not_synced">sense sincronitzar</string>
