@@ -4737,7 +4737,7 @@ Qualsevol usuari pot acceptar una actualització de permisos d\'una aplicació e
   <string name="user_dict_settings_edit_dialog_title">Edita la paraula</string>
   <string name="user_dict_settings_empty_text">«No hi ha cap diccionari
 Afegiu una paraula tocant el botó Afegeix (+)»</string>
-  <string name="user_dict_settings_more_languages">Més idiomes&#8230;</string>
+  <string name="user_dict_settings_more_languages">Més idiomes…</string>
   <string name="user_dict_settings_title">Diccionari personal</string>
   <string name="user_enable_calling">Activa les trucades telefòniques</string>
   <string name="user_enable_calling_and_sms_confirm_message">Es compartirà amb aquest usuari l\'historial de trucades i de SMS.</string>
