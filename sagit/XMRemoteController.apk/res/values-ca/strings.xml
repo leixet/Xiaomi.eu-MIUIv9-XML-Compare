@@ -955,7 +955,7 @@ Obriu la configuració del control remot i toqueu «Comparteix»."</string>
   <string name="scaning">Cercant&#8230;</string>
   <string name="scanning_milink">S\'està cercant dispositius&#8230;</string>
   <string name="scene_default">Per defecte</string>
-  <string name="screen_shot_delete_warning">确定删除截图吗?</string>
+  <string name="screen_shot_delete_warning">Esteu segur que voleu suprimir la captura de pantalla?</string>
   <string name="screen_shot_show_loading">正在加载&#8230;</string>
   <string name="screenshot">Captura de pantalla</string>
   <string name="screenshot_failed">"No s'ha pogut capturar la pantalla"</string>
