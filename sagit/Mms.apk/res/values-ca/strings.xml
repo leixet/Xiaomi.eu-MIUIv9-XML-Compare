@@ -515,7 +515,7 @@
   <string name="send_message_dlg_check_hint">"No mostrar de nou"</string>
   <string name="send_message_dlg_mgs">Avís CMCC: hem de registrar la vostra plataforma d\'administració de dispositius per proporcionar el servei gratuït de servei postal (el servei postal és una plataforma CMCC que permet administrar els terminals. Li ofereix el servei de configuració remota i actualització de l\'aplicació). S\'enviarà un missatge gratis d\'informació dels dispositius de registre. El missatge serà enviat una vegada i no cal les dades personals (no enviar de Hong Kong, Macau, Taiwan i itinerància internacional). Seleccioneu «D\'acord» si esteu d\'acord amb registrar i utilitzar el servei. Seleccioneu «Cancel·la» per tornar i no es proporcionarà cap servei CMCC.</string>
   <string name="send_message_dlg_title">Administració de dispositius</string>
-  <string name="send_message_notification_msg">Premeu per mostrar els detalls.</string>
+  <string name="send_message_notification_msg">Toqueu per veure els detalls de la sol·licitud.</string>
   <string name="send_message_notification_tickerText">El dispositiu està sol·licitant permís</string>
   <string name="send_message_notification_title">Permís sol·licitat</string>
   <string name="send_signature_confirm_dialog_message">No hi ha contingut. Voleu enviar només la vostra signatura?</string>
