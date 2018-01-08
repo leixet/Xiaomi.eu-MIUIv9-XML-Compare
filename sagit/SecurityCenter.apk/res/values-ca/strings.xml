@@ -31,7 +31,7 @@
   <string name="action_source_call_title">Trucades bloquejades</string>
   <string name="action_source_sms_title">Missatges bloquejats</string>
   <string name="activity_title_antispam">Llista de bloqueig</string>
-  <string name="activity_title_antivirus">Anàlisi de virus</string>
+  <string name="activity_title_antivirus">Escaneig de seguretat</string>
   <string name="activity_title_apps_manager">Aplicacions</string>
   <string name="activity_title_auto_start_manager">Inici automàtic</string>
   <string name="activity_title_create_shortcut">Gestiona les dreceres</string>
@@ -1020,7 +1020,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="menu_report">Notifica un error</string>
   <string name="menu_sms">Envia el missatge</string>
   <string name="menu_text_antispam">Llista de bloqueig</string>
-  <string name="menu_text_antivirus">Anàlisi de virus</string>
+  <string name="menu_text_antivirus">Escaneig de seguretat</string>
   <string name="menu_text_garbage_cleanup">Netejador</string>
   <string name="menu_text_garbage_cleanup_danger">%s sobrepassats</string>
   <string name="menu_text_license_manager">Permisos</string>
@@ -1553,7 +1553,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="section_title_clear_acc">Memòria cau</string>
   <string name="section_title_security_defend">Seguretat</string>
   <string name="section_title_system">Sistema</string>
-  <string name="security_scan_optimizing">S\'està optimitzant&#8230;</string>
+  <string name="security_scan_optimizing">S\'està optimitzant…</string>
   <string name="see_detail">Detalls</string>
   <string name="set_applock_password">Estableix una contrasenya</string>
   <string name="set_mixed_password_name">Estableix la contrasenya</string>
