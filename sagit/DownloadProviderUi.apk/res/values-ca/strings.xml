@@ -4,7 +4,6 @@
   <string name="Only_the_wifi">Utilitzar només Wi-Fi</string>
   <string name="about">Quant a</string>
   <string name="action_settings">Configuració</string>
-  <string name="ad_install">Instal·la</string>
   <string name="ad_mark">ANUNCI</string>
   <string name="ad_title">La gent també va baixar aquests amb %1$s</string>
   <string name="ad_title_other">Les persones que van baixar aquesta imatge també van baixar</string>
@@ -98,7 +97,7 @@
   <string name="download_list_open_xl_title">Accelerador de baixades Xunlei</string>
   <string name="download_list_title_browser">Baixades</string>
   <string name="download_no_application">Cap aplicació suporta aquest format</string>
-  <string name="download_no_application_title">"No es pot obrir el fitxer"</string>
+  <string name="download_no_application_title">No es pot obrir el fitxer</string>
   <string name="download_paused">Baixada en pausa</string>
   <string name="download_pending">Baixada pendent</string>
   <string name="download_queued">En cua</string>
@@ -362,7 +361,7 @@ en tots els dispositius a través de Xunlei"</string>
   <string name="subfile_list">Arxius</string>
   <string name="task_detail">Tasques</string>
   <string name="task_detail_notfound_confirm">D\'acord</string>
-  <string name="task_fail">Ha fallat</string>
+  <string name="task_fail">"Ha fallat"</string>
   <string name="text_showmore_infoflow">Mostra més fonts</string>
   <string name="third_web_cancel">Cancel·la</string>
   <string name="third_web_confirm">D\'acord</string>
