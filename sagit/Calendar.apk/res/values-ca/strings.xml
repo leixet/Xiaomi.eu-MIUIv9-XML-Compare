@@ -343,7 +343,7 @@
   <string name="pull_to_refresh_hint">Estireu per actualitzar els esdeveniments de %1$d</string>
   <string name="recommend_card_adding">添加中</string>
   <string name="refresh">Actualitza</string>
-  <string name="refreshing_hint">S\'està actualitzant</string>
+  <string name="refreshing_hint">Un moment…</string>
   <string name="repeat_activity_label">Repeteix</string>
   <string name="repeat_custom_activity_label">Personalitzada</string>
   <string name="repeat_custom_prompt">cada %1$s els %2$s</string>
