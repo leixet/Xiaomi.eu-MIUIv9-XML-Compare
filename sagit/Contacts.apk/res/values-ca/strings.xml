@@ -327,6 +327,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="description_minus_button">Menys</string>
   <string name="description_plus_button">Més</string>
   <string name="description_quick_contact_for">Contacte ràpid per %1$s</string>
+  <string name="description_quick_dial_button">Marcació ràpida</string>
   <string name="description_search_button">Cerca</string>
   <string name="description_send_message">Envia el missatge a %1$s</string>
   <string name="description_send_text_message">Envia el missatge de text a %1$s</string>
@@ -369,6 +370,7 @@ Les targetes de contacte estan apagades"</string>
   <string name="dialer_empty_text_loading">Un moment…</string>
   <string name="dialer_empty_text_no_call_log">No hi ha contactes recents</string>
   <string name="dialer_empty_text_no_search_result">No s\'han trobat els contactes</string>
+  <string name="dialer_firewall_entry_name">Registres de trucades bloquejades</string>
   <string name="dialer_menu_description">Mostra marcador</string>
   <string name="dialer_menu_title">Menú d\'opcions</string>
   <string name="dialer_returnToInCallScreen">Retornar a la trucada en progrés</string>
