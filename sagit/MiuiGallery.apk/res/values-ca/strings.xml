@@ -17,7 +17,6 @@
   <string name="add_to_secret_exist">La foto ja existeix a l\'àlbum ocult</string>
   <string name="add_to_secret_fail">"No s'ha pogut afegir a l'àlbum ocult"</string>
   <string name="add_to_secret_failed_with_reason">"No es pot afegir a l'àlbum ocult. %1$s."</string>
-  <string name="add_to_secret_failed_with_reason_and_count">"%2$s elements no es poden afegir a l'àlbum ocult. %1$s."</string>
   <string name="add_to_secret_successful">S\'ha afegit a l\'àlbum ocult</string>
   <string name="add_to_share_album_not_delete">"No es pot eliminar la foto de l'àlbum compartit"</string>
   <string name="added_to_favorites_tip">S\'ha afegit a l\'àlbum «Preferits»</string>
@@ -831,7 +830,6 @@ Feu més fotos als vostres amics!"</string>
   <string name="remove_from_other_albums_tip">Haureu d\'activar la sincronització amb Mi Cloud d\'aquest àlbum si el traieu de la llista d\'altres àlbums. Voleu treure\'l ara?</string>
   <string name="remove_from_secret_fail">"No es pot eliminar de l'àlbum ocult"</string>
   <string name="remove_from_secret_failed_with_reason">"No es pot eliminar de l'àlbum ocult. %1$s."</string>
-  <string name="remove_from_secret_failed_with_reason_and_count">"%2$s elements no es poden eliminar de l'àlbum ocult. %1$s."</string>
   <string name="remove_from_secret_successful">Eliminat de l\'àlbum ocult</string>
   <string name="remove_to_album_title">Fusionar-se amb</string>
   <string name="remove_to_other_album">Fusionar-se amb una persona diferent</string>
