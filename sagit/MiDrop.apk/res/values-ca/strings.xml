@@ -39,7 +39,7 @@
   <string name="intro_page1_text2">"Més fàcil que mai"</string>
   <string name="intro_page2_choose_files">Trieu els fitxers i toqueu «Envia»</string>
   <string name="intro_page2_click_to_send">Toqueu «Envia»</string>
-  <string name="intro_page3_choose_midrop">Tria \"Mi Drop\"</string>
+  <string name="intro_page3_choose_midrop">Trieu «Mi Drop»</string>
   <string name="intro_page3_choose_midrop2">Els fitxers s\'enviaran immediatament!</string>
   <string name="newText">Nou text</string>
   <string name="notif_receive_lockscreen">Toqueu per veure els detalls.</string>
