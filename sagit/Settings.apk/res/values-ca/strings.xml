@@ -2630,7 +2630,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="my_device_disclaimer">Nota: la informació de maquinari, incloent la CPU, capacitat de la bateria, mida de pantalla, resolució i la càmera, és proporcionada pels laboratoris de Xiaomi, dissenyadors i proveïdors.</string>
   <string name="n_cacrts">%d certificats de CA</string>
   <string name="nature_color">Per defecte</string>
-  <string name="navigation_guide_back_anim_summary">Gest cap enrere amb animació</string>
+  <string name="navigation_guide_back_anim_summary">"Gest cap enrere amb animació"</string>
   <string name="navigation_guide_back_anim_title">Animació del gest cap enrrere</string>
   <string name="navigation_guide_back_summary">Llisqueu cap a l\'esquerra o cap a la dreta des de la pantalla</string>
   <string name="navigation_guide_back_title">Torna a la darrera pàgina</string>
