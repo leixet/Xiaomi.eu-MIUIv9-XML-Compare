@@ -8,6 +8,7 @@
   <string name="announce_for_close_default_preview">tanca la pàgina de selecció d\'inici</string>
   <string name="announce_for_close_folder">tanca la carpeta</string>
   <string name="announce_for_close_launcher_menu">tanca el menú</string>
+  <string name="announce_for_delete_gadget_and_widget">Giny</string>
   <string name="announce_for_delete_item">S\'ha suprimit %1$s</string>
   <string name="announce_for_drag_enter_folder_grid">col·loca la icona dins la carpeta</string>
   <string name="announce_for_drop_folder_grid_view">dins de la carpeta en la ubicació %1$d</string>
