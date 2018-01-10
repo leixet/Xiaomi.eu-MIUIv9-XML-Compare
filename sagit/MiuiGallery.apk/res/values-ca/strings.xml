@@ -11,6 +11,7 @@
   <string name="add_to_album_bulk_result">Error (%d)</string>
   <string name="add_to_album_exist">Aquesta foto ja existeix</string>
   <string name="add_to_album_failed">"No s'ha pogut afegir a l'àlbum"</string>
+  <string name="add_to_album_failed_with_reason">"No es pot afegir a l'àlbum. %1$s."</string>
   <string name="add_to_album_success">Afegida a l\'àlbum</string>
   <string name="add_to_album_tip">Fotos del núvol</string>
   <string name="add_to_favorites_failed">"No s'ha pogut afegir als preferits"</string>
@@ -596,6 +597,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="loading_image">S\'està baixant la imatge&#8230;</string>
   <string name="loading_image_thumbnail">S\'està baixant la miniatura&#8230;</string>
   <string name="loading_members">S\'està carregant members026</string>
+  <string name="loading_processing_tip">S\'està processant la foto…</string>
   <string name="loading_suspend">Baixada en pausa. Es reprendrà quan el Wi-Fi estigui disponible.</string>
   <string name="loading_video">S\'està baixant el vídeo&#8230;</string>
   <string name="loading_video_fail_sync_without_network">Connecteu-vos a la xarxa per baixar les metadades</string>
@@ -648,6 +650,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="open">Activa</string>
   <string name="open_public_message">Creeu una URL per compartir amb els vostres amics</string>
   <string name="open_public_title">Comparteix</string>
+  <string name="operate_processing_file_error">Espereu fins que es processin totes les fotos.</string>
   <string name="operation_add_album">Afegeix a un àlbum</string>
   <string name="operation_add_picture">Afegeix elements</string>
   <string name="operation_add_secret">Amaga</string>
