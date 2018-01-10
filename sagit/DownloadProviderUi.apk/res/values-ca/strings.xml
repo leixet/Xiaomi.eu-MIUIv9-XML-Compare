@@ -4,6 +4,7 @@
   <string name="Only_the_wifi">Només utilitza Wi-Fi</string>
   <string name="about">Quant a</string>
   <string name="action_settings">Configuració</string>
+  <string name="ad_install">Instal·la</string>
   <string name="ad_mark">ANUNCI</string>
   <string name="ad_title">La gent també va baixar aquests amb %1$s</string>
   <string name="ad_title_other">Amb aquesta imatge, la gent també va baixar</string>
@@ -31,6 +32,7 @@
   <string name="cancle">Cancel·la</string>
   <string name="choose_open_time">"Seleccioneu quan voleu començar"</string>
   <string name="clear_data">Esborra</string>
+  <string name="common_google_play_services_unknown_issue">%1$s està tenint problemes amb els serveis de Google Play. Torneu-ho a provar.</string>
   <string name="complete_time">Completat:</string>
   <string name="confirm">D\'acord</string>
   <string name="confirm_delete_downloads_message">%d baixades seran eliminades.</string>
