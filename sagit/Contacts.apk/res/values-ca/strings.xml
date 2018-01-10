@@ -782,6 +782,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="path_key_rebuild_t9_index_title">Aplicacions del sistema/Contactes/Organitza els contactes/Reconstrueix dades de l\'índex</string>
   <string name="path_key_sim_manage">Aplicacions del sistema/Contactes/Organitza els contactes/Targetes SIM</string>
   <string name="path_preference_contacts_filter">Aplicacions del sistema/Contactes/Preferències de visualització/Configura les llistes de contactes</string>
+  <string name="path_quick_dial_setting">Aplicacions del sistema/Contactes/Marcació ràpida</string>
   <string name="path_remove_duplicate">Aplicacions del sistema/Contactes/Organitza els contactes/Combina els contactes duplicats</string>
   <string name="path_share_visible_contacts">Aplicacions del sistema/Contactes/Importa/Exporta contactes/Comparteix contactes</string>
   <string name="path_sim_capacity">Aplicacions del sistema/Contactes/Emmagatzematge de la targeta SIM</string>
@@ -889,6 +890,12 @@ Per afegir un contacte a la llista de favorits:
   <string name="pull_to_refresh_release_label">Deixeu anar per refrescar…</string>
   <string name="qr_card_card">Codi QR</string>
   <string name="qrcode_card_title">Targeta en codi QR</string>
+  <string name="quick_dial_setting_delete_dialog_message">Voleu suprimir el número de marcació ràpida assignat?</string>
+  <string name="quick_dial_setting_delete_dialog_option_delete">Suprimeix</string>
+  <string name="quick_dial_setting_hint">Toqueu un botó per assignar o suprimir un número de marcació ràpida. Mantingueu premut el botó amb un número assignat per marcar-lo.</string>
+  <string name="quick_dial_setting_set_dialog_message">Voleu assigneu un número de marcació ràpida a aquest botó?</string>
+  <string name="quick_dial_setting_set_dialog_option_set">Sí</string>
+  <string name="quick_dial_setting_title">Marcació ràpida</string>
   <string name="quickcontact_missing_app">No s\'ha trobat una aplicació per gestionar aquesta acció</string>
   <string name="quit_dialog_confirm_message">"No has fusionat cap contacte"</string>
   <string name="quit_dialog_confirm_title">Cancel·la la fusió de contactes</string>
@@ -956,6 +963,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="search_key_rebuild_t9_index_title">Organitza;Contactes;t9</string>
   <string name="search_key_sim_manage">Organitza;Contactes</string>
   <string name="search_preference_contacts_filter">Contactes;Pantalla</string>
+  <string name="search_quick_dial_setting">Contactes</string>
   <string name="search_remove_duplicate">Organitza;Contactes</string>
   <string name="search_results_searching">Cercant&#8230;</string>
   <string name="search_settings_description">Noms dels teus contactes</string>
@@ -1061,6 +1069,7 @@ Per afegir un contacte a la llista de favorits:
   <string name="starred_contacts">Favorits</string>
   <string name="status_available">Disponible</string>
   <string name="status_away">Lluny</string>
+  <string name="status_bar_notification_info_overflow">+999</string>
   <string name="status_busy">Ocupat</string>
   <string name="strequentList">Favorits</string>
   <string name="success_message_import_from_account">Importació realitzada</string>
