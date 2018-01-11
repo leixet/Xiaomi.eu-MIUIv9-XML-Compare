@@ -6,10 +6,10 @@
   <string name="account_contact_backup_info">Dades del compte Google, Mi i contactes</string>
   <string name="account_login">Inicia la sessió</string>
   <string name="account_summary">Còpia de seguretat del compte Google, Mi i altres dades d\'usuari</string>
-  <string name="alert_button_agree_and_continue">Permet</string>
-  <string name="alert_button_deny">Declina</string>
-  <string name="alert_message_backup_to_miasist">Mi PC Suite sol·licita permís per crear una còpia de seguretat a l\'ordinador. Voleu permetre-ho?</string>
-  <string name="alert_message_restore_from_miasist">Mi PC Suite sol·licita permís per restaurar elements al telèfon. Voleu permetre-ho?</string>
+  <string name="alert_button_agree_and_continue">Permetre</string>
+  <string name="alert_button_deny">Rebutjar</string>
+  <string name="alert_message_backup_to_miasist">Mi PC Suite demana permís per crear una còpia de seguretat a un ordinador. Permetre?</string>
+  <string name="alert_message_restore_from_miasist">Mi PC Suite demana permís per restaurar elements al vostre telèfon. Permetre?</string>
   <string name="alert_miasist_occupy_backup">S\'està fent la còpia de seguretat dels elements utilitzant Mi PC Suite… Espereu fins que es completi la còpia de seguretat i torneu-ho a provar.</string>
   <string name="alert_miasist_occupy_restore">S\'està restaurant els elements utilitzant Mi PC Suite… Espereu fins que es restaurin els elements i torneu-ho a provar.</string>
   <string name="alert_phone_occupy_backup">"No es pot utilitzar Mi PC Suite. Completeu la còpia de seguretat o la restauració d'elements en el telèfon i torneu-ho a provar."</string>
