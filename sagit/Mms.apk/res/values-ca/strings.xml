@@ -63,7 +63,6 @@
   <string name="check_all">Selecciona-ho tot</string>
   <string name="class_0_message_activity">Missatge de classe 0</string>
   <string name="close">Tanca</string>
-  <string name="cloud_recommend_msg">Toqueu per sincronitzar els missatges amb Mi Cloud.</string>
   <string name="cloud_state_disabled">Activeu la sincronització amb Mi Cloud per sincronitzar missatges</string>
   <string name="cloud_state_sync_finished">Sincronitzat amb Mi Cloud</string>
   <string name="cloud_state_syncing">S\'està sincronitzant amb Mi Cloud&#8230;</string>
