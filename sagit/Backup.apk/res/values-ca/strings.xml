@@ -11,8 +11,8 @@
   <string name="alert_message_backup_to_miasist">Mi PC Suite demana permís per crear una còpia de seguretat a un ordinador. Permetre?</string>
   <string name="alert_message_restore_from_miasist">Mi PC Suite demana permís per restaurar elements al vostre telèfon. Permetre?</string>
   <string name="alert_miasist_occupy_backup">S\'està fent la còpia de seguretat dels elements utilitzant Mi PC Suite… Espereu fins que es completi la còpia de seguretat i torneu-ho a provar.</string>
-  <string name="alert_miasist_occupy_restore">S\'està restaurant els elements utilitzant Mi PC Suite… Espereu fins que es restaurin els elements i torneu-ho a provar.</string>
-  <string name="alert_phone_occupy_backup">"No es pot utilitzar Mi PC Suite. Completeu la còpia de seguretat o la restauració d'elements en el telèfon i torneu-ho a provar."</string>
+  <string name="alert_miasist_occupy_restore">S\'estan restaurant els elements utilitzant Mi PC Suite… Espereu fins que es restaurin els elements i torneu-ho a provar.</string>
+  <string name="alert_phone_occupy_backup">"No es pot utilitzar Mi PC Suite en aquests moments. Completeu la còpia de seguretat o la restauració d'elements al vostre telèfon i torneu-ho a provar."</string>
   <string name="alert_second_space_not_support_miasist">"No es pot utilitzar Mi PC Suite en el segon espai. Canvieu al primer espai."</string>
   <string name="alert_title_backup_to_miasist">Voleu fer una còpia de seguretat d\'elements amb Mi PC Suite?</string>
   <string name="alert_title_restore_from_miasist">Voleu restaurar elements al telèfon?</string>
