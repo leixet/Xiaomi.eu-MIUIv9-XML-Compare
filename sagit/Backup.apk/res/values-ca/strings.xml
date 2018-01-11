@@ -386,7 +386,7 @@ Allibera %s com a mínim. "</string>
   <string name="trans_detail_category_account">Comptes i contactes</string>
   <string name="trans_detail_category_audio_video_doc">Àudio, vídeo i fitxers</string>
   <string name="trans_detail_category_files">Fitxers</string>
-  <string name="trans_detail_category_sysdata">Dades del sistema</string>
+  <string name="trans_detail_category_sysdata">Dades del sistema (inclou missatges, contactes i l\'historial de trucades)</string>
   <string name="trans_detail_category_user_app_data">Dades de l\'aplicació</string>
   <string name="trans_detail_category_userdata">Aplicacions</string>
   <string name="trans_detail_category_wechat_qq">Dades de WeChat i QQ (incloent l\'historial de xat)</string>
