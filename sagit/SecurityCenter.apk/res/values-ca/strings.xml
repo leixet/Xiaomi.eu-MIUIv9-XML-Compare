@@ -186,8 +186,10 @@
   <string name="app_manager_manage_space">Gestiona l\'espai</string>
   <string name="app_manager_memory">RAM</string>
   <string name="app_manager_menu_clear_data">Suprimeix les dades</string>
+  <string name="app_manager_mobile_slot1">Dades mòbils (SIM 1)</string>
+  <string name="app_manager_mobile_slot2">Dades mòbils (SIM 2)</string>
   <string name="app_manager_net_control_title">Restricció d\'ús de dades</string>
-  <string name="app_manager_net_mobile">Mòbil</string>
+  <string name="app_manager_net_mobile">Dades mòbils</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
   <string name="app_manager_not_allow">No</string>
   <string name="app_manager_not_support_uninstall">"No es pot desinstal·lar aquestes aplicacions"</string>
@@ -677,7 +679,7 @@
   <string name="firewall_mobile_dialog_message">"L'aplicació instal·lada no podrà connectar-se a Internet utilitzant dades mòbils quan aquest interruptor està desactivat."</string>
   <string name="firewall_network_allow">S\'ha permès a %1$s a utilitzar la connexió %2$s</string>
   <string name="firewall_network_restrict_notify_message">Tocar per canviar la configuració.</string>
-  <string name="firewall_network_restrict_notify_mobile">dades mòbils</string>
+  <string name="firewall_network_restrict_notify_mobile">Dades mòbils</string>
   <string name="firewall_partial">Permet que algunes aplicacions es connectin utilitzant el següent mètode</string>
   <string name="firewall_restrict_all">Restringeix la connexió per a totes les aplicacions utilitzant el següent mètode</string>
   <string name="firewall_restrict_android_dialog_content">Per assegurar que el dispositiu funciona amb normalitat, alguna aplicacions d\'Android es connectaran a internet de totes formes. Aquestes aplicacions faran servir la teva connexió de dades i poden ocasionar lleugeres despeses amb el teu proveïdor.</string>
