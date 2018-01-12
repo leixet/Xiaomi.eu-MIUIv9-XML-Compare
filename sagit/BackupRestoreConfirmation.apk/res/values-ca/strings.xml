@@ -18,11 +18,11 @@ Si no heu sol·licitat aquesta còpia de seguretat, no permeteu aquesta operaci�
   <string name="restore_confirm_text">"S\'ha sol·licitat restaurar completament les dades des d\'un ordinador connectat. Ho voleu permetre?
 
 Si no heu sol·licitat aquesta restauració, no permeteu aquesta operació. Això reemplaçarà qualsevol dada que es trobi al dispositiu."</string>
-  <string name="restore_confirm_title">Restauració completa</string>
-  <string name="restore_enc_password_text">Si les dades de restauració estan xifrades, introduïu la contrasenya:</string>
-  <string name="toast_backup_ended">S\'ha creat la còpia de seguretat</string>
-  <string name="toast_backup_started">S\'està iniciant la còpia de seguretat...</string>
-  <string name="toast_restore_ended">S\'ha finalitzat la restauració</string>
-  <string name="toast_restore_started">S\'està iniciant la restauració...</string>
-  <string name="toast_timeout">S\'ha esgotat el temps d\'operació</string>
+  <string name="restore_confirm_title">Restaurar completament</string>
+  <string name="restore_enc_password_text">Si les dades de restauració estan encriptades, introduïu la contrasenya, si us plau:</string>
+  <string name="toast_backup_ended">Còpia de seguretat finalitzada</string>
+  <string name="toast_backup_started">Iniciant la còpia de seguretat...</string>
+  <string name="toast_restore_ended">Restauració finalitzada</string>
+  <string name="toast_restore_started">Iniciant la restauració...</string>
+  <string name="toast_timeout">Temps d\'operació esgotat</string>
 </resources>
