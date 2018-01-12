@@ -76,7 +76,6 @@
   <string name="after_the_lock_screen">Bloqueja aplicacions juntament amb la pantalla</string>
   <string name="all_address_choose_hint">Tots els números d\'aquesta província</string>
   <string name="already_close_gamebooster">L\'accelerador de velocitat dels jocs està desactivat</string>
-  <string name="anim_gamebooster_text">Un moment…</string>
   <string name="anti_disturb_msg_detail">Desactiva les notificacions excepte per a les trucades entrants</string>
   <string name="anti_disturb_msg_title">No molesteu</string>
   <string name="antispam_mode_details">detalls del mode d\'intercepció</string>
