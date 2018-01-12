@@ -7,8 +7,8 @@
 
 Si no heu sol·licitat aquesta còpia de seguretat, no permeteu aquesta operació."</string>
   <string name="backup_confirm_title">Còpia de seguretat completa</string>
-  <string name="backup_enc_password_optional">Si voleu xifrar totes les dades de la còpia de seguretat, introduïu una contrasenya:</string>
-  <string name="backup_enc_password_required">Atès que el dispositiu està xifrat, heu de xifrar també la còpia de seguretat. Introduïu una contrasenya a sota:</string>
+  <string name="backup_enc_password_optional">Si voleu encriptar totes les dades de la còpia de seguretat, introduïu una contrasenya:</string>
+  <string name="backup_enc_password_required">Considerant que el teu dispositiu està encriptat, es requereix encriptar la vostra còpia de seguretat. Introduïu una contrasenya a sota si us plau:</string>
   <string name="backup_enc_password_text">Introduïu una contrasenya per xifrar totes les dades de la còpia de seguretat. Si ho deixeu en blanc s\'utilitzarà la contrasenya actual:</string>
   <string name="current_password_text">Introduïu la contrasenya actual de la còpia de seguretat:</string>
   <string name="deny_backup_button_label">No facis cap còpia de seguretat</string>
