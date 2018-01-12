@@ -24,6 +24,7 @@
   <string name="access_control_need_password">"S\'ha afegit %s amb èxit
 "</string>
   <string name="access_control_need_to_unlock_nofingerprint">Introduïu la contrasenya de desbloqueig</string>
+  <string name="accessibility_gameboosterservice_description">"Activeu-lo per silenciar les trucades entrants de WeChat quan estigueu jugant"</string>
   <string name="action_button_text_100">Optimitza</string>
   <string name="action_button_text_60">Arregla</string>
   <string name="action_button_text_60_80">Arregla</string>
