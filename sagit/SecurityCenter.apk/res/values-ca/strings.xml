@@ -1920,7 +1920,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="title_dev_no">Opcions de desenvolupador activades</string>
   <string name="title_dev_yes">Opcions de desenvolupador desactivades</string>
   <string name="title_device_not_root">"L'accés arrel no s'ha concedit"</string>
-  <string name="title_find_device">Activa Trobar dispositiu</string>
+  <string name="title_find_device">Troba el dispositiu</string>
   <string name="title_flow_notification">Informe d\'ús de dades</string>
   <string name="title_flow_purchase">Hora de recarregar</string>
   <string name="title_flow_rank">Ús de dades mòbils</string>
