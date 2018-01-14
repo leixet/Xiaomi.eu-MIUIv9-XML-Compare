@@ -237,8 +237,7 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_find_device_guide_alert_positive">D\'acord</string>
   <string name="micloud_find_device_guide_alert_title">Recorda el meu ID de Compte Mi i la contrasenya</string>
   <string name="micloud_find_device_guide_button">Activar Trobar dispositiu</string>
-  <string name="micloud_find_device_guide_content">\"Quan canviïs la targeta SIM, se\'t enviarà un missatge automàticament 
-per reactivar aquesta funcionalitat.\"</string>
+  <string name="micloud_find_device_guide_content">És possible que es requereixi un SMS sortint per activar aquest servei. El vostre operador li cobrarà aquest missatge. Quan canvieu la targeta SIM, s\'enviarà un missatge automàticament per reactivar aquesta funció.</string>
   <string name="micloud_find_device_guide_fail_reopen">Activar Trobar dispositiu a Mi Cloud</string>
   <string name="micloud_find_device_guide_fail_sub_net">Comprova la teva connexió de xarxa i torna a intentar-ho.</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Connexió expirada. Intenta-ho més tard.</string>
