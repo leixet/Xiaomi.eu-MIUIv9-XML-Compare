@@ -804,7 +804,7 @@ Així és com utilitzem les dades que recopilem:
 El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'acceptar el nostre %2$s i %1$s per poder utilitzar el Navegador. "</string>
   <string name="show_security_tip_dialog_title">Política de privadesa</string>
   <string name="sign_and_open">Inicia sessió i obre\'l</string>
-  <string name="sign_in_to" formatted="false">Inicia una sessió al %s1 \"%s2\"</string>
+  <string name="sign_in_to" formatted="false">Inicia sessió a %s1 \"%s2\"</string>
   <string name="skip_button_label">Omet</string>
   <string name="skip_current_version">Omet aquesta versió</string>
   <string name="snapshot">Local</string>
