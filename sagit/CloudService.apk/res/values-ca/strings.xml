@@ -179,7 +179,7 @@ amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_confusion_entrance_hint">"Per mantenir el teu núvol segur, no accedeixis a les dades que has emmagatzemat a Mi Cloud des de dispositius compartits."</string>
   <string name="micloud_confusion_entrance_notify_text">Toqueu per veure els detalls.</string>
   <string name="micloud_confusion_entrance_notify_title">El contingut de Mi Cloud s\'ha modificat</string>
-  <string name="micloud_confusion_entrance_question">Vas iniciar sessió i vas fer canvis en les teves dades de Mi Cloud usant un %s?</string>
+  <string name="micloud_confusion_entrance_question">Heu modificat recentment el Compte Mi amb %s?</string>
   <string name="micloud_confusion_entrance_title">El contingut de Mi Cloud s\'ha modificat</string>
   <string name="micloud_confusion_finish_hint">"Els canvis que facis en aquest dispositiu se sincronitzaran a tots els teus dispositius. Per protegir el teu compte, recomanem que apaguis la sincronització per a altres dispositius quan no els estiguis utilitzant."</string>
   <string name="micloud_confusion_finish_message">Assegura\'t que cap dels teus vells o inactius dispositius estan sincronitzant encara amb Mi Cloud.</string>
@@ -253,8 +253,7 @@ per reactivar aquesta funcionalitat.\"</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat recomana que activi la funció Trobar dispositiu</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay recomana que activi la funció Trobar dispositiu</string>
   <string name="micloud_find_device_guide_progress">Activant la funció Trobar dispositiu&#8230;</string>
-  <string name="micloud_find_device_guide_title">"\"Inicia sessió a %s per trobar, bloquejar,
-o esborrar el vostre dispositiu.\""</string>
+  <string name="micloud_find_device_guide_title">"Inicieu sessió a &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; per localitzar, bloquejar o esborrar el dispositiu. Això us pot ajudar a trobar el dispositiu en cas que es perdi.&lt;br /&gt;Si perdeu el dispositiu, podeu contactar amb el servei de seguretat de les aplicacions que utilitzeu amb freqüència (p. ex. Alipay, WeChat o QQ) per protegir els vostres comptes a &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt;."</string>
   <string name="micloud_find_device_open_fail">"No s'ha pogut engegar Troba dispositiu"</string>
   <string name="micloud_find_device_opened">Trobar dispositiu a</string>
   <string name="micloud_find_device_opened_content">Troba el teu dispositiu a %s</string>
