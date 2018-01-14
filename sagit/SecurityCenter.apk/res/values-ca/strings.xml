@@ -1364,7 +1364,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="power_save_title_text">Estalvi de bateria</string>
   <string name="power_screen">Pantalla</string>
   <string name="power_settings_category_title">Indicador de bateria</string>
-  <string name="power_settings_number">Amb el percentatge</string>
+  <string name="power_settings_number">Percentatge</string>
   <string name="power_settings_saver_title">Estalvi d\'energia</string>
   <string name="power_settings_shape">Gràfic</string>
   <string name="power_settings_title">Configuració</string>
