@@ -57,7 +57,7 @@
   <string name="receiver_interrupt_summary">"No apaguis el Wi-Fi mentre reps fitxers"</string>
   <string name="receiver_interrupt_summary_v21">"No apaguis el punt d'accés Wi-Fi mentre reps fitxers"</string>
   <string name="receiver_notification_turn_on">El receptor ha d\'engegar Mi Drop</string>
-  <string name="receiver_notification_turn_on_help">Engega per trobar dispositius i enviar fitxers.</string>
+  <string name="receiver_notification_turn_on_help">Activeu-lo per trobar dispositius i enviar fitxers.</string>
   <string name="receiver_reject">Rebutjar</string>
   <string name="receiver_succeed_ok">D\'acord</string>
   <string name="receiver_succeed_view">Mostra el fitxer</string>
