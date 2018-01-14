@@ -838,7 +838,7 @@ Taxa de mostreig"</string>
   <string name="bootloader_device_bind_no_account">Primer inicia la sessió al Compte Mi</string>
   <string name="bootloader_device_bind_no_network">Connecteu-vos a la xarxa i torneu-ho a provar</string>
   <string name="bootloader_locked_answer_1">"Bloquejarem els dispositius per assegurar que són segurs i la informació personal no sigui revelada a tercers. Si ha d'accedir al mode Fastboot i en flaixejar el dispositiu, podríeu desbloquejar-lo."</string>
-  <string name="bootloader_locked_answer_1_warning">"Recordeu: No sereu capaços d'utilitzar Cerca el dispositiu després que el telèfon estigui desbloquejat."</string>
+  <string name="bootloader_locked_answer_1_warning">"Recordeu: No sereu capaços d'utilitzar troba el dispositiu després que el telèfon estigui desbloquejat."</string>
   <string name="bootloader_locked_answer_2">"Feu clic al botó de sota per associar el vostre Compte Mi amb aquest dispositiu. A continuació, aneu a la pàgina web de MIUI per baixar l'eina de desbloqueig i instal·lar-la a l'ordinador. Aquí està l'adreça:"</string>
   <string name="bootloader_locked_check_status">Afegeix un compte i el dispositiu</string>
   <string name="bootloader_locked_question_1">Per què s\'han de bloquejar els dispositius?</string>
@@ -966,7 +966,7 @@ Taxa de mostreig"</string>
   <string name="check_update">Comprova les actualitzacions</string>
   <string name="checkbox_notification_same_as_incoming_call">Utilitza el volum de les trucades entrants per a les notificacions</string>
   <string name="checking_decryption">S\'està comprovant&#8230;</string>
-  <string name="checking_find_device_status">S\'està comprovant l\'estat de Localitza el dispositiu&#8230;</string>
+  <string name="checking_find_device_status">S\'està comprovant l\'estat de troba el dispositiu…</string>
   <string name="checking_for_updates">S\'estan cercant actualitzacions&#8230;</string>
   <string name="choose_profile">Trieu el perfil</string>
   <string name="choose_smartcover_type">Trieu el tipus de funda</string>
@@ -1676,10 +1676,10 @@ Per obtenir més informació, contacteu amb l\'administrador de l\'organització
   <string name="face_unlock_disable">El desbloqueig facial està desactivat</string>
   <string name="face_unlock_enable">El desbloqueig facial està activat</string>
   <string name="factory_reset_summary">"Esborra totes les dades de l'emmagatzematge intern del telèfon"</string>
-  <string name="failed_to_check_find_device_status_content">"No s'ha pogut comprovar l'estat de Localitza el dispositiu. Espereu-vos un minut o dos i torneu-ho a provar."</string>
+  <string name="failed_to_check_find_device_status_content">"No s'ha pogut comprovar l'estat de troba el dispositiu. Espereu-vos un minut o dos i torneu-ho a provar."</string>
   <string name="failed_to_check_find_device_status_title">"No s'ha pogut comprovar l'estat"</string>
   <string name="failed_to_open_app_settings_toast">No s\'ha pogut obrir la configuració de %1$s</string>
-  <string name="failed_to_shut_down_find_device_content">"No s'ha pogut comprovar l'estat de Localitza el dispositiu. Espereu-vos un minut o dos i torneu-ho a provar."</string>
+  <string name="failed_to_shut_down_find_device_content">"No s'ha pogut desactivar troba el dispositiu. Espereu un minut o dos i torneu-ho a provar."</string>
   <string name="failed_to_shut_down_find_device_title">"No s'ha pogut desactivar Localitza el dispositiu"</string>
   <string name="fcc_equipment_id">ID de l\'equip</string>
   <string name="file_privacy_password_role_instruction">Els vostres fitxers privats es desaran aquí.</string>
@@ -3918,9 +3918,9 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="show_touches_summary">Mostra la ubicació dels tocs a la pantalla</string>
   <string name="show_user_info_on_lockscreen_label">Mostra informació del propietari a la pantalla de bloqueig</string>
   <string name="shut_down_find_device_failure_confirm">D\'acord</string>
-  <string name="shut_down_find_device_network_failure_content">"No s'ha pogut apagar Localitza el dispositiu. Assegureu-vos que el dispositiu és connectat a Internet."</string>
+  <string name="shut_down_find_device_network_failure_content">"No s'ha pogut desactivar troba el dispositiu. Assegureu-vos que el dispositiu està connectat a Internet."</string>
   <string name="shut_down_find_device_network_failure_title">"No s'ha pogut connectar a la xarxa"</string>
-  <string name="shuting_down_find_device">S\'està apagant Localitza el dispositiu&#8230;</string>
+  <string name="shuting_down_find_device">S\'està desactivant troba el dispositiu…</string>
   <string name="silent_duration">Durada</string>
   <string name="silent_mode">Mode silenci</string>
   <string name="silent_mode_title">Mode silenci</string>
@@ -5415,7 +5415,7 @@ Toqueu \"&lt;b&gt;Enrere&lt;/b&gt; per connectar a una altra xarxa Wi-Fi.</strin
   <string name="wrong_pin_code_pukked">El codi PIN de la SIM no és correcte. Heu de contactar amb l\'operador de telefonia mòbil per a desbloquejar el dispositiu.</string>
   <string name="xiaomi_account">Compte Mi</string>
   <string name="xiaomi_cloud_service">Cloud Mi</string>
-  <string name="xiaomi_cloud_service_description">El Mi Cloud sincronitza contactes, fotos i altres elements a través dels vostres dispositius. «Cerca el dispositiu» també requereix que Mi Cloud funcioni correctament.</string>
+  <string name="xiaomi_cloud_service_description">El Mi Cloud sincronitza contactes i fotos, fa còpies de seguretat de les aplicacions i de les configuracions i us ajuda a trobar el telèfon mitjançant troba el dispositiu.</string>
   <string name="xiaomi_cloud_service_disabled">Desactivat</string>
   <string name="xiaomi_cloud_service_unknown">Desconegut</string>
   <string name="xiaomi_money_service">Credit Mi</string>
