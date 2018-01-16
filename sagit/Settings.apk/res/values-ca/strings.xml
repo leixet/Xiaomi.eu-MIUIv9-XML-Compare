@@ -4548,9 +4548,9 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
 
 Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloquejar el telèfon, autoritzar compres o iniciar la sessió a les aplicacions."</string>
   <string name="unlock_disable_frp_warning_content_pin_profile">Les funcions de protecció del dispositiu no funcionaran sense el PIN.</string>
-  <string name="unlock_disable_frp_warning_content_profile">"Les característiques de protecció del perfil no funcionaran sense la vostra contrasenya.
+  <string name="unlock_disable_frp_warning_content_profile">"\"Les característiques de protecció del perfil no funcionaran sense la vostra contrasenya.
 
- No podreu desbloquejar el perfil, autoritzar compres ni iniciar sessió a les aplicacions."</string>
+ No podreu desbloquejar el perfil, autoritzar compres ni iniciar sessió a les aplicacions.\""</string>
   <string name="unlock_disable_frp_warning_content_unknown">Les funcions de protecció del dispositiu no funcionaran sense la pantalla de bloqueig.</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint">«Les funcions de protecció del dispositiu no funcionaran sense la pantalla de bloqueig.
 
