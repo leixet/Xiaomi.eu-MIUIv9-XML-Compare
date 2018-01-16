@@ -312,7 +312,7 @@
   <string name="mobile_network_dialog_title">Alerta d\'ús de dades</string>
   <string name="month_day_format">dd MMM</string>
   <string name="move_failed">"No es pot retallar"</string>
-  <string name="move_icon_to_desktop_hint">Crea un accés directe a la pantalla d\'inici per administrar els fitxers més eficaçment.</string>
+  <string name="move_icon_to_desktop_hint">Crea un accés directe a la pantalla d\'inici del Mi File Manager per administrar fitxers de manera més eficient.</string>
   <string name="move_icon_to_desktop_success">Accés directe afegit a la pantalla d\'inici.</string>
   <string name="move_to">Mou a&#8230;</string>
   <string name="msg_notify_setting">Configuració de notificacions</string>
@@ -322,7 +322,7 @@
   <string name="my_follows">Els meus canals</string>
   <string name="name_empty">Introduïu un nom</string>
   <string name="need_login">Inicieu la sessió primer</string>
-  <string name="need_read_storage_permission">"L'Explorador necessita accedir a la memòria interna del dispositiu per funcionar com va ser dissenyat."</string>
+  <string name="need_read_storage_permission">"El Mi File Manager necessita accedir a la memòria interna del dispositiu per funcionar correctament."</string>
   <string name="net_error_text">Error de xarxa</string>
   <string name="network_dialog_checkbox_tip">"No tornar a mostrar"</string>
   <string name="network_not_available">"No s'ha pogut connectar a la xarxa"</string>
@@ -333,7 +333,7 @@
   <string name="no_apk">Toqui per obtenir aplicacions.</string>
   <string name="no_app_tags">Buit</string>
   <string name="no_comment">Cap comentari</string>
-  <string name="no_content">Obre l\'Explorador una altra vegada per veure vídeos populars</string>
+  <string name="no_content">Obre el Mi File Manager una altra vegada per veure vídeos populars</string>
   <string name="no_daren_tip">No hi ha res</string>
   <string name="no_downloaded_sticker_tip">"No s'ha trobat adhesius baixats. Descobriu els adhesius compartits per fans de Mi."</string>
   <string name="no_enough_storage_indication">"L'espai d'emmagatzematge del dispositiu és ple."</string>
@@ -413,8 +413,8 @@
   <string name="path_hot_video">Visualitzeu vídeos curts populars de franc</string>
   <string name="path_kuai_chuan">Transferència de fitxers punt a punt</string>
   <string name="path_recent_file">Gestiona els fitxers al dispositiu</string>
-  <string name="permission_denial">"No s'ha pogut accedir als fitxers. Permeteu a l'explorador accedir als fitxers des de la configuració."</string>
-  <string name="permission_required">"No s'ha pogut accedir als fitxers. Permeteu a l'explorador accedir als fitxers des de la configuració."</string>
+  <string name="permission_denial">"No s'ha pogut accedir als fitxers. Permeteu al Mi File Manager accedir als fitxers des de la configuració."</string>
+  <string name="permission_required">"No s'ha pogut accedir als fitxers. Permeteu al Mi File Manager accedir als fitxers des de la configuració"</string>
   <string name="phone">Emmagatzematge intern</string>
   <string name="phone_bind_skip">Saltar</string>
   <string name="phone_bind_tip">Afegir número telefònic per participar en els rànquings i guanyar premis</string>
@@ -441,7 +441,7 @@
   <string name="phone_storage_image_title">Imatges: </string>
   <string name="phone_storage_info_str">%1$s de %2$s disponibles</string>
   <string name="phone_storage_other_title">Altres:&#160;</string>
-  <string name="phone_storage_size_tip">"L'espai d'emmagatzematge lliure que es mostra en el Explorador podria diferir d'altres aplicacions."</string>
+  <string name="phone_storage_size_tip">"L'espai d'emmagatzematge lliure que es mostra en el Mi File Manager podria diferir d'altres aplicacions"</string>
   <string name="phone_storage_video_title">Vídeos:&#160;</string>
   <string name="phone_storage_zip_title">Fitxers:&#160;</string>
   <string name="phone_valid_code_tip">El codi ha estat introduït massa vegades, intenta aconseguir-ne un altra</string>
