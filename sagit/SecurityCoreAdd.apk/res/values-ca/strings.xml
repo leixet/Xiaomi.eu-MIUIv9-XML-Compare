@@ -304,7 +304,7 @@ Si no s\'actualitza, és possible que les aplicacions duals no funcionin correct
   <string name="tryNow">Proveu-ho ara</string>
   <string name="wating">Un moment…</string>
   <string name="weibo_send">Envia al Weibo</string>
-  <string name="weixin_pay">Pagament WeChat</string>
+  <string name="weixin_pay">WeChat Pay</string>
   <string name="weixin_share_sign">Inicia sessió i comparteix-ho</string>
   <string name="xpsace_guide_button">Crea</string>
   <string name="xspace_account">Comptes d\'aplicacions duals</string>
