@@ -24,6 +24,7 @@
   <string name="downloading">S\'està baixant</string>
   <string name="downloading_in_3g">S\'està baixant per 3G&#8230;</string>
   <string name="downloading_in_wifi">S\'està baixant&#8230;</string>
+  <string name="drive_low_memory_description_content">"No es pot utilitzar Mi Drive degut a la manca d'espai necessari."</string>
   <string name="drive_low_memory_description_title">Emmagatzematge insuficient</string>
   <string name="drive_low_memory_description_toast">"No es pot utilitzar Mi Drive degut a la manca d'espai necessari. Allibereu espai i torneu-ho a provar."</string>
   <string name="drive_low_memory_positive_content">Allibera</string>
