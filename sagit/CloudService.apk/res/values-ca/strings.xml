@@ -158,7 +158,7 @@ Si canvies de targeta SIM s\'enviarà un altre SMS automàticament per reactivar
   <string name="micloud_battery_low_notification_message">Connecteu el carregador per sincronitzar</string>
   <string name="micloud_battery_low_notification_title">Bateria baixa</string>
   <string name="micloud_buy_member">Compte</string>
-  <string name="micloud_buy_member_safe">Amplia l\'emmagatzematge del MiCloud</string>
+  <string name="micloud_buy_member_safe">Obtén més emmagatzematge al MiCloud</string>
   <string name="micloud_check_sim_notify_text">"Sembla que has canviat de SIM. Inicia la sessió 
 amb el vostre compte Mi per reactivar Mi Cloud."</string>
   <string name="micloud_check_sim_notify_title">Reactivar Mi Cloud</string>
@@ -279,11 +279,11 @@ Per solucionar això, podeu netejar alguns fitxers antics per deixar espai als n
   <string name="micloud_main_error_activated_fail">Activeu la targeta SIM.</string>
   <string name="micloud_main_error_network_disallowed">Assegureu-vos que heu permès l\'accés a Internet.</string>
   <string name="micloud_main_error_permission_limit">Permeteu que el Mi Cloud accedeixi a l\'emmagatzematge.</string>
-  <string name="micloud_main_head_menu_cloud_backup">Còpia de seguretat al núvol</string>
-  <string name="micloud_main_head_menu_recycle_bin_summary">Torna a fer la còpia de seguretat dels contactes, fotos</string>
-  <string name="micloud_main_head_menu_recycle_bin_title">Paperera de reciclatge</string>
-  <string name="micloud_main_head_menu_state_close">Tancat</string>
-  <string name="micloud_main_head_menu_state_open">Obert</string>
+  <string name="micloud_main_head_menu_cloud_backup">Còpia de seguretat de la pantalla d\'inici</string>
+  <string name="micloud_main_head_menu_recycle_bin_summary">Restaura els elements suprimits</string>
+  <string name="micloud_main_head_menu_recycle_bin_title">Elements eliminats</string>
+  <string name="micloud_main_head_menu_state_close">Desactivat</string>
+  <string name="micloud_main_head_menu_state_open">Activat</string>
   <string name="micloud_main_head_menu_state_unavailable">No disponible</string>
   <string name="micloud_main_last_sync_time">L\'última sincronització va ser a %s</string>
   <string name="micloud_main_master_sync_on">Sincronització activada</string>
@@ -487,10 +487,10 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="settings_backup_title">Configuració de còpia de seguretat del sistema</string>
   <string name="share_cancel">Compartir cancel·lat</string>
   <string name="share_failed">"No s'ha pogut compartir"</string>
-  <string name="share_miliao_not_installed">"Mi Talk no està instal·lat."</string>
+  <string name="share_miliao_not_installed">"El Mi Talk no està instal·lat."</string>
   <string name="share_success">Compartit</string>
-  <string name="share_weibo_not_installed">"Weibo no està instal·lat."</string>
-  <string name="share_weixin_not_installed">"WeChat no està instal·lat."</string>
+  <string name="share_weibo_not_installed">"El Weibo no està instal·lat."</string>
+  <string name="share_weixin_not_installed">"El WeChat no està instal·lat."</string>
   <string name="short_cut_desc">Voleu afegir una icona de Mi Cloud a la pantalla inicial?</string>
   <string name="sina_share_fail">"No s'ha pogut enviar"</string>
   <string name="sina_share_fail_content_repeat">"No es pot compartir, el contingut ja existeix…"</string>
