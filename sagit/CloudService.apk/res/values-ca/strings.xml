@@ -487,10 +487,10 @@ Aquesta funcionalitat xifra i puja la ID del teu dispositiu als servidors Mi."</
   <string name="settings_backup_title">Configuració de còpia de seguretat del sistema</string>
   <string name="share_cancel">Compartir cancel·lat</string>
   <string name="share_failed">"No s'ha pogut compartir"</string>
-  <string name="share_miliao_not_installed">Mi Talk no està instal·lat.</string>
+  <string name="share_miliao_not_installed">"Mi Talk no està instal·lat."</string>
   <string name="share_success">Compartit</string>
-  <string name="share_weibo_not_installed">Weibo no està instal·lat.</string>
-  <string name="share_weixin_not_installed">WeChat no està instal·lat.</string>
+  <string name="share_weibo_not_installed">"Weibo no està instal·lat."</string>
+  <string name="share_weixin_not_installed">"WeChat no està instal·lat."</string>
   <string name="short_cut_desc">Voleu afegir una icona de Mi Cloud a la pantalla inicial?</string>
   <string name="sina_share_fail">"No s'ha pogut enviar"</string>
   <string name="sina_share_fail_content_repeat">"No es pot compartir, el contingut ja existeix…"</string>
