@@ -115,7 +115,7 @@
   <string name="antivirus_update_btn_update">Actualitza</string>
   <string name="apn_exception_summary">"Configuracions de prova de companyia Nom Punt d'Accés"</string>
   <string name="apn_exception_title">Comprovar configuració d\'APN</string>
-  <string name="app_bg_restrict_dialog_message">La restricció de la connexió de xarxa en segon pla pot evitar que l\'aplicació funcioni normalment. Per exemple, pot ser que ja no pugui rebre missatges o actualitzar el contingut. Voleu restringir-la de totes maneres?</string>
+  <string name="app_bg_restrict_dialog_message">La restricció de la connexió de xarxa en segon pla pot evitar que l\'aplicació funcioni correctament. Per exemple, pot ser que deixi de rebre missatges o actualitzar el contingut.</string>
   <string name="app_check_no_issue">Sembla que no hi ha problemes amb la bateria. Genial!</string>
   <string name="app_detail">Detalls</string>
   <string name="app_error_tip_for_launcher">"Els components del maquinari o la versió del sistema Android del vostre dispositiu poden causar problemes de compatibilitat i fer que algunes aplicacions no funcionin bé, s'alenteixin o s'aturin definitivament. Si teniu aquests problemes, envieu el vostre feedback als desenvolupadors de l'aplicació."</string>
@@ -336,8 +336,8 @@
   <string name="back_app_name">Torna al bloqueig d\'aplicacions</string>
   <string name="back_description_securitycenter">Enrere</string>
   <string name="back_modifypassword">Vés enrere per canviar la contrasenya</string>
-  <string name="back_sound_data">Requereix d\'accés a la xarxa mòbil, torneu-ho a provar.</string>
-  <string name="back_sound_fail">"Ha fallat! Degut a la modificació de la interfície de l'operador, podeu intentar canviar la targeta SIM actual a la targeta de xarxa i tornar-ho a provar."</string>
+  <string name="back_sound_data">Activeu les dades mòbils i torneu-ho a provar.</string>
+  <string name="back_sound_fail">"No s'ha pogut configurar. S'ha canviat la configuració de l'operador. Establiu la targeta SIM actual com a targeta de dades, connecteu-vos a la xarxa i torneu-ho a provar."</string>
   <string name="back_sound_success">S\'ha establert amb èxit</string>
   <string name="back_sound_support">"La xarxa del vostre operador no és compatible amb aquesta configuració."</string>
   <string name="background_restrict_app_dialog_message">La restricció de l\'accés a la xarxa en segon pla per a aquesta aplicació pot fer que l\'aplicació no funcioni correctament, rebre missatges, baixar contingut, etc. Voleu restringir-lo de totes maneres?</string>
