@@ -129,8 +129,4 @@
     <item quantity="other">%1$d missatges antics</item>
     <item quantity="one">%1$d mensaje antic</item>
   </plurals>
-  <plurals name="unsent_messages_in_outbox">
-    <item quantity="other">%1$s no enviats a %2$s</item>
-    <item quantity="one">%1$s no enviat a %2$s</item>
-  </plurals>
 </resources>
