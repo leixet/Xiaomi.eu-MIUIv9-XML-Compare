@@ -215,7 +215,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;Sembla&lt;/font&gt; que el numero %s ha estat reciclat pel vostre operador i hi ha un Compte Mi associat. És aquest el vostre compte?"</string>
   <string name="passport_continue">Continua</string>
   <string name="passport_copy_message_text_success">S\'ha copiat correctament</string>
-  <string name="passport_copy_message_vcode">Codi de còpia</string>
+  <string name="passport_copy_message_vcode">Copia el codi</string>
   <string name="passport_delete_account">Tanca la sessió</string>
   <string name="passport_downlink_reg">Número de telèfon</string>
   <string name="passport_email">Adreça de correu</string>
