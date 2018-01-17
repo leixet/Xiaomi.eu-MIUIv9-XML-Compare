@@ -260,7 +260,7 @@
   <string name="apps_item_sign_dialog_content">"\"%s\"signatura és diferent de la versió de l'App Store. Eliminar aquesta aplicació i instal·lar la versió oficial? Nota: la instal·lació d'una aplicació amb una signatura en conflicte pot conduir a la pèrdua de dades de l'aplicació."</string>
   <string name="apps_item_sign_dialog_title">Instal·lar versió oficial de l\'aplicació</string>
   <string name="apps_item_sign_install_button_text">Reemplaçar</string>
-  <string name="apps_item_sms_default_set_success">Configurat correctament!</string>
+  <string name="apps_item_sms_default_set_success">S\'ha establert amb èxit</string>
   <string name="apps_item_sms_reset_button_text">Restaura els valors per defecte</string>
   <string name="apps_item_sms_title">Configuració de missatgeria per defecte</string>
   <string name="apps_item_summary_sms">%s té accés als seus missatges, pot causar problemes de seguretat</string>
@@ -338,8 +338,8 @@
   <string name="back_modifypassword">Vés enrere per canviar la contrasenya</string>
   <string name="back_sound_data">Requereix d\'accés a la xarxa mòbil, torneu-ho a provar.</string>
   <string name="back_sound_fail">"Ha fallat! Degut a la modificació de la interfície de l'operador, podeu intentar canviar la targeta SIM actual a la targeta de xarxa i tornar-ho a provar."</string>
-  <string name="back_sound_success">Correcte</string>
-  <string name="back_sound_support">"Els operadors de xarxa actuals no són compatibles"</string>
+  <string name="back_sound_success">S\'ha establert amb èxit</string>
+  <string name="back_sound_support">"La xarxa del vostre operador no és compatible amb aquesta configuració."</string>
   <string name="background_restrict_app_dialog_message">La restricció de l\'accés a la xarxa en segon pla per a aquesta aplicació pot fer que l\'aplicació no funcioni correctament, rebre missatges, baixar contingut, etc. Voleu restringir-lo de totes maneres?</string>
   <string name="background_traffic">Fons %s</string>
   <string name="backsound_set_hint">Voleu configurar un missatge d\'absència per a %s?</string>
@@ -609,8 +609,8 @@
   <string name="dlg_keyword_ok">Desa</string>
   <string name="dlg_message_not_open_stranger_identify">Per activar aquesta funció, aneu a Configuració &gt; Telèfon.</string>
   <string name="dlg_move_to_white">Afegeix a excepcions</string>
-  <string name="dlg_no_block">"Voleu desbloqueja aquest número i restaurar-ne les trucades d\'aquest número a l\'historial de trucades?
-(El número s\'afegirà a la llista blanca)"</string>
+  <string name="dlg_no_block">"Voleu desbloqueja aquest número de telèfon?
+S\'afegirà a les excepcions, però els elements bloquejats anterioment no apareixeran a l\'historial de trucades."</string>
   <string name="dlg_no_block_ok">Desbloqujea</string>
   <string name="dlg_not_block_call">"Voleu desbloquejar els números seleccionats? S'afegiran a les excepcions, però els elements bloquejats anteriorment no apareixeran a l'historial de trucades."</string>
   <string name="dlg_not_block_sms">"Voleu desbloquejar els números seleccionats? S'afegiran a les excepcions, però els ítems bloquejats anteriorment no apareixeran a la safata d'entrada dels missatges."</string>
@@ -1315,6 +1315,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="power_btn_analyze">Analitza l\'ús de la bateria</string>
   <string name="power_cell">Telèfon en espera</string>
   <string name="power_center_auto_shutdown">Programar encesa i apagat</string>
+  <string name="power_center_back">Torna a l\'energia</string>
   <string name="power_center_charge_time">%1$sper completar la càrrega</string>
   <string name="power_center_ontime_boot">Hora d\'encesa</string>
   <string name="power_center_ontime_shutdown">Hora d\'apagat</string>
@@ -1548,7 +1549,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="sc_allow_network_dialog_message">Cal permetre a aquesta aplicació connectar-se a internet perquè funcioni normalment.</string>
   <string name="sc_allow_network_dialog_tiltle">"No es pot fer servir l'Estalvi de dades"</string>
   <string name="sc_system_risk_fix_info_xspace">"Això no es pot resoldre en el segon espai. Torneu-ho a provar al primer espai."</string>
-  <string name="sc_warning_updater_not_found">"No s'ha trobat l'Actualitzador. No es pot actualitzar!"</string>
+  <string name="sc_warning_updater_not_found">"No s'ha pogut trobar l'aplicació Actualitzador."</string>
   <string name="scan_installed_games">S\'està comprovant els jocs instal·lats…</string>
   <string name="scan_status_risk">Arriscat</string>
   <string name="scan_status_safe">Segur</string>
@@ -1734,8 +1735,8 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="st_title_call_wait_setting">Trucada en espera</string>
   <string name="st_title_editblacklist">Edita la llista de bloqueig</string>
   <string name="st_title_editwhitelist">Edita les excepcions</string>
-  <string name="st_title_keywords_blacklist">Llista negra de paraules clau</string>
-  <string name="st_title_keywords_whitelist">Llista blanca de paraules clau</string>
+  <string name="st_title_keywords_blacklist">Llista de bloqueig de paraules clau</string>
+  <string name="st_title_keywords_whitelist">Excepcions de paraules clau</string>
   <string name="st_title_man_addblacklist">Afegeix el número a la llista de bloqueig</string>
   <string name="st_title_man_addwhitelist">Afegeix el número de telèfon a les excepcions</string>
   <string name="st_title_man_editblacklist">Trieu un codi d\'àrea per afegir a la llista de bloqueig</string>
@@ -1969,7 +1970,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="toast_lockscreen_glogin_empty_password">Es requereix contrasenya</string>
   <string name="toast_network_eror">"No s'ha pogut connectar a la xarxa"</string>
   <string name="toast_network_switch">Aquesta aplicació pot connectar-se a internet</string>
-  <string name="toast_reject_sms_read_permission_success">Configurat amb èxit!</string>
+  <string name="toast_reject_sms_read_permission_success">S\'ha establert amb èxit</string>
   <string name="toast_removed_from_virus_white_list">S\'ha eliminat de les excepcions. L\'element serà escanejat la propera vegada.</string>
   <string name="toast_root_apply_accept">Accés root concedit a %s</string>
   <string name="toast_root_apply_reject">Accés root denegat a %s</string>
