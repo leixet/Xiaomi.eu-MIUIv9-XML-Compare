@@ -209,8 +209,8 @@
   <string name="auto_advance_help_title">Després d\'eliminar un missatge, consulta&#8230;</string>
   <string name="auto_advance_label">Elimina el flux de missatges</string>
   <string name="auto_advance_summary">Trieu quin missatge es mostrarà després d\'eliminar un missatge</string>
-  <string name="auto_login_fail">"Ha fallat l'inici de sessió automàtic"</string>
-  <string name="auto_login_fail_to_retry">"Ha fallat l'inici de sessió automàtic, torneu-ho a provar."</string>
+  <string name="auto_login_fail">"No s'ha pogut iniciar la sessió automàticament"</string>
+  <string name="auto_login_fail_to_retry">"No s'ha pogut iniciar la sessió automàticament, torneu-ho a provar."</string>
   <string name="auto_mail_describe">El servei de correu electrònic de configuració automàtica li pot ajudar a emplenar la informació d\'inici de sessió a la bustia de correu 139. Voleu activar aquesta funció?</string>
   <string name="auto_mail_disable_txt">Desactivat</string>
   <string name="auto_mail_enable_txt">Configuració inicial</string>
@@ -813,9 +813,9 @@ Proveu una safata d\'entrada diferent."</string>
   <string name="push_wps_confirm_message">Prova a utilitzar WPS Office per obrir aquest fitxer adjunt.</string>
   <string name="push_wps_confirm_title">Provar WPS Office</string>
   <string name="push_wps_no_response_app">No s\'ha trobat l\'aplicació per gestionar aquesta acció</string>
-  <string name="qq_auto_login_failed_cpy_pass_success">S\'ha copiat amb èxit; torneu a la pàgina d\'inici de sessió i enganxeu-lo per completar el camp de contrasenya</string>
-  <string name="qq_auto_login_failed_dialog_message">Copieu el codi d\'autorització, després torneu a la pàgina d\'inici de sessió i toqueu «Introduïu el nom d\'usuari i contrasenya per iniciar sessió»; enganxeu-lo per completar el camp de contrasenya per iniciar sessió manualment</string>
-  <string name="qq_auto_login_failed_dialog_positive_label">Copia el codi d\'autorització</string>
+  <string name="qq_auto_login_failed_cpy_pass_success">S\'ha copiat amb èxit. Torneu a la pàgina d\'inici de sessió i enganxeu el codi al formulari de la contrasenya.</string>
+  <string name="qq_auto_login_failed_dialog_message">Copieu el codi de verificació, toqueu «Introdueix el nom d\'usuari i la contrasenya per iniciar la sessió» a la pàgina d\'inici de sessió i enganxeu el codi al formulari de la contrasenya.</string>
+  <string name="qq_auto_login_failed_dialog_positive_label">Copia el codi</string>
   <string name="qq_bar_open_imap">Activa</string>
   <string name="qq_bar_send_message">Envia SMS</string>
   <string name="qq_login_basecode">S\'està iniciant sessió al correu QQ a través de la pagina web. Introduïu la contrasenya independent.</string>
