@@ -808,6 +808,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="picker_origin_need_download">"%1$d de les fotos seleccionades (%2$d MB) no són al dispositiu. Voleu baixar-les utilitzant les dades mòbils?"</string>
   <string name="picker_title_format">Seleccioneu %1$d a %2$d fotos</string>
   <string name="picker_title_selection_format">Fotos seleccionades: %d</string>
+  <string name="picker_title_selection_format_multiple">Seleccioneu %1$d a %2$d fotos (%3$d)</string>
   <string name="picker_title_specify_format">Selecciona %d fotos</string>
   <string name="picker_title_specify_format_one">Selecciona %d foto</string>
   <string name="picker_title_unlimit">Seleccioneu fotos</string>
@@ -983,6 +984,16 @@ Feu més fotos als vostres amics!"</string>
   <string name="slim_complete_action_title">S\'ha optimitzat amb èxit</string>
   <string name="slim_cost_time_minute">%d min restants</string>
   <string name="slim_cost_time_minute_and_second">%1$d min %2$d s restants</string>
+  <string name="slim_cost_time_second">%d s restants</string>
+  <string name="slim_description_dialog_detail">Redueix la mida del fitxer de les fotos locals. Els fitxers originals s\'emmagatzemaran al Mi Cloud.</string>
+  <string name="slim_description_dialog_ok">Entesos</string>
+  <string name="slim_description_dialog_slim_after">"Després:  167 KB"</string>
+  <string name="slim_description_dialog_slim_before">"Abans:  3,07 MB"</string>
+  <string name="slim_exit_dialog_positive">Atura</string>
+  <string name="slim_exit_dialog_title">Atura l\'optimització</string>
+  <string name="slim_running">S\'està optimitzant…</string>
+  <string name="slim_space">alliberats</string>
+  <string name="slim_stop">Atura l\'optimització</string>
   <string name="start_debug">Depuració de la galeria</string>
   <string name="start_to_use_face_albumset">Ordena per persones</string>
   <string name="sticker_ad">Fulletons</string>
