@@ -482,6 +482,7 @@
   <string name="wechat_copying_video_dialog_title">Exporta-ho a la galeria</string>
   <string name="wechat_copying_video_empty">No hi ha vídeos per exportar</string>
   <string name="wechat_copying_video_success">S\'ha exportat amb èxit</string>
+  <string name="wechat_qq_activity_title">Neteja intensiva</string>
   <string name="wechat_qq_celan_tab_file">Fitxers</string>
   <string name="wechat_qq_celan_tab_image">Images</string>
   <string name="wechat_qq_celan_tab_video">Vídeos</string>
