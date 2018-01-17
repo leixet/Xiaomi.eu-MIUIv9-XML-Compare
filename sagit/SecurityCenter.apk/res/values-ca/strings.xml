@@ -337,7 +337,7 @@
   <string name="back_description_securitycenter">Enrere</string>
   <string name="back_modifypassword">Vés enrere per canviar la contrasenya</string>
   <string name="back_sound_data">Requereix d\'accés a la xarxa mòbil, torneu-ho a provar.</string>
-  <string name="back_sound_fail">Ha fallat! Degut a la modificació de la interfície de l\'operador, podeu intentar canviar la targeta SIM actual a la targeta de xarxa i tornar-ho a provar.</string>
+  <string name="back_sound_fail">"Ha fallat! Degut a la modificació de la interfície de l'operador, podeu intentar canviar la targeta SIM actual a la targeta de xarxa i tornar-ho a provar."</string>
   <string name="back_sound_success">Correcte</string>
   <string name="back_sound_support">"Els operadors de xarxa actuals no són compatibles"</string>
   <string name="background_restrict_app_dialog_message">La restricció de l\'accés a la xarxa en segon pla per a aquesta aplicació pot fer que l\'aplicació no funcioni correctament, rebre missatges, baixar contingut, etc. Voleu restringir-lo de totes maneres?</string>
@@ -1548,7 +1548,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="sc_allow_network_dialog_message">Cal permetre a aquesta aplicació connectar-se a internet perquè funcioni normalment.</string>
   <string name="sc_allow_network_dialog_tiltle">"No es pot fer servir l'Estalvi de dades"</string>
   <string name="sc_system_risk_fix_info_xspace">"Això no es pot resoldre en el segon espai. Torneu-ho a provar al primer espai."</string>
-  <string name="sc_warning_updater_not_found">No s\'ha trobat l\'Actualitzador. No es pot actualitzar!</string>
+  <string name="sc_warning_updater_not_found">"No s'ha trobat l'Actualitzador. No es pot actualitzar!"</string>
   <string name="scan_installed_games">S\'està comprovant els jocs instal·lats…</string>
   <string name="scan_status_risk">Arriscat</string>
   <string name="scan_status_safe">Segur</string>
