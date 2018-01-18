@@ -53,7 +53,7 @@
   <string name="cmas_opt_out_button_yes">Sí</string>
   <string name="cmas_opt_out_dialog_text">Actualment rebeu alertes d\'emergència. Voleu seguir rebent-ne?</string>
   <string name="cmas_presidential_level_alert">Alerta presidencial</string>
-  <string name="cmas_required_monthly_test">Prova mensual necessària</string>
+  <string name="cmas_required_monthly_test">Prova mensual d\'alerta d\'emergències</string>
   <string name="cmas_response_assess">Avalua</string>
   <string name="cmas_response_avoid">Evita</string>
   <string name="cmas_response_evacuate">Cal evacuar</string>
