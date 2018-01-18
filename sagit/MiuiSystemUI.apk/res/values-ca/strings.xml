@@ -470,7 +470,7 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="monitoring_title_device_owned">Administració de dispositius</string>
   <string name="mount_storage">Sí</string>
   <string name="nav_guide_cancel">Ignora</string>
-  <string name="nav_guide_message">Podeu utilitzar gestos per ocultar o mostrar els botons en pantalla després de configurar-ho.</string>
+  <string name="nav_guide_message">Utilitzeu gestos per amagar/mostrar els botons de la pantalla.</string>
   <string name="nav_guide_ok">Configuració</string>
   <string name="nav_guide_title">Amaga els botons de la pantalla</string>
   <string name="no_application">Cap</string>
