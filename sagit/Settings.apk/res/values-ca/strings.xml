@@ -4039,7 +4039,7 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="spellchecker_security_warning">Aquest corrector ortogràfic pot accedir a tot el que teclegeu, incloses dades personals, contrasenyes i targetes de crèdit. Prové de l\'aplicació %1$s. Voleu fer-lo servir?</string>
   <string name="spellchecker_switch_title">Activar el corrector ortogràfic</string>
   <string name="spellcheckers_settings_title">Corrector ortogràfic</string>
-  <string name="split_screen">Accedeix a la pantalla dividida</string>
+  <string name="split_screen">Obre la pantalla dividida</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_warning">És possible que la xarxa estigui supervisada</string>
   <string name="ssl_ca_cert_warning_message">«Un tercer pot supervisar l\'activitat a la xarxa, inclosos els correus electrònics, les aplicacions i els llocs web segurs.
@@ -4058,8 +4058,8 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="status_bar_app_enable_keyguard">Bloqueja la pantalla</string>
   <string name="status_bar_app_enable_message">Insígnies</string>
   <string name="status_bar_key_position_custom">Posició de tecla personalitzada</string>
-  <string name="status_bar_screen_button_force_immersive_desc">Feu lliscar el dit cap amunt des de la part inferior de la pantalla per mostrar els botons virtuals</string>
-  <string name="status_bar_screen_button_key_force_immersive">Amaga els botons virtuals</string>
+  <string name="status_bar_screen_button_force_immersive_desc">Feu lliscar el dit cap amunt des de la part inferior de la pantalla per mostrar els botons de la pantalla</string>
+  <string name="status_bar_screen_button_key_force_immersive">Amaga els botons de la pantalla</string>
   <string name="status_bar_screen_key_back">Tecla Enrere</string>
   <string name="status_bar_screen_key_home">Tecla Pàgina d\'inici</string>
   <string name="status_bar_screen_key_menu">Tecla Menú</string>
