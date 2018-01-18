@@ -2038,7 +2038,7 @@ Dades extres en ús"</string>
   <string name="uninstall_danagerous_btn">Desinstal·la</string>
   <string name="uninstall_danagerous_desc">«%s» pot danyar el vostre dispositiu</string>
   <string name="uninstall_danagerous_msg">«%s» pot danyar el vostre dispositiu, reduir el rendiment o provocar reinicis.</string>
-  <string name="uninstall_danagerous_title">Desinstal·lació de l\'aplicació maliciosa</string>
+  <string name="uninstall_danagerous_title">Desinstal·lació d\'aplicacions malicioses</string>
   <string name="unlike">No, gràcies</string>
   <string name="unlock_pattern">&lt;u&gt;Patró&lt;/u&gt;</string>
   <string name="unlock_pattern_to_bind_fingerprint">Introduïu la contrasenya per activar l\'empremta</string>
