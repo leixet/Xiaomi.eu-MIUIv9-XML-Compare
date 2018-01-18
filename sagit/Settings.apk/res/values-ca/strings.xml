@@ -2451,7 +2451,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="memory_available_read_only">Disponible (només de lectura)</string>
   <string name="memory_avg_desc">Mitjana %1$s</string>
   <string name="memory_avg_use">Mitjana</string>
-  <string name="memory_calculating_size">S\'està calculant&#8230;</string>
+  <string name="memory_calculating_size">S\'està calculant…</string>
   <string name="memory_clear_cache_message">S\'esborraran les dades a la memòria cau de les aplicacions.</string>
   <string name="memory_clear_cache_title">Voleu esborrar les dades de la memòria cau?</string>
   <string name="memory_dcim_usage">Imatges, vídeos</string>
