@@ -621,7 +621,7 @@
   <string name="paused_waiting_to_retry">S\'està esperant per reintentar</string>
   <string name="pay">Paga:</string>
   <string name="pay_now">Servei actual</string>
-  <string name="payment_fail">"S'ha produït un error en el pagament"</string>
+  <string name="payment_fail">"No s'ha pogut completar el pagament"</string>
   <string name="payment_success">Pagament completat</string>
   <string name="pending_apk">Pendent…</string>
   <string name="permission_declaration_message">Permeteu l\'accés a l\'emmagatzematge a Seguretat &gt; Permisos &gt; Permisos &gt; Emmagatzematge &gt; Música disponible per utilitzar normalment.</string>
@@ -639,7 +639,7 @@
   <string name="playlist_type_billboard">Llistes</string>
   <string name="playlist_type_my">Llistes de reproducció</string>
   <string name="playlist_type_recommend">Llistes de reproducció destacades</string>
-  <string name="playlist_unavailable">"La llista de reproducció no està disponible. Per eliminar-la, premeu i manteniu, després trieu eliminar."</string>
+  <string name="playlist_unavailable">"La llista de reproducció no està disponible. Per eliminar-la, premeu i manteniu, després trieu «eliminar»."</string>
   <string name="please_download_first">Cal baixar la cançó abans de poder-la establir com a to de trucada</string>
   <string name="please_search_or_select">Cerqueu o seleccioneu un camp</string>
   <string name="please_select_song">Seleccioneu una cançó primer</string>
@@ -738,7 +738,7 @@
   <string name="selected_count">Seleccionats %1$d de %2$d</string>
   <string name="send_to">Comparteix</string>
   <string name="send_to_title">Envia a (%1$s)</string>
-  <string name="server_error">Error al servidor. Si us plau, torneu-ho a provar més tard</string>
+  <string name="server_error">S\'ha produït un error, espereu un minut o dos i torneu-ho a provar.</string>
   <string name="service_and_settings">Servei i configuració</string>
   <string name="service_stop">Servei suspès</string>
   <string name="set_as_ring">Estableix com a to de trucada</string>
@@ -909,8 +909,8 @@
   <string name="warning_tip_ok">Pausa</string>
   <string name="warning_tip_title">Alerta d\'ús de dades</string>
   <string name="welcome_to_new_music">Benvinguts a la nova versió de Música Mi</string>
-  <string name="wifi_required_body" formatted="false">"Heu d\'utilitzar la Wi-Fi per completar aquesta baixada %s. 
+  <string name="wifi_required_body" formatted="false">"Connecteu-vos a la Wi-Fi per completar aquesta baixada %s.
 
-Toqueu %s per iniciar aquesta baixada la propera vegada que estigueu connectats a una xarxa Wi-Fi."</string>
+Premeu %s per iniciar aquesta baixada la propera vegada que estigueu connectat a una xarxa Wi-Fi."</string>
   <string name="wifi_required_title">Heu de connectar-vos a Wi-Fi per baixar aquest fitxer</string>
 </resources>
