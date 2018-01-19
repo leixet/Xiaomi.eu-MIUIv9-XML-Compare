@@ -2592,7 +2592,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="music_dirac_mode_piston_color">Edició de color</string>
   <string name="music_dirac_mode_piston_standard">Edició Estàndard</string>
   <string name="music_dirac_mode_piston_youth">Edició Jove</string>
-  <string name="music_dirac_mode_reduction_noise">Redueix el soroll (USB-C)</string>
+  <string name="music_dirac_mode_reduction_noise">Cancel·lació de soroll Mi (Tipus C)</string>
   <string name="music_dolby_mode_movie">Vídeo</string>
   <string name="music_dolby_mode_music">Música</string>
   <string name="music_dolby_mode_off">Apagat</string>
