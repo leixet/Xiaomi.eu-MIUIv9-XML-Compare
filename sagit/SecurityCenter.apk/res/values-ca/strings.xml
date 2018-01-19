@@ -407,7 +407,7 @@
   <string name="btn_stop_diagnostic">Atura</string>
   <string name="btn_text_already_opened">Encès</string>
   <string name="btn_text_goto_power_rank">Veure la classificació de la bateria</string>
-  <string name="btn_text_goto_setup">Anar a configuració</string>
+  <string name="btn_text_goto_setup">Vés a la configuració</string>
   <string name="btn_text_network_speed_detail">Connexió</string>
   <string name="btn_text_open_now">Activar</string>
   <string name="btn_text_optimize_extend_battery_time">Afegeix %s</string>
