@@ -189,7 +189,7 @@
   <string name="dialog_not_show_again">"No tornis a mostrar-ho"</string>
   <string name="dialog_queued_body">Aquest fitxer està en cua per a futures baixades.</string>
   <string name="dialog_show_more_backup">Còpia de seguretat de les cançons locals</string>
-  <string name="dialog_show_more_optimize_all">"Optimitza la informació de la cançó"</string>
+  <string name="dialog_show_more_optimize_all">Optimitza la informació de la cançó</string>
   <string name="dialog_song_sort_type">Tipus d\'ordenació</string>
   <string name="dialog_song_sort_type_name">Per nom</string>
   <string name="dialog_song_sort_type_playing_times">Per número de reproduccions</string>
@@ -398,7 +398,7 @@
   <string name="home_tab_online">Descobreix</string>
   <string name="i_know">D\'acord</string>
   <string name="i_know_it">D\'acord</string>
-  <string name="impunity_declaration_content1">"En prémer d'acord, accepteu els termes exposats en els nostres "</string>
+  <string name="impunity_declaration_content1">En prémer d\'acord, accepteu els termes exposats en els nostres </string>
   <string name="impunity_declaration_content2">Acord d\'usuari</string>
   <string name="impunity_declaration_content3">" i "</string>
   <string name="impunity_declaration_content4">Política de privadesa</string>
@@ -438,7 +438,7 @@
   <string name="local_music">Local</string>
   <string name="local_music_empty">La llista de reproducció està buida</string>
   <string name="local_music_empty_goto_online">No s\'han trobat cançons</string>
-  <string name="local_music_is_not_available">La música local no està disponible.</string>
+  <string name="local_music_is_not_available">"La música local no està disponible."</string>
   <string name="local_page_album_more">Mostra-ho tot</string>
   <string name="local_page_artist">Artistes als que seguiu</string>
   <string name="local_page_artist_more">Més cançons de %s</string>
@@ -567,14 +567,11 @@
   <string name="notif_text_engine_off">L\'accelerador Xunlei està desactivat.</string>
   <string name="notif_text_engine_on">S\'està accelerant&#8230;</string>
   <string name="notif_title_file_size">%1$d en total</string>
-  <string name="notif_title_multiple_downloading">S\'estan baixant %1$d cançons</string>
   <string name="notif_title_single_downloading">S\'està baixant %1$s</string>
   <string name="notification_des_next_song">Propera cançó: %s</string>
   <string name="notification_des_no_song">Música Mi. Novetats cada dia.</string>
   <string name="notification_download_complete">Baixada completada</string>
   <string name="notification_download_failed">"No s'ha pogut baixar"</string>
-  <string name="notification_download_failed_more">"No s'ha pogut baixar %1$d cançons"</string>
-  <string name="notification_download_success_more">%1$d baixades</string>
   <string name="notification_need_wifi_for_size">La mida de la baixada requereix Wi-Fi.</string>
   <string name="notification_play_summary">Veure cançó actual i la propera, mostra les lletres de las cançons en la pantalla d\'inici</string>
   <string name="notification_play_title">Giny de l\'àrea de notificacions</string>
@@ -624,7 +621,7 @@
   <string name="paused_waiting_to_retry">S\'està esperant per reintentar</string>
   <string name="pay">Paga:</string>
   <string name="pay_now">Servei actual</string>
-  <string name="payment_fail">S\'ha produït un error en el pagament</string>
+  <string name="payment_fail">"S'ha produït un error en el pagament"</string>
   <string name="payment_success">Pagament completat</string>
   <string name="pending_apk">Pendent…</string>
   <string name="permission_declaration_message">Permeteu l\'accés a l\'emmagatzematge a Seguretat &gt; Permisos &gt; Permisos &gt; Emmagatzematge &gt; Música disponible per utilitzar normalment.</string>
