@@ -454,7 +454,7 @@
   <string name="cancel">Cancel·la</string>
   <string name="cancel_button">Cancel·la</string>
   <string name="card_main_applock_action">Activa</string>
-  <string name="card_main_applock_summary">Protegiu els elements privats amb el bloquejador d\'aplicacions</string>
+  <string name="card_main_applock_summary">Protegeix les aplicacions seleccionades amb una contrasenya. Oculta missatges, fotos, notes i més.</string>
   <string name="card_main_applock_title">Bloquejador d\'aplicacions</string>
   <string name="card_main_deepclean_action">Neteja</string>
   <string name="card_main_deepclean_qq_title">Netejador QQ</string>
