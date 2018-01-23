@@ -996,7 +996,7 @@ Taxa de mostreig"</string>
   <string name="close_sdcard_optimization_warning_message">Per aplicar aquest canvi el dispositiu es reiniciarà.</string>
   <string name="cloud_backup_section_title">Còpia de seguretat del Mi Cloud</string>
   <string name="cloud_backup_settings_section_title">Còpia de seguretat de la configuració</string>
-  <string name="cloud_restore_section_summary">Restaura les aplicacions, la pantalla d\'inici i la configuració predeterminada</string>
+  <string name="cloud_restore_section_summary">Restaura la configuració del sistema, el disseny de la pantalla d\'inici i les aplicacions</string>
   <string name="cloud_restore_section_title">Restaura des de Mi Cloud</string>
   <string name="cmcc_hardware_version">Versió del maquinari</string>
   <string name="color_black">Negre</string>
