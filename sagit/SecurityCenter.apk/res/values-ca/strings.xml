@@ -1038,6 +1038,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="menu_text_power_percent_title">Bateria %s</string>
   <string name="menu_text_power_percent_title_default">Bateria</string>
   <string name="menu_wh_remove">Treure de les excepcions</string>
+  <string name="menu_white">Excepte</string>
   <string name="mi_service_app_detail">Detalls d\'ús de dades</string>
   <string name="mi_service_traffic_detail">Detalls de Marc</string>
   <string name="mian_page_primary_txt">Itinerància en ultramar</string>
