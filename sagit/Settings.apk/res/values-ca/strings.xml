@@ -2580,6 +2580,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, auriculars i altres configuracions d\'àudio</string>
   <string name="music_audio_effect_settings">Configuració d\'àudio</string>
   <string name="music_dirac_control">Optimitza la qualitat d\'àudio</string>
+  <string name="music_dirac_mode_cancelling">Cancel·lació de soroll Mi (3,5 mm)</string>
   <string name="music_dirac_mode_general">General</string>
   <string name="music_dirac_mode_general_earbuds">General</string>
   <string name="music_dirac_mode_general_inear">In-ear normals</string>
@@ -2630,6 +2631,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="my_device_disclaimer">Nota: la informació de maquinari, incloent la CPU, capacitat de la bateria, mida de pantalla, resolució i la càmera, és proporcionada pels laboratoris de Xiaomi, dissenyadors i proveïdors.</string>
   <string name="n_cacrts">%d certificats de CA</string>
   <string name="nature_color">Per defecte</string>
+  <string name="navigation_guide_app_summary">Feu lliscar cap a l\'esquerra o cap a la dreta des de la vora de la pantalla a la part superior</string>
+  <string name="navigation_guide_app_title">"Activador de l'acció de l'aplicació"</string>
   <string name="navigation_guide_back_anim_summary">"Gest cap enrere amb animació"</string>
   <string name="navigation_guide_back_anim_title">Animació del gest cap enrrere</string>
   <string name="navigation_guide_back_summary">Llisqueu cap a l\'esquerra o cap a la dreta des de la pantalla</string>
