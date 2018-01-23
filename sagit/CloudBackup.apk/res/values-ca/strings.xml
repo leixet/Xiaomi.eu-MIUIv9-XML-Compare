@@ -92,6 +92,7 @@ Nota: Les dades de les aplicacions instal·lades no es copiaran al Mi Cloud."</s
   <string name="device_corrupt">Mi Phone (dades corruptes)</string>
   <string name="device_delete_prompt">Esborrar la còpia de seguretat «%s»?</string>
   <string name="device_xiaomi">Telèfon Mi</string>
+  <string name="dialog_btn_next">Següent</string>
   <string name="dialog_cancel_backup_cancel">Cancel·la</string>
   <string name="dialog_cancel_backup_confirm">D\'acord</string>
   <string name="dialog_cancel_backup_msg">En commutar l\'interruptor, es cancel·laran les còpies de seguretat en curs.</string>
