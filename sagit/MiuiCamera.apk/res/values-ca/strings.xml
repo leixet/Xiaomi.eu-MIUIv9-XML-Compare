@@ -109,6 +109,9 @@
   <string name="face_beauty_intelligent_level_3">Alt</string>
   <string name="face_beauty_smart">Auto</string>
   <string name="face_score_info">Puntuació: %.1f</string>
+  <string name="front_camera_hint_text_place">"Prendre selfies serà més fàcil
+si gireu el telèfon"</string>
+  <string name="front_camera_hint_text_rotate">Gireu el telèfon</string>
   <string name="hine_hht">"Amb poca llum, la càmera farà diverses fotos
 i després crearà un tir amb una mínima quantitat de soroll."</string>
   <string name="hint_device_water_mark">La marca d\'aigua del dispositiu s\'afegirà automàticament.</string>
