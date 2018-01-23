@@ -115,7 +115,7 @@ i després crearà un tir amb una mínima quantitat de soroll."</string>
   <string name="hint_fast_motion">El vídeo que enregistreu es visualitzarà més ràpid.</string>
   <string name="hint_groupshot">"La càmera farà varies fotos
 i les barrejarà per crear-ne una de nova on cadascú quedi millor."</string>
-  <string name="hint_groupshot_beauty">L\'autofoto grupal no suporta el mode bellesa</string>
+  <string name="hint_groupshot_beauty">"L'autofoto grupal no suporta el mode bellesa"</string>
   <string name="hint_slow_motion">El vídeo que enregistreu es visualitzarà més lent.</string>
   <string name="hunt_dual_water_mark">La marca d\'aigua de la càmera dual s\'afegirà automàticament.</string>
   <string name="install_confirmed">Instal·la</string>
