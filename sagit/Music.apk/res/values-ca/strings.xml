@@ -819,10 +819,15 @@
   <string name="tab_track_list">Cançons</string>
   <string name="take_effect_afater_restart">Cal reiniciar l\'aplicació perquè aquesta configuració tingui efecte.</string>
   <string name="talkback_back">Torna</string>
+  <string name="talkback_cloud_setting">Configuració</string>
   <string name="talkback_device">Reprodueix a través d\'altres dispositius</string>
   <string name="talkback_download">Baixa</string>
   <string name="talkback_favorite">M\'agrada aquesta cançó</string>
+  <string name="talkback_follow">Segueix</string>
+  <string name="talkback_followed">Deixar de seguir</string>
+  <string name="talkback_header_search">"Cerca "</string>
   <string name="talkback_karaoke">Obre el Karaoke</string>
+  <string name="talkback_like">M\'agrada</string>
   <string name="talkback_mode">Bucle</string>
   <string name="talkback_mode_repeat_all">Mode bucle</string>
   <string name="talkback_mode_repeat_current">Mode repetició</string>
@@ -837,6 +842,7 @@
   <string name="talkback_radar">Reconeixement musical</string>
   <string name="talkback_search">Cerca</string>
   <string name="talkback_share">Comparteix</string>
+  <string name="talkback_unlike">Ja no m\'agrada</string>
   <string name="task_already_exist">La tasca ja existeix</string>
   <string name="ticket_summary">Compreu entrades per a espectacles, concerts, obres de teatre i altres esdeveniments</string>
   <string name="ticket_title">Mostra les entrades</string>
