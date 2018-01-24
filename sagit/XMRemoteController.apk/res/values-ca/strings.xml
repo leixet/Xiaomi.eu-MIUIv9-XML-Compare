@@ -497,7 +497,7 @@ Proveu el següent per solucionar el problema:
   <string name="management_video_favor">Historial i preferits</string>
   <string name="management_video_recent_watch">Vist recentment</string>
   <string name="match_ac_intro_mode">Allibereu quan l\'AC es posi en mode refredament</string>
-  <string name="match_ac_intro_power">Allibereu quan l\'AC s\'aturi</string>
+  <string name="match_ac_intro_power">Deixeu anar quan l\'AC s\'aturi</string>
   <string name="match_ac_name_mode">Refrigeració</string>
   <string name="match_ac_name_power">Apaga</string>
   <string name="match_ch_inc">Canvia al canal següent?</string>
@@ -521,7 +521,7 @@ Retrocediu per continuar"</string>
   <string name="match_fan_name_open">Engega</string>
   <string name="match_guide_main_frame">Apunteu el dispositiu a %1$s</string>
   <string name="match_guide_sub_frame">S\'han aparellat els botons de %1$d</string>
-  <string name="match_intro_power">Allibereu quan el dispositiu arranqui</string>
+  <string name="match_intro_power">Deixeu anar quan l\'equip s\'engegui</string>
   <string name="match_is_respond">El dispositiu respon?</string>
   <string name="match_main_tip_frame">"Apunteu el comandament vers %1$s i premeu el botó mantenint-lo premut
 Deixeu-lo quan %1$s reaccioni"</string>
@@ -530,7 +530,7 @@ Llavors responeu la pregunta"</string>
   <string name="match_mibox_first">S\'ha trobat la TV Mi</string>
   <string name="match_mibox_sencond">· Controleu la vostra TV Mi amb aquest dispositiu.</string>
   <string name="match_mibox_third">· Afegeix uns altres dispositius Mi automàticament</string>
-  <string name="match_name_power">Encesa</string>
+  <string name="match_name_power">Engega</string>
   <string name="match_number_default">Funcionen els botons de numeració?</string>
   <string name="match_power_confirm_tip_frame">%1$s està funcionant?</string>
   <string name="match_power_main_tip_frame">%1$s està funcionant?</string>
