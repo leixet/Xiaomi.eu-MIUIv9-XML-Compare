@@ -1132,8 +1132,8 @@ Vés a la pàgina d\'inici &gt; «+» &gt; Escànner."</string>
   <string name="upgrade_log">"Novetats"</string>
   <string name="upgrade_now">Actualitza</string>
   <string name="upgrading">S\'està actualitzant…</string>
-  <string name="use_tv_power_key">"Utilitzeu el botó d\'encesa de %1$s
-Per canviar, premeu contínuament el botó d\'encesa del TV"</string>
+  <string name="use_tv_power_key">"Premeu el botó d\'engegada de %1$s
+Per canviar, manteniu premut el botó d\'engegada del TV"</string>
   <string name="user_title">El meu compte</string>
   <string name="vendor_peel">Aparença</string>
   <string name="video">Vídeos</string>
