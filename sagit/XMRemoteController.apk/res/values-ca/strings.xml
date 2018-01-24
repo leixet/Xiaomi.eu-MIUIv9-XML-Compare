@@ -525,8 +525,7 @@ Retrocediu per continuar"</string>
   <string name="match_is_respond">El dispositiu respon?</string>
   <string name="match_main_tip_frame">"Apunteu el comandament vers %1$s i premeu el botó mantenint-lo premut
 Deixeu-lo quan %1$s reaccioni"</string>
-  <string name="match_main_tip_frame_click">"Apunteu el comandament vers %1$s i premeu el botó
-Llavors responeu la pregunta"</string>
+  <string name="match_main_tip_frame_click">Apunteu el comandament vers %1$s i premeu el botó\nComproveu que %1$s reacciona</string>
   <string name="match_mibox_first">S\'ha trobat la TV Mi</string>
   <string name="match_mibox_sencond">· Controleu la vostra TV Mi amb aquest dispositiu.</string>
   <string name="match_mibox_third">· Afegeix uns altres dispositius Mi automàticament</string>
@@ -987,8 +986,8 @@ Obriu la configuració del control remot i toqueu «Comparteix»."</string>
   <string name="service_info">Informació de servei</string>
   <string name="setting_airkan">PANTALLA SENSE CABLES</string>
   <string name="setting_sharerc">Compartit per la gent</string>
-  <string name="setting_sharerc_tips">Accepta un comandament compartit d\'una persona propera</string>
-  <string name="setting_version">Versió %1$s de comandament Mi</string>
+  <string name="setting_sharerc_tips">Accepta un comandament compartit de algú del voltant</string>
+  <string name="setting_version">Versió %1$s de Control Mi</string>
   <string name="share">Comparteix</string>
   <string name="share_action_cancel">Cancel·la</string>
   <string name="share_action_confirm">Envia</string>
