@@ -388,7 +388,7 @@ Proveu el següent per solucionar el problema:
   <string name="guid_one">Connecteu el dispositiu a la mateixa xarxa Wi-Fi que el telèfon.</string>
   <string name="guid_three">"Alguns controls podrien no estar disponibles si el vostre televisor o descodificador no és compatible amb Android."</string>
   <string name="guid_two">Els dispositius es detectaran i es mostraran en aquesta pàgina.</string>
-  <string name="guid_zero">"El dispositiu no admet els dispositius IR, però és compatible amb els controls remots Wi-Fi."</string>
+  <string name="guid_zero">"El vostre dispositiu no es apte per controlar via IR, però ho pot fer via Wi-Fi."</string>
   <string name="guide">Guia</string>
   <string name="guide_title_one">"El telèfon no pot controlar dispositius infrarojos"</string>
   <string name="guide_title_three">Ús</string>
