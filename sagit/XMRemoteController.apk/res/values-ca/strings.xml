@@ -32,7 +32,7 @@
   <string name="actor_intro_title_text">Repartiment</string>
   <string name="add">Afegeix</string>
   <string name="add_control">Afegeix control remot</string>
-  <string name="add_control_frame">Afegeix control remot %1$s</string>
+  <string name="add_control_frame">Afegeix comandament %1$s</string>
   <string name="add_device">Afegeix dispositiu</string>
   <string name="add_device_match_desc_bottom">3. Trieu %1$s per verificar la connexió</string>
   <string name="add_device_match_desc_center">2. Premeu el botó</string>
@@ -584,7 +584,7 @@ Llavors responeu la pregunta"</string>
   <string name="milink_device_newfound">Nou dispositiu</string>
   <string name="milink_device_offline">Desconnectat</string>
   <string name="milink_device_online">Connectat</string>
-  <string name="milink_device_rc_saved">S\'ha desat el comandament a distància</string>
+  <string name="milink_device_rc_saved">S\'ha desat el comandament</string>
   <string name="milink_nowifi">No connectat a la Wi-Fi</string>
   <string name="milink_screenshot_done">La captura de pantalla de TV s\'ha fet amb èxit</string>
   <string name="milink_screenshot_pic">Captures de pantalla</string>
@@ -878,7 +878,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="pm_2.5_out">PM2.5 exterior:</string>
   <string name="popup_installed_app_no_app">Obtenint l\'aplicació, espereu un minut i torneu a provar</string>
   <string name="popup_installed_app_title">Seleccioneu l\'aplicació que voleu obrir a la televisió</string>
-  <string name="popup_select_device">Seleccioneu el comandament per obrir la Wi-Fi</string>
+  <string name="popup_select_device">Seleccioneu un comandament Wi-Fi</string>
   <string name="power">Activació</string>
   <string name="power_off">Aturat</string>
   <string name="power_on">Engegat</string>
