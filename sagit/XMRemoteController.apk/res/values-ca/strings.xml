@@ -24,8 +24,8 @@
   <string name="ac_mode_dry">Deshumidificació</string>
   <string name="ac_mode_fan">Ventilador</string>
   <string name="ac_mode_hot">Calefacció</string>
-  <string name="ac_power_off">Apaga</string>
-  <string name="ac_power_on">Encén</string>
+  <string name="ac_power_off">Atura</string>
+  <string name="ac_power_on">Engega</string>
   <string name="ac_set_timer_title_text">Seleccioneu l\'hora i premeu el botó de temporitzador a l\'AC</string>
   <string name="accept">D\'acord</string>
   <string name="activity_stb_list_title">Trieu descodificador</string>
@@ -885,7 +885,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="press_to_continue_match">Premeu per continuar</string>
   <string name="press_to_match">Premeu per vincular</string>
   <string name="prev_remote">Control remot anterior</string>
-  <string name="privacy_content">\"Llegiu la \"&lt;a href=\"http://www.miui.com/res/doc/privacy/en.html\"&gt;política de privadesa de Xiaomi &lt;/a&gt; i &lt;a href=\"http://www.miui.com/res/doc/eula/en.html\"&gt;L\'acord d\'usuari&lt;/a&gt; abans d\'utilitzar el Control Mi. L\'accés a Internet i als serveis d\'ubicació són obligatoris perquè l\'aplicació funcioni amb normalitat.</string>
+  <string name="privacy_content">\"Consulteu la \"&lt;a href=\"http://www.miui.com/res/doc/privacy/en.html\"&gt;política de privadesa de Xiaomi &lt;/a&gt; i &lt;a href=\"http://www.miui.com/res/doc/eula/en.html\"&gt;L\'acord d\'usuari&lt;/a&gt; abans d\'utilitzar el Control Mi. L\'accés a Internet i als serveis d\'ubicació són obligatoris perquè l\'aplicació funcioni amb normalitat.</string>
   <string name="privacy_nohit">"No ho mostris més"</string>
   <string name="privacy_title">Termes i condicions</string>
   <string name="program_booking_book_filter_book_status">Estat de programació</string>
