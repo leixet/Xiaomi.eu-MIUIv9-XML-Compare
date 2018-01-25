@@ -114,13 +114,11 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="mibi_get_phone_num_title">Introduïu un número de telèfon</string>
   <string name="mibi_get_phone_sms_prompt">S\'ha enviat el codi de verificació a %1$s</string>
   <string name="mibi_giftcard_acitivity_and_denomination">%2$s-Targeta regal Mi Credit de %1$s</string>
-  <string name="mibi_giftcard_define_detail">Utilitzeu aquestes targetes regal com els Mi Credits normals. És possible que rebeu targetes regal després de participar en esdeveniments i promocions de Xiaomi.</string>
   <string name="mibi_giftcard_denom">Crèdit Mi</string>
   <string name="mibi_giftcard_denom_available">Crèdit Mi disponible</string>
   <string name="mibi_giftcard_denom_frozen">Crèdit Mi bloquejat</string>
   <string name="mibi_giftcard_discount">Coupons</string>
   <string name="mibi_giftcard_discount_detail">Cupó (costa %1$s Crèdits Mi)</string>
-  <string name="mibi_giftcard_empty">No hi ha targetes regal.</string>
   <string name="mibi_giftcard_has_expired">Ha caducat al %1$s</string>
   <string name="mibi_giftcard_hint">Els crèdits Mi afegits via targeta regal són els que es gastaran en primer lloc.</string>
   <string name="mibi_giftcard_payment">Certificats de regal</string>
@@ -128,7 +126,6 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="mibi_giftcard_push_notification_prime_title">"Heu rebut un certificat de regal"</string>
   <string name="mibi_giftcard_push_notification_sub_title">%1$s: %2$s Sorteig de Mi Credit.</string>
   <string name="mibi_giftcard_record">Les meves targetes regal</string>
-  <string name="mibi_giftcard_title">Targeta regal Mi Credit</string>
   <string name="mibi_giftcard_will_expire">Caduca al %1$s</string>
   <string name="mibi_giftcard_with_num">&lt;Data&gt;&amp;lt;font color=#FF7700&amp;gt;&amp;lt;xliff:g id=value&amp;gt;%1$d&amp;lt;/xliff:g&amp;gt; Cupó Mi Credit disponible&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="mibi_header_network_error">"No s'ha pogut connectar a la xarxa."</string>
@@ -188,7 +185,6 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="mibi_password_hint">Introduïu la contrasenya del compte</string>
   <string name="mibi_password_prompt">Per donar seguretat a les vostres despeses, verifiqueu el vostre compte Mi</string>
   <string name="mibi_payment_recharge_group_title">Selecció de l\'opció de recàrrega</string>
-  <string name="mibi_payment_success_label">"Heu pagat %1$s Mi Credit"</string>
   <string name="mibi_payment_success_title">Pagament rebut</string>
   <string name="mibi_payment_with_login_title">Verifica el Compte Mi</string>
   <string name="mibi_paytool_app_not_installed">"No heu instal·lat %1$s. Voleu baixar-lo i instal·lar-lo ara?"</string>
@@ -229,7 +225,6 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="mibi_progress_submit_hint">La recàrrega es reflectirà en el saldo del vostre compte dins de 3 minuts.</string>
   <string name="mibi_progress_submit_recharge_summary">S\'estan recarregant: %1$s Mi Credits.</string>
   <string name="mibi_progress_submit_title">Sol·licitud tramesa</string>
-  <string name="mibi_progress_success_pay_summary">%1$s Mi Credits recarregats, %2$s Mi Credits pagats</string>
   <string name="mibi_progress_success_pay_title">%1$s Mi Credit pagament completat</string>
   <string name="mibi_progress_success_recharge_summary">Saldo del compte: %1$s Mi Credits.</string>
   <string name="mibi_progress_success_recharge_title">%1$s Mi Credit recarrega completada</string>
@@ -347,7 +342,6 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_get_verify_code">Obtén el codi</string>
   <string name="passport_getting_verify_code">S\'està obtenint</string>
   <string name="passport_i_know">D\'acord</string>
-  <string name="passport_identitfication_expired">El codi de verificació ha caducat, torneu a començar</string>
   <string name="passport_imei_permission_denied_message">"Us demanem permís per aconseguir l'IMEI del vostre dispositiu. El compte Mi utilitza l'IMEI per identificar el terminal des del que entreu / us registreu, per ajudar a mantenir segur el vostre compte Mi."</string>
   <string name="passport_imei_permission_denied_title">Permís per consultar l\'IMEI</string>
   <string name="passport_input_captcha_hint">Introduïu el codi</string>
