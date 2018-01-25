@@ -869,11 +869,14 @@
   <string name="sleep_mode_summary">Atura el reproductor passat un determinat temps</string>
   <string name="sleep_mode_title">Temporitzador</string>
   <string name="song_exist_in_playlist">Aquesta cançó ja és a la llista de reproducció</string>
+  <string name="song_info">Detalls de la cançó</string>
   <string name="song_is_empty">El nom de la cançó no pot estar buit.</string>
   <string name="song_name">Cançó</string>
   <string name="song_not_find">"La cançó no està disponible."</string>
   <string name="song_offline">Aquesta cançó ja no està disponible.</string>
   <string name="song_unit">elements</string>
+  <string name="songgroup_pick_album">Àlbums</string>
+  <string name="songgroup_pick_playlist">Llistes de reproducció</string>
   <string name="sort_by_name">Nom</string>
   <string name="sort_by_time">Data</string>
   <string name="source_from">Font: %1$s</string>
@@ -883,6 +886,7 @@
   <string name="start_to_play">Reprodueix</string>
   <string name="start_to_use">Obre Música</string>
   <string name="start_update">Actualitza a la darrera versió de l\'aplicació Música.</string>
+  <string name="status_bar_notification_info_overflow">+999</string>
   <string name="stop">Atura</string>
   <string name="stop_backup">Atura</string>
   <string name="storage_internal">Emmagatzematge intern</string>
@@ -922,6 +926,7 @@
   <string name="talkback_search">Cerca</string>
   <string name="talkback_share">Comparteix</string>
   <string name="task_already_exist">La tasca ja existeix</string>
+  <string name="terms_of_service">Condicions del servei</string>
   <string name="ticket_summary">Compreu entrades per a espectacles, concerts, obres de teatre i altres esdeveniments</string>
   <string name="ticket_title">Mostra les entrades</string>
   <string name="time_to_upgrade">Actualitza Música Mi</string>
@@ -976,6 +981,7 @@
   <string name="upgrade_suggest">"Suspenem el servei de transmissió de música a causa d'assumptes de copyright. Actualitzeu a la darrera versió de l'aplicació Música per escoltar música en alta qualitat."</string>
   <string name="upgrade_to">Actualitza a</string>
   <string name="upgrade_waringing">"Només podreu escoltar la música emmagatzemada en el dispositiu."</string>
+  <string name="user_agreement">Acord d\'usuari</string>
   <string name="valid_period">Vàlid: %s</string>
   <string name="version_info">Versió</string>
   <string name="vip_after_tomorrow_auto_renew_message">La vostra subscripció de Música es renovarà automàticament la nit del dia després de demà. Assegureu-vos de tenir suficients Crèdits Mi en el vostre compte per completar aquest pagament.</string>
