@@ -454,7 +454,7 @@
   <string name="cancel">Cancel·la</string>
   <string name="cancel_button">Cancel·la</string>
   <string name="card_main_applock_action">Activa</string>
-  <string name="card_main_applock_summary">Protegeix les aplicacions seleccionades amb una contrasenya. Oculta missatges, fotos, notes i més.</string>
+  <string name="card_main_applock_summary">Protegiu missatges, fotos i altres elements amb una contrasenya.</string>
   <string name="card_main_applock_title">Bloquejador d\'aplicacions</string>
   <string name="card_main_deepclean_action">Neteja</string>
   <string name="card_main_deepclean_qq_title">Netejador QQ</string>
@@ -896,6 +896,7 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Massa intents fallits!</string>
   <string name="lockpattern_tutorial_cancel_label">Cancel·la</string>
   <string name="lockpattern_tutorial_continue_label">Següent</string>
+  <string name="lockpattern_tutorial_continue_label_confirm">Toqueu «D\'acord»</string>
   <string name="lockpattern_tutorial_continue_label_next">Toqueu «Següent»</string>
   <string name="lockscreen_access_pattern_cell_added">Cel·la afegida</string>
   <string name="lockscreen_access_pattern_cleared">Patró eliminat</string>
