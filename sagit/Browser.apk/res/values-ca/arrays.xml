@@ -39,6 +39,51 @@
     <item>Missatge del navegador</item>
     <item>Seguiu les Olimpíades amb Mi</item>
   </string-array>
+  <string-array name="suggestion_weather_condition_message">
+    <item>Neteja</item>
+    <item>Parcialment ennuvolat</item>
+    <item>Ennuvolat</item>
+    <item>Xàfec</item>
+    <item>Tempestes elèctriques</item>
+    <item>Pedra</item>
+    <item>Aiguaneu</item>
+    <item>Pluja feble</item>
+    <item>Pluja moderada</item>
+    <item>Pluja forta</item>
+    <item>Tempesta</item>
+    <item>Torrential rain</item>
+    <item>Extraordinary storm</item>
+    <item>Snow shower</item>
+    <item>Light snow</item>
+    <item>Moderate snow</item>
+    <item>Heavy snow</item>
+    <item>Blizzard</item>
+    <item>Fog</item>
+    <item>Freezing rain</item>
+    <item>Sandstorm</item>
+    <item>Small to moderate rain</item>
+    <item>Medium to heavy rain</item>
+    <item>Heavy to torrential rain</item>
+    <item>Torrential rain to downpour</item>
+    <item>Downpour to extreme rainstorm</item>
+    <item>Light to moderate snow</item>
+    <item>Moderate to heavy snow</item>
+    <item>Heavy to blizzard</item>
+    <item>Floating dust</item>
+    <item>Raising sand</item>
+    <item>Sandstorm</item>
+    <item>Dense fog</item>
+    <item>Strong fog</item>
+    <item>Haze</item>
+    <item>Moderate haze</item>
+    <item>Heavy haze</item>
+    <item>Severe haze</item>
+    <item>Dense fog</item>
+    <item>Strong dense fog</item>
+    <item>Nothing</item>
+    <item>Rain</item>
+    <item>Snow</item>
+  </string-array>
   <string-array name="google">
     <item>Google</item>
     <item>google.com</item>
