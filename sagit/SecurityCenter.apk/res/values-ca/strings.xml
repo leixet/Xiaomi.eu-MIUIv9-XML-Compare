@@ -130,7 +130,7 @@
   <string name="app_manager_app_info_name">Nom de l\'aplicació</string>
   <string name="app_manager_app_info_pkg">Nom de l\'APK</string>
   <string name="app_manager_app_lock">Bloqueig d\'aplicacions</string>
-  <string name="app_manager_app_power">"Ús de la bateria: "</string>
+  <string name="app_manager_app_power">"Ús de bateria: "</string>
   <string name="app_manager_app_storage">"Emmagatzematge: "</string>
   <string name="app_manager_app_traffic">"Ús de dades: "</string>
   <string name="app_manager_app_update">Actualitzacions</string>
