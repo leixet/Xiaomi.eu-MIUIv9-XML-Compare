@@ -754,7 +754,7 @@
   <string name="recently_played_songs">Reproduït recentment</string>
   <string name="recognition_reverted_message">S\'ha eliminat la portada de l\'àlbum i la lletra amb èxit. Podeu fer el mateix per a totes les cançons a la Configuració.</string>
   <string name="recognition_reverted_title">Portada d\'àlbums i lletres</string>
-  <string name="recognize_call">D\'acord</string>
+  <string name="recognize_call">Optimitza</string>
   <string name="recognize_call_summary">"Músic Mi no ha pogut trobar la portada de l'àlbum i les lletres d'aquesta cançó."</string>
   <string name="recognize_calling">S\'està aplicant els canvis…</string>
   <string name="recognize_calling_fail">"No s'ha pogut trobar la informació. Podeu tornar-ho a provar més tard."</string>
@@ -815,7 +815,7 @@
   <string name="select_all">Seleccioneu-ho tot</string>
   <string name="select_device">Seleccioneu un dispositiu</string>
   <string name="select_displayed_folders">Trieu les carpetes a mostrar</string>
-  <string name="select_local_album">Trieu la portada de l\'àlbum</string>
+  <string name="select_local_album">Trieu un àlbum</string>
   <string name="select_local_lyric">Trieu una lletra</string>
   <string name="select_none">Desselecciona-ho tot</string>
   <string name="select_operation_items">Seleccioneu elements</string>
@@ -826,8 +826,8 @@
   <string name="service_and_settings">Servei i configuració</string>
   <string name="service_stop">Servei suspès</string>
   <string name="set_as_ring">Estableix com a to de trucada</string>
-  <string name="set_id3_failed">"No s'ha pogut desar la informació"</string>
-  <string name="set_id3_not_have_read_or_write_permission">"No tens permisos per editar aquest fitxer"</string>
+  <string name="set_id3_failed">"No es pot desar la informació"</string>
+  <string name="set_id3_not_have_read_or_write_permission">"No teniu permís per editar aquest fitxer"</string>
   <string name="set_id3_not_support_format">"No es pot editar aquest format de fitxer"</string>
   <string name="set_id3_successful">S\'ha desat la informació de la cançó</string>
   <string name="set_ringtones_failed">"No s'ha pogut establir el to de trucada"</string>
@@ -912,11 +912,11 @@
   <string name="talkback_download">Baixa</string>
   <string name="talkback_favorite">M\'agrada aquesta cançó</string>
   <string name="talkback_karaoke">Obre el Karaoke</string>
-  <string name="talkback_mode">Bucle</string>
-  <string name="talkback_mode_repeat_all">Mode bucle</string>
-  <string name="talkback_mode_repeat_current">Mode repetició</string>
+  <string name="talkback_mode">Repeteix la llista de reproducció</string>
+  <string name="talkback_mode_repeat_all">Mode repetició de la llista</string>
+  <string name="talkback_mode_repeat_current">Mode repetició individual</string>
   <string name="talkback_mode_repeat_shuffle">Mode de reproducció aleatòria</string>
-  <string name="talkback_more">Més</string>
+  <string name="talkback_more">Més menús</string>
   <string name="talkback_next">Propera cançó</string>
   <string name="talkback_nowplaying_bar">Reprodueix barres</string>
   <string name="talkback_nowplaying_circle">Reprodueix cercles</string>
