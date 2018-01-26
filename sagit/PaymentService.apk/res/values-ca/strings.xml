@@ -315,7 +315,7 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="mibi_web_login_waiting">Espereu si us plau&#8230;</string>
   <string name="mibi_web_sso_login_fail">Us cal iniciar la sessió de nou</string>
   <string name="passport_access_denied">S\'ha denegat l\'accés</string>
-  <string name="passport_account_hint_text">Adreça de correu o identificador del compte Mi</string>
+  <string name="passport_account_hint_text">Adreça de correu, número de telèfon o ID del Compte Mi</string>
   <string name="passport_account_identity_title">Verificació de la vostra identitat</string>
   <string name="passport_account_label">Compte Mi</string>
   <string name="passport_account_name">Compte: %1$s</string>
@@ -440,7 +440,7 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_reg_using_other_phone">Utilitza número de telèfon alternatiu</string>
   <string name="passport_reg_using_other_phone_number_prompt">"Crea un compte nou utilitzant "</string>
   <string name="passport_reg_using_phone_number_prompt">Crea un compte utilitzant el número de telèfon</string>
-  <string name="passport_reg_via_sms_alert">La vostra companyia podria cobrar-vos el SMS usat per activar aquest servei.</string>
+  <string name="passport_reg_via_sms_alert">És possible que es requereixi un SMS sortint per activar aquest servei. El vostre operador li cobrarà per aquest missatge.</string>
   <string name="passport_reging">S\'està creant el compte&#8230;</string>
   <string name="passport_register">Crea un compte</string>
   <string name="passport_register_account_goto_email">Ves a la safata d\'entrada</string>
