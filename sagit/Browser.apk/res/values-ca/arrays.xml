@@ -68,20 +68,20 @@
     <item>Millorant a tempesta forta</item>
     <item>Nevada entre feble i moderada</item>
     <item>Nevada entre moderada i forta</item>
-    <item>Heavy to blizzard</item>
-    <item>Floating dust</item>
-    <item>Raising sand</item>
-    <item>Sandstorm</item>
-    <item>Dense fog</item>
-    <item>Strong fog</item>
-    <item>Haze</item>
-    <item>Moderate haze</item>
-    <item>Heavy haze</item>
-    <item>Severe haze</item>
-    <item>Dense fog</item>
-    <item>Strong dense fog</item>
-    <item>Nothing</item>
-    <item>Rain</item>
+    <item>Vent de fort a torb</item>
+    <item>Pols en suspensió</item>
+    <item>Aixecant sorra</item>
+    <item>Tempesta de sorra</item>
+    <item>Boira densa</item>
+    <item>Boira espessa</item>
+    <item>Boirina</item>
+    <item>Boirina moderada</item>
+    <item>Boirina espessa</item>
+    <item>Boirina molt espessa</item>
+    <item>Boira densa</item>
+    <item>Boira molt densa</item>
+    <item>Res</item>
+    <item>Pluja</item>
     <item>Snow</item>
   </string-array>
   <string-array name="google">
