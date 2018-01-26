@@ -225,8 +225,8 @@ primer heu de crear una còpia de seguretat d\'iCloud "</string>
   <string name="notif_backup_content">Còpia de seguretat de les dades d\'usuari</string>
   <string name="notif_backup_title">Còpia de seguretat de les dades</string>
   <string name="notif_calculating_app">Calculant %1$s (%2$s)…</string>
-  <string name="notif_connect_miasist">Connectat al Mi PC Suite</string>
-  <string name="notif_disconnect_miasist">No connectat al Mi PC Suite</string>
+  <string name="notif_connect_miasist">Connectat a Mi PC Suite</string>
+  <string name="notif_disconnect_miasist">Desconnectat de Mi PC Suite</string>
   <string name="notif_icloud_canceled_summary">Cancel·lat</string>
   <string name="notif_icloud_canceling_summary">S\'està cancel·lant…</string>
   <string name="notif_icloud_import_title">Importa les dades de l\'iCloud</string>
@@ -237,11 +237,11 @@ primer heu de crear una còpia de seguretat d\'iCloud "</string>
   <string name="notif_icloud_saved_summary">S\'ha importat amb èxit</string>
   <string name="notif_icloud_saving_summary">S\'estan restaurant les dades…</string>
   <string name="notif_parse_select_descript_error">"No s'ha pogut sincronitzar la llista d'elements amb còpia de seguretat."</string>
-  <string name="notif_receiving_transingsd">S\'està rebent %1$s (%2$s)…</string>
+  <string name="notif_receiving_transingsd">Rebent %1$s (%2$s)…</string>
   <string name="notif_restore_complete_title">S\'ha restaurat amb èxit</string>
   <string name="notif_restore_content">S\'estan restaurant les dades d\'usuari</string>
   <string name="notif_restore_title">Restaura les dades</string>
-  <string name="notif_sending_transingsd">S\'està enviant %1$s (%2$s)…</string>
+  <string name="notif_sending_transingsd">Enviant %1$s (%2$s)…</string>
   <string name="notif_trans_auto_reconnecting_content">Si cal, podeu cancel·lar la tasca actual.</string>
   <string name="notif_trans_auto_reconnecting_title">S\'ha interromput la connexió. S\'està tornant a connectar automàticament…</string>
   <string name="notif_trans_receiving_completed">Les dades s\'han rebut amb èxit</string>
@@ -380,9 +380,9 @@ Allibera %s com a mínim. "</string>
   <string name="trans_detail_app_apk_page_title">Seleccioneu aplicacions</string>
   <string name="trans_detail_app_data_list_title">Dades de l\'aplicació</string>
   <string name="trans_detail_app_data_page_title">Seleccioneu les dades de l\'aplicació</string>
-  <string name="trans_detail_app_data_useless_tip">Podeu restaurar-los des de l\'aplicació, sense necessitat de transferir-los.</string>
+  <string name="trans_detail_app_data_useless_tip">Podeu restaurar-los des de l\'aplicació, no cal transferir-los.</string>
   <string name="trans_detail_audio_video_doc_list_title">Àudio, vídeo i fitxers</string>
-  <string name="trans_detail_audio_video_doc_page_title">Seleccioneu àudio, vídeo i fitxers</string>
+  <string name="trans_detail_audio_video_doc_page_title">Selecciona àudio, vídeo i fitxers</string>
   <string name="trans_detail_category_account">Comptes i contactes</string>
   <string name="trans_detail_category_audio_video_doc">Àudio, vídeo i fitxers</string>
   <string name="trans_detail_category_files">Fitxers</string>
