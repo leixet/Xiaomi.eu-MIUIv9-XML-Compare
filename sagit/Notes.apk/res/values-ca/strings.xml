@@ -168,7 +168,7 @@
   <string name="theme_title_yellow">Groc</string>
   <string name="theme_white_description">Blanc</string>
   <string name="theme_yellow_description">Groc</string>
-  <string name="toast_cancel_to_insert_image">Cancel·leu per inserir imatges.</string>
+  <string name="toast_cancel_to_insert_image">"Cancel·leu per inserir imatges."</string>
   <string name="toast_message_add_image_fail">"No es pot afegir la imatge"</string>
   <string name="toast_notes_delete_success">S\'ha eliminat amb èxit</string>
   <string name="toast_notes_hidden">S\'ha ocultat amb èxit</string>
