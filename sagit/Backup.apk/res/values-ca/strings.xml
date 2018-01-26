@@ -15,7 +15,7 @@
   <string name="alert_phone_occupy_backup">"No es pot utilitzar Mi PC Suite en aquests moments. Completeu la còpia de seguretat o la restauració d'elements al vostre telèfon i torneu-ho a provar."</string>
   <string name="alert_second_space_not_support_miasist">"No es pot utilitzar Mi PC Suite en el segon espai. Canvieu al primer espai."</string>
   <string name="alert_title_backup_to_miasist">Voleu fer una còpia de seguretat d\'elements amb Mi PC Suite?</string>
-  <string name="alert_title_restore_from_miasist">Voleu restaurar elements al telèfon?</string>
+  <string name="alert_title_restore_from_miasist">Voleu restaurar els elements al vostre telèfon?</string>
   <string name="already_enable_encrypt">L\'encriptació ja està activada</string>
   <string name="app_name">Còpia de seguretat</string>
   <string name="apps_and_data_item_desc">Aplicacions i dades</string>
@@ -76,7 +76,7 @@
   <string name="close_twice_auth_note">"Nota:
 Després de crear una nova pregunta de seguretat i confirmar la data de naixement, l\'autenticació de dos factors es desactivarà. Si no veieu l\'opció de desactivar l\'autenticació de dos factors a la pàgina del compte d\'ID d\'Apple, no podreu desactivar-la."</string>
   <string name="close_twice_auth_operation">"URL:
-https://appleid.apple.com/#!&amp;page=signin to close"</string>
+https://appleid.apple.com/#!&amp;page=entra per tancar"</string>
   <string name="close_twice_auth_step_1">1. Obriu qualsevol navegador web en qualsevol ordinador i aneu a appleid.apple.com.</string>
   <string name="close_twice_auth_step_2">2. Accediu a l\'ID d\'Apple que voleu desactivar l\'autenticació de dos factors, aneu a la secció \"Seguretat\" de la configuració del compte i seleccioneu \"Edita\".</string>
   <string name="close_twice_auth_step_3">3. Feu clic a \"Desactiva l\'autenticació de dos factors\". Feu clic de nou per confirmar.</string>
@@ -224,7 +224,7 @@ primer heu de crear una còpia de seguretat d\'iCloud "</string>
   <string name="notif_backup_complete_title">S\'ha copiat amb èxit</string>
   <string name="notif_backup_content">Còpia de seguretat de les dades d\'usuari</string>
   <string name="notif_backup_title">Còpia de seguretat de les dades</string>
-  <string name="notif_calculating_app">S\'està calculant %1$s (%2$s)…</string>
+  <string name="notif_calculating_app">Calculant %1$s (%2$s)…</string>
   <string name="notif_connect_miasist">Connectat al Mi PC Suite</string>
   <string name="notif_disconnect_miasist">No connectat al Mi PC Suite</string>
   <string name="notif_icloud_canceled_summary">Cancel·lat</string>
