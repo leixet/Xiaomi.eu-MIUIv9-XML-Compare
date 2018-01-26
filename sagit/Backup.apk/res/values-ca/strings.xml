@@ -391,7 +391,7 @@ Allibera %s com a mínim. "</string>
   <string name="trans_detail_category_userdata">Aplicacions</string>
   <string name="trans_detail_category_wechat_qq">Dades de WeChat i QQ (incloent l\'historial de xat)</string>
   <string name="trans_detail_item_app_data_selected_tip">També hi ha les aplicacions corresponents seleccionades.</string>
-  <string name="trans_detail_item_app_data_too_large_tip">Sembla que l\'element és massa gran per transferir-lo.</string>
+  <string name="trans_detail_item_app_data_too_large_tip">Sembla que l\'element és massa gran per transferir.</string>
   <string name="trans_detail_list_footer">Nota: podeu triar transferir aplicacions per separat. Tanmateix, si seleccioneu les dades de l\'aplicació, les aplicacions corresponents també es transferiran.</string>
   <string name="trans_detail_page_tip">Com més elements seleccioneu, més temps durarà la transferència.</string>
   <string name="trans_detail_qq_data">Dades QQ (incloent l\'historial de xat)</string>
