@@ -160,6 +160,8 @@
   <string name="common_use_phrase_bottom_bar_cn_txt">.cat</string>
   <string name="common_use_phrase_bottom_bar_text_next">Següent</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Anterior</string>
+  <string name="context_menu_add_to_desk_id">Afegeix a la pantalla d\'inici</string>
+  <string name="context_menu_orientation_portrait_swap_id">Pantalla V/H</string>
   <string name="contextmenu_add_contact">Afegeix un contacte</string>
   <string name="contextmenu_copy">Copia</string>
   <string name="contextmenu_copylink">Copia l\'URL de l\'enllaç</string>
@@ -189,6 +191,7 @@
   <string name="current_version_phone">Telèfon</string>
   <string name="custom_head_card_text">«Creu sempre que alguna cosa meravellosa
 està a punt de passar»</string>
+  <string name="data_monitor">Monitor de dades</string>
   <string name="data_traffic_prompt_message">"L'ús de la connexió de dades mòbils per navegar pels vídeos augmentarà el vostre ús de dades. Si excediu el límit d'ús de dades del vostre pla, l'operador us podria cobrar despeses addicionals."</string>
   <string name="data_traffic_prompt_title">Alerta d\'ús de dades</string>
   <string name="delete">Elimina</string>
