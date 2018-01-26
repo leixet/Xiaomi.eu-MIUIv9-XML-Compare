@@ -189,7 +189,7 @@
   <string name="current_version_phone">Telèfon</string>
   <string name="custom_head_card_text">«Creu sempre que alguna cosa meravellosa
 està a punt de passar»</string>
-  <string name="data_traffic_prompt_message">"Si s'utilitza la connexió de dades mòbils per veure vídeos s'incrementarà l'ús de dades. Si excediu el límit del pla de dades, el vostre operador podria cobrar-vos despeses addicionals."</string>
+  <string name="data_traffic_prompt_message">"L'ús de la connexió de dades mòbils per navegar pels vídeos augmentarà el vostre ús de dades. Si excediu el límit d'ús de dades del vostre pla, l'operador us podria cobrar despeses addicionals."</string>
   <string name="data_traffic_prompt_title">Alerta d\'ús de dades</string>
   <string name="delete">Elimina</string>
   <string name="delete_bookmark">Elimina</string>
@@ -386,6 +386,8 @@ està a punt de passar»</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">Es necessita una targeta SD per modificar aquesta ruta.</string>
   <string name="more_description">Menú</string>
   <string name="more_option">Més opcions</string>
+  <string name="mw_abc_action_bar_up_description">Vés amunt</string>
+  <string name="mw_data_traffic_prompt_message">"L'ús de la connexió de dades mòbils per navegar pels vídeos augmentarà el vostre ús de dades. Si excediu el límit d'ús de dades del vostre pla, l'operador us podria cobrar despeses addicionals."</string>
   <string name="nav_bottom_bar_back">Anterior</string>
   <string name="nav_bottom_bar_close_all">Tanca-ho tot</string>
   <string name="nav_bottom_bar_close_description">Tanca</string>
