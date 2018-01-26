@@ -247,7 +247,7 @@ està a punt de passar»</string>
   <string name="download_no_application_title">"No s'ha trobat el fitxer. El vareu moure o eliminar?"</string>
   <string name="download_no_sdcard_dlg_msg">Cal una targeta SD per baixar %s.</string>
   <string name="download_no_sdcard_dlg_title">No hi ha cap targeta SD</string>
-  <string name="download_pending">S\'està iniciant la baixada&#8230;</string>
+  <string name="download_pending">S\'està iniciant la baixada…</string>
   <string name="download_phone_tip">Telèfon</string>
   <string name="download_router_tip">Baixa-ho al Mi Router</string>
   <string name="download_sdcard_busy_dlg_msg">La targeta SD està ocupada. Per permetre baixades, desactiveu l\'emmagatzematge USB a l\'àrea de notificacions.</string>
