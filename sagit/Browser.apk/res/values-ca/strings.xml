@@ -737,6 +737,18 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="mw_save_password_notnow">Ara no</string>
   <string name="mw_save_password_remember">Recorda-la</string>
   <string name="mw_search_menu_title">Cerca</string>
+  <string name="mw_snippets_disabled_generic_prompt">Obtén contingut personalitzat</string>
+  <string name="mw_snippets_disabled_signed_out_instructions">Per obtenir contingut personalitzat suggerit per Google, inicieu sessió a Chrome.</string>
+  <string name="mw_status_bar_notification_info_overflow">+999</string>
+  <string name="mw_time_picker_dialog_title">Estableix l\'hora</string>
+  <string name="mw_updating_chrome">S\'està actualitzant Chrome…</string>
+  <string name="mw_video_buffering_percent">"S'està omplint la memòria intermèdia "</string>
+  <string name="mw_video_float_window">Emergent</string>
+  <string name="mw_video_float_window_playing">Reproducció de vídeo</string>
+  <string name="mw_video_play_error">"No s'ha pogut reproduir el vídeo"</string>
+  <string name="mw_webview_find_on_page">Cerca a la pàgina</string>
+  <string name="mw_webviewchromium_private_browsing_warning">Aquesta funció no està implementada en aquesta versió d\'Android.</string>
+  <string name="mw_week_picker_dialog_title">Estableix la setmana</string>
   <string name="nav_bottom_bar_back">Anterior</string>
   <string name="nav_bottom_bar_close_all">Tanca-ho tot</string>
   <string name="nav_bottom_bar_close_description">Tanca</string>
@@ -745,6 +757,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="nav_screen_container_tab_normal">Pestanya normal</string>
   <string name="nav_screen_incognito_message">"L\'historial de navegació i cerca no es desarà al mode incògnit. Recordeu que els fitxers que baixeu i els marcadors que afegiu es desaran."</string>
   <string name="nav_screen_incognito_title">Mode d\'incògnit</string>
+  <string name="navigation_delete_all">llisqueu cap a l\'esquerra i cap a la dreta per tancar totes les pestanyes</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Cancel·la</string>
   <string name="navigationbar_rightbutton_actiontext_go">Vés</string>
   <string name="navigationbar_rightbutton_actiontext_search">Cerca</string>
@@ -758,6 +771,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="no_space_alert_title">Baixada en pausa</string>
   <string name="no_space_clean_failed">"No s'ha pogut alliberar espai al dispositiu"</string>
   <string name="not_allowed_open">"No es pot utilitzar el Navegador en el flux OOB"</string>
+  <string name="not_now">Ara no</string>
   <string name="not_remind_again">Recorda la meva elecció</string>
   <string name="notif_install_successful">Baixada completa</string>
   <string name="ok">D\'acord</string>
@@ -925,6 +939,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="remove_history_item">Esborra de l\'historial</string>
   <string name="remove_snapshot">Suprimeix la pàgina desada</string>
   <string name="removed_from_bookmarks">S\'ha eliminat dels marcadors</string>
+  <string name="reopen">Obre</string>
   <string name="replace">Substitueix</string>
   <string name="reply_comment_title">Res: %s</string>
   <string name="resume_download">Inicia</string>
@@ -999,7 +1014,9 @@ Així és com utilitzem les dades que recopilem:
 El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'acceptar el nostre %2$s i %1$s per poder utilitzar el Navegador. "</string>
   <string name="show_security_tip_dialog_title">Política de privadesa</string>
   <string name="sign_and_open">Inicieu sessió i activeu-lo</string>
+  <string name="sign_in">Inica sessió</string>
   <string name="sign_in_to" formatted="false">Inicia sessió a %s1 \"%s2\"</string>
+  <string name="signed_in">Sessió iniciada</string>
   <string name="skip_button_label">Omet</string>
   <string name="skip_current_version">Omet aquesta versió</string>
   <string name="snapshot">Local</string>
@@ -1043,10 +1060,16 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="suggest_access_item_singer_pop">%d cançons populars</string>
   <string name="suggest_access_item_site_mark">LLOCS</string>
   <string name="suggest_access_item_video_mark">VÍDEOS</string>
+  <string name="suggest_access_item_weather_mark">El TEMPS</string>
   <string name="suggest_access_item_yellow_mark">PÀGINES GROGUES</string>
   <string name="suggest_access_music">Música Mi</string>
   <string name="suggest_item_delete_text">Elimina</string>
   <string name="suggest_open_app_failed">"No s'ha pogut obrir aquesta aplicació"</string>
+  <string name="suggestion_lottery_detail_pour">%s NOTA</string>
+  <string name="suggestion_lottery_detail_price">CADA NOTA %s IUAN</string>
+  <string name="suggestion_lottery_detail_text">AQUEST %s</string>
+  <string name="suggestion_lottery_period">Nº %s</string>
+  <string name="suggestion_translation_more">TRADUEIX MÉS</string>
   <string name="switchText">SÍ</string>
   <string name="switch_proxy_dialog_msg">"S'ha detectat una intrusió per xarxa. Utilitzeu l'aplicació de Seguretat integrada a MIUI o informeu al vostre operador mòbil."</string>
   <string name="switch_proxy_dialog_title">Intrusió per xarxa</string>
@@ -1063,6 +1086,11 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="too_many_windows_dialog_title">"No es pot obrir més pestanyes"</string>
   <string name="transfer_prompt_0">Reprodueix el vídeo</string>
   <string name="transfer_restart">Reinicia</string>
+  <string name="translation_copy">Copia</string>
+  <string name="translation_more">Més traducció</string>
+  <string name="translation_query_error">Sense significat</string>
+  <string name="translation_query_error_network">Ha fallat la consulta, comproveu la connexió de xarxa</string>
+  <string name="translation_result_copy">Els resultats de la traducció s\'han replicat</string>
   <string name="unSwitchText">NO</string>
   <string name="undo">Desfés</string>
   <string name="unknown_title">Desconegut</string>
