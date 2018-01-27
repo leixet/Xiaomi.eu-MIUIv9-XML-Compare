@@ -521,6 +521,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="mw_miuichromium_error_page_btn_close">Tanca</string>
   <string name="mw_miuichromium_error_page_btn_refresh">Actualitza</string>
   <string name="mw_miuichromium_error_page_btn_report_issue">Informa d\'un problema</string>
+  <string name="mw_miuichromium_error_page_description_no_connection" formatted="false">"No s'ha pogut connectar a la xarxa perquè la senya és dolenta o la configuració de la xarxa no és correcta. Comproveu %s1 la configuració de la xarxa %s2 i torneu-ho a provar."</string>
   <string name="mw_miuichromium_error_page_diagnose">Diagnòstic de la xarxa</string>
   <string name="mw_miuichromium_error_page_diagnose_banner">Diagnòstic de la xarxa</string>
   <string name="mw_miuichromium_error_page_diagnose_certificate">"No s'ha pogut verificar el protocol de xarxa"</string>
@@ -574,7 +575,11 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="mw_miuichromium_error_page_server_error">Hi ha massa dispositius intentant connectar-se</string>
   <string name="mw_miuichromium_error_page_suggestion_check_app_proxy">Comproveu la configuració de les aplicacions de servidor intermediari instal·lades al dispositiu.</string>
   <string name="mw_miuichromium_error_page_suggestion_check_connetion">Comproveu la connexió a Internet.</string>
+  <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Dades mòbils) Restableix la %s1 configuració de l\'APN %s2.</string>
   <string name="mw_miuichromium_error_page_suggestion_check_url">"Comproveu la URL que heu introduït."</string>
+  <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Comproveu la %s1 configuració del servidor intermediari %s2.</string>
+  <string name="mw_miuichromium_error_page_suggestion_clear_cache" formatted="false">Esborra la memòria cau (%s1 Configuració %s2 - Esborra les dades).</string>
+  <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Esborra la memòria cau i les galetes (%s1 Configuració %s2 - Esborra les dades, es pot perdre la informació del vostre compte).</string>
   <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Esborreu la memòria cau i les galetes (es pot perdre la informació del vostre compte).</string>
   <string name="mw_miuichromium_error_page_suggestion_clear_cache_no_invoke">Esborra la memòria cau.</string>
   <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Torna a carregar després de connectar-se a Internet</string>
@@ -625,6 +630,24 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="mw_older">Anterior</string>
   <string name="mw_opening_file_error">No es pot obrir el fitxer seleccionat</string>
   <string name="mw_page_info_permission_ads_subtitle">El lloc web tendeix a mostrar anuncis intrusius</string>
+  <string name="mw_password_generation_popup_content_description">S\'està mostrant la finestra emergent de generació de contrasenyes</string>
+  <string name="mw_payments_accepted_cards_label">Targetes acceptades</string>
+  <string name="mw_payments_accepted_credit_cards_label">Targetes de crèdit acceptades</string>
+  <string name="mw_payments_accepted_credit_debit_cards_label">Targetes de crèdit i dèbit acceptades</string>
+  <string name="mw_payments_accepted_credit_prepaid_cards_label">Targetes de crèdit i prepagament acceptades</string>
+  <string name="mw_payments_accepted_debit_cards_label">Targetes de dèbit acceptades</string>
+  <string name="mw_payments_accepted_debit_prepaid_cards_label">Targetes de dèbit i prepagament acceptades</string>
+  <string name="mw_payments_accepted_prepaid_cards_label">Targetes de prepagament acceptades</string>
+  <string name="mw_payments_add_address">Afegeix una adreça</string>
+  <string name="mw_payments_add_billing_address">Afegeix una adreça de facturació</string>
+  <string name="mw_payments_add_card">Afegeix una targeta</string>
+  <string name="mw_payments_add_card_label">Afegeix una targeta</string>
+  <string name="mw_payments_add_contact">Afegeix informació de contacte</string>
+  <string name="mw_payments_add_contact_details_label">Afegeix info de contacte</string>
+  <string name="mw_payments_add_email">Afegeix un correu</string>
+  <string name="mw_payments_add_more_information">Afegeix més informació</string>
+  <string name="mw_payments_add_name">Afegeix un nom</string>
+  <string name="mw_payments_add_name_on_card">Afegeix un nom a la targeta</string>
   <string name="nav_bottom_bar_back">Anterior</string>
   <string name="nav_bottom_bar_close_all">Tanca-ho tot</string>
   <string name="nav_bottom_bar_close_description">Tanca</string>
