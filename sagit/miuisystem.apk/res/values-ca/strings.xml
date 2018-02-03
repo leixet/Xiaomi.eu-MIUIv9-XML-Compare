@@ -13,6 +13,7 @@
   <string name="bottle">Ampolla</string>
   <string name="breeze">Brisa</string>
   <string name="bubble">Bombolla</string>
+  <string name="bullfrog">Granota toro</string>
   <string name="burst">Explosió</string>
   <string name="carousel">Carrusel</string>
   <string name="celesta">Celesta</string>
@@ -20,6 +21,7 @@
   <string name="chimes">Carilló</string>
   <string name="chirp">Grinyol</string>
   <string name="chord">Acord</string>
+  <string name="clank">Ressó</string>
   <string name="cloud_state_disabled">La sincronització amb Mi Cloud està desactivada</string>
   <string name="cloud_state_finished">Sincronizat amb Mi Cloud</string>
   <string name="cloud_state_syncing">Sincronizat amb Mi Cloud</string>
@@ -40,6 +42,8 @@
   <string name="edit_frequent_phrases">Edita frases freqüents</string>
   <string name="energy">Energia</string>
   <string name="enthusiastic">Entusiasta</string>
+  <string name="fadein">Intensificar</string>
+  <string name="fadeout">Esvair</string>
   <string name="fantasy">Fantasia</string>
   <string name="fireflies">Cuques de llum</string>
   <string name="flute">Flauta</string>
