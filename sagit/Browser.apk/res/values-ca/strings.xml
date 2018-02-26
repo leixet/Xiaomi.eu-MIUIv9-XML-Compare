@@ -657,6 +657,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="mw_payments_card_and_address_settings">Podeu gestionar les targetes i adreces a la BEGIN_LINKConfiguracióEND_LINK.</string>
   <string name="mw_payments_card_and_address_settings_signed_in">Les targetes i adreces provenen de Chrome i del vostre compte de Google
 (%1$s). Podeu gestionar-les a la BEGIN_LINKConfiguracióEND_LINK.</string>
+  <string name="mw_payments_card_and_address_settings_signed_out">Les targetes i adreces provenen de Chrome. Podeu gestionar-les a la BEGIN_LINKConfiguracióEND_LINK.</string>
   <string name="mw_payments_card_billing_address_required">Cal l\'adreça de facturació de la targeta</string>
   <string name="mw_payments_card_expiration_invalid_validation_message">Introduïu una data de venciment vàlida</string>
   <string name="mw_payments_card_number_invalid_validation_message">Introduïu un número de targeta vàlid</string>
