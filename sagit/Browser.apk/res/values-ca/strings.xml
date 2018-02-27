@@ -295,7 +295,7 @@ està a punt de passar»</string>
   <string name="find_on_page_next">Següent</string>
   <string name="find_on_page_prev">Anterior</string>
   <string name="finish_sync_cloud_tabs">Sincronització finalitzada</string>
-  <string name="firstUsingSearchEngineTips">Si voleu canviar la cerca</string>
+  <string name="firstUsingSearchEngineTips">Canviar el motor de cerca?</string>
   <string name="fling_on_border_gesture_hint">Podeu triar la funció d\'aquest gest a la Configuració</string>
   <string name="force_quick_search_title">Cerca</string>
   <string name="force_touch_bookmark_history_title">Marcadors i historial</string>
@@ -1024,7 +1024,6 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="skip_button_label">Omet</string>
   <string name="skip_current_version">Omet aquesta versió</string>
   <string name="snapshot">Local</string>
-  <string name="snapshot_failed">"No s'ha pogut desar per llegir-la fora de línia"</string>
   <string name="snapshot_successed">Obre els marcadors i l\'historial -&gt; LOCAL per veure la pàgina</string>
   <string name="soft_toast_see_view">Mostra</string>
   <string name="speech_engine_not_install">El motor de veu no està instal·lat</string>
