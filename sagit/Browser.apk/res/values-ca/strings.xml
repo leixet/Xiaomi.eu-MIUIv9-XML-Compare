@@ -126,7 +126,7 @@
   <string name="bottom_bar_tabs_long_click_up_tip_txt">Llisqueu cap amunt per tancar</string>
   <string name="browserFrameFileErrorLabel">Problema de fitxer</string>
   <string name="browserFrameFormResubmitMessage">"La pagina que esteu intentant veure conté dades que ja s'han enviat. Si torneu a enviar les dades, les accions ja realitzades (per exemple, cerques o compres) es repetiran."</string>
-  <string name="browserFrameNetworkErrorLabel">Problema de connexió</string>
+  <string name="browserFrameNetworkErrorLabel">Error de connexió</string>
   <string name="cancel">Cancel·la</string>
   <string name="cancle_sync_cloud_tabs">Cancel·la la sincronització</string>
   <string name="cannot_download">Només podeu baixar URLs «http» o «https»</string>
@@ -1024,6 +1024,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="skip_button_label">Omet</string>
   <string name="skip_current_version">Omet aquesta versió</string>
   <string name="snapshot">Local</string>
+  <string name="snapshot_failed">"No s'ha pogut desar la pàgina"</string>
   <string name="snapshot_successed">Obre els marcadors i l\'historial -&gt; LOCAL per veure la pàgina</string>
   <string name="soft_toast_see_view">Mostra</string>
   <string name="speech_engine_not_install">El motor de veu no està instal·lat</string>
