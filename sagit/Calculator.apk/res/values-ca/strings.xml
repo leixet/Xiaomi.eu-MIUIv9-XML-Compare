@@ -126,7 +126,7 @@
   <string name="label">SDK de MIUI</string>
   <string name="leftParenDesc">parèntesi esquerre</string>
   <string name="lgDesc">logaritme</string>
-  <string name="lnDesc">logaritme neperià</string>
+  <string name="lnDesc">logaritme natural</string>
   <string name="loan_edittext_hint_commercial">Introduïu una quantitat</string>
   <string name="loan_edittext_hint_commercial_combined">Comercial</string>
   <string name="loan_edittext_hint_fund">Introduïu una quantitat</string>
