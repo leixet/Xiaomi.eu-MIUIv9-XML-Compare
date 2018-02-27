@@ -1028,9 +1028,9 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="snapshot_successed">Obre els marcadors i l\'historial -&gt; LOCAL per veure la pàgina</string>
   <string name="soft_toast_see_view">Mostra</string>
   <string name="speech_engine_not_install">El motor de veu no està instal·lat</string>
-  <string name="ssl_bad_clock_date_settings">Configuració de data</string>
+  <string name="ssl_bad_clock_date_settings">Estableix la data</string>
   <string name="ssl_bad_clock_warning" formatted="false">"No es pot establir una connexió privada a %s1 perquè la data i l'hora (%s2) del dispositiu són incorrectes."</string>
-  <string name="ssl_certificate">Certificat de Seguretat</string>
+  <string name="ssl_certificate">Certificat de seguretat</string>
   <string name="ssl_certificate_is_valid">Aquest certificat és vàlid.</string>
   <string name="ssl_continue">Continua</string>
   <string name="ssl_date_error_warnings_header">"El certificat d'aquest lloc ha caducat o encara no és vàlid. Se us recomana que abandoneu aquesta pàgina."</string>
@@ -1041,7 +1041,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="ssl_mismatch">"El nom del lloc no coincideix amb el nom del certificat."</string>
   <string name="ssl_not_yet_valid">"Aquest certificat encara no és vàlid."</string>
   <string name="ssl_unknown">Error de certificat desconegut.</string>
-  <string name="ssl_untrusted">"Aquest certificat no és d'una autoritat fiable."</string>
+  <string name="ssl_untrusted">"El certificat no és d'una autoritat de confiança."</string>
   <string name="ssl_warnings_header">Hi ha problemes amb el certificat de seguretat d\'aquest lloc.</string>
   <string name="start_save_page_capture">Desant captura pantalla&#8230;</string>
   <string name="storage_internal">Emmagatzematge intern</string>
