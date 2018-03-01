@@ -1677,6 +1677,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="st_antispam_title_contactandanoy_group">Configuració</string>
   <string name="st_antispam_title_null_incoming">Números privats</string>
   <string name="st_antispam_title_service_sms">Servei de notificacions</string>
+  <string name="st_antispam_title_whitelist">Excepcions</string>
   <string name="st_call_backsound_group">So de la llista de bloqueig</string>
   <string name="st_call_intercept_contacts">Bloqueja trucades dels contactes</string>
   <string name="st_call_intercept_forwarding">Bloqueja trucades desviades</string>
