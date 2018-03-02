@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="abrupt_weather_settings_summary_type_a">Unusual Weather Warning Switch</string>
+  <string name="abrupt_weather_settings_summary_type_b">Unusual Weather Warning Switch</string>
+  <string name="abrupt_weather_settings_title">Unusual Weather Warning</string>
   <string name="act_find_city_hint">Enter location</string>
   <string name="act_find_city_hot_attractions_title">Popular sites</string>
   <string name="act_find_city_hot_city_title">Popular cities</string>
@@ -77,6 +80,7 @@
   <string name="button_sure_abandon">Discard changes?</string>
   <string name="card_vote_item_vs">VS</string>
   <string name="change_alert">Check your network connection and try again</string>
+  <string name="china_version_first_start_network_msg">"By using this product, you agree to Xiaomi's%1$s and %2$s.This app needs to connect to the internet and access your location to work normally."</string>
   <string name="city_exceeded_warning">You can add up to 10 cities</string>
   <string name="commercial">Commercial</string>
   <string name="common_loading_text">Just a sec…</string>
@@ -84,6 +88,9 @@
   <string name="content_desc_activity_main_add_city">Add city</string>
   <string name="content_desc_activity_main_add_city_manage">Manage cities</string>
   <string name="content_desc_activity_main_more_settings">More settings</string>
+  <string name="content_desc_back_button">Back</string>
+  <string name="content_desc_close_button">Close</string>
+  <string name="content_desc_edit_city_manage">Manage cities</string>
   <string name="daily_forcast_drawer_on_bottom">Hide</string>
   <string name="daily_forcast_no_stable_direction">Breeze</string>
   <string name="daily_forcast_no_wind">0</string>
@@ -149,6 +156,7 @@ Pull down to refresh or check the network settings"</string>
   <string name="indices_title_uv">UV index</string>
   <string name="indices_title_visibility">Visibility</string>
   <string name="information_manager_extension">Weather extension</string>
+  <string name="information_settings_title">Weather info</string>
   <string name="information_time_source">%1$s | %2$s</string>
   <string name="information_views"/>
   <string name="install">Install</string>
@@ -160,6 +168,7 @@ Pull down to refresh or check the network settings"</string>
   <string name="international_details_uv_index_title">UV INDEX</string>
   <string name="international_details_wind_connect">%1$s %2$s</string>
   <string name="international_details_wind_title">WIND</string>
+  <string name="international_version_first_start_network_msg">"By using this product, you agree to Xiaomi's%1$s.This app needs to connect the network, upload the city information you entered in order to obtain the corresponding city weather data. Click agree to continue."</string>
   <string name="it_is_going_to_rain">"It's going to rain"</string>
   <string name="locate_fail_detail_err">"Can't locate device
 Tap the screen to manually add or reposition city"</string>
@@ -167,9 +176,9 @@ Tap the screen to manually add or reposition city"</string>
   <string name="lunar_calendar"/>
   <string name="menu_add_city">Edit locations</string>
   <string name="menu_location">Locations</string>
-  <string name="menu_minute_rain">2-hour precipitation forecast</string>
-  <string name="menu_speeker">Voice broadcast</string>
+  <string name="menu_speaker">Voice broadcast</string>
   <string name="mi_pad2">latte</string>
+  <string name="minute_rain">Precipitation forecast</string>
   <string name="minute_rain_after_an_hour">In 1 hour</string>
   <string name="minute_rain_after_two_hour">In 2 hours</string>
   <string name="minute_rain_feedback_subtitle">Tell us what the weather is.</string>
@@ -181,6 +190,7 @@ Tap the screen to manually add or reposition city"</string>
   <string name="minute_rain_progress_indicator_original_time">- -</string>
   <string name="minute_rain_pull_down_refresh">Pull down to refresh</string>
   <string name="minute_rain_refreshing_now">Refreshing…</string>
+  <string name="missing_required_permission">You have disabled a required permission.</string>
   <string name="more_details">More details</string>
   <string name="network_not_available">"Can't connect to the network"</string>
   <string name="network_unavailable">"Can't connect to the network."</string>
@@ -193,6 +203,7 @@ Tap the screen to manually add or reposition city"</string>
   <string name="open_browser">Open in browser</string>
   <string name="open_now">Open</string>
   <string name="other">Other</string>
+  <string name="other_settings">Other settings</string>
   <string name="other_warning_settings">Other alerts</string>
   <string name="particulate_matter_exceeded">High</string>
   <string name="particulate_matter_not_exceeded">Normal</string>
@@ -240,6 +251,7 @@ Tap the screen to manually add or reposition city"</string>
   <string name="sunset">Sunset</string>
   <string name="temperature_unit_C">%1$s℃</string>
   <string name="temperature_unit_F">%1$s℉</string>
+  <string name="temperature_unit_default">0</string>
   <string name="title_share_link">Share URL</string>
   <string name="top_pollution_co">CO</string>
   <string name="top_pollution_no2">NO2</string>
@@ -280,6 +292,7 @@ Tap the screen to manually add or reposition city"</string>
   <string name="weather_alert">Weather alerts</string>
   <string name="wind_direction_no_data">Wind</string>
   <string name="wind_miles_unit">%1$smph</string>
+  <string name="wind_power_unit_default">0</string>
   <string name="wind_unit">%1$skm/h</string>
   <string name="xiaomi_weather_description_content">"Weather provides you with accurate weather info. Without this app, status bar and Home screen Weather widget won't work properly. Make sure you can do without these features before you uninstall the app."</string>
   <string name="xiaomi_weather_description_title">About Weather</string>

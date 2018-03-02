@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="access_sd_fail">"Couldn't access USB storage."</string>
+  <string name="access_sd_fail">"Couldn't access SD card."</string>
   <string name="accessibility_audio_shutter_bg">Audio Shutter background</string>
   <string name="accessibility_camera_module_picker">CameraModulePicker</string>
   <string name="accessibility_camera_picker">Front and rear camera switch</string>
@@ -35,7 +35,7 @@
   <string name="camera_snap_mode_title_detail">Tap to view details</string>
   <string name="cannot_connect_camera_once">"Can't connect to camera"</string>
   <string name="cannot_connect_camera_twice">"Still can't connect to camera. Try restarting your device."</string>
-  <string name="cannot_connect_camera_volte_call">Video call is ongoing, please try later.</string>
+  <string name="cannot_connect_camera_volte_call">Video call is in progress, try again later.</string>
   <string name="cannot_move_warning_message">Taking photo, keep the device still</string>
   <string name="confirm_install_scanner_message">"Scanner allows you to scan QR codes, barcodes, and more. You don't have to connect to the internet to install it."</string>
   <string name="confirm_install_scanner_title">Install Scanner</string>
@@ -90,12 +90,12 @@ and then create a shot where everyone looks best."</string>
   <string name="install_confirmed">Install</string>
   <string name="message_snap_double_confirm">Long pressing the volume button triggers NFC now. Replace this feature?</string>
   <string name="no_storage">Insert SD card before using camera</string>
-  <string name="not_enough_space">Internal storage is full</string>
+  <string name="not_enough_space">SD card is full</string>
   <string name="object_track_enable_toast">To select an object, simultaneously tap two diagonal points around its border.</string>
   <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
   <string name="pano_how_to_use_prompt_align_reference_line">Align the arrow with the reference line</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Keep going…</string>
-  <string name="pano_how_to_use_prompt_slow_down">Please slow down</string>
+  <string name="pano_how_to_use_prompt_slow_down">Slow down…</string>
   <string name="pano_how_to_use_prompt_to_move">Begin panning slowly</string>
   <string name="path_settings">System apps/Camera/Settings</string>
   <string name="portrait_mode_depth_effect_success_hint">Depth effect</string>
@@ -201,7 +201,7 @@ and brings out the people in the front."</string>
   <string name="pref_camera_delay_capture_entry_audio">Audio</string>
   <string name="pref_camera_delay_capture_title">Timer</string>
   <string name="pref_camera_exposuretime_default">0</string>
-  <string name="pref_camera_exposuretime_entry_0.5">2s</string>
+  <string name="pref_camera_exposuretime_entry_0_5">2s</string>
   <string name="pref_camera_exposuretime_entry_1">1s</string>
   <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
   <string name="pref_camera_exposuretime_entry_125">1/125s</string>
@@ -406,7 +406,7 @@ and brings out the people in the front."</string>
   <string name="pref_camera_video_duration_entry_10">10 minutes</string>
   <string name="pref_camera_video_duration_entry_120">No limit</string>
   <string name="pref_camera_video_duration_entry_30">30 minutes</string>
-  <string name="pref_camera_video_duration_entry_mms">30 seconds(MMS)</string>
+  <string name="pref_camera_video_duration_entry_mms">30 seconds (MMS)</string>
   <string name="pref_camera_video_flashmode_default">off</string>
   <string name="pref_camera_volumekey_function_default">shutter</string>
   <string name="pref_camera_volumekey_function_entry_exposure">Exposure</string>
@@ -531,7 +531,7 @@ and brings out the people in the front."</string>
   <string name="pref_video_time_lapse_frame_interval_entry_90">Interval of 3 seconds (90 times)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">Interval of 30 seconds (900 times)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Time lapse interval</string>
-  <string name="preparing_sd">Checking internal storage…</string>
+  <string name="preparing_sd">Checking SD card…</string>
   <string name="record_back_pressed_hint">Touch again to stop recording</string>
   <string name="screen_on_proximity_sensor_hint">To turn this feature off, press the Volume up and Back buttons simultaneously.</string>
   <string name="screen_on_proximity_sensor_summary">"Don't cover the earphone area"</string>
