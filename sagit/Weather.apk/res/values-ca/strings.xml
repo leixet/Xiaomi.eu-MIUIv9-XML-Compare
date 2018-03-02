@@ -133,8 +133,6 @@ Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
   <string name="location_tag">Ubica</string>
   <string name="menu_add_city">Edita les ubicacions</string>
   <string name="menu_location">Ubicacions</string>
-  <string name="menu_minute_rain">Previsió de dues hores de precipitació</string>
-  <string name="menu_speeker">Difusió de veu</string>
   <string name="minute_rain_after_an_hour">Una hora més tard</string>
   <string name="minute_rain_after_two_hour">Dues hores més tard</string>
   <string name="minute_rain_feedback_subtitle">Només digueu-me com és el temps</string>
