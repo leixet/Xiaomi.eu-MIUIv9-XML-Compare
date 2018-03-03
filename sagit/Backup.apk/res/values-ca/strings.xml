@@ -236,6 +236,7 @@ primer heu de crear una còpia de seguretat d\'iCloud "</string>
   <string name="notif_icloud_need_wifi_summary">S\'està esperant una Wi-Fi</string>
   <string name="notif_icloud_saved_summary">S\'ha importat amb èxit</string>
   <string name="notif_icloud_saving_summary">S\'estan restaurant les dades…</string>
+  <string name="notif_miasist_try_to_connect">Mi PC Suite està tractant de connectar-se amb el dispositiu</string>
   <string name="notif_parse_select_descript_error">"No s'ha pogut sincronitzar la llista d'elements amb còpia de seguretat."</string>
   <string name="notif_receiving_transingsd">Rebent %1$s (%2$s)…</string>
   <string name="notif_restore_complete_title">S\'ha restaurat amb èxit</string>
@@ -499,6 +500,7 @@ Mantingueu els dispositius propers l\'un de l\'altre."</string>
   <string name="trans_show_qr_code_tips">Escaneja el codi QR utilitzant el dispositiu antic</string>
   <string name="trans_start_failed_message">"No s'ha pogut iniciar la transferència, torneu-ho a provar o reinicieu el dispositiu."</string>
   <string name="trans_start_failed_title">"No s'ha pogut iniciar la transferència"</string>
+  <string name="trans_switching_5g">S\'està canviant a la Wi-Fi 5GHz…</string>
   <string name="trans_time_format_second">Menys d\'un minut</string>
   <string name="trans_time_spent">"
 Temps emprat: %s"</string>
