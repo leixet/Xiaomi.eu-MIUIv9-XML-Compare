@@ -384,6 +384,12 @@ Toca el botó de configuració de sincronització per veure més opcions\"</stri
   <string name="micloud_privacy_cloud_off">Sincronització desactivada</string>
   <string name="micloud_privacy_cloud_sync">Activeu el Mi Cloud</string>
   <string name="micloud_privacy_explanation">Activeu el Mi Cloud després d\'habilitar l\'autorització</string>
+  <string name="micloud_privacy_licence_agreed">Accepteu la política de privadesa del Mi Cloud.</string>
+  <string name="micloud_privacy_licence_privacy_policy">política de privadesa</string>
+  <string name="micloud_privacy_more">més</string>
+  <string name="micloud_privacy_warning_button">Enrera</string>
+  <string name="micloud_privacy_warning_content">"No es pot activar el Mi Cloud. Proveu-ho més tard."</string>
+  <string name="micloud_privacy_warning_title">Pista</string>
   <string name="micloud_proceed">Continuar</string>
   <string name="micloud_request_permission_confirm">Ho entenc</string>
   <string name="micloud_request_permission_content">El Mi Cloud necessita permissos per a sincronitzar les dades. Permeteu al Mi Cloud accedir al Calendari, Contactes, Compte Mi, estat de la targeta SIM, historial de trucades i missatges.</string>
