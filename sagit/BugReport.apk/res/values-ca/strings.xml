@@ -84,6 +84,7 @@
   <string name="feedback_retest_label">Passos per reproduir-lo</string>
   <string name="feedback_select_images">Afegeix imatges</string>
   <string name="feedback_select_modem_log">Afegeix els registres del mòdem</string>
+  <string name="feedback_select_modem_log_not_select_desc">"No heu seleccionat «Afegeix registres del mòdem»"</string>
   <string name="feedback_select_problem">Problemes</string>
   <string name="feedback_select_suggestion">Suggeriments</string>
   <string name="feedback_select_upload_log">Afegeix registres</string>
