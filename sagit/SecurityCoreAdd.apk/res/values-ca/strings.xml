@@ -230,9 +230,6 @@ Si no s\'actualitza, és possible que les aplicacions duals no funcionin correct
   <string name="setting_is_show_text_contacts">Establir contactes privats i missatges</string>
   <string name="settings_cross_notification_summary">Rebre notificacions des de l\'altre espai</string>
   <string name="settings_cross_notification_title">Notificacions</string>
-  <string name="settings_msg_add_shortcut">Drecera al Primer espai afegida</string>
-  <string name="settings_msg_remove_shortcut">Eliminada drecera des del Primer espai</string>
-  <string name="settings_notification_and_switch">Notificacions i commutadors</string>
   <string name="settings_space_data">Dades</string>
   <string name="settings_status_icon_summary">Mostrar la icona del Segon espai a la barra d\'estat</string>
   <string name="settings_status_icon_title">Icona del Segon espai</string>
