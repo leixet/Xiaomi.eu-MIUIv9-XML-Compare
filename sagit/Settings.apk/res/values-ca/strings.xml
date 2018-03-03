@@ -3108,6 +3108,18 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="privacy_authorize_dialog_agree">D\'acord</string>
   <string name="privacy_authorize_dialog_exit">Surt</string>
   <string name="privacy_authorize_dialog_message">%1$s requereix que llegiu i accepteu %2$s. L\'aplicació necessita connexió a la xarxa per funcionar normalment. Hi esteu d\'acord?</string>
+  <string name="privacy_authorize_network_error">Connecteu-vos a la xarxa i torneu-ho a provar.</string>
+  <string name="privacy_authorize_privacy_policy">Política de privadesa</string>
+  <string name="privacy_authorize_revoke">Revoca</string>
+  <string name="privacy_authorize_revoke_dialog_msg">Després de revocar l\'autorització, l\'aplicació deixarà de recopilar dades i totes les dades relacionades se suprimiran dels servidors. Això pot fer que l\'aplicació sigui pràcticament inutilitzable. Voleu revocar l\'autorització de tota manera?</string>
+  <string name="privacy_authorize_revoke_dialog_title">Revocació de l\'autorització</string>
+  <string name="privacy_authorize_revoke_failed">"No s'ha pogut revocar l'autorització"</string>
+  <string name="privacy_authorize_revoke_success">S\'ha revocat l\'autorització amb èxit</string>
+  <string name="privacy_authorize_revoke_time">Revoca (%1$d s)</string>
+  <string name="privacy_authorize_revoke_title">Autorització i revocació</string>
+  <string name="privacy_authorize_revoking">S\'està revocant l\'autorització…</string>
+  <string name="privacy_authorize_success">Autorització concedida amb èxit</string>
+  <string name="privacy_authorize_title">Concessió de l\'autorització</string>
   <string name="privacy_close_dlg_button_ok">Desactiva</string>
   <string name="privacy_close_dlg_msg">Quan la contrasenya de protecció de privacitat està desactivada, els elements ja no estaran protegits.</string>
   <string name="privacy_close_dlg_title">Atenció</string>
@@ -3746,6 +3758,8 @@ Per fer-ho:
   <string name="search_xiaomi_account">Mi Account</string>
   <string name="search_xspace">Aplicació dual;Aplicacions duals;Aplicació doble;Aplicacions Dobles;Clona l\'aplicació;Clona aplicacions;Clon d\'aplicació;Clons d\'aplicacions;Dos comptes;2 comptes</string>
   <string name="second_space">Segon espai</string>
+  <string name="secondspace_category">Segon espai</string>
+  <string name="secondspace_delete_space_title">Esborrar el segon espai</string>
   <string name="secure_keyguard_business_title">Configuració del bloqueig de pantalla</string>
   <string name="secure_lock_encryption_warning">Atès que vau activar un servei de facilitat d\'accés, el dispositiu no utilitzarà el bloqueig de pantalla per millorar el xifrat de les dades.</string>
   <string name="security_dashboard_summary">Bloqueig de pantalla, empremta</string>
@@ -3815,7 +3829,9 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="security_settings_premium_sms_desc">Envia SMS prèmium</string>
   <string name="security_settings_summary">Defineix La meva ubicació, el desbloqueig de pantalla i el bloqueig d\'emmagatzematge de certificats</string>
   <string name="security_settings_title">Seguretat</string>
+  <string name="security_status">Estat de la seguretat</string>
   <string name="security_status_title">Estat de la seguretat</string>
+  <string name="security_update">Actualització de seguretat</string>
   <string name="select_all">Selecciona-ho tot</string>
   <string name="select_application">Selecciona l\'aplicació</string>
   <string name="select_device_admin_msg">Administrador del dispositiu</string>
@@ -4390,6 +4406,8 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="testing_usage_stats">Estadístiques d\'ús</string>
   <string name="testing_wifi_info">Informació del senyal Wi-Fi</string>
   <string name="tether_and_hotspot_title">Connexió compartida d\'Internet</string>
+  <string name="tether_auto_disable_summary">Tanca automàticament el punt d\'accés quan no hi hagi cap dispositiu connectat</string>
+  <string name="tether_auto_disable_title">Tanca automàticament el punt d\'accés</string>
   <string name="tether_data_usage_limit">Límit de dades d\'una sola vegada</string>
   <string name="tether_data_usage_limit_summary">El límit de dades s\'aplicarà la propera vegada que el punt d\'accés estigui activat</string>
   <string name="tether_devices_management_title">Gestió de dispositius</string>
@@ -4694,6 +4712,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="use_open_wifi_automatically_summary">Connecta automàticament a xarxes públiques de gran qualitat</string>
   <string name="use_open_wifi_automatically_title">Connecteu-vos a xarxes obertes</string>
   <string name="use_personalized_ad_service">Anuncis personalitzats</string>
+  <string name="use_personalized_ad_service_summary">Quan la característica de recomanació estigui desactivada, encara veureu la mateixa quantitat d\'anuncis que quan està activada, però no en funció de les dades de comportament o de la vostra informació personal.</string>
   <string name="use_privacy_password_immediate">Utilitza</string>
   <string name="use_system_language_to_select_input_method_subtypes">Utilitza l\'idioma del sistema</string>
   <string name="use_this_wlan">Roman connectat</string>
@@ -4851,6 +4870,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="virus_scanner_update_lib">Actualitza les definicions</string>
   <string name="vision_settings_description">Podeu personalitzar el dispositiu perquè s\'adapti a les vostres necessitats. Aquestes funcions d\'accessibilitat es poden canviar posteriorment des de Configuració.</string>
   <string name="vision_settings_title">Configuració de visió</string>
+  <string name="voice_assist">Xiao Ai</string>
   <string name="voice_category">Veu</string>
   <string name="voice_helper_title">Assistent de veu</string>
   <string name="voice_input_output_settings">Entrada i sortida de veu</string>
