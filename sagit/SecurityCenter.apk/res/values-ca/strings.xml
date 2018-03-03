@@ -15,6 +15,12 @@
   <string name="ac_firstUseApplock_subTitle">Utilitzeu el bloquejador d\'aplicacions per protegir la seva privacitat</string>
   <string name="ac_firstUseApplock_title">Sol·licitar contrasenya per obrir les aplicacions seleccionades</string>
   <string name="ac_mask_all_apps">Amaga per a totes les aplicacions</string>
+  <string name="ac_notification_contentText">Toqueu per activar-lo</string>
+  <string name="ac_notification_contentTitle">Protegeix les aplicacions amb el bloqueig d\'aplicacions</string>
+  <string name="ac_post_notification_contentText">Obtén protecció al nivell del sistema</string>
+  <string name="ac_post_notification_contentTitle">Activa el bloquejador d\'aplicacions</string>
+  <string name="ac_pre_notification_contentText">Protegeix la vostra informació personal</string>
+  <string name="ac_pre_notification_contentTitle">Proveu el bloquejador d\'aplicacions</string>
   <string name="ac_summaryOff">Desactivat, no es requereix cap contrasenya per obrir aplicacions</string>
   <string name="ac_summaryOn">Activat, es requereix una clau per obrir aplicacions</string>
   <string name="ac_unmask_all_apps">Mostra-ho per a totes les aplicacions</string>
@@ -1073,6 +1079,8 @@ L\'operadora podria carregar-li costos addicionals si feu servir la connexió de
   <string name="network_blocked_connected_open_wifi">Connectat a xarxa pública</string>
   <string name="network_blocked_notification_summary">Comprovació de la xarxa</string>
   <string name="network_blocked_switch_wifi">Canvia xarxes</string>
+  <string name="network_changed_noti_summary">S\'està utilitzant dades mòbils</string>
+  <string name="network_changed_noti_title">Desconnectat de la Wi-Fi</string>
   <string name="network_connected_exception_title">Comprovació de la xarxa</string>
   <string name="network_control">Veure paràmetres de l\'aplicació</string>
   <string name="network_diagnostics">Comprovació de la xarxa</string>
