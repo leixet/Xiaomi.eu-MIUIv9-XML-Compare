@@ -1405,6 +1405,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»"</string>
   <string name="disable_service_title">Voleu aturar %1$s?</string>
   <string name="disable_text">Desactiva</string>
   <string name="disabled">S\'ha desactivat</string>
+  <string name="disabled_authorised_apps_title">Autorització revocada</string>
   <string name="disabled_because_no_backup_security">Per utilitzar-lo, heu de configurar un bloqueig de pantalla</string>
   <string name="disabled_by_admin">Desactivat per l\'administrador</string>
   <string name="disabled_by_admin_summary_text">Controlat per l\'administrador</string>
@@ -1415,6 +1416,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»"</string>
   <string name="disabled_by_policy_title_outgoing_calls">La trucada no està permesa</string>
   <string name="disabled_by_policy_title_screen_capture">Captura de pantalla no permesaa</string>
   <string name="disabled_by_policy_title_sms">SMS no permès</string>
+  <string name="disabled_low_ram_device">Aquesta característica no està disponible en aquest dispositiu</string>
   <string name="disconnect">desconnecta</string>
   <string name="disconnected">S\'ha desconnectat</string>
   <string name="display_auto_rotate_rotate">Activat</string>
@@ -1567,6 +1569,8 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»"</string>
   <string name="enable_terminal_title">Terminal local</string>
   <string name="enable_text">Activa</string>
   <string name="enable_wifi_display">Activa la pantalla sense fils</string>
+  <string name="enabled_authorised_apps_summary">La vostra autorització es revocarà després de commutar canvis d\'aplicacions individuals.</string>
+  <string name="enabled_authorised_apps_title">Autorització concedida</string>
   <string name="enabled_by_admin">Activat per l\'administrador</string>
   <string name="enalbe_identify_iPhone">Identificació de l\'AP</string>
   <string name="encrypt_talkback_dialog_message_password">En introduir la contrasenya per a iniciar aquest dispositiu, els serveis d\'accessibilitat com %1$s encara no estaran disponibles.</string>
@@ -1703,6 +1707,9 @@ Per obtenir més informació, contacteu amb l\'administrador de l\'organització
   <string name="filter_personal_apps">Personal</string>
   <string name="filter_work_apps">Laboral</string>
   <string name="filter_write_settings_apps">L\'aplicació pot canviar la configuració del sistema</string>
+  <string name="find_my_device">Cerca el dispositiu</string>
+  <string name="find_my_device_disable">Desactivat</string>
+  <string name="find_my_device_enable">Activat</string>
   <string name="fingerprint_add_max">Podeu afegir fins a %d empremtes</string>
   <string name="fingerprint_add_title">Afegeix una empremta</string>
   <string name="fingerprint_and_password_entrance_title">Pantalla de bloqueig i empremta</string>
@@ -1844,6 +1851,8 @@ Però ja no obtingué resposta, perquè el malalt greu acabava de morir d’una 
   <string name="free_xiaomi_wifi_connect_summary">Toqueu-ho per a connectar amb %1$s.</string>
   <string name="frequently_fragment_delete">Suprimeix</string>
   <string name="frequently_fragment_tempty">Els elements freqüents es mostraran aquí</string>
+  <string name="fsg_mistake_touch_summary">En algunes escenes, com jocs de i vídeos a pantalla completa, els gestos han de tenir doble toc perquè tinguin efecte</string>
+  <string name="fsg_mistake_touch_title">Doble comprovació per als gestos</string>
   <string name="full_transparent_smarrcover_title">Tapa frontal transparent</string>
   <string name="fullbackup_data_summary">«Creeu còpies de seguretat automàtiques de les dades del dispositiu (com ara les contrasenyes de la Wi-Fi o l\'historial de trucades) i de les aplicacions (com ara les configuracions i els fitxers que desin) de manera remota.
 
@@ -2498,6 +2507,7 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="menu_stats_unplugged">%1$s des que es va desendollar</string>
   <string name="menu_use_uss">Utiliza Uss</string>
   <string name="mi_shopping_mall">El meu centre comercial</string>
+  <string name="mi_upi_settings">Compte Mi Pay</string>
   <string name="misc_files">Fitxers diversos</string>
   <string name="misc_files_selected_count">Seleccionats %1$d de %2$d</string>
   <string name="miui_allow_alarm">Alarmes</string>
@@ -2717,6 +2727,12 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="night_display_temperature_title">Intensitat</string>
   <string name="night_display_text">La llum nocturna tinta la pantalla de color ambre. Això fa que sigui més fàcil mirar la pantalla o llegir amb poca llum, i pot ajudar-vos a agafar el son més fàcilment.</string>
   <string name="night_display_title">Llum nocturna</string>
+  <string name="night_light">Mode nit</string>
+  <string name="night_light_brightness">Lluentor de llum nit</string>
+  <string name="night_light_color">Temperatura de color del mode nit</string>
+  <string name="night_light_color_tip">Els canvis tindran efecte quan el mode lectura estigui desactivat</string>
+  <string name="night_light_summary">Per activar el mode nit, minimitzeu la brillantor de la pantalla en condicions de poca llum.</string>
+  <string name="night_light_tip">Els canvis tindran efecte quan el mode nit estigui activat</string>
   <string name="no_application">Res</string>
   <string name="no_applications">Cap aplicació.</string>
   <string name="no_battery_summary">Cap ús de la bateria des de l\'última càrrega completa</string>
@@ -3089,6 +3105,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="priority_storage_settings_summary">"Si no es detecta cap SD, les dades d'usuari seran guardades de forma automàtica a l'emmagatzematge intern del dispositiu"</string>
   <string name="priority_storage_summary">Trieu on es desen les dades d\'usuari</string>
   <string name="priority_storage_title">Configuració d\'emmagatzematge</string>
+  <string name="privacy_authorize_dialog_agree">D\'acord</string>
+  <string name="privacy_authorize_dialog_exit">Surt</string>
   <string name="privacy_close_dlg_button_ok">Desactiva</string>
   <string name="privacy_close_dlg_msg">Quan la contrasenya de protecció de privacitat està desactivada, els elements ja no estaran protegits.</string>
   <string name="privacy_close_dlg_title">Atenció</string>
