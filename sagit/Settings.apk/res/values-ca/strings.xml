@@ -3107,6 +3107,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="priority_storage_title">Configuració d\'emmagatzematge</string>
   <string name="privacy_authorize_dialog_agree">D\'acord</string>
   <string name="privacy_authorize_dialog_exit">Surt</string>
+  <string name="privacy_authorize_dialog_message">%1$s requereix que llegiu i accepteu %2$s. L\'aplicació necessita connexió a la xarxa per funcionar normalment. Hi esteu d\'acord?</string>
   <string name="privacy_close_dlg_button_ok">Desactiva</string>
   <string name="privacy_close_dlg_msg">Quan la contrasenya de protecció de privacitat està desactivada, els elements ja no estaran protegits.</string>
   <string name="privacy_close_dlg_title">Atenció</string>
