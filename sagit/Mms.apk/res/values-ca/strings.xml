@@ -33,6 +33,7 @@
   <string name="attach_sound">Àudio</string>
   <string name="attach_subject">Assumpte</string>
   <string name="attach_take_photo">Pren una foto</string>
+  <string name="attach_transaction">Envia diners</string>
   <string name="attach_video">Vídeo</string>
   <string name="audio_download_failed">"No es pot baixar l'àudio"</string>
   <string name="audio_message_expired">Aquest missatge de veu ha caducat.</string>
@@ -506,6 +507,7 @@
   <string name="select_local_audio">Seleccioneu un àudio</string>
   <string name="select_local_video">Seleccioneu un vídeo</string>
   <string name="select_message_send_sim">Trieu la targeta SIM</string>
+  <string name="select_phone_number">Seleccioneu el número de telèfon</string>
   <string name="select_recipient">Seleccioneu els destinataris</string>
   <string name="select_sim">Seleccioneu una targeta SIM</string>
   <string name="select_top_text">Text en la part superior</string>
