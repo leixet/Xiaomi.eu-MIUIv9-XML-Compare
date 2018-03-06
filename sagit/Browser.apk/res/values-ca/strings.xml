@@ -196,7 +196,7 @@
   <string name="current_version_phone">Telèfon</string>
   <string name="custom_head_card_text">«Creu sempre que alguna cosa meravellosa
 està a punt de passar»</string>
-  <string name="data_monitor">Monitor de dades</string>
+  <string name="data_monitor">Monitor d\'ús de dades</string>
   <string name="data_monitor_dialog_message">Sembla que alguna cosa està drenant les vostres dades mòbils. Obriu la pàgina d\'inici per aturar-ho.</string>
   <string name="data_traffic_prompt_message">"L'ús de la connexió de dades mòbils per navegar pels vídeos augmentarà el vostre ús de dades. Si excediu el límit d'ús de dades del vostre pla, l'operador us podria cobrar despeses addicionals."</string>
   <string name="data_traffic_prompt_title">Alerta d\'ús de dades</string>
@@ -770,7 +770,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="nav_screen_container_tab_normal">Pestanya normal</string>
   <string name="nav_screen_incognito_message">"L\'historial de navegació i cerca no es desarà al mode incògnit. Recordeu que els fitxers que baixeu i els marcadors que afegiu es desaran."</string>
   <string name="nav_screen_incognito_title">Mode d\'incògnit</string>
-  <string name="navigation_delete_all">llisqueu cap a l\'esquerra i cap a la dreta per tancar totes les pestanyes</string>
+  <string name="navigation_delete_all">Llisqueu cap a l\'esquerra i cap a la dreta per tancar totes les pestanyes</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">Cancel·la</string>
   <string name="navigationbar_rightbutton_actiontext_go">Vés</string>
   <string name="navigationbar_rightbutton_actiontext_search">Cerca</string>
@@ -1065,11 +1065,11 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="suggest_access_btn_play">Reprodueix</string>
   <string name="suggest_access_btn_view">Mostra</string>
   <string name="suggest_access_item_album_songs">%d cançons</string>
-  <string name="suggest_access_item_app_mark">APLICACIÓ</string>
+  <string name="suggest_access_item_app_mark">APLICACIONS</string>
   <string name="suggest_access_item_app_size">%.2f MB</string>
   <string name="suggest_access_item_app_update">Actualització: %s</string>
   <string name="suggest_access_item_book_mark">LLIBRES</string>
-  <string name="suggest_access_item_mina_mark">APLICACIONS INSTANTÀNIES</string>
+  <string name="suggest_access_item_mina_mark">APLICACIONS RÀPIDES</string>
   <string name="suggest_access_item_music_mark">MÚSICA</string>
   <string name="suggest_access_item_singer_albums">%d àlbums</string>
   <string name="suggest_access_item_singer_pop">%d cançons populars</string>
@@ -1081,7 +1081,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="suggest_item_delete_text">Elimina</string>
   <string name="suggest_open_app_failed">"No s'ha pogut obrir aquesta aplicació"</string>
   <string name="suggestion_lottery_detail_pour">%s NOTA</string>
-  <string name="suggestion_lottery_detail_price">CADA NOTA %s IUAN</string>
+  <string name="suggestion_lottery_detail_price">CADA NOTA VAL MÉS QUE %s IUAN</string>
   <string name="suggestion_lottery_detail_text">AQUESTA RONDA %s</string>
   <string name="suggestion_lottery_period">RONDA %s</string>
   <string name="suggestion_translation_more">MOSTRA\'N MÉS</string>
