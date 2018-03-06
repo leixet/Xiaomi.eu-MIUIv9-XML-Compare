@@ -340,6 +340,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_whitebalance_entry_manual">Manual</string>
   <string name="pref_camera_whitebalance_entry_measure">Mesura</string>
   <string name="pref_camera_whitebalance_title">Balanç de blancs</string>
+  <string name="pref_camera_zoom_mode_entry_high_pixel">GRAN PÍXEL</string>
   <string name="pref_camera_zoom_mode_entry_standard">NORMAL</string>
   <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
   <string name="pref_camera_zoom_mode_entry_wide">PANORÀMICA</string>
