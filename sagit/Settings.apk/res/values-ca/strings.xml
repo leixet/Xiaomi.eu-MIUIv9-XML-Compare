@@ -5023,6 +5023,8 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wfd_menu_teardown">Atura</string>
   <string name="wfd_settings_description">Connexió amb la pantalla via Wi-Fi</string>
   <string name="wfd_settings_title">Pantalla sense fils</string>
+  <string name="wfd_status_dialog_disconnect">Desconnecta</string>
+  <string name="wfd_status_dialog_title">Pantalla sense fils</string>
   <string name="wfd_wps_keypad">Utilitza el teclat</string>
   <string name="wfd_wps_pbc">Introdueix el PIN</string>
   <string name="whetstone_level_reboot">Aquesta configuració s\'aplicarà quan reinicieu el dispositiu.</string>
