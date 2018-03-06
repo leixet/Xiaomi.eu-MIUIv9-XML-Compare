@@ -795,7 +795,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="open_voice_permission">Permís per obrir la xarxa de veu</string>
   <string name="page_info">Informació de la pàgina</string>
   <string name="page_info_address">Adreça:</string>
-  <string name="page_info_view">Visualitza la informació de la pàgina</string>
+  <string name="page_info_view">Mostra la informació de la pàgina</string>
   <string name="password">Contrasenya</string>
   <string name="pause_download">En pausa</string>
   <string name="paused_queued_for_wifi">S\'està esperant la connexió&#8230;</string>
