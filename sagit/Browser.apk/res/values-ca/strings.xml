@@ -1110,7 +1110,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="undo">Desfés</string>
   <string name="unknown_title">Desconegut</string>
   <string name="unsecurity_url_toast">"Aquesta web no és segura"</string>
-  <string name="up_to_loading_tips">Allibereu per actualitzar</string>
+  <string name="up_to_loading_tips">Deixeu anar per actualitzar</string>
   <string name="update_no_network_toast">"No es pot connectar a la xarxa"</string>
   <string name="uploads_disabled">La pujada de fitxers està desactivada</string>
   <string name="url_copy_done">La URL s\'ha copiat al porta-retalls</string>
