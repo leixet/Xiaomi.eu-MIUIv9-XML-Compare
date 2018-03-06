@@ -571,7 +571,7 @@ Feu més fotos als vostres amics!"</string>
   <string name="hybrid_network_unavaliable">"No es pot connectar a la xarxa"</string>
   <string name="hybrid_pull_to_refresh_pull_label">Estireu per actualitzar&#8230;</string>
   <string name="hybrid_pull_to_refresh_refreshing_label">Un moment…</string>
-  <string name="hybrid_pull_to_refresh_release_label">Deixeu anar per actualitzar&#8230;</string>
+  <string name="hybrid_pull_to_refresh_release_label">Deixeu anar per actualitzar…</string>
   <string name="hybrid_service_unavailiable">Servei no disponible</string>
   <string name="hybrid_try_again">Torna-ho a provar</string>
   <string name="ignore_album">"No el mostris"</string>
