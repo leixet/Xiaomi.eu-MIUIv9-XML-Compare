@@ -129,6 +129,7 @@ https://appleid.apple.com/#!&amp;page=entra per tancar"</string>
   <string name="err_bakfile_broken">"No es pot utilitzar aquesta còpia de seguretat."</string>
   <string name="err_filesystem_mount">"No es pot accedir a l'emmagatzamatge de l'encaminador"</string>
   <string name="err_low_storage">No hi ha prou espai</string>
+  <string name="err_not_allow">No compatible</string>
   <string name="err_router_disconnected">"Comproveu la connexió de l'encaminador i torneu-ho a provar."</string>
   <string name="err_router_files_delete">"No s'han pogut eliminar les còpies de seguretat de l'encaminador"</string>
   <string name="err_unknown">Error desconegut</string>
