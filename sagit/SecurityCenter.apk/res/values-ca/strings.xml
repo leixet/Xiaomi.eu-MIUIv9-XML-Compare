@@ -560,6 +560,10 @@
   <string name="data_usage_no_total_package_body">Toqui per establir el límit de dades</string>
   <string name="data_usage_no_total_package_body_dual">No hi ha límit de dades establert per %s.</string>
   <string name="data_usage_no_total_package_title">Estableix un límit d\'ús de dades</string>
+  <string name="data_usage_protected_dialog_message">"MIUI ha desactivat les dades mòbils per evitar que es generin càrrecs addicionals per l\'operadora.
+
+La vostra operadora podria cobrar-li càrrecs addicionals si torneu a activar les dades mòbils."</string>
+  <string name="data_usage_protected_notify_message">MIUI ha desactivat les dades mòbils per evitar que es generin càrrecs addicionals per a la operadora.</string>
   <string name="data_usage_protected_notify_title">"Ja heu utilitzat 5 GB de dades mòbils"</string>
   <string name="data_usage_warning_body">Toqueu per veure els detalls d\'ús de dades.</string>
   <string name="data_usage_warning_body_notify">Premeu per veure els detalls</string>
@@ -586,6 +590,10 @@
   <string name="dialog_msg_auto_start_declare">Algunes aplicacions de seguretat poden indicar incorrectament que MIUI els ha prohibit iniciar. Per comprovar els permisos que han estat concedits a les aplicacions individualment, aneu a Configuració i Aplicacions.</string>
   <string name="dialog_msg_stop_virus_scan">"Voleu aturar l'anàlisi de virus abans que acabi?"</string>
   <string name="dialog_no_longer_alert">"No ho tornis a mostrar"</string>
+  <string name="dialog_restrict_all_mobile_summary">%s La connexió de dades mòbils es restringirà a totes les aplicacions després d\'això.</string>
+  <string name="dialog_restrict_all_mobile_title">Restringeix la connexió %s de dades mòbils</string>
+  <string name="dialog_restrict_all_wlan_summary">La connexió Wi-Fi es restringirà a totes les aplicacions després d\'això.</string>
+  <string name="dialog_restrict_all_wlan_title">Restringeix la connexió Wi-Fi</string>
   <string name="dialog_restrict_negative">Restringeix</string>
   <string name="dialog_restrict_positive">Cancel·la</string>
   <string name="dialog_roaming_message">Voleu permetre que aquesta aplicació utilitzi dades mòbils en itinerància a l\'estranger?</string>
@@ -633,7 +641,13 @@ S\'afegirà a les excepcions, però els elements bloquejats anterioment no apare
   <string name="dlg_remove_whitelist">Voleu treure aquests números del llistat d\'excepcions?</string>
   <string name="dlg_remove_whitelist_ing">S\'està eliminant&#8230;</string>
   <string name="dlg_remove_whitelist_title">Suprimeix</string>
+  <string name="dlg_sec_network_unavailable">"L'aplicació de seguretat no es pot actualitzar perquè heu restringit la connexió a Internet. Voleu que l'aplicació es connecti a Internet?"</string>
   <string name="dlg_title_not_open_stranger_identify">Identifica els desconeguts</string>
+  <string name="dlg_update_btn_contiue">Continua</string>
+  <string name="dlg_update_btn_open">Permet</string>
+  <string name="dlg_update_data_content">"No esteu connectats a Wi-Fi. L'ús de dades mòbils pot generar càrrecs addicionals. Voleu continuar de totes maneres?"</string>
+  <string name="dlg_update_date_title">Advertència</string>
+  <string name="dlg_update_updating">S\'està actualitzant…</string>
   <string name="dlg_white_address_antispam_message">Voleu afegir aquesta ubicació a les excepcions?</string>
   <string name="dlg_white_antispam_hint">Llista d\'excepcions</string>
   <string name="dlg_white_antispam_message">Voleu afegir aquest número a les excepcions?</string>
@@ -755,6 +769,7 @@ S\'afegirà a les excepcions, però els elements bloquejats anterioment no apare
   <string name="gb_description_image_button_reject">Declina</string>
   <string name="gb_description_image_button_video_answer">Videotrucada</string>
   <string name="gb_new_feature">Nova característica</string>
+  <string name="gdpr_msg">&lt;Data&gt;\"Per utilitzar les característiques bàsiques de Seguretat, haureu d\'acceptar que Xiaomi recopili, processi i utilitzi les vostres dades personals, incloent-hi informació sobre les maneres d\'utilitzar les funcions de seguretat (per exemple, estadístiques d\'ús de dades mòbils, informació sobre aplicacions malicioses, informació bàsica sobre el vostre dispositiu) i altres tipus d\'informació que s\'especifiquen a la nostra &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Política de privadesa&amp;lt;/a&amp;gt;.\"&lt;/Data&gt;</string>
   <string name="get_sys_info">Obtenint informació…</string>
   <string name="gmscore_support_remind">Activeu aquesta funció si teniu problemes amb l\'ús de Gmail, Google Maps i altres aplicacions de Google. Això reduirà lleugerament la durada de la bateria.</string>
   <string name="gmscore_support_service">Serveis de Google</string>
@@ -1621,6 +1636,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="sms_prefix">Llista de bloqueig de prefixos</string>
   <string name="sms_service">Bloqueja el servei SMS</string>
   <string name="sms_smart_engine_update">Actualitza el filtre d\'SMS automàticament</string>
+  <string name="sms_smart_engine_update_now">Actualitza</string>
   <string name="sms_stranger_block">Bloqueja SMS d\'estranys</string>
   <string name="sorted_dialog_title">Ordena per</string>
   <string name="sp_background_risk_dialog_summary">, feu un control detallat i corregiu els riscos de pagament</string>
@@ -1989,6 +2005,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="toast_root_apply_reject">Accés root denegat a %s</string>
   <string name="toast_set_success">Obert amb èxit!</string>
   <string name="toast_show_notification">Adjunt al tauler de notificacions</string>
+  <string name="toast_update_fail">"No s'ha pogut actualitzar"</string>
   <string name="top_game">Els millors jocs</string>
   <string name="top_load_fail_detail">"No s'ha pogut carregar, toqueu per tornar-ho a provar"</string>
   <string name="top_no_network_detial">"No s'ha pogut carregar. Comproveu la connexió de xarxa i torneu-ho a provar"</string>
