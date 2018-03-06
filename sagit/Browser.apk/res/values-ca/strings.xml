@@ -14,6 +14,7 @@
   <string name="action_menu_account_not_login_hint">Inicieu la sessió per sincronitzar amb Mi Cloud</string>
   <string name="action_menu_bookshelf">Prestatgeria</string>
   <string name="action_menu_current_version">Versió actual</string>
+  <string name="action_menu_download">Baixa</string>
   <string name="action_menu_request_desktop_site">Visualitza la versió per a ordinador</string>
   <string name="action_menu_request_desktop_site_off">Visualitza la versió per a ordinador/desactivat</string>
   <string name="action_menu_request_desktop_site_on">Visualitza la versió per a ordinador/activat</string>
@@ -34,6 +35,7 @@
   <string name="action_menu_text_nightmode">Mode nocturn</string>
   <string name="action_menu_text_nightmode_off">Mode nocturn</string>
   <string name="action_menu_text_nightmode_on">Mode nocturn</string>
+  <string name="action_menu_text_readmode">Mode lectura</string>
   <string name="action_menu_text_refresh">Actualitza</string>
   <string name="action_menu_text_setting">Configuració</string>
   <string name="action_menu_text_share">Comparteix</string>
@@ -138,6 +140,7 @@
   <string name="clear_search_history">Esborra l\'historial</string>
   <string name="clear_video_download">Esborra els vídeos</string>
   <string name="clip_dialog_title">Voleu obrir l\'URL copiat?</string>
+  <string name="close">Tanca</string>
   <string name="close_ads_choice_no">Permet</string>
   <string name="close_ads_choice_yes">Bloqueja</string>
   <string name="close_ads_message">"Voleu bloquejar el contingut d'aquest web? Podeu veure els llocs que heu bloquejat a Configuració &gt; Avançat &gt; Llocs bloquejats."</string>
@@ -153,6 +156,8 @@
   <string name="cloud_tabs_sync_off">Sincronització desactivada</string>
   <string name="cloud_time_tips">Darrera sincronització</string>
   <string name="cloud_up_to_loading_tips">Deixeu anar per sincronitzar</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_feedback_strings_delete">Elimina</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_add_picture">Afegeix una foto</string>
   <string name="comment_app_menu">Comentari</string>
   <string name="comment_description">Comentari</string>
   <string name="comment_hint">Comentari</string>
@@ -274,6 +279,9 @@ està a punt de passar»</string>
   <string name="enable_geolocation_confirm_message">Si desactiveu els serveis d\'ubicació es veuran afectades les recomanacions que rebeu.</string>
   <string name="enter_developer_mode">Entra al mode programador</string>
   <string name="enter_incongnito_mode">Entra al mode incògnit</string>
+  <string name="enter_the_group_name">Introduïu el nom del grup</string>
+  <string name="enter_the_password">Introduiu la contrasenya</string>
+  <string name="enter_the_user_name">Introduïu el nom d\'usuari</string>
   <string name="error_console_eval_button_text">Avalua</string>
   <string name="error_console_eval_text_hint">Avalua JavaScript</string>
   <string name="error_console_header_text_maximized">Consola de JavaScript</string>
@@ -556,6 +564,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_device_slept">S\'ha interromput la connexió quan el dispositiu es va suspendre.</string>
   <string name="mw_miuichromium_error_page_problem_connection_interrupted_reason_network_changed">S\'ha interromput la connexió a causa d\'un canvi de xarxa.</string>
   <string name="mw_miuichromium_error_page_problem_file_not_found_reason_moved_or_deleted">"No s'ha pogut trobar el fitxer. Pot ser que s'hagi mogut o suprimit."</string>
+  <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">"No s'ha pogut llegir el fitxer. És possible que els permisos del fitxer impedeixin l'accés."</string>
   <string name="mw_miuichromium_error_page_problem_gateway_timed_out">%s0 ha tardat massa a respondre.</string>
   <string name="mw_miuichromium_error_page_problem_network_access_denied">L\'accés a la xarxa està restringit.</string>
   <string name="mw_miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">"No s'ha pogut connectar a Internet. Alguna cosa està malament amb el servidor intermediari, o l'adreça del servidor intermediari és incorrecta."</string>
@@ -966,6 +975,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="save_image_success">Imatge desada</string>
   <string name="save_page_capture_tip">Obre la taula de notificacions per veure la captura de pantalla.</string>
   <string name="save_page_capture_to_camera">S\'ha desat la captura de pantalla</string>
+  <string name="save_to_bookmark">Desa als marcadors</string>
   <string name="save_to_camera">Desa a càmera</string>
   <string name="save_to_camera_failed">"No es pot desar la imatge"</string>
   <string name="save_to_camera_success">S\'ha desat a càmera</string>
@@ -1043,7 +1053,9 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="ssl_untrusted">"El certificat no és d'una autoritat de confiança."</string>
   <string name="ssl_warnings_header">Hi ha problemes amb el certificat de seguretat d\'aquest lloc.</string>
   <string name="start_save_page_capture">Desant captura pantalla&#8230;</string>
+  <string name="storage_close">Tanca</string>
   <string name="storage_internal">Emmagatzematge intern</string>
+  <string name="storage_open">Obre</string>
   <string name="storage_permission_request_toast">"Baixades necessita permís d'emmagatzematge, obriu-lo"</string>
   <string name="storage_sd_card">Targeta SD</string>
   <string name="storage_usb">Emmagatzematge USB</string>
