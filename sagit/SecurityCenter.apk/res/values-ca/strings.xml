@@ -2006,6 +2006,9 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="toast_set_success">Obert amb èxit!</string>
   <string name="toast_show_notification">Adjunt al tauler de notificacions</string>
   <string name="toast_update_fail">"No s'ha pogut actualitzar"</string>
+  <string name="toast_update_nonetwork">"No és possible connectar-se a la xarxa"</string>
+  <string name="toast_update_notneed">Al dia</string>
+  <string name="toast_update_success">S\'ha actualitzat amb èxit</string>
   <string name="top_game">Els millors jocs</string>
   <string name="top_load_fail_detail">"No s'ha pogut carregar, toqueu per tornar-ho a provar"</string>
   <string name="top_no_network_detial">"No s'ha pogut carregar. Comproveu la connexió de xarxa i torneu-ho a provar"</string>
