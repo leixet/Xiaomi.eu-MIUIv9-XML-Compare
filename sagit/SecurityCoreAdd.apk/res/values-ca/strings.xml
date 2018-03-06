@@ -214,6 +214,7 @@ Si no s\'actualitza, és possible que les aplicacions duals no funcionin correct
   <string name="search_result_text">"No s'ha trobat cap aplicació"</string>
   <string name="secondSpace">Segon espai</string>
   <string name="second_owner_finger_print">Empremta del Segon espai</string>
+  <string name="second_space_desktop_tips_dialog_message">Després d\'aquesta actualització, les icones per moure dades i administrar el segon espai ja no es mostraran a la pantalla d\'inici. Podreu accedir a les seves funcions corresponents a la Configuració.</string>
   <string name="second_space_desktop_tips_dialog_positive_text">Entesos</string>
   <string name="second_space_desktop_tips_dialog_title">Actualització important</string>
   <string name="second_space_finger_printf_desc">Afegir empremta específica per entrar al Segon espai</string>
