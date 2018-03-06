@@ -555,10 +555,12 @@
   <string name="data_usage_leisure_warning_body">Toqueu per veure els detalls d\'ús de dades.</string>
   <string name="data_usage_leisure_warning_title">Límit d\'ús de dades</string>
   <string name="data_usage_limit_body">Premeu per activar les dades mòbils.</string>
+  <string name="data_usage_mobile_dialog_title">"Ja heu utilitzat 5 GB de dades mòbils. MIUI ha desactivat les dades mòbils."</string>
   <string name="data_usage_mobile_limit_title"> Dades mòbils apagades</string>
   <string name="data_usage_no_total_package_body">Toqui per establir el límit de dades</string>
   <string name="data_usage_no_total_package_body_dual">No hi ha límit de dades establert per %s.</string>
   <string name="data_usage_no_total_package_title">Estableix un límit d\'ús de dades</string>
+  <string name="data_usage_protected_notify_title">"Ja heu utilitzat 5 GB de dades mòbils"</string>
   <string name="data_usage_warning_body">Toqueu per veure els detalls d\'ús de dades.</string>
   <string name="data_usage_warning_body_notify">Premeu per veure els detalls</string>
   <string name="data_usage_warning_title_notify">Heu superat el limit de dades</string>
