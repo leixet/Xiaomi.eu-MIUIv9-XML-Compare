@@ -3105,6 +3105,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="priority_storage_settings_summary">"Si no es detecta cap SD, les dades d'usuari seran guardades de forma automàtica a l'emmagatzematge intern del dispositiu"</string>
   <string name="priority_storage_summary">Trieu on es desen les dades d\'usuari</string>
   <string name="priority_storage_title">Configuració d\'emmagatzematge</string>
+  <string name="privacy_authorize_cloud_msg">"Per garantir la seguretat del compte, inicieu la sessió a i.mi.com si voleu revocar l'autorització dels serveis de Mi Cloud (inclosos els de sincronització i còpies de seguretat)."</string>
   <string name="privacy_authorize_dialog_agree">D\'acord</string>
   <string name="privacy_authorize_dialog_exit">Surt</string>
   <string name="privacy_authorize_dialog_message">%1$s requereix que llegiu i accepteu %2$s. L\'aplicació necessita connexió a la xarxa per funcionar normalment. Hi esteu d\'acord?</string>
@@ -5024,6 +5025,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wfd_settings_description">Connexió amb la pantalla via Wi-Fi</string>
   <string name="wfd_settings_title">Pantalla sense fils</string>
   <string name="wfd_status_dialog_disconnect">Desconnecta</string>
+  <string name="wfd_status_dialog_message">Els continguts de la pantalla es mostren en un altre dispositiu de visualització a través de la connexió sense fils</string>
   <string name="wfd_status_dialog_title">Pantalla sense fils</string>
   <string name="wfd_wps_keypad">Utilitza el teclat</string>
   <string name="wfd_wps_pbc">Introdueix el PIN</string>
