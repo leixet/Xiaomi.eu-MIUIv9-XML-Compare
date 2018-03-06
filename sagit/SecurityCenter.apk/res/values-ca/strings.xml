@@ -156,7 +156,7 @@
   <string name="app_manager_clear_failed_dlg_message">No s\'han pogut suprimir les dades de l\'aplicació.</string>
   <string name="app_manager_code_size">Mida de l\'aplicació</string>
   <string name="app_manager_comuting_size">S\'està calculant…</string>
-  <string name="app_manager_copy_pkg_to_clip">S\'ha copiat al porta-retalls</string>
+  <string name="app_manager_copy_pkg_to_clip">Copiat al porta-retalls</string>
   <string name="app_manager_data_size">Dades de l\'usuari</string>
   <string name="app_manager_default_cleared">Netejat</string>
   <string name="app_manager_default_close_summary">No s\'ha establert els valors per defecte.</string>
