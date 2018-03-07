@@ -2230,10 +2230,6 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="lock_screen_notifications_summary_show">Mostra totes les notificacions i els seu contingut</string>
   <string name="lock_screen_notifications_summary_show_profile">Mostra tot el contingut de notificacions laborals</string>
   <string name="lock_screen_notifications_title">Amb el dispositiu bloquejat</string>
-  <string name="lock_screen_secure_after_timeout_immediately_never">Mai cal la contrasenya</string>
-  <string name="lock_screen_secure_after_timeout_immediately_summary">Cal la contrasenya</string>
-  <string name="lock_screen_secure_after_timeout_summary">Cal la contrasenya en %1$s</string>
-  <string name="lock_screen_secure_after_timeout_title">Cal contrasenya</string>
   <string name="lock_screen_signature_summary">La signatura es mostrarà a la pantalla de bloqueig</string>
   <string name="lock_screen_signature_title">Signatura de la pantalla de bloqueig</string>
   <string name="lock_screen_unlock_show">Omet la pantalla de bloqueig</string>
