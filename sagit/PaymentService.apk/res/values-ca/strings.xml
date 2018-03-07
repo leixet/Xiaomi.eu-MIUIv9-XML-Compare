@@ -508,5 +508,4 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="passport_wrong_phone_number_format">El format de número de telèfon que heu introduït és incorrecte</string>
   <string name="passport_wrong_vcode">El codi que heu introduït és incorrecte</string>
   <string name="passport_yes">Sí</string>
-  <string name="status_bar_notification_info_overflow">+999</string>
 </resources>
