@@ -75,8 +75,6 @@
   <string name="close_twice_auth_btn">Desactiva l\'autenticació de dos factors</string>
   <string name="close_twice_auth_note">"Nota:
 Després de crear una nova pregunta de seguretat i confirmar la data de naixement, l\'autenticació de dos factors es desactivarà. Si no veieu l\'opció de desactivar l\'autenticació de dos factors a la pàgina del compte d\'ID d\'Apple, no podreu desactivar-la."</string>
-  <string name="close_twice_auth_operation">"URL:
-https://appleid.apple.com/#!&amp;page=entra per tancar"</string>
   <string name="close_twice_auth_step_1">1. Obriu qualsevol navegador web en qualsevol ordinador i aneu a appleid.apple.com.</string>
   <string name="close_twice_auth_step_2">2. Accediu a l\'ID d\'Apple que voleu desactivar l\'autenticació de dos factors, aneu a la secció \"Seguretat\" de la configuració del compte i seleccioneu \"Edita\".</string>
   <string name="close_twice_auth_step_3">3. Feu clic a \"Desactiva l\'autenticació de dos factors\". Feu clic de nou per confirmar.</string>
