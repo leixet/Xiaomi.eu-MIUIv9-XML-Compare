@@ -62,7 +62,7 @@
   <string name="button_add_city">Afegeix ubicació</string>
   <string name="button_allow">D\'acord</string>
   <string name="button_confirm">Permet</string>
-  <string name="button_exit">Surt</string>
+  <string name="button_exit">"Surt"</string>
   <string name="button_not_allow">Cancel·la</string>
   <string name="button_sure_abandon">Voleu descartar els canvis?</string>
   <string name="card_vote_item_vs">CONTRA</string>
@@ -135,7 +135,6 @@ Tireu cap avall per actualitzar o comproveu la configuració de la xarxa"</strin
   <string name="international_details_title">Detalls</string>
   <string name="international_details_uv_index_title">ÍNDEX UV</string>
   <string name="international_details_wind_title">VENT</string>
-  <string name="international_version_first_start_network_msg">"En utilitzar aquest producte, accepteu el %1$s de Xiaomi. Aquesta aplicació necessita connectar-se a la xarxa i pujar la informació de la ciutat que vau introduir per obtenir les dades meteorològiques de la ciutat corresponent. Premeu d'acord per continuar."</string>
   <string name="it_is_going_to_rain">"Plourà"</string>
   <string name="locate_fail_detail_err">"No es pot ubicar el dispositiu
 Toqueu la pantalla per afegir una ciutat manualment o moure-la"</string>
