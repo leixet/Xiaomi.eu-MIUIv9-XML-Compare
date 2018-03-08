@@ -437,9 +437,9 @@ Per activar el vostre compte, seguiu l\'enllaç
   <string name="turning_off_find_device">S\'està desactivant Cerca el dispositiu…</string>
   <string name="unbind_sns_description">"Després que desvinculeu aquest compte, no podreu usar la vostra informació del compte %s per iniciar el vostre compte Mi."</string>
   <string name="unlock_help_notice">"Ajuda:
-· Si heu oblidat la contrasenya, aneu a id.mi.com per restaurar-la.
-· Si no podeu desbloquejar el dispositiu, aneu a i.mi.com per desactivar troba el dispositiu.
-· Indiqueu aquest número de desbloqueig al servei d\'atenció al client: %s "</string>
+1. Si heu oblidat la contrasenya, aneu a id.mi.com per restaurar-la.
+2. Si no podeu desbloquejar el dispositiu, aneu a i.mi.com per desactivar troba el dispositiu.
+3. El vostre número de desbloqueig: %s "</string>
   <string name="update_contacts">Actualitza la llibreta d\'adreces</string>
   <string name="update_email_address_dialog_message">Us cal verificar la identitat abans que pugueu actualitzar el correu electrònic.</string>
   <string name="update_email_address_dialog_title">Actualitza el correu</string>
