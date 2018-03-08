@@ -287,7 +287,7 @@ està a punt de passar»</string>
   <string name="error_console_header_text_maximized">Consola de JavaScript</string>
   <string name="error_console_header_text_minimized">Mostra la consola JavaScript</string>
   <string name="error_forbidden">S\'ha desactivat la sincronització a causa de problemes amb el vostre compte Mi.</string>
-  <string name="error_not_acceptable">S\'ha desactivat la sincronització.</string>
+  <string name="error_not_acceptable">La sincronització està desactivada.</string>
   <string name="error_title">"No s'ha pogut sincronitzar"</string>
   <string name="error_unauthorized">La sincronització amb el compte Mi s\'ha desactivat per massa intents d\'inici de sessió.</string>
   <string name="exit">Surt</string>
