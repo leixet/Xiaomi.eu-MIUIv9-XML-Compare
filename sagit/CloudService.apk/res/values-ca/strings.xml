@@ -97,8 +97,8 @@ Per obtenir més espai d\'emmagatzematge, visiteu mi.com/micloud."</string>
   <string name="find_device_error_password_changed">La contrasenya del compte s\'ha canviat recentment.</string>
   <string name="find_device_error_server">Alguna cosa va fallar en els nostres servidors.</string>
   <string name="find_device_error_unknown">Error desconegut.</string>
-  <string name="find_device_gdpr_prompt">En activar Cerca el dispositiu, accepteu la «Política de privadesa». Si heu de revocar l\'autorització de privacitat, desactiveu aquesta característica.</string>
-  <string name="find_device_gdpr_prompt_policy_doc_name">«Política de privadesa»</string>
+  <string name="find_device_gdpr_prompt">En activar Cerca el dispositiu, accepteu la nostra Política de privadesa. Si heu de revocar l\'autorització de privacitat, desactiveu aquesta característica.</string>
+  <string name="find_device_gdpr_prompt_policy_doc_name">Política de privadesa</string>
   <string name="find_device_notice_p1">Anar a</string>
   <string name="find_device_notice_p3">"per localitzar, bloquejar, o restaurar el teu telèfon.
 Si canvies de targeta SIM s\'enviarà un altre SMS automàticament per reactivar aquesta funció."</string>
@@ -375,15 +375,15 @@ Toca el botó de configuració de sincronització per veure més opcions\"</stri
   <string name="micloud_notif_title_master_depend_wifi">"No es pot sincronitzar amb Mi Cloud"</string>
   <string name="micloud_notif_title_memory_low">"No es pot sincronitzar amb Mi Cloud"</string>
   <string name="micloud_notif_title_multi_user_error">"No es pot sincronitzar amb Mi Cloud"</string>
-  <string name="micloud_notif_title_privacy_reopen_failed">"No s'ha pogut iniciar el servei al núvol"</string>
+  <string name="micloud_notif_title_privacy_reopen_failed">"No s'ha pogut activar els serveis de Mi Cloud"</string>
   <string name="micloud_notif_title_sync_finish">S\'ha sincronitzat</string>
   <string name="micloud_notif_title_sync_not_finish">"Alguns elements no s'han sincronitzat"</string>
   <string name="micloud_notif_title_sync_progress">S\'està sincronitzant</string>
   <string name="micloud_notif_title_sync_with_off">Sincronitzar amb Mi Cloud</string>
   <string name="micloud_other_product_price">Preu d\'altres productes similars:</string>
-  <string name="micloud_privacy_cloud_off">Sincronització desactivada</string>
-  <string name="micloud_privacy_cloud_sync">Activeu el Mi Cloud</string>
-  <string name="micloud_privacy_explanation">Activeu el Mi Cloud després d\'habilitar l\'autorització</string>
+  <string name="micloud_privacy_cloud_off">La sincronització està desactivada</string>
+  <string name="micloud_privacy_cloud_sync">Activa els serveis de Mi Cloud</string>
+  <string name="micloud_privacy_explanation">Concediu l\'autorització per activar els serveis de Mi Cloud</string>
   <string name="micloud_privacy_licence_agreed">Accepteu la política de privadesa del Mi Cloud.</string>
   <string name="micloud_privacy_licence_privacy_policy">Política de privadesa</string>
   <string name="micloud_privacy_more">Més</string>
