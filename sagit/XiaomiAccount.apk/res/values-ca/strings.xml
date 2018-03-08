@@ -94,7 +94,7 @@
   <string name="delete_action">Elimina</string>
   <string name="delete_app">Esborra aplicació</string>
   <string name="delete_bank_card_message">Per seguretat, les dades de la vostra targeta s\'esborraran després que tanqueu la sessió</string>
-  <string name="delete_bank_card_title">Esborrant les dades de la vostra targeta</string>
+  <string name="delete_bank_card_title">Atenció</string>
   <string name="delete_browser">Suprimeix navegador</string>
   <string name="delete_device">Esborra dispositiu</string>
   <string name="delete_device_btn">Elimina</string>
