@@ -4626,7 +4626,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="untitled_apn">Sense nom</string>
   <string name="update_new_version">Hi ha una actualització disponible</string>
   <string name="update_progress_for_updates">S\'està actualitzant (%s)</string>
-  <string name="upload_debug_log_summary">Ajudeu a millorar MIUI enviant dades d\'ús anònimes</string>
+  <string name="upload_debug_log_summary">Les estadístiques d\'ús que ens ajuden a localitzar i resoldre problemes poden contenir informació personal</string>
   <string name="upload_debug_log_title">Envia les dades de diagnòstic automàticament</string>
   <string name="usage">Ús</string>
   <string name="usage_access">Accés d\'ús</string>
@@ -4777,7 +4777,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="user_exit_guest_dialog_remove">Suprimeix</string>
   <string name="user_exit_guest_title">Suprimeix el convidat</string>
   <string name="user_experience_program">Programa d\'experiència d\'usuari</string>
-  <string name="user_experience_program_summary">Ajudeu a millorar MIUI enviant dades d\'ús anònimes</string>
+  <string name="user_experience_program_summary">Ajudeu-nos a millorar els nostres productes i serveis compartint les vostres estadístiques d\'ús</string>
   <string name="user_experience_program_title">Programa d\'experiència d\'usuari</string>
   <string name="user_guest">Convidat</string>
   <string name="user_image_choose_photo">Selecciona una foto de la galeria</string>
