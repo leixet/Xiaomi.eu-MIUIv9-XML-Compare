@@ -165,7 +165,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_burst_shoot_title">Ràfega</string>
   <string name="pref_camcorder_settings">Vídeo</string>
   <string name="pref_camcorder_settings_category">Configuració de la càmera</string>
-  <string name="pref_camera_ai_scene_title">Escena d\'IA</string>
+  <string name="pref_camera_ai_scene_title">Càmera IA</string>
   <string name="pref_camera_antibanding_entry_0">Apagat</string>
   <string name="pref_camera_antibanding_entry_3">Automàtic</string>
   <string name="pref_camera_antibanding_title">Antiparpelleig</string>
@@ -227,7 +227,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="pref_camera_focusmode_entry_infinity">Infinit</string>
   <string name="pref_camera_focusmode_entry_normal">Estàndard</string>
   <string name="pref_camera_focusmode_title">Mode d\'enfocament</string>
-  <string name="pref_camera_front_ai_scene_entry_off">L\'escena d\'IA està desactivada</string>
+  <string name="pref_camera_front_ai_scene_entry_off">La càmera IA està desactivada</string>
   <string name="pref_camera_front_ai_scene_entry_on">Escena d\'IA</string>
   <string name="pref_camera_front_bokeh_entry_off">Desactivat</string>
   <string name="pref_camera_front_bokeh_entry_on">Activat</string>
