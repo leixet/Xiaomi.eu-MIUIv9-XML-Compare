@@ -135,7 +135,6 @@
   <string name="app_manager_app_info_label">Informació de l\'aplicació</string>
   <string name="app_manager_app_info_name">Nom de l\'aplicació</string>
   <string name="app_manager_app_info_pkg">Nom de l\'APK</string>
-  <string name="app_manager_app_lock">Bloqueig d\'aplicacions</string>
   <string name="app_manager_app_power">"Ús de bateria: "</string>
   <string name="app_manager_app_storage">"Emmagatzematge: "</string>
   <string name="app_manager_app_traffic">"Ús de dades: "</string>
@@ -198,7 +197,6 @@
   <string name="app_manager_net_mobile">Dades mòbils</string>
   <string name="app_manager_net_wifi">Wi-Fi</string>
   <string name="app_manager_not_allow">No</string>
-  <string name="app_manager_not_support_uninstall">"No es pot desinstal·lar aquestes aplicacions"</string>
   <string name="app_manager_notify_bar">Insígnies</string>
   <string name="app_manager_notify_floating">Notificacions flotants</string>
   <string name="app_manager_notify_keyguard">Bloqueja la pantalla</string>
@@ -230,7 +228,6 @@
   <string name="app_manager_show_all_apps_opened">S\'està mostrant els resultats de totes les aplicacions…</string>
   <string name="app_manager_show_detail_infos">Mostra-ho tot</string>
   <string name="app_manager_start_by">Iniciat per %s</string>
-  <string name="app_manager_support_uninstall">Podeu desinstal·lar aquestes aplicacions</string>
   <string name="app_manager_system_mobile_disable">Desactiva les dades</string>
   <string name="app_manager_title">Administra les aplicacions</string>
   <string name="app_manager_total_size">Total</string>
