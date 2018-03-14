@@ -231,6 +231,7 @@
   <string name="app_manager_system_mobile_disable">Desactiva les dades</string>
   <string name="app_manager_title">Administra les aplicacions</string>
   <string name="app_manager_total_size">Total</string>
+  <string name="app_manager_uninstall">Desinstal·la</string>
   <string name="app_manager_uninstall_protected_dlg_msg">En desinstal·lar les aplicacions del sistema podeu impedir que alguns components de MIUI funcionin correctament. Voleu desinstal·lar-la de totes maneres?</string>
   <string name="app_manager_uninstall_protected_dlg_title">Desinstal·lació d\'aplicacions del sistema</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Les aplicacions duals es suprimiran conjuntament amb les dades de l\'aplicació.</string>
