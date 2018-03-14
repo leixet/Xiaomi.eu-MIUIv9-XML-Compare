@@ -9,8 +9,8 @@
   <string-array name="date_of_traffic">
     <item>"Ahir "</item>
     <item>"Avui "</item>
+    <item>"Darrer mes "</item>
     <item>"Aquest mes "</item>
-    <item>"This month "</item>
   </string-array>
   <string-array name="date_of_traffic_prefix_cmcc">
     <item>"Aquesta setmana: "</item>
@@ -20,18 +20,18 @@
   <string-array name="date_of_traffic_prefix">
     <item>"Ahir: "</item>
     <item>"Avui: "</item>
+    <item>"Darrer mes: "</item>
     <item>"Aquest mes: "</item>
-    <item>"This month: "</item>
   </string-array>
   <string-array name="date_of_app_all">
     <item>Ahir (dades)</item>
     <item>Avui (dades)</item>
-    <item>Aquest mes (dades)</item>
+    <item>Darrer mes (dades)</item>
     <item>Aquest mes (dades)</item>
     <item>Wi-Fi d\'ahir</item>
     <item>Wi-Fi d\'avui</item>
-    <item>Last month WLAN</item>
-    <item>This month WLAN</item>
+    <item>Wi-Fi del darrer mes</item>
+    <item>Wi-Fi d\'aquest mes</item>
   </string-array>
   <string-array name="traffic_type">
     <item>"Ús mòbil "</item>
