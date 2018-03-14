@@ -943,6 +943,8 @@ Taxa de mostreig"</string>
   <string name="carrier_enabled">Activa/Desactiva APN</string>
   <string name="carrier_enabled_summaryOff">S\'ha desactivat l\'APN</string>
   <string name="carrier_enabled_summaryOn">S\'ha activat l\'APN</string>
+  <string name="carrier_show_in_lock_screen">Mostra\'l només a la pantalla de bloqueig</string>
+  <string name="carrier_show_none">No mostris mai el nom de l\'operador</string>
   <string name="category_personal">Personal</string>
   <string name="category_work">Feina</string>
   <string name="cdma_security_settings_summary">Defineix La meva ubicació, el desbloqueig de pantalla i el bloqueig d\'emmagatzematge de credencials</string>
@@ -2473,6 +2475,8 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="memory_settings_title">Memòria</string>
   <string name="memory_size">Espai total</string>
   <string name="memory_summary">Mitjana de %1$s de %2$s de la memòria utilitzada</string>
+  <string name="memory_system_rom">Emmagatzematge del sistema</string>
+  <string name="memory_system_space">Emmagatzematge del sistema</string>
   <string name="memory_title">Disponible: %1$s\u0009\u0009Total: %2$s</string>
   <string name="memory_usage">Ús de la memòria</string>
   <string name="memory_usage_apps">Memòria utilitzada per les aplicacions</string>
