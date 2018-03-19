@@ -501,10 +501,10 @@ Comproveu el número de seguiment."</string>
   <string name="function_music_recognize">Reconeix cançons</string>
   <string name="function_music_title">Música</string>
   <string name="function_not_support">"Aquesta funció no és compatible amb aquest dispositiu"</string>
-  <string name="function_open_error_content">"Aquesta drecera no funciona perquè l'aplicació s'ha desinstal·lat. Seleccioneu una drecera diferent o torneu a instal·lar l'aplicació."</string>
+  <string name="function_open_error_content">Aquesta drecera no funciona perquè l\'aplicació s\'ha desinstal·lat. Seleccioneu una drecera diferent o torneu a instal·lar l\'aplicació.</string>
   <string name="function_open_error_content_app">Aquesta aplicació s\'ha desinstal·lat. Seleccioneu una drecera diferent o torneu a instal·lar l\'aplicació.</string>
-  <string name="function_open_error_content_app_xspace">"Aquesta drecera no funciona perquè l'aplicació dual s'ha desinstal·lat. Seleccioneu una drecera diferent o creeu una nova aplicació dual."</string>
-  <string name="function_open_error_content_xspace">"Aquesta drecera no funciona perquè l'aplicació s'ha desinstal·lat. Seleccioneu una drecera diferent o creeu una nova aplicació dual."</string>
+  <string name="function_open_error_content_app_xspace">Aquesta drecera no funciona perquè l\'aplicació dual s\'ha desinstal·lat. Seleccioneu una drecera diferent o creeu una nova aplicació dual.</string>
+  <string name="function_open_error_content_xspace">Aquesta drecera no funciona perquè l\'aplicació s\'ha desinstal·lat. Seleccioneu una drecera diferent o creeu una nova aplicació dual.</string>
   <string name="function_open_error_title">"No es pot obrir «%s»"</string>
   <string name="function_qq_new_shuoshuo">Publica</string>
   <string name="function_qq_recent">Amics</string>
