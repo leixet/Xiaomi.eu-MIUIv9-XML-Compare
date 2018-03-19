@@ -2695,8 +2695,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="nfc_more_title">Més...</string>
   <string name="nfc_payment_default">Aplicació per defecte per als pagaments</string>
   <string name="nfc_payment_default_not_set">No s\'ha configurat</string>
-  <string name="nfc_payment_favor_default">Sempre</string>
-  <string name="nfc_payment_favor_open">Excepte quan hi hagi oberta una altra aplicació de pagament</string>
+  <string name="nfc_payment_favor_default">Utilitza sempre l\'aplicació per defecte</string>
+  <string name="nfc_payment_favor_open">Substitueix l\'aplicació per defecte quan s\'obre una altra aplicació de pagament</string>
   <string name="nfc_payment_how_it_works">Com funciona</string>
   <string name="nfc_payment_no_apps">Paga a les botigues amb el telèfon</string>
   <string name="nfc_payment_pay_with">En un terminal que admeti la funció Toca i Paga, paga amb:</string>
