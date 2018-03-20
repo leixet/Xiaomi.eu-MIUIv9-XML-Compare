@@ -1302,7 +1302,6 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»"</string>
   <string name="debug_networking_category">Xarxes</string>
   <string name="debug_view_attributes">Habilita l\'inspecció d\'atributs de visualització</string>
   <string name="decline_remote_bugreport_action">Rebutja-ho</string>
-  <string name="defalut_launcher_title">Llançador per defecte</string>
   <string name="default_admin_support_msg">"Aquesta acció s'ha desactivat. Per obtenir més informació, contacteu amb l'administrador de l'organització."</string>
   <string name="default_app">(Per defecte)</string>
   <string name="default_apps_title">Per defecte</string>
@@ -2114,7 +2113,6 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="launch_google_search">Obre Google Assistant</string>
   <string name="launch_recents">Executa recents</string>
   <string name="launch_voice_assistant">Obre l\'assistent de veu</string>
-  <string name="launcher_auto_fill_empty_title">Emplena les cel·les buides</string>
   <string name="launcher_title">Pantalla d\'inici</string>
   <string name="launching_cit">S\'està iniciant CIT</string>
   <string name="launching_pho">S\'està iniciant informació del telèfon, espereu-vos.</string>
@@ -2218,7 +2216,6 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="lock_profile_wipe_warning_content_pattern">Si torneu a introduir un patró incorrecte, el perfil professional i les dades associades se suprimiran del dispositiu.</string>
   <string name="lock_profile_wipe_warning_content_pin">Si torneu a introduir un PIN incorrecte, el perfil professional i les dades associades se suprimiran del dispositiu.</string>
   <string name="lock_profile_wipe_warning_title">Darrera oportunitat</string>
-  <string name="lock_screen_cells_title">Bloqueja la disposició de la pantalla d\'inici</string>
   <string name="lock_screen_intro_skip_dialog_text">Les funcions de protecció del dispositiu no s\'activaran. No podreu impedir que altres persones utilitzin el telèfon si el perdeu o el roben.</string>
   <string name="lock_screen_intro_skip_dialog_text_frp">Les funcions de protecció del dispositiu no s\'activaran. No podreu impedir que altres persones facin servir el telèfon si el perdeu, el roben o se n\'esborra el contingut.</string>
   <string name="lock_screen_notifications_interstitial_message">Quan el dispositiu està bloquejat, com voleu que es mostrin les notificacions?</string>
@@ -2527,7 +2524,6 @@ Hi ha altres usuaris presents en aquest dispositiu.
   <string name="miui_lab_taplus_desc">Premeu i mantingueu premut per activar les accions</string>
   <string name="miui_lab_taplus_title">Taplus</string>
   <string name="miui_master_clear_summary">Suprimeix totes les dades del telèfon</string>
-  <string name="miui_screen_config_title">Configuració de la pantalla inicial</string>
   <string name="miui_updater">Actualització del sistema</string>
   <string name="mms_breathing_light_color_title">Color dels missatges</string>
   <string name="mms_breathing_light_freq_title">Freqüència de parpelleig del LED dels missatges</string>
@@ -2871,11 +2867,6 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="open_demo_mode_warning_message">Quan el mode de demostració estigui activat, el rellotge de la barra d\'estat s\'aturarà, les icones de la bateria i del senyal es mostraran al màxim. Podeu activar el mode de demostració o reiniciar el dispositiu per canviar-lo.</string>
   <string name="open_miui_optimization_title">Activa l\'optimització MIUI</string>
   <string name="open_miui_optimization_warning_message">El dispositiu tornarà a arrencar per aplicar els canvis.</string>
-  <string name="open_personal_assistant_dialog_btn_cancel">Cancel·la</string>
-  <string name="open_personal_assistant_dialog_btn_confirm">Desactiva</string>
-  <string name="open_personal_assistant_dialog_desc">"No podreu fer servir el cofre d'aplicacions i rebre les seves actualitzacions. Voleu desactivar-lo ara?"</string>
-  <string name="open_personal_assistant_dialog_title">Desactiva el cofre d\'aplicacions</string>
-  <string name="open_personal_assistant_title">Activa el cofre d\'aplicacions</string>
   <string name="open_wifi_connect_summary">Premeu per veure els detalls.</string>
   <string name="open_wifi_connect_title">Connecta amb %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">L\'administrador d\'aquest perfil professional és:</string>
@@ -3302,7 +3293,6 @@ Interfície UT: %5$s"</string>
   <string name="receiver_clean">Allibera espai</string>
   <string name="recent_location_requests_summary">Veure aplicacions que han demanat accés a la ubicació</string>
   <string name="recent_location_requests_title">Accés a la ubicació</string>
-  <string name="recents_config_title">Configuració del panell de tasques recents</string>
   <string name="recommend_item_1">Funda per al mòbil</string>
   <string name="recommend_item_3">Bateria externa</string>
   <string name="recommend_item_4">Auriculars</string>
@@ -3426,7 +3416,6 @@ Aquesta configuració afecta tots els usuaris del telèfon.»</string>
   <string name="screen">Pantalla</string>
   <string name="screen_button">Botons de la pantalla</string>
   <string name="screen_button_tips">Feu lliscar cap avall per amagar els botons de la pantalla</string>
-  <string name="screen_cells_config_title">Disposició de la pantalla d\'inici</string>
   <string name="screen_color_and_optimize">Colors i contrast</string>
   <string name="screen_color_and_optimize_disabled">"No es pot ajustar la temperatura del color en el mode lectura"</string>
   <string name="screen_color_temperature_and_saturation">Colors i saturació</string>
@@ -3929,7 +3918,6 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="show_ime">Mostra el teclat virtual</string>
   <string name="show_ime_summary">El deixa a la pantalla mentre el teclat físic està actiu</string>
   <string name="show_magnifier_when_input">Lupa</string>
-  <string name="show_mem_info_title">Mostra informació de la memòria</string>
   <string name="show_menu">Mostra el menú</string>
   <string name="show_non_rect_clip">Depura les operacions de retall no rectangulars</string>
   <string name="show_notification_channel_warnings">Mostra les advertències del canal de notificació</string>
