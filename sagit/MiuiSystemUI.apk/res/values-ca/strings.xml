@@ -430,6 +430,7 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="long_screenshot_stop">Fet</string>
   <string name="long_screenshot_top_msg">Prendre captura de pantalla llarga…</string>
   <string name="long_screenshot_top_msg_manual">Retalleu la captura de pantalla i premeu el botó per finalitzar</string>
+  <string name="low_temperature_button_ok">Entesos</string>
   <string name="managed_profile_foreground_toast">"Estas utilitzant el perfil de feina"</string>
   <string name="managed_user_title">Totes les aplicacions de feina</string>
   <string name="mdb_entering">Iniciant&#8230;</string>
@@ -481,8 +482,10 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="no_application">Cap</string>
   <string name="no_multi_window_app">No hi ha aplicacions compatibles amb el mode de pantalla dividida</string>
   <string name="no_notification_tips">Sense notificacions.</string>
+  <string name="no_sim_card">Sense targeta SIM</string>
   <string name="no_weather_description">Obtén la informació meteorològica &gt;</string>
   <string name="not_support_multi_window">"L'aplicació actual no és compatible amb el mode de pantalla dividida"</string>
+  <string name="notch_status_bar_date_format_12">EEEE, d MMMM</string>
   <string name="notification_header_title">Notificacions</string>
   <string name="notification_hidden_text">S\'ha amagat la notificació</string>
   <string name="notification_low_battery_action_btn">Activa</string>
@@ -535,6 +538,12 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="power_remaining_charging_duration_only">Resten %1$s fins càrrega completa</string>
   <string name="power_remaining_duration_only">Falten uns %1$s</string>
   <string name="power_remaining_duration_only_short">Falten %1$s</string>
+  <string name="prompt_danger">Risc</string>
+  <string name="prompt_detecting">S\'està detectant</string>
+  <string name="prompt_failure">Error</string>
+  <string name="prompt_return_to_split">Pantalla dividida</string>
+  <string name="prompt_safe">Segur</string>
+  <string name="prompt_unknown">Desconegut</string>
   <string name="quick_settings_bluetooth_detail_empty_text">No hi ha dispositius emparellats disponibles</string>
   <string name="quick_settings_connect_success">Connectat</string>
   <string name="quick_settings_connecting">Connectant</string>
