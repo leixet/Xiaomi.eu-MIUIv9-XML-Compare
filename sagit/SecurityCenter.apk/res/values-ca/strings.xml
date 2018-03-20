@@ -767,6 +767,9 @@ S\'afegirà a les excepcions, però els elements bloquejats anterioment no apare
   <string name="gb_description_image_button_reject">Declina</string>
   <string name="gb_description_image_button_video_answer">Videotrucada</string>
   <string name="gb_new_feature">Nova característica</string>
+  <string name="gb_sign_gift_button_text">Rep</string>
+  <string name="gb_signed_gift_loading_fail">"No s'ha pogut carregar"</string>
+  <string name="gb_signed_gift_loading_summary">Un moment…</string>
   <string name="gdpr_msg">&lt;Data&gt;\"Per utilitzar les característiques bàsiques de Seguretat, haureu d\'acceptar que Xiaomi recopili, processi i utilitzi les vostres dades personals, incloent-hi informació sobre les maneres d\'utilitzar les funcions de seguretat (per exemple, estadístiques d\'ús de dades mòbils, informació sobre aplicacions malicioses, informació bàsica sobre el vostre dispositiu) i altres tipus d\'informació que s\'especifiquen a la nostra &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Política de privadesa&amp;lt;/a&amp;gt;.\"&lt;/Data&gt;</string>
   <string name="get_sys_info">Obtenint informació…</string>
   <string name="gmscore_support_remind">Activeu aquesta funció si teniu problemes amb l\'ús de Gmail, Google Maps i altres aplicacions de Google. Això reduirà lleugerament la durada de la bateria.</string>
@@ -1612,6 +1615,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="shutdown_cancel_reminder_detail2">"Sembla que esteu jugant a un joc. S'ha cancel·lat l'apagada programada."</string>
   <string name="signal_exception_summary">"No es pot connectar a la xarxa en aquesta àrea."</string>
   <string name="signal_exception_title">Senyal de xarxa feble</string>
+  <string name="signed_rule">Regles</string>
   <string name="sim_location_diagnostic">Diagnòstic d\'ubicació</string>
   <string name="sim_location_error_dialog_message">"La targeta SIM que utilitzeu és de %1$s. Això és diferent de la ubicació establerta manualment (%2$s). Canviar l'ubicació de la SIM a %3$s?"</string>
   <string name="sim_location_error_notify_message">Premi per canviar d\'ubicació SIM.</string>
