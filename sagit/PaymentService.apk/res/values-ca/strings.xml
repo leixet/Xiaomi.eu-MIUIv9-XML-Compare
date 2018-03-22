@@ -33,7 +33,7 @@
   <string name="mibi_bill_record_empty">No hi han moviments.</string>
   <string name="mibi_btn_agree">D\'acord</string>
   <string name="mibi_btn_back">Torna</string>
-  <string name="mibi_btn_count_down_auto">Consulta després de %1$s segons</string>
+  <string name="mibi_btn_count_down_auto">Consulta després de %1$d segons</string>
   <string name="mibi_btn_finish">finalitza</string>
   <string name="mibi_btn_mili_center_recharge">Recàrrega Crèdit Mi</string>
   <string name="mibi_btn_net_connection_retry">Torna a intentar-ho</string>
@@ -262,7 +262,7 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="mibi_progress_warning_waiting">"El pagament encara no ha arribat al vostre compte."</string>
   <string name="mibi_prompt_info_button_hint">Atenció (%d)</string>
   <string name="mibi_prompt_info_button_text">D\'acord</string>
-  <string name="mibi_prompt_info_for_first_use">El Mi Credit no es pot utilitzar per comprar maquinari a Mi.com.</string>
+  <string name="mibi_prompt_info_for_first_use">&lt;Data&gt;\"&amp;lt;font color=#ff7700&amp;gt;El Mi Credit no es pot utilitzar per comprar maquinari a Mi.com.&amp;lt;/font&amp;gt;\"&lt;/Data&gt;</string>
   <string name="mibi_prompt_info_title">Consells</string>
   <string name="mibi_push_register_fail">Error de registre en la tramesa automàtica.</string>
   <string name="mibi_push_register_success">Registre en la tramesa automàtica correcte.</string>
