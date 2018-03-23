@@ -807,7 +807,7 @@ Comproveu el número de seguiment."</string>
   <string name="send_shortcut_failed">"Ha fallat l'enviament"</string>
   <string name="send_shortcut_success">S\'ha afegit a la pantalla d\'inici</string>
   <string name="service_unavailiable">Comproveu la connexió de xarxa i torneu-ho a provar</string>
-  <string name="setting_address">Afegeix ubicacions freqüents</string>
+  <string name="setting_address">Afegiu llocs freqüents</string>
   <string name="setting_authorization_canceled_dialog_cancel">Cancel·la</string>
   <string name="setting_authorization_canceled_dialog_message">El MIUI ja no registrarà els pagaments i retirarà aquesta targeta.</string>
   <string name="setting_authorization_canceled_dialog_ok">Elimina la targeta</string>
