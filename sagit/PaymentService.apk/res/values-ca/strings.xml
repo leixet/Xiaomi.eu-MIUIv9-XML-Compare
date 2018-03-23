@@ -18,6 +18,7 @@
   <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
   <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
   <string name="abc_toolbar_collapse_description">Replega</string>
+  <string name="mibi_all_license_message">"Sou a punt d'utilitzar Mi Credit, que és un servei proporcionat per Xiaomi Inc. Abans de poder utilitzar aquest servei, heu d'acceptar les Condicions de servei que s'indiquen a %1$s. Premeu D'acord si accepteu els termes i condicions descrits a %1$s i %1$s. Necessitareu connectar-vos a Internet i localitzar el vostre dispositiu per utilitzar Mi Credit."</string>
   <string name="mibi_app_name">Crèdit Mi</string>
   <string name="mibi_applock_config">"No es pot establir el bloqueig de l'aplicació mentre s'utilitza la pantalla dividida."</string>
   <string name="mibi_applock_dialog_cancel">Ara no</string>
@@ -55,6 +56,7 @@
   <string name="mibi_button_pay">Confirma</string>
   <string name="mibi_button_reget">Reenvia</string>
   <string name="mibi_button_retry">Torna a intentar-ho</string>
+  <string name="mibi_camera_open_failed">No s\'ha pogut obrir la càmera</string>
   <string name="mibi_cancel">Cancel·la</string>
   <string name="mibi_change_security_lock">Més bloquejos de pantalla</string>
   <string name="mibi_check_giftcard">Mostra els cupons</string>
