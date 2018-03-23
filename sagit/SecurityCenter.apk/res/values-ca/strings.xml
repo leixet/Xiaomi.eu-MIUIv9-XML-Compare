@@ -769,6 +769,7 @@ S\'afegirà a les excepcions, però els elements bloquejats anterioment no apare
   <string name="gb_network_status_bad">S\'ha produït un error de connexió.</string>
   <string name="gb_new_feature">Nova característica</string>
   <string name="gb_sign_gift_button_text">Rep</string>
+  <string name="gb_sign_notification_title">Augmenta la velocitat de la xarxa per als jocs</string>
   <string name="gb_signed_gift_loading_fail">"No s'ha pogut carregar"</string>
   <string name="gb_signed_gift_loading_summary">Un moment…</string>
   <string name="gdpr_msg">&lt;Data&gt;\"Per utilitzar les característiques bàsiques de Seguretat, haureu d\'acceptar que Xiaomi recopili, processi i utilitzi les vostres dades personals, incloent-hi informació sobre les maneres d\'utilitzar les funcions de seguretat (per exemple, estadístiques d\'ús de dades mòbils, informació sobre aplicacions malicioses, informació bàsica sobre el vostre dispositiu) i altres tipus d\'informació que s\'especifiquen a la nostra &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Política de privadesa&amp;lt;/a&amp;gt;.\"&lt;/Data&gt;</string>
@@ -798,6 +799,7 @@ S\'afegirà a les excepcions, però els elements bloquejats anterioment no apare
   <string name="gs_game_shortcut">Millora la vostra experiència de joc</string>
   <string name="gs_only_self_start_for_list">Redueix els processos en segon pla per deixar més bateria pel joc</string>
   <string name="gs_open_game_booster">Augment de velocitat</string>
+  <string name="gs_open_game_booster_summary">Augmenta la velocitat de la xarxa per als jocs</string>
   <string name="gs_performance_mode">Mode rendiment</string>
   <string name="gs_performance_mode_detail">Incrementa l\'ús de la CPU per garantir el millor rendiment</string>
   <string name="gs_sign_notification">Recordeu fer la validació a les 20h cada dia</string>
