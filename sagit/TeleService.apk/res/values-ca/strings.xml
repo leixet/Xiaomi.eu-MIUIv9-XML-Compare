@@ -1537,6 +1537,8 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="vibrate_after_connected_summary">Vibra en respondre</string>
   <string name="vibrate_after_connected_title">Vibració un cop connectat</string>
   <string name="vice_slot_volte_data_switch_prompt">El dispositiu es connectarà a una xarxa de dades mòbils amb la targeta SIM secundària durant les trucades VoLTE en curs. Això pot generar despeses de dades addicionals. Poseu-vos en contacte amb el proveïdor local per obtenir informació sobre el vostre pla de dades.</string>
+  <string name="vice_slot_volte_data_switch_summary">Durant les trucades de VoLTE, el dispositiu es connectarà a una xarxa de dades mòbil amb la targeta SIM secundària</string>
+  <string name="vice_slot_volte_data_switch_title">Ús de dades mòbils durant les trucades de VoLTE a la targeta SIM secundària</string>
   <string name="vm_change_failed">"No s\'ha pogut canviar el número de bústia de veu.
 Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="vm_change_pin_error_invalid">El nou PIN conté caràcters no vàlids.</string>
@@ -1577,7 +1579,9 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="volte_switch_not_support_summary">"Les trucades VoLTE no són compatibles amb la targeta SIM de dades mòbils."</string>
   <string name="volte_switch_not_support_summary2">"Les trucades VoLTE no són compatibles amb l'operador."</string>
   <string name="volte_switch_summary">Utilitza VoLTE per millorar la qualitat de les trucades de veu i de vídeo</string>
+  <string name="volte_switch_summary2">Confirmeu que el vostre operador admet aquesta funció abans d\'activar-la. En cas contrari, les trucades regulars podrien veure\'s afectades.</string>
   <string name="volte_switch_title">Activa VoLTE</string>
+  <string name="volte_tips_when_turn_on">Els serveis VoLTE de China Telecom només es proporcionen a les zones amb cobertura de xarxa LTE.</string>
   <string name="vpn_settings_not_available">La configuració de la VPN no està disponible per a aquest usuari</string>
   <string name="vvm_unsupported_message_format">Tipus de missatge no compatible, truqueu a %s per escoltar-lo.</string>
   <string name="wait_for_debugger">Espera el depurador</string>
