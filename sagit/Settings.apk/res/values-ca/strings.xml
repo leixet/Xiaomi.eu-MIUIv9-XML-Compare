@@ -2025,6 +2025,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="key_gesture_function_preview">Previsualitzacions de botons i gestos</string>
   <string name="key_gesture_function_shortcut">Dreceres funcionals</string>
   <string name="key_none">Cap</string>
+  <string name="key_operation_diagram">Diagrama d\'operacions</string>
   <string name="key_position_cat">Posició dels botons</string>
   <string name="key_settings">Botons</string>
   <string name="key_settings_title">Botons</string>
@@ -3195,6 +3196,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="profile_section_header">Notificacions de la feina</string>
   <string name="progress_scanning">S\'està cercant</string>
   <string name="provider_label">Subscripcions de tramesa automàtica</string>
+  <string name="provision_activation">Actiu</string>
   <string name="provision_back">Enrere</string>
   <string name="provision_next">Següent</string>
   <string name="provision_page_layout_confirm_message">Per aplicar aquests canvis el dispositiu s\'ha de reiniciar. Trigarà aproximadament 1 minut.</string>
