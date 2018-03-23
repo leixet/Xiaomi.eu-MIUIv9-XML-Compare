@@ -193,6 +193,7 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="mibi_msg_telecom_picker_hint_2_1">S\'ha notificat al vostre proveïdor de xarxa!</string>
   <string name="mibi_msg_telecom_picker_hint_2_2">En breu rebreu una confirmació de text.</string>
   <string name="mibi_msg_telecom_sending">S\'està contactant amb el proveïdor de xarxa&#8230;</string>
+  <string name="mibi_normal_license_name">Termes i condicions</string>
   <string name="mibi_order_balance_lable">Crèdits Mi</string>
   <string name="mibi_order_balance_lable_append">Crèdits Mi + cupó</string>
   <string name="mibi_order_balance_title">Els meus Crèdits Mi</string>
@@ -236,6 +237,7 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="mibi_prepaid_picker_hint_2_2_b">Si el valor nominal de la targeta de prepagament no és &lt;font color=red&gt; € %1$s&lt;/font&gt;, La targeta serà nul·la. Xiaomi no és responsable de cap pèrdua monetària que es produeixi com a resultat de l\'error de l\'usuari.</string>
   <string name="mibi_prepaid_picker_title_default">Seleccioneu la quantitat</string>
   <string name="mibi_prepaid_picker_title_selected">quantitat</string>
+  <string name="mibi_privacy_license_name">Política de privadesa</string>
   <string name="mibi_process_expired">"Que volíeu fer? Aquesta operació ha caducat."</string>
   <string name="mibi_progress_creating">S\'està recuperant la informació de la comanda&#8230;</string>
   <string name="mibi_progress_deduct_creating">S\'està activant el protocol de pagament automàtic %1$s&#8230;</string>
@@ -252,6 +254,7 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="mibi_progress_prepaid_creating">S\'està generant la compra&#8230;</string>
   <string name="mibi_progress_querying">S\'està processant&#8230;</string>
   <string name="mibi_progress_submit_hint">La recàrrega es reflectirà en el saldo del vostre compte dins de 3 minuts.</string>
+  <string name="mibi_progress_submit_pay">El pagament es completarà en uns 3 minuts…</string>
   <string name="mibi_progress_submit_recharge_summary">S\'estan recarregant: %1$s Mi Credits.</string>
   <string name="mibi_progress_submit_title">Sol·licitud tramesa</string>
   <string name="mibi_progress_success_pay_title">%1$s Mi Credit pagament completat</string>
@@ -281,6 +284,7 @@ Comproveu la vostra data local i torneu a provar."</string>
   <string name="mibi_recharge_other">Mostra altres mètodes</string>
   <string name="mibi_recharge_push_notification_prime_title">%1$d afegits %2$s Mi Credits al vostre compte</string>
   <string name="mibi_recharge_push_notification_sub_title">S\'ha completat la recàrrega.</string>
+  <string name="mibi_recharge_warn_text">"No podeu comprar béns físics utilitzant Mi Credits."</string>
   <string name="mibi_scan_prompt_number">Escaneja el número de la targeta de prepagament %1$s</string>
   <string name="mibi_scan_prompt_password">Escaneja la contrasenya de la targeta de prepagament %1$s</string>
   <string name="mibi_scan_prompt_voucher">Escaneja la contrasenya Mi Credit</string>
