@@ -431,6 +431,8 @@ Utilitza únicament el carregador subministrat."</string>
   <string name="long_screenshot_top_msg">Prendre captura de pantalla llarga…</string>
   <string name="long_screenshot_top_msg_manual">Retalleu la captura de pantalla i premeu el botó per finalitzar</string>
   <string name="low_temperature_button_ok">Entesos</string>
+  <string name="low_temperature_warning_message">La temperatura és molt baixa. El telèfon es pot apagar en qualsevol moment. Deseu tots els canvis importants.</string>
+  <string name="low_temperature_warning_title">Advertència de temperatura baixa</string>
   <string name="managed_profile_foreground_toast">"Estas utilitzant el perfil de feina"</string>
   <string name="managed_user_title">Totes les aplicacions de feina</string>
   <string name="mdb_entering">Iniciant&#8230;</string>
@@ -567,6 +569,7 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="quick_settings_wifi_detail_empty_text">No hi ha xarxes Wifi disponibles</string>
   <string name="quick_settings_wifi_label">Wifi</string>
   <string name="quick_settings_wifi_nearby">Seleccioneu una xarxa propera</string>
+  <string name="recent_cannot_dock">"No es pot utilitzar la pantalla dividida al segon espai"</string>
   <string name="recent_dock_tip">Toqueu per seleccionar aplicacions</string>
   <string name="recent_task_app_info_text">Informació</string>
   <string name="recent_task_cleaning">S\'està netejant, espereu una mica</string>
