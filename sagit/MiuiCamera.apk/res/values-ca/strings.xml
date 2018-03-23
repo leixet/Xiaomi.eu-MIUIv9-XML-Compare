@@ -28,6 +28,7 @@
   <string name="accessibility_hdr">Botó activar HDR</string>
   <string name="accessibility_hdr_auto">L\'HDR automàtic està activat</string>
   <string name="accessibility_hdr_off">HDR està desactivat</string>
+  <string name="accessibility_hdr_on">L\'HDR està activat</string>
   <string name="accessibility_intent_done_apply">Fet</string>
   <string name="accessibility_mode_dismiss_button">Botó de tancament del mode de selecció</string>
   <string name="accessibility_more">Més</string>
