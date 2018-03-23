@@ -766,6 +766,7 @@ S\'afegirà a les excepcions, però els elements bloquejats anterioment no apare
   <string name="gb_description_image_button_answer">Contesta</string>
   <string name="gb_description_image_button_reject">Declina</string>
   <string name="gb_description_image_button_video_answer">Videotrucada</string>
+  <string name="gb_network_status_bad">S\'ha produït un error de connexió.</string>
   <string name="gb_new_feature">Nova característica</string>
   <string name="gb_sign_gift_button_text">Rep</string>
   <string name="gb_signed_gift_loading_fail">"No s'ha pogut carregar"</string>
@@ -799,6 +800,7 @@ S\'afegirà a les excepcions, però els elements bloquejats anterioment no apare
   <string name="gs_open_game_booster">Augment de velocitat</string>
   <string name="gs_performance_mode">Mode rendiment</string>
   <string name="gs_performance_mode_detail">Incrementa l\'ús de la CPU per garantir el millor rendiment</string>
+  <string name="gs_sign_notification">Recordeu fer la validació a les 20h cada dia</string>
   <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Operador incorrecte?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="guide_operator_text">"Operador actual: "</string>
   <string name="guide_quck_open">Activa</string>
