@@ -4,7 +4,7 @@
   <string name="access_select">S\'ha seleccionat %s</string>
   <string name="access_unselect">S\'ha anul·lat la selecció de %s</string>
   <string name="accessibility_title">Cofre d\'aplicacions</string>
-  <string name="accordingto_position">Reconeix ubicacions freqüents amb el GPS</string>
+  <string name="accordingto_position">Reconeix llocs freqüents mitjançant el GPS</string>
   <string name="account_address">Adreça</string>
   <string name="add_stock">Afegeix</string>
   <string name="add_to_desktop">Afegeix a la pantalla d\'inici</string>
@@ -166,7 +166,7 @@
   <string name="commute">Suggeriments del mapa</string>
   <string name="commute_open">Mostra la targeta de suggeriments del mapa</string>
   <string name="commute_setting_brief">Obtingueu suggeriments de ruta i transit abans de sortir.</string>
-  <string name="company_or_school">Treball o escola</string>
+  <string name="company_or_school">Feina o escola</string>
   <string name="corpus_description_apps">Aplicacions instal·lades</string>
   <string name="corpus_hint_apps">Cerca aplicacions</string>
   <string name="corpus_label_apps">Aplicacions</string>
@@ -220,7 +220,7 @@
   <string name="didi_trip">Truca a un taxi</string>
   <string name="didi_trip_content">Calcula la tarifa i truca a un taxi</string>
   <string name="didi_trip_content_detail">Calcula la tarifa de taxi aproximada i truca a un taxi.</string>
-  <string name="drive">Condueix</string>
+  <string name="drive">Conduir</string>
   <string name="duokan_open">Afegiu la targeta Duokan</string>
   <string name="duokan_setting_brief">Continueu llegint des del lloc on ho vau deixar.</string>
   <string name="edit_amount_hint">Introdueix la quantitat</string>
