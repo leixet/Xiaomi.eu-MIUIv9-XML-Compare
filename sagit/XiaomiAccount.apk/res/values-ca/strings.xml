@@ -34,7 +34,7 @@
   <string name="account_security_info_pref_title">Informació de seguretat</string>
   <string name="account_token_expired_msg">"El codi de verificació ha caducat, torneu a començar o tanqueu la sessió
  El vostre ID: %s"</string>
-  <string name="account_token_expired_title">Ha fallat l\'autenticació</string>
+  <string name="account_token_expired_title">"Ha fallat l'autenticació"</string>
   <string name="account_user_avatar">Foto del perfil</string>
   <string name="account_user_avatar_from_album">Trieu una foto</string>
   <string name="account_user_avatar_from_camera">Fes-te una fotografia</string>
