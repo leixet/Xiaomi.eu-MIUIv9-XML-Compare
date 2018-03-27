@@ -77,6 +77,7 @@ aquesta característica s\'afegirà al Segon espai automàticament."</string>
   <string name="dont_import">Ara no</string>
   <string name="downloading_space">S\'està baixant&#8230;</string>
   <string name="enable">Activa</string>
+  <string name="encrypt_space_delete_dialog_title">Atenció</string>
   <string name="enter_air_space">Vés a l\'espai de treball</string>
   <string name="err_copy_contacts">"No s'han pogut copiar els contactes"</string>
   <string name="err_copy_files">"No s'han pogut copiar els fitxers"</string>
