@@ -1620,6 +1620,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="signal_exception_summary">"No es pot connectar a la xarxa en aquesta àrea."</string>
   <string name="signal_exception_title">Senyal de xarxa feble</string>
   <string name="signed_rule">Regles</string>
+  <string name="signed_rule_two">2. Només es pot obtenir 1 augment de velocitat Xunyou al mes.</string>
   <string name="sim_location_diagnostic">Diagnòstic d\'ubicació</string>
   <string name="sim_location_error_dialog_message">"La targeta SIM que utilitzeu és de %1$s. Això és diferent de la ubicació establerta manualment (%2$s). Canviar l'ubicació de la SIM a %3$s?"</string>
   <string name="sim_location_error_notify_message">Premi per canviar d\'ubicació SIM.</string>
