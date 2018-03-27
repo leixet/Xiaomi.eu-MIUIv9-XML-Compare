@@ -1752,6 +1752,7 @@ Per obtenir més informació, contacteu amb l\'administrador de l\'organització
   <string name="finish_application">Força el tancament</string>
   <string name="finish_button">Finalitza</string>
   <string name="finish_button_label">Finalitza</string>
+  <string name="firewall_restrict_android_dialog_title">Atenció</string>
   <string name="firmware_version">Android</string>
   <string name="floating_window_switch_label">Activa les finestres flotants</string>
   <string name="floating_window_switch_label_disable">Desactiva les finestres flotants</string>
