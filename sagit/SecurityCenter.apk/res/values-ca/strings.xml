@@ -1523,7 +1523,7 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="report_only">Trieu un missatge per notificar</string>
   <string name="report_success">Missatge notificat</string>
   <string name="report_warning">"Voleu notificar %1$s SMS a Mi? Aquests missatges i els números de telèfon des dels que van ser enviats es pujaran als servidors de Mi per ser revisats. Qualsevol informació personal associada amb aquests missatges es tractarà de manera anònima."</string>
-  <string name="report_warning_title">Notifica els SMS</string>
+  <string name="report_warning_title">Atenció</string>
   <string name="resource_antispam">Llista de bloqueig</string>
   <string name="resource_antivirus">Anàlisi de virus</string>
   <string name="resource_app_permissions">Permisos de l\'aplicació</string>
@@ -1620,6 +1620,8 @@ Aquesta activitat escurça la durada de la bateria."</string>
   <string name="signal_exception_summary">"No es pot connectar a la xarxa en aquesta àrea."</string>
   <string name="signal_exception_title">Senyal de xarxa feble</string>
   <string name="signed_rule">Regles</string>
+  <string name="signed_rule_one">1. Reviseu d\'aquí a 10, 20 o 28 dies seguits cada mes per obtenir un augment de velocitat Xunyou durant 1, 2 o 3 dies, respectivament.</string>
+  <string name="signed_rule_three">"3. Els dies en què es realitza el registre s'anul·len al començament de cada mes. Els dies restants no es bolquen."</string>
   <string name="signed_rule_two">2. Només es pot obtenir 1 augment de velocitat Xunyou al mes.</string>
   <string name="sim_location_diagnostic">Diagnòstic d\'ubicació</string>
   <string name="sim_location_error_dialog_message">"La targeta SIM que utilitzeu és de %1$s. Això és diferent de la ubicació establerta manualment (%2$s). Canviar l'ubicació de la SIM a %3$s?"</string>
