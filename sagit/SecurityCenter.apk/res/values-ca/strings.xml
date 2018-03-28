@@ -718,7 +718,7 @@ S\'afegirà a les excepcions, però els elements bloquejats anterioment no apare
   <string name="forbid_autobright_summary">"La brillantor de la pantalla continuarà igual quan estigueu jugant"</string>
   <string name="forbid_autobright_title">Corregeix la lluentor de la pantalla</string>
   <string name="foreground_traffic">Portar a primer pla %s</string>
-  <string name="forget_password_button_text">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
+  <string name="forget_password_button_text"><u>He oblidat la contrasenya</u></string>
   <string name="forget_password_button_text_normal">He oblidat la contrasenya</string>
   <string name="forget_pattern">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
   <string name="free_send_net_booster">Augment de la velocitat de la xarxa gratuït</string>
