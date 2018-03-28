@@ -51,7 +51,7 @@ Regístrar-se a account.xiaomi.com，Protecció de les pàgines de destinació, 
   <string name="error_exists">Aquest nom ja està en ús.</string>
   <string name="error_qr">El QR no es pot interpretar.</string>
   <string name="error_uri">Clau no reconeguda.</string>
-  <string name="forget_password">&lt;u&gt;He oblidat la contrasenya&lt;/u&gt;</string>
+  <string name="forget_password"><u>He oblidat la contrasenya</u></string>
   <string name="general_security_exception">Excepció de seguretat general</string>
   <string name="gif_not_support_camera_msg">El dispositiu no admet gravació de vídeo.</string>
   <string name="how_it_works_menu_item">Com funciona</string>
