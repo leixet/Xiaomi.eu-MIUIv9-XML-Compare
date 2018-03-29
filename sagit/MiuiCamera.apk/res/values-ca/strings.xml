@@ -175,9 +175,12 @@ i les barrejarà per crear-ne una de nova on cadascú quedi millor."</string>
   <string name="portait_effect_entry_japanese">Cel blau</string>
   <string name="portait_effect_entry_maze">Laberint</string>
   <string name="portait_effect_entry_mood">Emocions</string>
+  <string name="portait_effect_entry_movie">Pel·lícula</string>
   <string name="portait_effect_entry_nature">Natura</string>
   <string name="portait_effect_entry_pink">Rubor</string>
+  <string name="portait_effect_entry_riddle">Enigma</string>
   <string name="portait_effect_entry_romance">Romantic</string>
+  <string name="portait_effect_entry_story">Història</string>
   <string name="portrait_mode_depth_effect_success_hint">Efecte de profunditat</string>
   <string name="portrait_mode_lowlight_hint">"Ara és massa fosc"</string>
   <string name="portrait_mode_too_close_hint">Allunyeu-vos de l\'objecte</string>
