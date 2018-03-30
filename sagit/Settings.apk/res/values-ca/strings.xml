@@ -1401,6 +1401,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»"</string>
   <string name="device_usage_list_summary">Ús del dispositiu des de la càrrega completa</string>
   <string name="dial_application_title">Marca</string>
   <string name="dial_pad_tones_title">Tons del teclat</string>
+  <string name="dialog_chose_item">Seleccioneu un element per visualitzar-lo</string>
   <string name="dialog_content_login">Per a actualitzar, inicieu la sessió del compte Mi</string>
   <string name="dialog_restrict_negative">Restringeix</string>
   <string name="dialog_restrict_positive">Cancel·la</string>
