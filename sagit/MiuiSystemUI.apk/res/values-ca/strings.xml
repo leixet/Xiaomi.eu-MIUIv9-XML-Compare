@@ -596,7 +596,7 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="retail_demo_reset_message">Introduïu la contrasenya per realitzar la restauració de fàbrica en mode demostració</string>
   <string name="retail_demo_reset_next">Següent</string>
   <string name="retail_demo_reset_title">Es requereix la contrasenya</string>
-  <string name="return_to_incall_screen">Tornar a la trucada</string>
+  <string name="return_to_incall_screen">Torna a la trucada</string>
   <string name="running_process_item_user_label">Usuari: %1$s</string>
   <string name="runningservices_settings_summary">Visualitzeu i controleu els serveis que s\'estan executant</string>
   <string name="runningservices_settings_title">Tasques en execució</string>
