@@ -263,6 +263,7 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="app_backup">Còpia de seguretat</string>
   <string name="app_data_usage">Ús de dades de l\'aplicació</string>
   <string name="app_default_dashboard_title">Aplicacions per defecte</string>
+  <string name="app_detail">Detalls</string>
   <string name="app_disable_dlg_positive">Desactiva l\'aplicació</string>
   <string name="app_disable_dlg_text">Si la desactiveu, podria ser que altres aplicacions no funcionessin correctament.</string>
   <string name="app_disable_dlg_title">Voleu desactivar l\'aplicació integrada?</string>
@@ -292,7 +293,9 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="app_list_memory_use">Ús de les aplicacions</string>
   <string name="app_list_preference_none">Cap</string>
   <string name="app_memory_use">Memoria en ús</string>
+  <string name="app_mobile">Mòbil</string>
   <string name="app_name_label">Aplicació</string>
+  <string name="app_name_na">Ús de dades</string>
   <string name="app_not_found_dlg_text">L\'aplicació no és a la llista d\'aplicacions instal·lades.</string>
   <string name="app_notification_block_summary">No mostris mai notificacions d\'aquesta aplicació</string>
   <string name="app_notification_block_title">Bloqueja-ho tot</string>
@@ -324,6 +327,8 @@ L\'Administrador pot supervisar i administrar la configuració, els accessos, le
   <string name="app_special_disable_dlg_title">Voleu eliminar les dades i desactivar l\'aplicació?</string>
   <string name="app_switch_key">Recents</string>
   <string name="app_usage_preference">Preferències d\'ús de les aplicacions</string>
+  <string name="app_version">Versió</string>
+  <string name="app_wifi">Wi-Fi</string>
   <string name="application_forbid_auto_startup">No permetis que %s s\'executi en segon pla</string>
   <string name="application_info_label">Informació de l\'aplicació</string>
   <string name="application_item_already_permission">Permès</string>
@@ -865,6 +870,7 @@ Taxa de mostreig"</string>
   <string name="bt_rarely_used_device_title">Dispositius poc utilitzats (%d)</string>
   <string name="bt_trace_log">Activa el registre de seguiment amb Bluetooth</string>
   <string name="bt_trace_log_summary">Activa el registre de seguiment amb Bluetooth</string>
+  <string name="btn_back">Enrera</string>
   <string name="bug_report_settings">Comentaris</string>
   <string name="bugreport_in_power">Drecera de l\'informe d\'errors</string>
   <string name="bugreport_in_power_summary">Mostra un botó en el menú d\'inici per a informar d\'errors</string>
@@ -885,6 +891,7 @@ Taxa de mostreig"</string>
   <string name="button_text_ok_timer">D\'acord(%d)</string>
   <string name="button_text_reboot_now">Reinicia</string>
   <string name="button_text_reject">Rebutja</string>
+  <string name="byteShort">B</string>
   <string name="cache_header_label">Memòria cau</string>
   <string name="cache_size_label">Memòria cau</string>
   <string name="cached">Registra els processos en segon pla</string>
@@ -1329,12 +1336,14 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»"</string>
   <string name="delete_or_keep_legacy_passwords_confirm_msg">Voleu suprimir aquesta empremta?</string>
   <string name="delete_rule">Suprimeix regles</string>
   <string name="delete_saved_network">Esborra les xarxes desades</string>
+  <string name="deleted_apps">Aplicacions eliminades</string>
   <string name="deletion_helper_automatic_title">Automàtic</string>
   <string name="deletion_helper_manual_title">Manual</string>
   <string name="deletion_helper_preference_title">Alliberació d\'espai</string>
   <string name="demo_mode">Mode de demostració</string>
   <string name="demo_mode_summary">Mostra la icona de demostració a la barra d\'estat</string>
   <string name="deny">Denega</string>
+  <string name="detail_app_button">Informació de l\'aplicació</string>
   <string name="details_subtitle">Detalls de l\'ús</string>
   <string name="dev_logpersist_clear_warning_message">Quan ja no monitoritzem més amb el registrador persistent, se\'ns demanarà d\'esborrar el registrador de dades resident del vostre dispositiu.</string>
   <string name="dev_logpersist_clear_warning_title">Voleu netejar l\'emmagatzematge del registrador persistent?</string>
@@ -1393,6 +1402,8 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»"</string>
   <string name="dial_application_title">Marca</string>
   <string name="dial_pad_tones_title">Tons del teclat</string>
   <string name="dialog_content_login">Per a actualitzar, inicieu la sessió del compte Mi</string>
+  <string name="dialog_restrict_negative">Restringeix</string>
+  <string name="dialog_restrict_positive">Cancel·la</string>
   <string name="dialog_title_color_calibration">Mode de correcció de color</string>
   <string name="dialog_title_hdmi_color_calibration">Mode de correcció de color</string>
   <string name="dialog_title_login">Inicieu la sessió al compte Mi</string>
@@ -1527,6 +1538,8 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»"</string>
   <string name="doze_title">Pantalla ambient</string>
   <string name="draw_overlay">Mostra a sobre d\'altres aplicacions</string>
   <string name="dtmf_tone_enable_title">Tons del teclat</string>
+  <string name="dual_setting_simcard1">SIM 1</string>
+  <string name="dual_setting_simcard2">SIM 2</string>
   <string name="edge_mode_back">Enrere</string>
   <string name="edge_mode_back_summary">Toca dues vegades la vora del telèfon per anar enrere</string>
   <string name="edge_mode_clean">Esborra la memòria cau del sistema</string>
@@ -1752,7 +1765,12 @@ Per obtenir més informació, contacteu amb l\'administrador de l\'organització
   <string name="finish_application">Força el tancament</string>
   <string name="finish_button">Finalitza</string>
   <string name="finish_button_label">Finalitza</string>
+  <string name="firewall_allow_network">Permet</string>
+  <string name="firewall_applist">Aplicacions</string>
+  <string name="firewall_mobile">Dades mòbils</string>
+  <string name="firewall_network_restrict_notify_mobile">Dades mòbils</string>
   <string name="firewall_restrict_android_dialog_title">Atenció</string>
+  <string name="firewall_wifi">Wi-Fi</string>
   <string name="firmware_version">Android</string>
   <string name="floating_window_switch_label">Activa les finestres flotants</string>
   <string name="floating_window_switch_label_disable">Desactiva les finestres flotants</string>
@@ -1886,6 +1904,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="gesture_wakeup_title">Doble toc a la pantalla per a activar-la</string>
   <string name="getConfiguredNetworks">xarxes configurades</string>
   <string name="getConnectionInfo">informació de la connexió</string>
+  <string name="gigabyteShort">GB</string>
   <string name="global_change_warning">Aquesta configuració afecta tots els usuaris del telèfon.</string>
   <string name="global_locale_change_title">Canvi d\'idioma</string>
   <string name="go_back_button_label">Torna enrere</string>
@@ -2010,6 +2029,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="internal_storage_sentence">emmagatzematge intern</string>
   <string name="invalid_location">La ubicació d\'instal·lació no és vàlida.</string>
   <string name="invalid_size_value">No s\'ha pogut calcular la mida del paquet.</string>
+  <string name="item_system_app">Aplicacions del sistema</string>
   <string name="join_many_items_last">%1$s i %2$s</string>
   <string name="join_two_items">%1$s i %2$s</string>
   <string name="keep_legacy_fingerprint">Manté</string>
@@ -2102,6 +2122,8 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="keywords_wifi">wifi;wi-fi;WLAN;WLAN;wlan;WLAN</string>
   <string name="keywords_wifi_calling">wifi, wi-fi, trucada, trucar</string>
   <string name="keywords_write_settings">escriptura modificació configuració del sistema</string>
+  <string name="kilobyteShort">KB</string>
+  <string name="kilobyte_per_second">K/s</string>
   <string name="language_keyboard_settings_title">Idioma i introducció de text</string>
   <string name="language_picker_title">Idioma</string>
   <string name="language_settings">Idioma i introducció de text</string>
@@ -3352,6 +3374,7 @@ Interfície UT: %5$s"</string>
   <string name="restore_default_apn_completed">S\'ha restablert la configuració APN per defecte.</string>
   <string name="restr_pin_enter_admin_pin">Introduïu el PIN d\'administrador</string>
   <string name="restrict_background_blacklisted">Les dades en segon pla estan desactivades</string>
+  <string name="restrict_bg_app">Restringeix</string>
   <string name="restrict_max_aspect_ratio_title">"Aquestes aplicacions no funcionen bé en mode de pantalla completa"</string>
   <string name="restriction_bluetooth_config_summary">Permet la modificació de la vinculació i configuració per Bluetooth</string>
   <string name="restriction_location_enable_summary">Permet que les aplicacions utilitzin la informació de la ubicació</string>
@@ -3385,6 +3408,7 @@ Interfície UT: %5$s"</string>
   <string name="roaming_warning_multiuser">«Si permeteu la itinerància de dades, és possible que us facturin càrrecs d\'itinerància elevats!
 
 Aquesta configuració afecta tots els usuaris del telèfon.»</string>
+  <string name="root">Accés de superusuari</string>
   <string name="rule_name">Nom</string>
   <string name="running_frequency">Freqüència</string>
   <string name="running_process_item_removed_user_label">S\'ha suprimit l\'usuari</string>
@@ -4399,10 +4423,17 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="tether_and_hotspot_title">Connexió compartida d\'Internet</string>
   <string name="tether_auto_disable_summary">Tanca automàticament el punt d\'accés quan no hi hagi cap dispositiu connectat</string>
   <string name="tether_auto_disable_title">Tanca automàticament el punt d\'accés</string>
+  <string name="tether_custom_dialog_title">Límit de dades mòbils</string>
   <string name="tether_data_usage_limit">Límit de dades d\'una sola vegada</string>
   <string name="tether_data_usage_limit_summary">El límit de dades s\'aplicarà la propera vegada que el punt d\'accés estigui activat</string>
   <string name="tether_devices_management_title">Gestió de dispositius</string>
   <string name="tether_devices_max_number">Límit de dispositius connectats</string>
+  <string name="tether_limit_dialog_title">Límit de dades mòbils</string>
+  <string name="tether_limit_value_custom">Personalitzat</string>
+  <string name="tether_over_limit_dialog_cancle_btn">Restableix el punt d\'accés</string>
+  <string name="tether_over_limit_dialog_title">Avís d\'ús de dades</string>
+  <string name="tether_over_limit_warning_notify_message">Desactiva el punt d\'accés portàtil.</string>
+  <string name="tether_over_limit_warning_notify_title">S\'ha arribat al límit de dades del punt d\'accés</string>
   <string name="tether_settings_disabled">S\'ha desactivat el punt d\'accés portàtil</string>
   <string name="tether_settings_disabled_on_data_saver">No es pot compartir la xarxa ni utilitzar punts d\'accés Wi-Fi mentre l\'estalvi de dades està activat</string>
   <string name="tether_settings_summary_hotspot_off_tether_on">Ancoratge</string>
@@ -4456,6 +4487,7 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="trackball_settings">Punter</string>
   <string name="trackball_wake_title">Activació amb el punter</string>
   <string name="traffic_balance">Mode d\'ús de dades</string>
+  <string name="traffic_none">Cap</string>
   <string name="transition_animation_scale_title">Escalat de l\'animació de transició</string>
   <string name="translation_contributors_title">Col·laboradors en la traducció</string>
   <string name="trusted_credentials">Certificats de confiança</string>
