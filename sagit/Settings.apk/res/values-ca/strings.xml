@@ -1573,7 +1573,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»"</string>
   <string name="enabled_authorised_apps_summary">La vostra autorització es revocarà després de commutar canvis d\'aplicacions individuals.</string>
   <string name="enabled_authorised_apps_title">Autorització concedida</string>
   <string name="enabled_by_admin">Activat per l\'administrador</string>
-  <string name="enalbe_identify_iPhone">Identificació de l\'AP</string>
+  <string name="enalbe_identify_iPhone">Identificació del dispositiu</string>
   <string name="encrypt_talkback_dialog_message_password">En introduir la contrasenya per a iniciar aquest dispositiu, els serveis d\'accessibilitat com %1$s encara no estaran disponibles.</string>
   <string name="encrypt_talkback_dialog_message_pattern">En introduir el patró per a iniciar aquest dispositiu, els serveis d\'accessibilitat com %1$s encara no estaran disponibles.</string>
   <string name="encrypt_talkback_dialog_message_pin">En introduir el PIN per a iniciar aquest dispositiu, els serveis d\'accessibilitat com %1$s encara no estaran disponibles.</string>
