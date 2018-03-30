@@ -109,7 +109,7 @@
   <string name="bookmark_move_to">Mou a</string>
   <string name="bookmark_needs_title">El marcador ha de tenir un nom</string>
   <string name="bookmark_needs_url">El marcador ha de contenir un URL</string>
-  <string name="bookmark_not_saved">"No s'ha pogut desar el marcador"</string>
+  <string name="bookmark_not_saved">"No s'ha pogut afegir el marcador"</string>
   <string name="bookmark_rename_group">Canvia el nom del grup</string>
   <string name="bookmark_saved">S\'ha desat als marcadors</string>
   <string name="bookmark_title">Nom del marcador</string>
@@ -292,6 +292,7 @@ està a punt de passar»</string>
   <string name="error_unauthorized">La sincronització amb el compte Mi s\'ha desactivat per massa intents d\'inici de sessió.</string>
   <string name="exit">Surt</string>
   <string name="exit_browser_warning">Voleu sortir del navegador?</string>
+  <string name="favorite">Preferit</string>
   <string name="file_dir">Canvia de carpeta</string>
   <string name="file_name">"Nom: "</string>
   <string name="file_picker">Selecciona la ruta</string>
@@ -326,7 +327,7 @@ està a punt de passar»</string>
   <string name="go_supermarket_title">Més aplicacions, més ràpid i menys ús de dades a l\'App Store</string>
   <string name="gold_medals">Medalles d\'or</string>
   <string name="google_bookmarks">Google</string>
-  <string name="green_kid_block_request">Els pares han blocat l\'accés a la pàgina web.</string>
+  <string name="green_kid_block_request">L\'accés a aquest lloc web està restringit.</string>
   <string name="have_sent_bookmark_to_home_screen">S\'ha posat a la pantalla d\'inici</string>
   <string name="hint">Consell</string>
   <string name="history">Historial</string>
@@ -843,7 +844,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="pref_enable_videos">Vídeos</string>
   <string name="pref_extras_reset_default">Restableix als valors per defecte</string>
   <string name="pref_extras_reset_default_dlg">Voleu tornar a la configuració per defecte?</string>
-  <string name="pref_extras_reset_default_summary">Restaura la configuració per defecte</string>
+  <string name="pref_extras_reset_default_summary">Restaura l\'ordre per defecte</string>
   <string name="pref_extras_reset_default_title">Altres</string>
   <string name="pref_extras_send_feedback">Envia comentaris</string>
   <string name="pref_extras_title">Configuració addicional</string>
@@ -974,7 +975,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="save_image_success">Imatge desada</string>
   <string name="save_page_capture_tip">Obre la taula de notificacions per veure la captura de pantalla.</string>
   <string name="save_page_capture_to_camera">S\'ha desat la captura de pantalla</string>
-  <string name="save_to_bookmark">Desa als marcadors</string>
+  <string name="save_to_bookmark">S\'ha afegit als marcadors</string>
   <string name="save_to_camera">Desa a càmera</string>
   <string name="save_to_camera_failed">"No es pot desar la imatge"</string>
   <string name="save_to_camera_success">S\'ha desat a càmera</string>
@@ -1079,6 +1080,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="suggest_access_music">Música Mi</string>
   <string name="suggest_item_delete_text">Elimina</string>
   <string name="suggest_open_app_failed">"No s'ha pogut obrir aquesta aplicació"</string>
+  <string name="suggestion_express_button_text_query">CONSULTA</string>
   <string name="suggestion_lottery_detail_pour">%s NOTA</string>
   <string name="suggestion_lottery_detail_price">CADA NOTA VAL MÉS QUE %s IUAN</string>
   <string name="suggestion_lottery_detail_text">AQUESTA RONDA %s</string>
@@ -1194,7 +1196,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="voice_connect_network">"No es pot connectar a la xarxa"</string>
   <string name="voice_description">Cerca per veu</string>
   <string name="voice_network_connection">L\'ús de la cerca per veu necessita d\'accés a la xarxa, autoritzeu la connexió de xarxa</string>
-  <string name="voice_open_permission_baidu">Aneu a la configuració, activeu els permisos de veu per a les configuracions del reconeixement de veu</string>
+  <string name="voice_open_permission_baidu">Aneu a la configuració i permeteu que el motor de veu accedeixi al micròfon.</string>
   <string name="voice_open_permission_xiaoai">Aneu a la configuració i permeteu que el motor de veu Mi AI accedeixi al micròfon.</string>
   <string name="voice_open_permission_xunfei">Aneu a configuració i proporcioneu al Navegador Mi tots els permisos necessaris.</string>
   <string name="voice_search_permission">La cerca per veu requereix privilegis de veu, aneu a la configuració del navegador per obrir els permisos de veu</string>
