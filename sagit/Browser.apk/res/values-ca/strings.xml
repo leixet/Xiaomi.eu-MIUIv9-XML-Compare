@@ -1196,7 +1196,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="voice_network_connection">L\'ús de la cerca per veu necessita d\'accés a la xarxa, autoritzeu la connexió de xarxa</string>
   <string name="voice_open_permission_baidu">Aneu a la configuració, activeu els permisos de veu per a les configuracions del reconeixement de veu</string>
   <string name="voice_open_permission_xiaoai">Aneu a la configuració i activeu els permisos de veu per al motor de veu Xiaoai</string>
-  <string name="voice_open_permission_xunfei">Aneu a la configuració i activeu els permisos de veu per a la configuració de veu</string>
+  <string name="voice_open_permission_xunfei">Aneu a configuració i proporcioneu al Navegador Mi tots els permisos necessaris.</string>
   <string name="voice_search_permission">La cerca per veu requereix privilegis de veu, aneu a la configuració del navegador per obrir els permisos de veu</string>
   <string name="voice_semantic_analysis">Anàlisi semàntica després de la creació de xarxes</string>
   <string name="voice_start_description">Inicia</string>
