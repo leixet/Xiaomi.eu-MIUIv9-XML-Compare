@@ -1405,7 +1405,9 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»"</string>
   <string name="dial_pad_tones_title">Tons del teclat</string>
   <string name="dialog_chose_item">Seleccioneu un element per visualitzar-lo</string>
   <string name="dialog_content_login">Per a actualitzar, inicieu la sessió del compte Mi</string>
+  <string name="dialog_restrict_all_mobile_summary">%s La connexió de dades mòbils es restringirà a totes les aplicacions després d\'això.</string>
   <string name="dialog_restrict_all_mobile_title">Restringeix la connexió %s de dades mòbils</string>
+  <string name="dialog_restrict_all_wlan_summary">La connexió Wi-Fi es restringirà a totes les aplicacions després d\'això.</string>
   <string name="dialog_restrict_all_wlan_title">Restringeix la connexió Wi-Fi</string>
   <string name="dialog_restrict_negative">Restringeix</string>
   <string name="dialog_restrict_positive">Cancel·la</string>
@@ -1787,6 +1789,9 @@ Per obtenir més informació, contacteu amb l\'administrador de l\'organització
   <string name="firewall_restrict_data">Restringeix l\'ús de dades mòbils</string>
   <string name="firewall_restrict_notify_title">"%s no pot utilitzar la xarxa"</string>
   <string name="firewall_restrict_wlan">Restringeix l\'ús de la connexió Wi-Fi</string>
+  <string name="firewall_set_bg_firewall_default_dialog_summary">"Si restringiu la connexió de fons, les noves aplicacions no podran connectar-se a Internet en segon pla després d'instal·lar-les. És possible que no puguin rebre missatges o baixar contingut després d'això. Voleu restringir-la de totes maneres?"</string>
+  <string name="firewall_set_bg_firewall_default_dialog_title">Restricció de la connexió de fons per a noves aplicacions</string>
+  <string name="firewall_temp_rule_reason">%2$s va restringir la connexió a Internet per a %1$s</string>
   <string name="firewall_wifi">Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">"L'aplicació instal·lada no podrà connectar-se a Internet utilitzant Wi-Fi quan aquest interruptor està desactivat."</string>
   <string name="firmware_version">Android</string>
@@ -2179,6 +2184,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="line_breaking_summary">Optimitza els salts de línia del paràgraf</string>
   <string name="line_breaking_title">Optimitza el text</string>
   <string name="link_speed_label">Velocitat de l\'enllaç:</string>
+  <string name="list_bg_header_text">"Si restringiu la connexió de fons, les noves aplicacions no podran connectar-se a Internet en segon pla després d'instal·lar-les. És possible que no puguin rebre missatges o baixar contingut després d'això."</string>
   <string name="list_empty_text">Buida</string>
   <string name="loading_notification_apps">S\'estan carregant les aplicacions...</string>
   <string name="local_auto_backup_off">Apagat</string>
@@ -2393,6 +2399,7 @@ Podeu establir un altre bloqueig de pantalla per al dispositiu i el perfil profe
   <string name="lockscreen_glogin_password_hint">Contrasenya</string>
   <string name="lockscreen_glogin_submit_button">Inici de sessió</string>
   <string name="lockscreen_magazine">Carrusel de fons de pantalla</string>
+  <string name="lockscreen_magazine_summary">Carrusel de fons de pantalla d\'alta qualitat</string>
   <string name="lockscreen_magazine_title">Tipus de fons de pantalla</string>
   <string name="lockscreen_remote_input">Si el dispositiu està bloquejat, impedeix que s\'escriguin respostes o altres textos a les notificacions</string>
   <string name="lockscreen_settings_title">Preferències de la pantalla de bloqueig</string>
@@ -2707,6 +2714,8 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="netcheck_title">Diagnòstic de la xarxa</string>
   <string name="network_assistant">Ús de dades</string>
   <string name="network_changed_noti_summary">S\'està utilitzant dades mòbils</string>
+  <string name="network_changed_noti_title">Desconnectat de la Wi-Fi</string>
+  <string name="network_control">Mostra la configuració de l\'aplicació</string>
   <string name="network_dashboard_summary">Wi-Fi, mòbil, ús de dades, punt d\'accés</string>
   <string name="network_dashboard_title">Xarxa i Internet</string>
   <string name="network_detail">Detalls de la xarxa %s</string>
@@ -2722,6 +2731,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="network_settings_title">Xarxes mòbils</string>
   <string name="network_speed_for_apps_close">Força l\'aturada</string>
   <string name="network_speed_for_apps_close_app_dlg_msg">Voleu aturar forçosament aquest aplicació?</string>
+  <string name="network_speed_for_apps_close_system_app_dlg_msg">"No es pot forçar l'aturada de les aplicacions del sistema."</string>
   <string name="network_speed_for_apps_others">Altres</string>
   <string name="network_speed_for_apps_title">Connexió</string>
   <string name="network_speed_for_apps_total">Velocitat de connexió</string>
@@ -3091,6 +3101,7 @@ quan %1$s és connecta a l\'ordinador, ho fa com a dispositiu d\'emmagatzematge 
   <string name="pref_edge_handgrip">Controls de la vora</string>
   <string name="pref_key_tethering_setting">Límit de dades d\'una sola vegada</string>
   <string name="pref_key_tethering_title">Límit de dades d\'una sola vegada</string>
+  <string name="pref_manage_bg_network">"Gestioneu la connexió de xarxa de fons de les aplicacions"</string>
   <string name="pref_new_installed_preconfig_title">"Configuració per defecte per a noves aplicacions"</string>
   <string name="pref_operational_key">Botons de navegació</string>
   <string name="pref_title_lang_selection">Preferències d\'idioma</string>
@@ -3514,6 +3525,7 @@ Aquesta configuració afecta tots els usuaris del telèfon.»</string>
   <string name="screen_paper_mode_apps_title">Utilitza mode lectura</string>
   <string name="screen_paper_mode_global_summary">Utilitza mode lectura per a totes les aplicacions</string>
   <string name="screen_paper_mode_global_title">Totes les aplicacions</string>
+  <string name="screen_paper_mode_hdr_toast">"El mode de lectura es desactivarà mentre reproduïu vídeos HDR. Es tornarà a activar automàticament després de finalitzar la reproducció."</string>
   <string name="screen_paper_mode_local_summary">Utilitza mode lectura per a les aplicacions que triï</string>
   <string name="screen_paper_mode_local_title">Aplicacions seleccionades</string>
   <string name="screen_paper_mode_off_apps_title">"No utilitzis mode lectura"</string>
