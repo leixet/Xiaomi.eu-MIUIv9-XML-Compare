@@ -161,7 +161,9 @@
   <string name="comment_app_menu">Comentari</string>
   <string name="comment_description">Comentari</string>
   <string name="comment_hint">Comentari</string>
+  <string name="comment_max_length">El quadre d\'entrada està ple.</string>
   <string name="comment_menu">Comentari</string>
+  <string name="comment_num_description">Número de comentari</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.cat</string>
   <string name="common_use_phrase_bottom_bar_text_next">Següent</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Anterior</string>
@@ -1080,8 +1082,15 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="suggest_access_music">Música Mi</string>
   <string name="suggest_item_delete_text">Elimina</string>
   <string name="suggest_open_app_failed">"No s'ha pogut obrir aquesta aplicació"</string>
+  <string name="suggestion_express_button_query_more">MOSTRA\'N MÉS</string>
   <string name="suggestion_express_button_text_query">CONSULTA</string>
+  <string name="suggestion_express_exception_net">La xarxa no funciona amb normalitat. Comproveu la connexió de xarxa</string>
+  <string name="suggestion_express_exception_number">El número és incorrecte, comproveu el número relacionat</string>
+  <string name="suggestion_express_exception_server">El servidor no funciona amb normalitat, consulteu-lo més tard</string>
+  <string name="suggestion_express_input_empty">El número de seguiment no ha d\'estar buit</string>
+  <string name="suggestion_express_input_hint_inside">Introduïu el número de seguiment</string>
   <string name="suggestion_express_input_hint_out">Número de seguiment:</string>
+  <string name="suggestion_express_title">Consulta ràpida d\'un sol número</string>
   <string name="suggestion_lottery_detail_pour">%s NOTA</string>
   <string name="suggestion_lottery_detail_price">CADA NOTA VAL MÉS QUE %s IUAN</string>
   <string name="suggestion_lottery_detail_text">AQUESTA RONDA %s</string>
