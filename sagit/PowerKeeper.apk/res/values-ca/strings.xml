@@ -67,6 +67,7 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="scenario_policies_summary">Apliqueu diferents estratègies d\'estalvi d\'energia per a diferents escenes.</string>
   <string name="scenario_policies_title">Escenes intel·ligents</string>
   <string name="scenario_policies_warmcontrol">Control de temperatura</string>
+  <string name="search_result_text">"No s'ha trobat cap aplicació"</string>
   <string name="show_system_app">Mostra les aplicacions del sistema</string>
   <string name="sleep_config_enhance_description">"Cada vegada que MIUI detecta que esteu dormint, tancarà aplicacions en segon pla, restringirà l'NFC, Bluetooth, GPS, dades mòbils i ús de Wi-Fi i farà que no s'activi la pantalla per a les notificacions."</string>
   <string name="sleep_config_enhance_description_non_nfc">"Cada vegada que MIUI detecta que esteu dormint, tancarà les aplicacions de fons, restringirà el Bluetooth, GPS, dades mòbils i l'ús de Wi-Fi i la pantalla no s'encendrà en rebre notificacions."</string>
