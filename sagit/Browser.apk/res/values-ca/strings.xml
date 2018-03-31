@@ -1081,6 +1081,7 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="suggest_item_delete_text">Elimina</string>
   <string name="suggest_open_app_failed">"No s'ha pogut obrir aquesta aplicació"</string>
   <string name="suggestion_express_button_text_query">CONSULTA</string>
+  <string name="suggestion_express_input_hint_out">Número de seguiment:</string>
   <string name="suggestion_lottery_detail_pour">%s NOTA</string>
   <string name="suggestion_lottery_detail_price">CADA NOTA VAL MÉS QUE %s IUAN</string>
   <string name="suggestion_lottery_detail_text">AQUESTA RONDA %s</string>
