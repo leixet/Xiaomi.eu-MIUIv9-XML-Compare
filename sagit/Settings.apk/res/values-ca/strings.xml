@@ -3934,7 +3934,7 @@ Nota: no podeu utilitzar la vostra empremta per desbloquejar aquest dispositiu. 
   <string name="set_data_warning">Estableix l\'avís de dades</string>
   <string name="setting_privacy_password">Estableix la contrasenya de privacitat</string>
   <string name="settings_ad_loading">S\'està carregant…</string>
-  <string name="settings_ad_loading_unavailable">Hi ha un problema en carregar.</string>
+  <string name="settings_ad_loading_unavailable">"Hi ha un problema en carregar."</string>
   <string name="settings_backup">Còpia de seguretat de la configuració</string>
   <string name="settings_backup_summary">Còpia de seguretat de la configuració</string>
   <string name="settings_button">Configuració</string>
@@ -4788,7 +4788,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="use_open_wifi_automatically_summary">Connecta automàticament a xarxes públiques de gran qualitat</string>
   <string name="use_open_wifi_automatically_title">Connecteu-vos a xarxes obertes</string>
   <string name="use_personalized_ad_service">Anuncis personalitzats</string>
-  <string name="use_personalized_ad_service_summary">Quan la característica de recomanació estigui desactivada, encara veureu la mateixa quantitat d\'anuncis que quan està activada, però no en funció de les dades de comportament o de la vostra informació personal.</string>
+  <string name="use_personalized_ad_service_summary">"Quan la característica de recomanació estigui desactivada, encara veureu la mateixa quantitat d'anuncis que quan està activada, però no en funció de les dades de comportament o de la vostra informació personal."</string>
   <string name="use_privacy_password_immediate">Utilitza</string>
   <string name="use_system_language_to_select_input_method_subtypes">Utilitza l\'idioma del sistema</string>
   <string name="use_this_wlan">Roman connectat</string>
