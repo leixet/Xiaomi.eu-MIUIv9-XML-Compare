@@ -76,7 +76,7 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="sleep_config_enhance_title">Mode suspensió</string>
   <string name="sleepmode_disclaimer_agree">Accepta</string>
   <string name="sleepmode_disclaimer_cancel">Cancel·la</string>
-  <string name="sleepmode_privacy_content">Aquesta funció utilitzarà el vostre sistema de telèfon i les dades d\'informació del dispositiu, que no es carregaran al servidor</string>
+  <string name="sleepmode_privacy_content">"Aquesta funció utilitzarà el vostre sistema de telèfon i les dades d'informació del dispositiu, que no es carregaran al servidor"</string>
   <string name="sleepmode_privacy_link">Seguretat detallada i privadesa</string>
   <string name="sleepmode_privacy_title">Mode suspensió</string>
   <string name="sucess">Fet</string>
