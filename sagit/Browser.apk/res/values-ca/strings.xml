@@ -1084,10 +1084,10 @@ El navegador necessita connectar-se a Internet per treballar normalment. Heu d\'
   <string name="suggest_open_app_failed">"No s'ha pogut obrir aquesta aplicació"</string>
   <string name="suggestion_express_button_query_more">MOSTRA\'N MÉS</string>
   <string name="suggestion_express_button_text_query">CONSULTA</string>
-  <string name="suggestion_express_exception_net">La xarxa no funciona amb normalitat. Comproveu la connexió de xarxa</string>
+  <string name="suggestion_express_exception_net">"La xarxa no funciona amb normalitat. Comproveu la connexió de xarxa"</string>
   <string name="suggestion_express_exception_number">El número és incorrecte, comproveu el número relacionat</string>
   <string name="suggestion_express_exception_server">El servidor no funciona amb normalitat, consulteu-lo més tard</string>
-  <string name="suggestion_express_input_empty">El número de seguiment no ha d\'estar buit</string>
+  <string name="suggestion_express_input_empty">"El número de seguiment no ha d'estar buit"</string>
   <string name="suggestion_express_input_hint_inside">Introduïu el número de seguiment</string>
   <string name="suggestion_express_input_hint_out">Número de seguiment:</string>
   <string name="suggestion_express_title">Consulta ràpida d\'un sol número</string>
