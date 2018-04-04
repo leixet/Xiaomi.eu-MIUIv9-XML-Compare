@@ -28,7 +28,7 @@
   </string-array>
   <string-array name="ap_identify">
     <item>Per defecte</item>
-    <item>Moblie hotspot</item>
+    <item>Portable hotspot</item>
   </string-array>
   <string-array name="apn_auth_entries">
     <item>Cap</item>
