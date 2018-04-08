@@ -472,7 +472,7 @@ amb un cos més clar i un retrat més bonic"</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">"No es pot disparar en ràfega amb el disparador per veu activat"</string>
   <string name="toast_saving">S\'estan desant les fotos&#8230;</string>
   <string name="toast_start_audio_capture">Feu un so per fer una fota</string>
-  <string name="ubi_focus_capture_fail">"No s'ha pogut prendre la foto"</string>
+  <string name="ubi_focus_capture_fail">"No s'ha pogut fer la foto"</string>
   <string name="ubifocus_capture_warning_message">Per obtenir millors resultats, la seva imatge ha de contenir objectes propers (menys d\'1 metre de la lent) i llunyans</string>
   <string name="user_agree">D\'acord</string>
   <string name="user_agreement2">Condicions del servei</string>
