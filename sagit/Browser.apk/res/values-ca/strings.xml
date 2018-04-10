@@ -161,7 +161,7 @@
   <string name="comment_app_menu">Comentari</string>
   <string name="comment_description">Comentari</string>
   <string name="comment_hint">Comentari</string>
-  <string name="comment_max_length">El quadre d\'entrada està ple.</string>
+  <string name="comment_max_length">El vostre comentari és massa llarg.</string>
   <string name="comment_menu">Comentari</string>
   <string name="comment_num_description">Número de comentari</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.cat</string>
@@ -294,7 +294,7 @@ està a punt de passar»</string>
   <string name="error_unauthorized">La sincronització amb el compte Mi s\'ha desactivat per massa intents d\'inici de sessió.</string>
   <string name="exit">Surt</string>
   <string name="exit_browser_warning">Voleu sortir del navegador?</string>
-  <string name="favorite">Preferit</string>
+  <string name="favorite">Afegeix-ho als preferits</string>
   <string name="file_dir">Canvia de carpeta</string>
   <string name="file_name">"Nom: "</string>
   <string name="file_picker">Selecciona la ruta</string>
@@ -587,11 +587,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="mw_miuichromium_error_page_server_error">Hi ha massa dispositius intentant connectar-se</string>
   <string name="mw_miuichromium_error_page_suggestion_check_app_proxy">Comproveu la configuració de les aplicacions de servidor intermediari instal·lades al dispositiu.</string>
   <string name="mw_miuichromium_error_page_suggestion_check_connetion">Comproveu la connexió a Internet.</string>
-  <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Dades mòbils) Restableix la %s1 configuració de l\'APN %s2.</string>
   <string name="mw_miuichromium_error_page_suggestion_check_url">"Comproveu la URL que heu introduït."</string>
-  <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Comproveu la %s1 configuració del servidor intermediari %s2.</string>
-  <string name="mw_miuichromium_error_page_suggestion_clear_cache" formatted="false">Esborra la memòria cau (%s1 Configuració %s2 - Esborra les dades).</string>
-  <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Esborra la memòria cau i les galetes (%s1 Configuració %s2 - Esborra les dades, es pot perdre la informació del vostre compte).</string>
   <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Esborreu la memòria cau i les galetes (es pot perdre la informació del vostre compte).</string>
   <string name="mw_miuichromium_error_page_suggestion_clear_cache_no_invoke">Esborra la memòria cau.</string>
   <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Torna a carregar després de connectar-se a Internet</string>
