@@ -33,7 +33,7 @@ L\'estalvi de bateria tractarà de forma selectiva les aplicacions importants."<
   <string name="extreme_power_config_mode_category">Mode extrem</string>
   <string name="extreme_power_config_mode_desc">Canvieu al mode extrem per desactivar la sincronització, Bluetooth, GPS, NFC, doble toc, llums de botons, pantalla de bloqueig per a notificacions i llums de notificació. MIUI se centrarà en estalviar bateria.</string>
   <string name="extreme_power_config_mode_title">Mode extrem</string>
-  <string name="failure">Ha fallat</string>
+  <string name="failure">Error</string>
   <string name="hide_mode_desc">Quan una aplicació s\'executa en segon pla, les seves activitats seran supervisades per reduir el consum de bateria. La connexió de xarxa, els serveis d\'ubicació, la ràdio, el rellotge, etc. es poden veure afectats per aquesta funció. Aquesta configuració és adequada per a la majoria de les aplicacions, però si alguna aplicació en particular es comporta de forma incorrecta quan s\'està executant en segon pla, pot personalitzar la configuració per a cada aplicació.</string>
   <string name="hide_system_app">Amaga les aplicacions del sistema</string>
   <string name="hints_loading_text">Un moment…</string>
