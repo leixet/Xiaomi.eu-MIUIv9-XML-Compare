@@ -217,7 +217,7 @@ Taxa de mostreig"</string>
   <string name="clear_adb_keys">Revoca autoritzacions de depuració USB</string>
   <string name="click_expand">Toqueu per expandir</string>
   <string name="click_to_return_multi_window">Premeu per tornar a la pantalla dividida</string>
-  <string name="click_to_return_multi_window_of_notch">torna a la pantalla dividida</string>
+  <string name="click_to_return_multi_window_of_notch">Torna a la pantalla dividida</string>
   <string name="confirm_enable_oem_unlock_text">ADVERTIMENT: les funcions de protecció del dispositiu no funcionaran mentre aquesta opció estigui activada.</string>
   <string name="confirm_enable_oem_unlock_title">Voleu permetre poder desbloquejar l\'OEM?</string>
   <string name="connected_via_network_scorer">Connectat automàticament a través de %1$s</string>
@@ -541,7 +541,7 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="power_remaining_charging_duration_only">Resten %1$s fins càrrega completa</string>
   <string name="power_remaining_duration_only">Falten uns %1$s</string>
   <string name="power_remaining_duration_only_short">Falten %1$s</string>
-  <string name="prompt_danger">Risc</string>
+  <string name="prompt_danger">Perill</string>
   <string name="prompt_detecting">S\'està detectant</string>
   <string name="prompt_failure">Error</string>
   <string name="prompt_return_to_split">Pantalla dividida</string>
