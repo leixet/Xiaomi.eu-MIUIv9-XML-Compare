@@ -377,7 +377,7 @@
     <item>Bloqueja la pantalla</item>
     <item>Mode d\'infants</item>
     <item>Mode de mainada</item>
-    <item>Explorador de fitxers</item>
+    <item>Gestor de fitxers</item>
     <item>Bloqueig d\'aplicacions</item>
     <item>Segon espai</item>
   </string-array>
@@ -569,7 +569,7 @@
     <item>Crea el directori: mkdir /media/mtp</item>
     <item>Confirmeu els permisos de grup d\'usuaris del grup actual</item>
     <item>Torna a iniciar la sessió</item>
-    <item>Per accedir al dispositiu muntat: mtpfs /media/mtp mitjançant l\'explorador de fitxers; igual que amb el directori local</item>
+    <item>Per accedir al dispositiu muntat: mtpfs /media/mtp a través del gestor de fitxers; igual amb el directori local.</item>
     <item>"Per a desinstal·lar el dispositiu: fusermount -u /media/mtp
 Nota: Només per a Ubuntu 8.04!"</item>
   </string-array>
