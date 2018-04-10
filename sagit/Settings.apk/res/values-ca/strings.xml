@@ -4788,7 +4788,7 @@ Les empremtes desades també es suprimiran del dispositiu i ja no podran desbloq
   <string name="use_open_wifi_automatically_summary">Connecta automàticament a xarxes públiques de gran qualitat</string>
   <string name="use_open_wifi_automatically_title">Connecteu-vos a xarxes obertes</string>
   <string name="use_personalized_ad_service">Anuncis personalitzats</string>
-  <string name="use_personalized_ad_service_summary">"Quan la característica de recomanació estigui desactivada, encara veureu la mateixa quantitat d'anuncis que quan està activada, però no en funció de les dades de comportament o de la vostra informació personal."</string>
+  <string name="use_personalized_ad_service_summary">"Quan les recomanacions estiguin desactivades, encara veureu la mateixa quantitat d'anuncis que quan està activada, però no es basarà en les dades de comportament o en la vostra informació personal."</string>
   <string name="use_privacy_password_immediate">Utilitza</string>
   <string name="use_system_language_to_select_input_method_subtypes">Utilitza l\'idioma del sistema</string>
   <string name="use_this_wlan">Roman connectat</string>
@@ -4946,7 +4946,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="virus_scanner_update_lib">Actualitza les definicions</string>
   <string name="vision_settings_description">Podeu personalitzar el dispositiu perquè s\'adapti a les vostres necessitats. Aquestes funcions d\'accessibilitat es poden canviar posteriorment des de Configuració.</string>
   <string name="vision_settings_title">Configuració de visió</string>
-  <string name="voice_assist">Xiao Ai</string>
+  <string name="voice_assist">Mi AI</string>
   <string name="voice_category">Veu</string>
   <string name="voice_helper_title">Assistent de veu</string>
   <string name="voice_input_output_settings">Entrada i sortida de veu</string>
