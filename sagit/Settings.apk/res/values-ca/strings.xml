@@ -1347,7 +1347,7 @@ Aquesta configuració afecta a tots els usuaris del telèfon.»"</string>
   <string name="deny">Denega</string>
   <string name="detail_app_button">Informació de l\'aplicació</string>
   <string name="details_subtitle">Detalls de l\'ús</string>
-  <string name="dev_logpersist_clear_warning_message">Quan ja no monitoritzem més amb el registrador persistent, se\'ns demanarà d\'esborrar el registrador de dades resident del vostre dispositiu.</string>
+  <string name="dev_logpersist_clear_warning_message">"Quan ja no monitoritzem més amb el registrador persistent, se'ns demanarà d'esborrar el registrador de dades resident del vostre dispositiu."</string>
   <string name="dev_logpersist_clear_warning_title">Voleu netejar l\'emmagatzematge del registrador persistent?</string>
   <string name="dev_settings_warning_message">Aquesta configuració només està prevista per a usos de desenvolupament. Pot fer que el dispositiu i les aplicacions s\'interrompin o tinguin un comportament inadequat.</string>
   <string name="dev_settings_warning_title">Voleu permetre la configuració de desenvolupament?</string>
@@ -1701,7 +1701,7 @@ Per obtenir més informació, contacteu amb l\'administrador de l\'organització
   <string name="factory_reset_summary">"Esborra totes les dades de l'emmagatzematge intern del telèfon"</string>
   <string name="failed_to_check_find_device_status_content">"No s'ha pogut comprovar l'estat de troba el dispositiu. Espereu-vos un minut o dos i torneu-ho a provar."</string>
   <string name="failed_to_check_find_device_status_title">"No s'ha pogut comprovar l'estat"</string>
-  <string name="failed_to_open_app_settings_toast">No s\'ha pogut obrir la configuració de %1$s</string>
+  <string name="failed_to_open_app_settings_toast">"No s'ha pogut obrir la configuració de %1$s"</string>
   <string name="failed_to_shut_down_find_device_content">"No s'ha pogut desactivar troba el dispositiu. Espereu un minut o dos i torneu-ho a provar."</string>
   <string name="failed_to_shut_down_find_device_title">"No s'ha pogut desactivar Localitza el dispositiu"</string>
   <string name="fcc_equipment_id">ID de l\'equip</string>
@@ -2196,7 +2196,7 @@ Quan activeu les còpies de seguretat automàtiques, les dades dels dispositius 
   <string name="local_backup_password_title">Contrasenya de la còpia de seguretat de l\'ordinador</string>
   <string name="local_backup_password_toast_confirmation_mismatch">La nova contrasenya i la confirmació no coincideixen</string>
   <string name="local_backup_password_toast_success">S\'ha definit una contrasenya de seguretat nova</string>
-  <string name="local_backup_password_toast_validation_failure">S\'ha produit un error en definir la contrasenya de la còpia de seguretat</string>
+  <string name="local_backup_password_toast_validation_failure">"S'ha produit un error en definir la contrasenya de la còpia de seguretat"</string>
   <string name="local_backup_section_summary">Còpia de seguretat de la configuració del sistema, comptes i aplicacions</string>
   <string name="local_backup_section_title">Còpies de seguretat locals</string>
   <string name="locale_default">Per defecte</string>
@@ -4591,7 +4591,7 @@ La sincronització de dades que ha ideat Google per tal de permetre l\'accés al
   <string name="tts_sliders_title">Velocitat de la veu i to</string>
   <string name="tts_spoken_language">Llengua parlada</string>
   <string name="tts_status_checking">S\'està comprovant…</string>
-  <string name="tts_status_not_supported">%1$s no és compatible</string>
+  <string name="tts_status_not_supported">"%1$s no és compatible"</string>
   <string name="tts_status_ok">%1$s és compatible</string>
   <string name="tts_status_requires_network">Cal connexió de xarxa per a %1$s</string>
   <string name="tts_status_title">Estat de l\'idioma per defecte</string>
@@ -5182,7 +5182,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_disabled_help">El Wi-Fi s\'ha desconnectat. Mala qualitat del senyal</string>
   <string name="wifi_disabled_network_failure">Error de configuració d\'IP</string>
   <string name="wifi_disabled_password_failure">Error d\'autenticació</string>
-  <string name="wifi_disabled_wifi_failure">Error de connexió Wi-Fi</string>
+  <string name="wifi_disabled_wifi_failure">"Error de connexió Wi-Fi"</string>
   <string name="wifi_disconnected_notification_summary">"S'ha desconnectat el Wi-Fi."</string>
   <string name="wifi_disconnected_notification_title">S\'ha desconnectat el Wi-Fi</string>
   <string name="wifi_display_autonomous_go">Activa GO autònom</string>
@@ -5270,7 +5270,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_multiple_cert_added">(S\'han afegit diversos certificats)</string>
   <string name="wifi_network_prefix_length">Longitud del prefix</string>
   <string name="wifi_no_domain_warning">Cal especificar un domini.</string>
-  <string name="wifi_no_internet">No s\'ha detectat accés a Internet, no s\'hi tornarà a connectar automàticament.</string>
+  <string name="wifi_no_internet">"No s'ha detectat accés a Internet, no s'hi tornarà a connectar automàticament."</string>
   <string name="wifi_no_internet_no_reconnect">"No es connectarà automàticament"</string>
   <string name="wifi_not_in_range">Fora de l\'abast</string>
   <string name="wifi_notify_cmcc_connected_summary">Mostra una notificació quan es connecti a la xarxa CMCC</string>
