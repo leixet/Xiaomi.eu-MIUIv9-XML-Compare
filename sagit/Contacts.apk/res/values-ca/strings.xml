@@ -508,7 +508,6 @@ Per evitar consultes freqüents, actualitzem la informació del saldo una vegada
   <string name="import_contact_card_button">Importar contacte</string>
   <string name="import_failure_no_vcard_file">No hi ha fitxers vCard a la targeta SD.</string>
   <string name="import_from_onekey_migrate">Importa amb Mi Mover</string>
-  <string name="import_from_other_phone">Importa des d\'un altre telèfon</string>
   <string name="import_from_sdcard">Importa des de emmagatzematge</string>
   <string name="import_from_sim">Importa des de la targeta SIM</string>
   <string name="import_from_sim1">Importa des de SIM 1</string>
