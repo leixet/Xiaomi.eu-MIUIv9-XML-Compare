@@ -118,7 +118,6 @@ Després de crear una nova pregunta de seguretat i confirmar la data de naixemen
   <string name="enable_encrypt_description">Encriptació</string>
   <string name="enable_encrypt_fail">Error d\'encriptació</string>
   <string name="enable_encrypt_indicator">Toca per encriptar</string>
-  <string name="enable_encrypt_ok">D\'acord</string>
   <string name="enable_encrypt_summery1">Heu d\'iniciar sessió amb el Compte Mi per accedir a les còpies de seguretat encriptades.</string>
   <string name="enable_encrypt_summery2">"Les còpies de seguretat s'encriptaran automàticament. Cal que inicieu la sessió al Compte Mi per accedir a les còpies de seguretat encriptades."</string>
   <string name="enable_encrypt_title">Còpies de seguretat encriptades</string>
@@ -501,8 +500,8 @@ Mantingueu els dispositius propers l\'un de l\'altre."</string>
   <string name="trans_start_failed_title">"No s'ha pogut iniciar la transferència"</string>
   <string name="trans_switching_5g">S\'està canviant a la Wi-Fi 5GHz…</string>
   <string name="trans_time_format_second">Menys d\'un minut</string>
-  <string name="trans_time_spent">"
-Temps emprat: %s"</string>
+  <string name="trans_time_spent">\"
+Temps emprat: %s\"</string>
   <string name="trans_wait_trans_data">"S\'ha connectat al dispositiu antic.
 S\'està esperant la transferència…"</string>
   <string name="trans_waiting_ensurance">"Assegureu-vos que el dispositiu antic està activat
