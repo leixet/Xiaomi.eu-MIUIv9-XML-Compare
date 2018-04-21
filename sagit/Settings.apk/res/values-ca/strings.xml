@@ -5176,7 +5176,7 @@ Afegiu una paraula tocant el botó Afegeix (+)»</string>
   <string name="wifi_disabled_by_recommendation_provider">No esteu connectat a causa de la xarxa de baixa qualitat</string>
   <string name="wifi_disabled_generic">Desactivat</string>
   <string name="wifi_disabled_help">El Wi-Fi s\'ha desconnectat. Mala qualitat del senyal</string>
-  <string name="wifi_disabled_network_failure">Error de configuració d\'IP</string>
+  <string name="wifi_disabled_network_failure">"Error de configuració d'IP"</string>
   <string name="wifi_disabled_password_failure">Error d\'autenticació</string>
   <string name="wifi_disabled_wifi_failure">"Error de connexió Wi-Fi"</string>
   <string name="wifi_disconnected_notification_summary">"S'ha desconnectat el Wi-Fi."</string>
