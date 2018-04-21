@@ -814,7 +814,7 @@ Esteu segur que voleu navegar lluny d\'aquesta pàgina?"</string>
   <string name="pref_adblock_title">Bloquejador d\'anuncis</string>
   <string name="pref_advert_null">Publicitat no marcada, podeu prémer l\'etiqueta de la pàgina</string>
   <string name="pref_auto_update_under_wifi">Actualitza amb Wi-Fi</string>
-  <string name="pref_automatic_matching_searchengines_title">Motors de cerca automàtics per hàbits de recerca</string>
+  <string name="pref_automatic_matching_searchengines_title">Canvieu al cercador habitual</string>
   <string name="pref_cancel_screen">Cancel·la la pantalla</string>
   <string name="pref_category_hint">Categoria</string>
   <string name="pref_check_security_url_summary">"Envia l'URL del lloc web als servidors Mi per validar si és segura"</string>
