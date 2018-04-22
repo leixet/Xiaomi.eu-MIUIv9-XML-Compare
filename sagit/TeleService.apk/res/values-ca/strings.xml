@@ -990,7 +990,7 @@ S\'utilitza en el seu lloc la xarxa preferida."</string>
   <string name="no_internet_available">Per establir una trucada per internet, primer comproveu la connexió a Internet.</string>
   <string name="no_mobile_data">Les dades mòbils no estan disponibles</string>
   <string name="no_mobile_data_roaming">La itinerància de dades no està disponible</string>
-  <string name="no_vm_number">Número de bústia de veu perdut</string>
+  <string name="no_vm_number">Hi falta el número de la bústia de veu</string>
   <string name="no_vm_number_msg">No hi ha número de correu de veu emmagatzemat en la targeta SIM.</string>
   <string name="no_voip">Trucades per Internet no suportades</string>
   <string name="no_wifi_available">Necessiteu estar connectat a una xarxa Wi-Fi per fer trucades per internet (utilitzeu els paràmetres de la xarxa &amp; Wi-Fi).</string>
@@ -1639,7 +1639,7 @@ Comproveu la validesa dels certificats"</string>
 L\'emmagatzematge de credencials no es pot activar"</string>
   <string name="wifi_wapi_psk_type">Tipus de contrasenya</string>
   <string name="wifi_wapi_user_certificate">Certificat d\'usuari</string>
-  <string name="wild_prompt_str">Substitueix el caràcter comodí amb</string>
+  <string name="wild_prompt_str">Substitueix caràcters especials amb</string>
   <string name="window_animation_scale_title">Escalat de l\'animació de finestres</string>
   <string name="wrong_password">La contrasenya introduïda és incorrecta</string>
 </resources>
