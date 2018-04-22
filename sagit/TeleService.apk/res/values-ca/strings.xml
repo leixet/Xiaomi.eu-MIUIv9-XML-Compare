@@ -117,7 +117,7 @@
   <string name="add">Afegeix</string>
   <string name="add_fdn_contact">Afegeix un número de marcatge predefinit</string>
   <string name="add_sip_account">Afegeix compte</string>
-  <string name="add_vm_number_str">Afegeix número</string>
+  <string name="add_vm_number_str">Afegiu un número</string>
   <string name="adding_fdn_contact">Afegint número de marcatge predefinit&#8230;</string>
   <string name="additional_cdma_call_settings">Configuració addicional per trucades CDMA</string>
   <string name="additional_gsm_call_settings">Configuració addicional</string>
@@ -991,7 +991,7 @@ S\'utilitza en el seu lloc la xarxa preferida."</string>
   <string name="no_mobile_data">Les dades mòbils no estan disponibles</string>
   <string name="no_mobile_data_roaming">La itinerància de dades no està disponible</string>
   <string name="no_vm_number">Hi falta el número de la bústia de veu</string>
-  <string name="no_vm_number_msg">No hi ha número de correu de veu emmagatzemat en la targeta SIM.</string>
+  <string name="no_vm_number_msg">No hi ha cap número de bústia de veu emmagatzemat a la targeta SIM.</string>
   <string name="no_voip">Trucades per Internet no suportades</string>
   <string name="no_wifi_available">Necessiteu estar connectat a una xarxa Wi-Fi per fer trucades per internet (utilitzeu els paràmetres de la xarxa &amp; Wi-Fi).</string>
   <string name="not_a_valid_port">El número de port ha d\'estar entre 1000 i 65534.</string>
