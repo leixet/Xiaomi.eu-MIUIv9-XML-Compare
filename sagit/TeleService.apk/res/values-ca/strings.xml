@@ -721,7 +721,7 @@ Per continuar, premeu \'Esborra i converteix&#8230;\'."</string>
   <string name="fake_phone_activity_infoText_text">Número de telèfon entrant</string>
   <string name="fake_phone_activity_placeCall_text">Trucada entrant falsa</string>
   <string name="fdn">Números de marcatge predefinit</string>
-  <string name="fdnListLabel">Llista de NMP</string>
+  <string name="fdnListLabel">Llista de números autoritzats</string>
   <string name="fdn_activation">Activació dels NMP</string>
   <string name="fdn_check_failure">"Algunes funcions relatives a les trucades no estan disponibles per l'activació dels números de marcatge predefinits."</string>
   <string name="fdn_contact_added">Número de marcatge predefinit afegit.</string>
@@ -873,7 +873,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="maintenance_disable">Manteniment desactivat</string>
   <string name="maintenance_enable">Manteniment activat</string>
   <string name="manageConferenceLabel">Gestiona multiconferència</string>
-  <string name="manage_fdn_list">Llista de NMP</string>
+  <string name="manage_fdn_list">Llista de números autoritzats</string>
   <string name="managed_user_title">Totes les aplicacions de feina</string>
   <string name="media_category">Elements multimèdia</string>
   <string name="menu_add">Afegeix un contacte</string>
@@ -1099,7 +1099,7 @@ Torneu a provar-ho o truqueu al servei d\'atenció al client per a més opcions.
   <string name="pause_prompt_str">"Enviant tons
 "</string>
   <string name="pause_prompt_yes">Sí</string>
-  <string name="payphone">Telèfon públic</string>
+  <string name="payphone">Cabina telefònica</string>
   <string name="phoneAppLabel">Telèfon</string>
   <string name="phoneIconLabel">Telèfon</string>
   <string name="phone_account_settings">Comptes per a trucades</string>
