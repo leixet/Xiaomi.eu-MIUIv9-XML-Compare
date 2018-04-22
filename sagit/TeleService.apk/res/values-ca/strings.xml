@@ -872,7 +872,7 @@ Voleu canviar al nou proveïdor igualment?"</string>
   <string name="lodgings_enable">Allotjaments activats</string>
   <string name="maintenance_disable">Manteniment desactivat</string>
   <string name="maintenance_enable">Manteniment activat</string>
-  <string name="manageConferenceLabel">Gestiona multiconferència</string>
+  <string name="manageConferenceLabel">Gestioneu la trucada de conferència</string>
   <string name="manage_fdn_list">Llista de números autoritzats</string>
   <string name="managed_user_title">Totes les aplicacions de feina</string>
   <string name="media_category">Elements multimèdia</string>
