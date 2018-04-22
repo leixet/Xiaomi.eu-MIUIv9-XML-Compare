@@ -1529,7 +1529,7 @@ El període següent comença en %2$d dies (%3$s)"</string>
   <string name="use_system_language_to_select_input_method_subtypes">Utilitza l\'idioma del sistema</string>
   <string name="user_guest">Convidat</string>
   <string name="username_title">Nom d\'usuari</string>
-  <string name="ussdRunning">El codi USSD està funcionant&#8230;</string>
+  <string name="ussdRunning">Codi USSD en progrés…</string>
   <string name="ussd_dialog_sep">----------</string>
   <string name="ut_not_support">L\'UT no està disponible</string>
   <string name="verify_apps_over_usb_summary">Comprova les aplicacions instal·lades mitjançant ADB/ADT per detectar possibles comportaments perillosos.</string>
