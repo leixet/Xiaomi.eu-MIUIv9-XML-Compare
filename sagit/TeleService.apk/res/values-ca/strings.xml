@@ -154,7 +154,7 @@
   <string name="atr_disable">Informes de trànsit d\'àrea desactivats</string>
   <string name="atr_enable">Informes del trànsit de la zona activats</string>
   <string name="audio_mode_bluetooth">Bluetooth</string>
-  <string name="audio_mode_earpiece">Auricular mans lliures</string>
+  <string name="audio_mode_earpiece">Tipus d\'auriculars</string>
   <string name="audio_mode_speaker">Altaveu</string>
   <string name="audio_mode_wired_headset">Auriculars amb cable</string>
   <string name="auth_username_summary">Nom d\'usuari utilitzat per a l\'autenticació</string>
