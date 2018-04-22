@@ -1096,8 +1096,7 @@ Torneu a provar-ho o truqueu al servei d\'atenció al client per a més opcions.
   <string name="path_turnover_mute_title">Aplicacions de sistema/Telèfon/Configuració de trucades entrants/Passa a mode silenciós</string>
   <string name="path_voicemail_settings">Aplicacions de sistema/Telèfon/Configuració avançada/Configuració de bústia de veu</string>
   <string name="pause_prompt_no">No</string>
-  <string name="pause_prompt_str">"Enviant tons
-"</string>
+  <string name="pause_prompt_str">S\'estan enviant tons\n</string>
   <string name="pause_prompt_yes">Sí</string>
   <string name="payphone">Cabina telefònica</string>
   <string name="phoneAppLabel">Telèfon</string>
@@ -1586,8 +1585,7 @@ Contacteu amb el vostre operador si persisteix aquest problema."</string>
   <string name="vvm_unsupported_message_format">Tipus de missatge no compatible, truqueu a %s per escoltar-lo.</string>
   <string name="wait_for_debugger">Espera el depurador</string>
   <string name="wait_for_debugger_summary">Abans d\'executar-se, l\'aplicació de depuració espera que es connecti el depurador</string>
-  <string name="wait_prompt_str">"Voleu enviar els tons següents?
-"</string>
+  <string name="wait_prompt_str">Voleu enviar els següents tons?\n</string>
   <string name="wapi_all_sel_mode">Seleccioneu un mode</string>
   <string name="wapi_auto_sel_cert_fail">No es pot seleccionar el certificat automàticament. Seleccioneu un certificat de la llista i, a continuació, intenteu connectar-vos.</string>
   <string name="wapi_cert_is_not_exist">No hi ha cap certificat disponible, primer instal·leu el certificat</string>
