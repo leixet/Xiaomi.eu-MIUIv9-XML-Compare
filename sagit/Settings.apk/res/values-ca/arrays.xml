@@ -756,7 +756,7 @@ Nota: Només per a Ubuntu 8.04!"</item>
     <item>8 hores</item>
   </string-array>
   <string-array name="special_locale_names_global">
-    <item>简体中文 (中国)</item>
+    <item>简体中文</item>
     <item>繁體中文 (台湾)</item>
     <item>繁體中文 (香港)</item>
     <item>Espanyol (Amèrica)</item>
