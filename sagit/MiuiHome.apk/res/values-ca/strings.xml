@@ -145,7 +145,7 @@
   <string name="gadget_photo_24_label">Imatge 4x2</string>
   <string name="gadget_photo_44_label">Imatge 4x4</string>
   <string name="gadget_photo_label">Imatge</string>
-  <string name="gadget_power_clear_button_label">Súper Neteja</string>
+  <string name="gadget_power_clear_button_label">Neteja intensiva</string>
   <string name="gadget_search_label">Cerca</string>
   <string name="gadget_weather_app_not_installed">"Toqueu per baixar l'aplicació del Temps de MIUI"</string>
   <string name="gadget_weather_aqi_title">Qualitat de l\'aire: </string>
