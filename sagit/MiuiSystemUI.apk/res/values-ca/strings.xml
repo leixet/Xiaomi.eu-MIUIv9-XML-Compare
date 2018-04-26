@@ -267,7 +267,7 @@ Si reactiva les dades, pot generar despeses extra amb el seu proveïdor."</strin
   <string name="description_direction_up">Lliscar amunt per %s.</string>
   <string name="description_image_button_answer">Resposta</string>
   <string name="description_image_button_reject">Rebutja</string>
-  <string name="description_target_search">Cercar</string>
+  <string name="description_target_search">Cerca</string>
   <string name="dev_logpersist_clear_warning_message">"Quan ja no monitoritzem més amb el registrador persistent, se'ns demanarà d'esborrar el registrador de dades resident del vostre dispositiu."</string>
   <string name="dev_logpersist_clear_warning_title">Voleu netejar l\'emmagatzematge del registrador persistent?</string>
   <string name="dev_settings_warning_message">Aquesta configuració només està prevista per a usos de desenvolupament. Pot fer que el dispositiu i les aplicacions s\'interrompin o tinguin un comportament inadequat.</string>
@@ -648,7 +648,7 @@ Per obtenir més informació, contacteu amb l\'administrador."</string>
   <string name="settings_toggle_position">Administrar Commutadors</string>
   <string name="settings_toggle_position_divider_list">Els commutadors sobre d\'aquesta barra estan actius</string>
   <string name="settings_toggle_position_reset">Restablir commutadors</string>
-  <string name="share">Compartir</string>
+  <string name="share">Comparteix</string>
   <string name="show_all_anrs">Mostra totes les aplicacions que no responen</string>
   <string name="show_all_anrs_summary">Mostra el quadre d\'aplicacions que no responen en segon pla</string>
   <string name="show_demo_mode">Mostra el mode de demostració</string>
@@ -679,8 +679,8 @@ d MMMM"</string>
   <string name="status_bar_notification_inspect_item_title">Informació de l\'aplicació</string>
   <string name="status_bar_recent_guide_all">"Feu lliscar cap amunt per tancar
 Feu lliscar cap avall per bloquejar"</string>
-  <string name="status_bar_recent_guide_bottom">Feu lliscar avall per bloquejar</string>
-  <string name="status_bar_recent_guide_top">Feu lliscar amunt per tancar</string>
+  <string name="status_bar_recent_guide_bottom">Feu lliscar cap avall per bloquejar</string>
+  <string name="status_bar_recent_guide_top">Feu lliscar cap amunt per tancar</string>
   <string name="status_bar_recent_inspect_item_title">Informació de l\'aplicació</string>
   <string name="status_bar_recent_memory_info1">%1$sB de %2$sB disponibles</string>
   <string name="status_bar_recent_remove_item_title">Elimina de la llista</string>
