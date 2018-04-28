@@ -4154,9 +4154,9 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="status_bar_screen_button_force_immersive_desc">Feu lliscar el dit cap amunt des de la part inferior de la pantalla per mostrar els botons de la pantalla</string>
   <string name="status_bar_screen_button_key_force_immersive">Amaga els botons de la pantalla</string>
   <string name="status_bar_screen_key_back">Tecla Enrere</string>
-  <string name="status_bar_screen_key_home">Tecla Pàgina d\'inici</string>
+  <string name="status_bar_screen_key_home">Botó d\'inici</string>
   <string name="status_bar_screen_key_menu">Botó de menú</string>
-  <string name="status_bar_screen_key_recent_apps">Tecla Aplicacions recents</string>
+  <string name="status_bar_screen_key_recent_apps">Botó d\'aplicacions recents</string>
   <string name="status_bar_settings">Notificacions i barra d\'estat</string>
   <string name="status_bar_settings_advanced">Configuració addicional</string>
   <string name="status_bar_settings_all_app_display_loading">Un moment…</string>
