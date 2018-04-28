@@ -4166,7 +4166,7 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="status_bar_settings_enable_notification">Mostra les notificacions</string>
   <string name="status_bar_settings_expandable_under_keyguard">Mostra a la pantalla de bloqueig</string>
   <string name="status_bar_settings_long_click_sort">Mantén premut per a triar un commutador</string>
-  <string name="status_bar_settings_manage_notification">Notificacions d\'aplicacions </string>
+  <string name="status_bar_settings_manage_notification">Notificacions d\'aplicacions</string>
   <string name="status_bar_settings_no_carrier">Cap</string>
   <string name="status_bar_settings_notification_bar">Àrea de notificacions</string>
   <string name="status_bar_settings_notification_led">Llum de notificació</string>
