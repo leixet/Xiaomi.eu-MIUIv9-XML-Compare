@@ -4145,9 +4145,10 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="status_awaiting_tap">Toca una etiqueta per escriure...</string>
   <string name="status_awake_time">Temps d\'activació</string>
   <string name="status_bar_and_notification_bar">Àrea de notificacions i barra d\'estat</string>
+  <string name="status_bar_app_des_separator">",\u0020"</string>
   <string name="status_bar_app_disable_notification">Notificacions ocultes</string>
   <string name="status_bar_app_enable_floating">Notificacions flotants</string>
-  <string name="status_bar_app_enable_keyguard">Bloqueja la pantalla</string>
+  <string name="status_bar_app_enable_keyguard">Pantalla de bloqueig</string>
   <string name="status_bar_app_enable_message">Insígnies</string>
   <string name="status_bar_key_position_custom">Posició de tecla personalitzada</string>
   <string name="status_bar_screen_button_force_immersive_desc">Feu lliscar el dit cap amunt des de la part inferior de la pantalla per mostrar els botons de la pantalla</string>
