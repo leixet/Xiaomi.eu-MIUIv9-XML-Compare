@@ -4179,7 +4179,7 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="status_bar_settings_show_floating_notification">Notificacions flotants</string>
   <string name="status_bar_settings_show_floating_notification_summary">"Les notificacions flotants desapareixeran automàticament després de mostrar-se a la part superior de la pantalla"</string>
   <string name="status_bar_settings_show_flow_info">Mostra els detalls de flux</string>
-  <string name="status_bar_settings_show_home_message">Insígnia per a la icona de l\'aplicació</string>
+  <string name="status_bar_settings_show_home_message">Insígnia a la icona de l\'aplicació</string>
   <string name="status_bar_settings_show_keyguard_notification">Notificacions de la pantalla de bloqueig</string>
   <string name="status_bar_settings_show_network_speed">Mostra la velocitat de connexió</string>
   <string name="status_bar_settings_show_notification_icon">Mostra les icones de notificació</string>
