@@ -4163,7 +4163,7 @@ Hi ha un certificat de confiança instal·lat en el dispositiu que ho fa possibl
   <string name="status_bar_settings_app_notification_preferences">Configuració de l\'aplicació</string>
   <string name="status_bar_settings_basic_settings">Configuració bàsica</string>
   <string name="status_bar_settings_custom_carrier">Edita el nom de l\'operador</string>
-  <string name="status_bar_settings_custom_wifi_name">Edita el nom del Wi-Fi</string>
+  <string name="status_bar_settings_custom_wifi_name">Editeu el nom del Wi-Fi</string>
   <string name="status_bar_settings_enable_notification">Mostra les notificacions</string>
   <string name="status_bar_settings_expandable_under_keyguard">Mostra a la pantalla de bloqueig</string>
   <string name="status_bar_settings_long_click_sort">Mantén premut per a triar un commutador</string>
