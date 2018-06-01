@@ -132,6 +132,7 @@
   <string name="cancel">Cancel·la</string>
   <string name="cancle_sync_cloud_tabs">Cancel·la la sincronització</string>
   <string name="cannot_download">Només podeu baixar URLs «http» o «https»</string>
+  <string name="cast_video">Emet el vídeo</string>
   <string name="check_security_tip_privacy_policy">Política de privadesa</string>
   <string name="check_security_tip_user_agreement">Acord d\'usuari</string>
   <string name="choosertitle_sharevia">Comparteix mitjançant</string>
@@ -267,6 +268,7 @@ està a punt de passar»</string>
   <string name="download_status_pending">En espera</string>
   <string name="download_success">Completada</string>
   <string name="download_title">Baixades</string>
+  <string name="download_video">Baixa el vídeo</string>
   <string name="download_wait_connect">S\'està esperant la connexió</string>
   <string name="edit">Edita</string>
   <string name="edit_bookmark">Edita el marcador</string>
@@ -294,6 +296,7 @@ està a punt de passar»</string>
   <string name="error_unauthorized">La sincronització amb el compte Mi s\'ha desactivat per massa intents d\'inici de sessió.</string>
   <string name="exit">Surt</string>
   <string name="exit_browser_warning">Voleu sortir del navegador?</string>
+  <string name="exit_fullscreen">Surt de pantalla completa</string>
   <string name="favorite">Afegeix-ho als preferits</string>
   <string name="file_dir">Canvia de carpeta</string>
   <string name="file_name">"Nom: "</string>
