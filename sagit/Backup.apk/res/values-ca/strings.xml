@@ -128,6 +128,7 @@ Després de crear una nova pregunta de seguretat i confirmar la data de naixemen
   <string name="err_authentication_failed">"No s'ha pogut autenticar"</string>
   <string name="err_bakfile_broken">"No es pot utilitzar aquesta còpia de seguretat."</string>
   <string name="err_bakfile_not_exist">"No existeix l'arxiu de còpia de seguretat."</string>
+  <string name="err_binder_died">L\'aplicació s\'ha aturat inesperadament.</string>
   <string name="err_filesystem_mount">"No es pot accedir a l'emmagatzamatge de l'encaminador"</string>
   <string name="err_low_storage">No hi ha prou espai</string>
   <string name="err_not_allow">No compatible</string>
@@ -410,7 +411,10 @@ Allibera %s com a mínim. "</string>
   <string name="trans_device_wait_for_reconnecting">S\'ha interromput la connexió. Torneu-lo a connectar per continuar.</string>
   <string name="trans_disconnected_tips_message">S\'ha desconnectat el dispositiu remot. Torneu-lo a connectar manualment o cancel·leu la transferència.</string>
   <string name="trans_disconnected_tips_title">S\'ha desconnectat el dispositiu remot</string>
+  <string name="trans_failed_details_page_title">Transferències fallides</string>
   <string name="trans_generate_qr_code_failed">"No s'ha pogut crear el codi QR"</string>
+  <string name="trans_generate_qrcode_failed">"No s'ha pogut generar el codi QR. Torneu-ho a provar."</string>
+  <string name="trans_generating_qrcode">S\'està generant el codi QR…</string>
   <string name="trans_intro_desc_1">"En un telèfon Mi, connecteu-vos a la xarxa WLAN i toqueu \"Sóc el destinatari\". Seleccioneu el vostre dispositiu iOS, inicieu la sessió a l'iCloud i importeu les dades."</string>
   <string name="trans_intro_desc_3">Cancel·leu la transferència, sortiu de Mi Mover i començareu de nou. Els fitxers duplicats es sobreescriuran durant la nova transferència.</string>
   <string name="trans_intro_desc_4">"El Mi Mover utilitza Wi-Fi per transferir fitxers. Per això, no es pot connectar a Internet mitjançant Wi-Fi en qualsevol dispositiu durant una transferència però podeu seguir utilitzant les dades mòbils. Tanmateix, alguns dispositius més nous (per exemple el Mi 6) poden connectar-se a Internet mitjançant Wi-Fi durant les transferències."</string>
@@ -444,6 +448,8 @@ Allibera %s com a mínim. "</string>
   <string name="trans_my_device">El meu dispositiu</string>
   <string name="trans_native_no_space">"No hi ha prou espai al dispositiu.
 Esborreu almenys %s."</string>
+  <string name="trans_old_phone_low_space_msg">"Mi Mover necessita espai d'emmagatzematge per comprimir les dades a transferir, i sembla que no hi ha prou espai disponible al dispositiu antic. Allibereu espai amb \"Seguretat\" o transferiu només els elements importants."</string>
+  <string name="trans_old_phone_low_space_title">No hi ha prou espai d\'emmagatzematge</string>
   <string name="trans_one_key_migrate">Mi Mover</string>
   <string name="trans_operate_func_one">Mètode A</string>
   <string name="trans_operate_func_two">Mètode B</string>
