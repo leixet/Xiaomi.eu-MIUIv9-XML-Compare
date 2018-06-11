@@ -21,6 +21,14 @@
     <item quantity="other">%d elements</item>
     <item quantity="one">%d element</item>
   </plurals>
+  <plurals name="trans_failed_summary">
+    <item quantity="other">"No s'ha pogut transferir %d elements. Premeu per veure'n detalls."</item>
+    <item quantity="one">"No s'ha pogut transferir %d element. Premeu per veure'n detalls."</item>
+  </plurals>
+  <plurals name="trans_item_failed_summary">
+    <item quantity="other">"No s'ha pogut transferir %d elements."</item>
+    <item quantity="one">"No s'ha pogut transferir %d element."</item>
+  </plurals>
   <plurals name="trans_time_format_minute">
     <item quantity="other">%d minuts</item>
     <item quantity="one">%d minut</item>
