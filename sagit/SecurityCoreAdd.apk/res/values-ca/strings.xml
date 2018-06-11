@@ -197,12 +197,14 @@ Dos espais. Un dispositiu."</string>
   <string name="radio_button_icon_switch_title">Utilitzant una drecera</string>
   <string name="radio_button_password_switch_title">Utilitzant una contrasenya</string>
   <string name="removeSuccess">S\'ha eliminat correctament</string>
+  <string name="remove_button">Suprimeix i reinicia</string>
   <string name="remove_second_space_msg">Totes les dades d\'aplicacions del Segon espai es perdran quan suprimiu el Segon espai. Voleu suprimir el Segon espai ara?</string>
   <string name="remove_user_click_message">"*Si no teniu cap element important al Segon espai, %s"</string>
   <string name="remove_user_click_message_action">podeu eliminar el segon espai i reiniciar el dispositiu ara.</string>
   <string name="removingSpace">S\'està eliminant…</string>
   <string name="repeat_scanner_fingerprint">Afegir de nou</string>
   <string name="reset_passwd_success">Contrasenya restablerta amb èxit</string>
+  <string name="reset_password_dialog_positve_btn_title">Canvi</string>
   <string name="restore_normal_show">"No mostrar els missatges privats"</string>
   <string name="restore_show_desc">"No mostrar els missatges privats en el Segon espai. Encara estaran disponibles en el Primer espai."</string>
   <string name="restore_show_toast">No es mostren els missatges privats</string>
