@@ -213,7 +213,10 @@
   <string name="guide_secure_dialog_negative">Cancel·la</string>
   <string name="guide_secure_dialog_positive">Optimitza</string>
   <string name="guide_secure_dialog_title">Optimització del rendiment</string>
+  <string name="guide_virus_dialog_message">L\' escaneig d\'aplicacions i de paquets d\'instal·lació protegeix el vostre dispositiu de virus i programari maliciós. Voleu escanejar-lo ara mateix?</string>
   <string name="guide_virus_dialog_negative">Cancel·la</string>
+  <string name="guide_virus_dialog_positive">Escaneja</string>
+  <string name="guide_virus_dialog_title">Escaneig antivirus</string>
   <string name="header_optimizer">En utilitzar aquesta funció, vostè està d\'acord amb %s.</string>
   <string name="hint_clean_select_items">S\'estan esborrant les duplicitats&#8230;</string>
   <string name="hints_ad_header_left">Fitxers de publicitat</string>
@@ -423,7 +426,9 @@
   <string name="text_optimizer">Pujar noms de carpeta</string>
   <string name="there_is_no">Tot pinta bé, torneu més tard</string>
   <string name="tips_low_storage_dialog_cancel">Cancel·la</string>
+  <string name="tips_low_storage_dialog_msg_qq">La mida de la memòria cau de QQ ja arriba als 3GB. Us podria alentir el vostre dispositiu. Voleu netejar-la ara?</string>
   <string name="tips_low_storage_dialog_msg_storage">"Utilitzeu el 90% del vostre espai d'emmagatzematge. Desinstal·leu aplicacions que no utilitzeu."</string>
+  <string name="tips_low_storage_dialog_msg_wechat">La mida de la memòria cau de WeChat ja arriba als 3GB. Us podria alentir el vostre dispositiu. Voleu netejar-la ara?</string>
   <string name="tips_low_storage_dialog_ok">Neteja</string>
   <string name="tips_low_storage_dialog_ok_storage">Allibera espai</string>
   <string name="tips_low_storage_dialog_title">L\'espai d\'emmagatzematge per execució és baix</string>
