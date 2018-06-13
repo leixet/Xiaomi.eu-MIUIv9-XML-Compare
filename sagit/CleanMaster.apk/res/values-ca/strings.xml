@@ -210,6 +210,7 @@
   <string name="go_to">Continua</string>
   <string name="goto_set">Aplica</string>
   <string name="grabage_rank_title">Netejat avui</string>
+  <string name="guide_secure_dialog_message">La valoració òptima del vostre dispositiu no arriba als 80 punts. Voleu optimitzar-lo ara?</string>
   <string name="guide_secure_dialog_negative">Cancel·la</string>
   <string name="guide_secure_dialog_positive">Optimitza</string>
   <string name="guide_secure_dialog_title">Optimització del rendiment</string>
